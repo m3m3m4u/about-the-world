@@ -1,0 +1,867 @@
+{
+  "presentation": {
+    "slides": [
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 6.455305615685532,
+            "width": 92.73743016759778,
+            "height": 50.77262693156732,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:3em;\"><strong>Oscar Wilde</strong></span></p>\n\n<p><strong><span style=\"font-size:1.5em;\">Information and exercises</span></strong></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "dff56334-2e6b-4f64-ab5f-fd72e6484f52"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 65.359477124183,
+            "y": 79.61543592678824,
+            "width": 28.32244008714597,
+            "height": 10.617643641308792,
+            "action": {
+              "library": "H5P.Shape 1.0",
+              "params": {
+                "shape": {
+                  "fillColor": "rgb(255, 255, 255)",
+                  "borderWidth": "2",
+                  "borderStyle": "solid",
+                  "borderColor": "rgb(0, 0, 0)",
+                  "borderRadius": "0"
+                },
+                "type": "rectangle",
+                "line": {
+                  "borderColor": "#000000",
+                  "borderWidth": "1",
+                  "borderStyle": "solid"
+                }
+              },
+              "subContentId": "3edf7327-b96a-474e-8779-cee27eb3f112",
+              "metadata": {
+                "contentType": "Shapes",
+                "defaultLanguage": "en",
+                "license": "U"
+              }
+            },
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false
+          },
+          {
+            "x": 67.53812636165577,
+            "y": 81.76720446535008,
+            "width": 22.875816993464053,
+            "height": 8.607074154247377,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p style=\"text-align:center;\"><span style=\"font-size:1.625em;\"><strong>VIDEO</strong></span></p>\n"
+              },
+              "subContentId": "fce1d368-0835-455c-9e36-adf6320b2149",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 65.35610021786493,
+            "y": 79.61543592678824,
+            "width": 28.32244008714597,
+            "height": 10.758842692809221,
+            "goToSlide": 2,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 0,
+            "y": 0,
+            "width": 100,
+            "height": 100,
+            "action": {
+              "library": "H5P.Video 1.6",
+              "params": {
+                "visuals": {
+                  "fit": true,
+                  "controls": true
+                },
+                "playback": {
+                  "autoplay": false,
+                  "loop": false
+                },
+                "l10n": {
+                  "name": "Video",
+                  "loading": "Video player loading...",
+                  "noPlayers": "Found no video players that supports the given video format.",
+                  "noSources": "Video is missing sources.",
+                  "aborted": "Media playback has been aborted.",
+                  "networkFailure": "Network failure.",
+                  "cannotDecode": "Unable to decode media.",
+                  "formatNotSupported": "Video format not supported.",
+                  "mediaEncrypted": "Media encrypted.",
+                  "unknownError": "Unknown error.",
+                  "invalidYtId": "Invalid YouTube ID.",
+                  "unknownYtId": "Unable to find video with the given YouTube ID.",
+                  "restrictedYt": "The owner of this video does not allow it to be embedded."
+                },
+                "sources": [
+                  {
+                    "path": "youtu.be/IDkgNR2GYlU",
+                    "mime": "video/unknown",
+                    "copyright": {
+                      "license": "U"
+                    }
+                  }
+                ]
+              },
+              "subContentId": "7578032f-80c7-44d1-b633-38578171e43c",
+              "metadata": {
+                "contentType": "Video",
+                "license": "U",
+                "title": "Unbenannt: Video",
+                "defaultLanguage": "en"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Drag the words into the correct boxes!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Check",
+                "submitAnswer": "Submit",
+                "tryAgain": "Retry",
+                "showSolution": "Show solution",
+                "dropZoneIndex": "Drop Zone @index.",
+                "empty": "Drop Zone @index is empty.",
+                "contains": "Drop Zone @index contains draggable @draggable.",
+                "ariaDraggableIndex": "@index of @count draggables.",
+                "tipLabel": "Show tip",
+                "correctText": "Correct!",
+                "incorrectText": "Incorrect!",
+                "resetDropTitle": "Reset drop",
+                "resetDropDescription": "Are you sure you want to reset this drop zone?",
+                "grabbed": "Draggable is grabbed.",
+                "cancelledDragging": "Cancelled dragging.",
+                "correctAnswer": "Correct answer:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "You got :num out of :total points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Brilliant* - very intelligent or talented\n*Witty* - showing quick and clever humor\n*Satirical* - mocking or ridiculing society or individuals\n*Flamboyant* - very noticeable, extravagant in style",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Terms 1",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "4a94ce62-c440-4215-bc76-32408bcec41d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Important Terms (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "e773caca-acd3-4ee8-9ed2-b80b588d3a60"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Drag the words into the correct boxes!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Check",
+                "submitAnswer": "Submit",
+                "tryAgain": "Retry",
+                "showSolution": "Show solution",
+                "dropZoneIndex": "Drop Zone @index.",
+                "empty": "Drop Zone @index is empty.",
+                "contains": "Drop Zone @index contains draggable @draggable.",
+                "ariaDraggableIndex": "@index of @count draggables.",
+                "tipLabel": "Show tip",
+                "correctText": "Correct!",
+                "incorrectText": "Incorrect!",
+                "resetDropTitle": "Reset drop",
+                "resetDropDescription": "Are you sure you want to reset this drop zone?",
+                "grabbed": "Draggable is grabbed.",
+                "cancelledDragging": "Cancelled dragging.",
+                "correctAnswer": "Correct answer:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "You got :num out of :total points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Convicted* - found guilty of a crime\n*Imprisonment* - being kept in prison\n*Obscurity* - the state of being unknown\n*Legacy* - something handed down from the past",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Terms 1",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "b74a36f9-2aa3-417a-814c-50e58208f7b3"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Important Terms (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "be59e194-86c9-4928-9194-f6e496790bc1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Complete the sentences!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Check",
+                "submitAnswer": "Submit",
+                "tryAgain": "Retry",
+                "showSolution": "Show solution",
+                "dropZoneIndex": "Drop Zone @index.",
+                "empty": "Drop Zone @index is empty.",
+                "contains": "Drop Zone @index contains draggable @draggable.",
+                "ariaDraggableIndex": "@index of @count draggables.",
+                "tipLabel": "Show tip",
+                "correctText": "Correct!",
+                "incorrectText": "Incorrect!",
+                "resetDropTitle": "Reset drop",
+                "resetDropDescription": "Are you sure you want to reset this drop zone?",
+                "grabbed": "Draggable is grabbed.",
+                "cancelledDragging": "Cancelled dragging.",
+                "correctAnswer": "Correct answer:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "You got :num out of :total points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Oscar Wilde ...* - ... was born in 1854 in Dublin.\n*He became famous ...* - ... for his witty plays and poems.\n*Wilde was a brilliant student ...* - ... at Trinity College Dublin.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Sentences 1",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "fc5741fc-cbfd-45c8-9433-cf39572a4b81"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Complete Sentences (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "ecb45d14-3fe2-4a02-ab8f-6c03ba60ef4c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Complete the sentences!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Check",
+                "submitAnswer": "Submit",
+                "tryAgain": "Retry",
+                "showSolution": "Show solution",
+                "dropZoneIndex": "Drop Zone @index.",
+                "empty": "Drop Zone @index is empty.",
+                "contains": "Drop Zone @index contains draggable @draggable.",
+                "ariaDraggableIndex": "@index of @count draggables.",
+                "tipLabel": "Show tip",
+                "correctText": "Correct!",
+                "incorrectText": "Incorrect!",
+                "resetDropTitle": "Reset drop",
+                "resetDropDescription": "Are you sure you want to reset this drop zone?",
+                "grabbed": "Draggable is grabbed.",
+                "cancelledDragging": "Cancelled dragging.",
+                "correctAnswer": "Correct answer:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "You got :num out of :total points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*He had a close relationship ...* - ... with his family and children.\n*Wilde&#039;s works are known ...* - ... for their clever and satirical humor.\n*He moved to France ...* - ... after his release from prison.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Sentences 1",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "a8bdf3b3-dac7-40e5-bdfd-f199401a2c3e"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Complete Sentences (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "1351cab9-7952-442e-bc32-7d4a3895ab3d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>True or false?</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "3f4bfb9e-6eb5-4097-abf6-f0c1308dfc3f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.2346368715083798,
+            "y": 11.69916114790287,
+            "width": 95.41899441340783,
+            "height": 88.30022075055187,
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>Choose the correct statement!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Progress:",
+                "scoreLabel": "Wrong answers:",
+                "resultLabel": "Your result",
+                "labelCorrect": "Correct.",
+                "labelIncorrect": "Incorrect! Please try again.",
+                "alternativeIncorrectLabel": "Incorrect",
+                "labelCorrectAnswers": "Correct answers.",
+                "tipButtonLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "progressText": "Progress :num of :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "Oscar Wilde was born in Dublin, Ireland.",
+                      "Wilde was born in London, England."
+                    ],
+                    "subContentId": "f39e40a0-3122-4fbf-857f-594ec697ee36",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "He wrote The Importance of Being Earnest.",
+                      "His plays are rarely performed today."
+                    ],
+                    "subContentId": "4475dadd-cfc8-4278-8836-39661284e2d4",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Wilde moved to London for his career.",
+                      "He never married or had children."
+                    ],
+                    "subContentId": "9c5e5c67-21fc-4c0e-8df9-d1af507e5d5c",
+                    "tip": ""
+                  }
+                ]
+              },
+              "subContentId": "6207504c-ae8f-4a09-b236-0a5b6cd442ec",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "True or false?",
+                "defaultLanguage": "en"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Questions</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "303d8e49-9df8-4ebb-bb74-21e0f7344e25"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.346368715083799,
+            "y": 15.673289183222957,
+            "width": 92.40223463687151,
+            "height": 58.27814569536424,
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": false,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Next question",
+                  "showSolutionButtonLabel": "Show solution",
+                  "retryButtonLabel": "Retry",
+                  "solutionViewTitle": "Solution list",
+                  "correctText": "Correct!",
+                  "incorrectText": "Incorrect!",
+                  "muteButtonLabel": "Mute feedback sound",
+                  "closeButtonLabel": "Close",
+                  "slideOfTotal": "Slide :num of :total",
+                  "scoreBarLabel": "You got :num out of :total points",
+                  "solutionListQuestionNumber": "Question :num",
+                  "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                  "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                  "shouldSelect": "Should have been selected",
+                  "shouldNotSelect": "Should not have been selected"
+                },
+                "choices": [
+                  {
+                    "question": "Where was Oscar Wilde born?",
+                    "answers": [
+                      "Dublin, Ireland",
+                      "London, England",
+                      "Paris, France"
+                    ],
+                    "subContentId": "d516847d-5ead-4bf2-8035-bb8dfdb7525d"
+                  },
+                  {
+                    "question": "What is one of Wilde’s famous plays?",
+                    "answers": [
+                      "The Importance of Being Earnest",
+                      "Hamlet",
+                      "Macbeth"
+                    ],
+                    "subContentId": "36dc9b62-bcf0-45db-8d08-0ca650741e82"
+                  },
+                  {
+                    "question": "Where did Wilde pursue his career?",
+                    "answers": [
+                      "London",
+                      "Dublin",
+                      "Paris"
+                    ],
+                    "subContentId": "771df9b4-ceca-4108-bf07-c357d3ebb854"
+                  },
+                  {
+                    "question": "Who was Wilde’s wife?",
+                    "answers": [
+                      "Constance Lloyd",
+                      "Victoria James",
+                      "Mary Wilde"
+                    ],
+                    "subContentId": "18cce578-a27d-4f7c-827e-7432c988aa3b"
+                  },
+                  {
+                    "question": "What is a common theme in Wilde's works?",
+                    "answers": [
+                      "Social issues",
+                      "Fantasy worlds",
+                      "Science fiction"
+                    ],
+                    "subContentId": "dbca9999-9536-4062-91bb-4396140e3144"
+                  },
+                  {
+                    "question": "Where did Wilde move after prison?",
+                    "answers": [
+                      "France",
+                      "Italy",
+                      "Spain"
+                    ],
+                    "subContentId": "620f12cb-0a5e-4a5f-adca-5a17a39791eb"
+                  }
+                ]
+              },
+              "subContentId": "dc6b82f1-4264-4137-8683-db0b27e41a00",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Fragen",
+                "defaultLanguage": "en"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      }
+    ],
+    "keywordListEnabled": true,
+    "globalBackgroundSelector": {},
+    "keywordListAlwaysShow": false,
+    "keywordListAutoHide": false,
+    "keywordListOpacity": 90
+  },
+  "override": {
+    "activeSurface": false,
+    "hideSummarySlide": false,
+    "summarySlideSolutionButton": false,
+    "summarySlideRetryButton": false,
+    "enablePrintButton": false,
+    "social": {
+      "showFacebookShare": false,
+      "facebookShare": {
+        "url": "@currentpageurl",
+        "quote": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht."
+      },
+      "showTwitterShare": false,
+      "twitterShare": {
+        "statement": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht.",
+        "url": "@currentpageurl",
+        "hashtags": "h5p, Kurs"
+      },
+      "showGoogleShare": false,
+      "googleShareUrl": "@currentpageurl"
+    }
+  },
+  "l10n": {
+    "slide": "Slide",
+    "score": "Score",
+    "yourScore": "Your Score",
+    "maxScore": "Max Score",
+    "total": "Total",
+    "totalScore": "Total Score",
+    "showSolutions": "Show solutions",
+    "retry": "Retry",
+    "exportAnswers": "Export text",
+    "hideKeywords": "Hide sidebar navigation menu",
+    "showKeywords": "Show sidebar navigation menu",
+    "fullscreen": "Fullscreen",
+    "exitFullscreen": "Exit fullscreen",
+    "prevSlide": "Previous slide",
+    "nextSlide": "Next slide",
+    "currentSlide": "Current slide",
+    "lastSlide": "Last slide",
+    "solutionModeTitle": "Exit solution mode",
+    "solutionModeText": "Solution Mode",
+    "summaryMultipleTaskText": "Multiple tasks",
+    "scoreMessage": "You achieved:",
+    "shareFacebook": "Share on Facebook",
+    "shareTwitter": "Share on Twitter",
+    "shareGoogle": "Share on Google+",
+    "summary": "Summary",
+    "solutionsButtonTitle": "Show comments",
+    "printTitle": "Print",
+    "printIngress": "How would you like to print this presentation?",
+    "printAllSlides": "Print all slides",
+    "printCurrentSlide": "Print current slide",
+    "noTitle": "No title",
+    "accessibilitySlideNavigationExplanation": "Use left and right arrow to change slide in that direction whenever canvas is selected.",
+    "accessibilityCanvasLabel": "Presentation canvas. Use left and right arrow to move between slides.",
+    "containsNotCompleted": "@slideName contains not completed interaction",
+    "containsCompleted": "@slideName contains completed interaction",
+    "slideCount": "Slide @index of @total",
+    "containsOnlyCorrect": "@slideName only has correct answers",
+    "containsIncorrectAnswers": "@slideName has incorrect answers",
+    "shareResult": "Share Result",
+    "accessibilityTotalScore": "You got @score of @maxScore points in total",
+    "accessibilityEnteredFullscreen": "Entered fullscreen",
+    "accessibilityExitedFullscreen": "Exited fullscreen",
+    "confirmDialogHeader": "Submit your answers",
+    "confirmDialogText": "This will submit your results, do you want to continue?",
+    "confirmDialogConfirmText": "Submit and see results",
+    "accessibilityProgressBarLabel": "Choose slide to display",
+    "slideshowNavigationLabel": "Slideshow navigation"
+  }
+}

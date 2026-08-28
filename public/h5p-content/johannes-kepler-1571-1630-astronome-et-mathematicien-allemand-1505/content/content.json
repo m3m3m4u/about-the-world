@@ -1,0 +1,917 @@
+{
+  "presentation": {
+    "slides": [
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 6.455305615685532,
+            "width": 92.73551198257081,
+            "height": 77.46366738822638,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:3em;\"><strong>Johannes Kepler (1571-1630) - Astronome et mathématicien allemand</strong></span></p>\n\n<p><strong><span style=\"font-size:1.5em;\">INFORMATIONS UND EXERCISES</span></strong></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "dff56334-2e6b-4f64-ab5f-fd72e6484f52"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2331154684095864,
+            "y": 4.414482262971937,
+            "width": 87.14596949891067,
+            "height": 8.82225100810356,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texte d'information (partie 1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "5627dc6e-c943-439e-ab4a-4531b7f24264"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582783,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Jeunesse de Johannes Kepler</strong><br>\nJohannes Kepler est né le 27 décembre 1571 dans la ville libre impériale de Weil der Stadt. Son père était un soldat mercenaire et sa mère, la fille d'un aubergiste. La famille de Kepler n'était pas riche, et il a eu une enfance difficile. Malgré des problèmes de santé et financiers, Kepler a montré un talent exceptionnel pour les mathématiques et l'astronomie. Il a obtenu une bourse pour étudier à l'Université de Tübingen, où il devait étudier la théologie.</p>\n\n<p><strong>Éducation et enseignement astronomique</strong><br>\nÀ l'Université de Tübingen, Kepler a étudié l'astronomie et s'est distingué en tant qu'étudiant exceptionnel. Il a découvert la théorie héliocentrique de Copernic, selon laquelle le soleil et non la Terre est au centre de l'univers. Bien que cette théorie ait été en contradiction avec l'enseignement de l'Église à l'époque, elle a profondément impressionné Kepler et a influencé son travail ultérieur.</p>\n\n<p><strong>Activité d'enseignement de Kepler</strong><br>\nAprès avoir obtenu son diplôme, Kepler a commencé à enseigner les mathématiques et l'astronomie à Graz. À cette époque, il a commencé à étudier les mouvements des planètes, espérant trouver un schéma harmonieux dans leurs orbites qui démontrerait la beauté de l'ordre divin de l'univers. Il a publié ses premières œuvres majeures à cette époque.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "53bc5361-5ce5-43a9-a00f-57bbceee9cd0"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2331154684095864,
+            "y": 4.414482262971937,
+            "width": 76.25272331154684,
+            "height": 8.825607767023717,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texte d'information (partie 2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "55aaf4d3-f7e3-4a3e-9196-01a6f7474f94"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Le Mysterium Cosmographicum</strong><br>\nEn 1596, Kepler a publié son premier ouvrage majeur, le \"Mysterium Cosmographicum\". Dans ce livre, il plaidait en faveur du système héliocentrique et tentait d'expliquer les distances entre les planètes et le soleil à l'aide de figures géométriques. Il avançait l'hypothèse que les orbites des planètes autour du soleil étaient déterminées par les cinq solides de Platon.</p>\n\n<p><strong>Déménagement à Prague</strong><br>\nLe travail de Kepler a attiré l'attention du célèbre astronome Tycho Brahe, qui l'a invité à devenir son assistant à Prague. Lorsque Brahe est décédé en 1601, Kepler lui a succédé en tant que mathématicien impérial. À Prague, Kepler avait accès aux vastes données astronomiques de Brahe, ce qui a considérablement fait progresser sa recherche.</p>\n\n<p><strong>Lois du mouvement des planètes de Kepler</strong><br>\nPendant son séjour à Prague, Kepler a formulé les trois lois du mouvement des planètes. La première loi stipule que les planètes orbitent autour du soleil selon des ellipses. La deuxième loi explique qu'elles ont des vitesses différentes, et la troisième loi établit une relation entre le temps orbital et la distance au soleil. Ces lois ont profondément modifié la compréhension de l'univers.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "3b13867b-feab-4e2e-bfa2-fcc82e4dbff1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2331154684095864,
+            "y": 4.414482262971937,
+            "width": 71.89542483660131,
+            "height": 8.825607767023717,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texte d'information (partie 3)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "4381b60d-c67f-4722-b83d-b17f2fc9d01c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 12.910611231371064,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Conflits et défis</strong><br>\nLa vie de Kepler n'était pas exempte de conflits. Il a vécu à une époque de troubles religieux et d'Inquisition. Sa mère a été accusée de sorcellerie, et il a dû revenir pour la défendre. Kepler lui-même était souvent en conflit avec les autorités ecclésiastiques et étatiques en raison de ses convictions et méthodes scientifiques.</p>\n\n<p><strong>Dernières années et héritage</strong><br>\nDans ses dernières années, Kepler a déménagé plusieurs fois pour occuper différents postes dans les cours européennes et échapper à la persécution religieuse. Il a publié d'autres œuvres importantes expliquant et appliquant ses lois. Les découvertes de Kepler ont eu une influence durable et ont posé les bases des théories de la gravité d'Isaac Newton.</p>\n\n<p><strong>Mort et influence durable</strong><br>\nJohannes Kepler est décédé le 15 novembre 1630 à Ratisbonne. Il a laissé un héritage qui a durablement marqué l'astronomie et les sciences naturelles. Ses lois ont permis aux générations ultérieures de scientifiques de calculer avec une grande précision les mouvements dans le système solaire, contribuant considérablement aux progrès en astronomie et dans d'autres sciences naturelles.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "3d655444-fd55-42f7-aba2-16a16db7dc58"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Faites glisser les mots dans les bonnes cases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Vérifier",
+                "tryAgain": "Recommencer",
+                "showSolution": "Voir la correction",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient un élément déplaçable @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments déplaçables.",
+                "tipLabel": "Montrer l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Reparamétrer le déplacement",
+                "resetDropDescription": "Etes-vous certain de vouloir reparamétrer cet élément déplaçable ?",
+                "grabbed": "L&#039;élément déplaçable est saisi.",
+                "cancelledDragging": "Annuler le déplacement.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaire de retour",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Afficher la solution. La tâche sera notée avec sa solution correcte.",
+                "a11yRetry": "Réessayer la tâche. Réinitialiser toutes les réponses et recommencer la tâche.",
+                "textField": "*Weil der Stadt* - lieu de naissance de Johannes Kepler\n*Théologie* - domaine d&#039;études initiales de Kepler à l&#039;Université de Tübingen\n*Héliocentrique* - théorie de l&#039;univers avec le soleil au centre\n*Mysterium Cosmographicum* - premier ouvrage majeur de Kepler\n*Solides de Platon* - hypothèse de Kepler sur les orbites planétaires",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Termes importants (1)",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "4a94ce62-c440-4215-bc76-32408bcec41d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termes importants (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "e773caca-acd3-4ee8-9ed2-b80b588d3a60"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Faites glisser les mots dans les bonnes cases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Vérifier",
+                "tryAgain": "Recommencer",
+                "showSolution": "Voir la correction",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient un élément déplaçable @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments déplaçables.",
+                "tipLabel": "Montrer l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Reparamétrer le déplacement",
+                "resetDropDescription": "Etes-vous certain de vouloir reparamétrer cet élément déplaçable ?",
+                "grabbed": "L&#039;élément déplaçable est saisi.",
+                "cancelledDragging": "Annuler le déplacement.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaire de retour",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Afficher la solution. La tâche sera notée avec sa solution correcte.",
+                "a11yRetry": "Réessayer la tâche. Réinitialiser toutes les réponses et recommencer la tâche.",
+                "textField": "*Mathématicien impérial* - titre de Kepler à Prague\n*Ellipses* - forme des orbites planétaires selon la première loi de Kepler\n*Sorcellerie* - accusation portée contre la mère de Kepler\n*Gravité* - concept fondamental basé sur les lois de Kepler",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Termes importants (1)",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "b74a36f9-2aa3-417a-814c-50e58208f7b3"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termes importants (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "be59e194-86c9-4928-9194-f6e496790bc1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Complète les phrases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Vérifier",
+                "tryAgain": "Recommencer",
+                "showSolution": "Voir la correction",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient un élément déplaçable @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments déplaçables.",
+                "tipLabel": "Montrer l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Reparamétrer le déplacement",
+                "resetDropDescription": "Etes-vous certain de vouloir reparamétrer cet élément déplaçable ?",
+                "grabbed": "L&#039;élément déplaçable est saisi.",
+                "cancelledDragging": "Annuler le déplacement.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaire de retour",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Afficher la solution. La tâche sera notée avec sa solution correcte.",
+                "a11yRetry": "Réessayer la tâche. Réinitialiser toutes les réponses et recommencer la tâche.",
+                "textField": "*Kepler est né dans ...* - ... la ville de Weil der Stadt.\n*À Tübingen, Kepler découvre ...* - ... la théorie héliocentrique.\n*Il publie le &quot;Mysterium Cosmographicum&quot; ...* - ... en 1596.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Compléter des phrases (1)",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "fc5741fc-cbfd-45c8-9433-cf39572a4b81"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Compléter des phrases (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "ecb45d14-3fe2-4a02-ab8f-6c03ba60ef4c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Complète les phrases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Vérifier",
+                "tryAgain": "Recommencer",
+                "showSolution": "Voir la correction",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient un élément déplaçable @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments déplaçables.",
+                "tipLabel": "Montrer l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Reparamétrer le déplacement",
+                "resetDropDescription": "Etes-vous certain de vouloir reparamétrer cet élément déplaçable ?",
+                "grabbed": "L&#039;élément déplaçable est saisi.",
+                "cancelledDragging": "Annuler le déplacement.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaire de retour",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Afficher la solution. La tâche sera notée avec sa solution correcte.",
+                "a11yRetry": "Réessayer la tâche. Réinitialiser toutes les réponses et recommencer la tâche.",
+                "textField": "*Kepler devient assistant ...* - ... de Tycho Brahe à Prague.\n*Ses lois révolutionnent ...* - ... la compréhension de l&#039;univers.\n*La mère de Kepler est accusée ...* - ... de sorcellerie.\n*Ses travaux influencent ...* - ... la théorie de la gravité.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Compléter des phrases (2)",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "a8bdf3b3-dac7-40e5-bdfd-f199401a2c3e"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Compléter des phrases (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "1351cab9-7952-442e-bc32-7d4a3895ab3d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Vrai ou faux ?</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "3f4bfb9e-6eb5-4097-abf6-f0c1308dfc3f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 11.619550108233957,
+            "width": 95.41899441340783,
+            "height": 88.30022075055187,
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>Choisis l'affirmation correcte !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Progression :",
+                "scoreLabel": "Erreurs :",
+                "resultLabel": "Votre résultat :",
+                "labelCorrect": "Correct.",
+                "labelIncorrect": "Incorrect! Please try again.",
+                "alternativeIncorrectLabel": "Incorrect",
+                "labelCorrectAnswers": "Réponses correctes.",
+                "tipButtonLabel": "Montrer l&#039;indice",
+                "scoreBarLabel": "Vous avez :num points sur un total de :total",
+                "progressText": "Progression de :num sur :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "Kepler a étudié la théologie à l'Université de Tübingen.",
+                      "Kepler a été accusé de sorcellerie."
+                    ],
+                    "subContentId": "e6160c2b-ea5d-4c6e-87bd-1b138287ab03",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Il a enseigné les mathématiques et l'astronomie à Graz.",
+                      "Il a travaillé avec Galilée à Prague."
+                    ],
+                    "subContentId": "b0cceddf-7234-43b4-8d33-c7f118dcbf0a",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Son \"Mysterium Cosmographicum\" soutient le système héliocentrique.",
+                      "Sa première loi dit que les planètes orbitent en cercle."
+                    ],
+                    "subContentId": "c4a22e3a-6fac-4401-beb0-48b733db19a3",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Kepler a formulé trois lois du mouvement des planètes.",
+                      "Il a rejeté la théorie héliocentrique de Copernic."
+                    ],
+                    "subContentId": "693969ff-6cc4-4a9f-8cea-fae8312699b5",
+                    "tip": ""
+                  }
+                ]
+              },
+              "subContentId": "6207504c-ae8f-4a09-b236-0a5b6cd442ec",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "Vrai ou faux ?",
+                "defaultLanguage": "fr"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Questions</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "303d8e49-9df8-4ebb-bb74-21e0f7344e25"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 92.40223463687151,
+            "height": 58.27814569536424,
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": false,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Question suivante",
+                  "showSolutionButtonLabel": "Voir la solution",
+                  "retryButtonLabel": "Correction",
+                  "solutionViewTitle": "Recommencer",
+                  "correctText": "Correct !",
+                  "incorrectText": "Incorrect !",
+                  "muteButtonLabel": "Couper les retours sons",
+                  "closeButtonLabel": "Fermer",
+                  "slideOfTotal": "Diapositive :num sur :total",
+                  "scoreBarLabel": "Vous avez :num points sur un total de :total",
+                  "solutionListQuestionNumber": "Question :num",
+                  "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                  "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                  "shouldSelect": "Should have been selected",
+                  "shouldNotSelect": "Should not have been selected"
+                },
+                "choices": [
+                  {
+                    "question": "Quel est le lieu de naissance de Kepler?",
+                    "answers": [
+                      "Weil der Stadt",
+                      "Tübingen",
+                      "Prague",
+                      "Graz"
+                    ],
+                    "subContentId": "fb37a8a4-ce99-4abd-8c00-73ff2ffa38e6"
+                  },
+                  {
+                    "question": "Quelle théorie Kepler a-t-il étudiée à l'université?",
+                    "answers": [
+                      "Héliocentrique",
+                      "Géocentrique",
+                      "Atomique",
+                      "Relativiste"
+                    ],
+                    "subContentId": "25ee5f43-9022-4fa5-9891-6ff64c7e5cff"
+                  },
+                  {
+                    "question": "Quel était le titre de Kepler à Prague?",
+                    "answers": [
+                      "Mathématicien impérial",
+                      "Astronome royal",
+                      "Professeur",
+                      "Chercheur"
+                    ],
+                    "subContentId": "1707b123-6938-4670-805b-c85934c8bc99"
+                  },
+                  {
+                    "question": "Quelle est la forme des orbites planétaires selon Kepler?",
+                    "answers": [
+                      "Ellipses",
+                      "Cercles",
+                      "Spirales",
+                      "Rectangles"
+                    ],
+                    "subContentId": "4f76d92c-0011-41df-b46b-cc53bc9a5127"
+                  },
+                  {
+                    "question": "Quelle accusation a été portée contre la mère de Kepler?",
+                    "answers": [
+                      "Sorcellerie",
+                      "Hérésie",
+                      "Vol",
+                      "Imposture"
+                    ],
+                    "subContentId": "e2a010e2-d312-4ed7-935f-bf4f3a936433"
+                  },
+                  {
+                    "question": "Quel concept scientifique a été influencé par les lois de Kepler?",
+                    "answers": [
+                      "Gravité",
+                      "Électricité",
+                      "Chimie",
+                      "Biologie"
+                    ],
+                    "subContentId": "89233ecb-23d5-4656-baf5-3ef66a67d04b"
+                  }
+                ]
+              },
+              "subContentId": "dc6b82f1-4264-4137-8683-db0b27e41a00",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Questions",
+                "defaultLanguage": "fr"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      }
+    ],
+    "keywordListEnabled": true,
+    "globalBackgroundSelector": {},
+    "keywordListAlwaysShow": false,
+    "keywordListAutoHide": false,
+    "keywordListOpacity": 90
+  },
+  "override": {
+    "activeSurface": false,
+    "hideSummarySlide": false,
+    "summarySlideSolutionButton": true,
+    "summarySlideRetryButton": true,
+    "enablePrintButton": false,
+    "social": {
+      "showFacebookShare": false,
+      "facebookShare": {
+        "url": "@currentpageurl",
+        "quote": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht."
+      },
+      "showTwitterShare": false,
+      "twitterShare": {
+        "statement": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht.",
+        "url": "@currentpageurl",
+        "hashtags": "h5p, Kurs"
+      },
+      "showGoogleShare": false,
+      "googleShareUrl": "@currentpageurl"
+    }
+  },
+  "l10n": {
+    "slide": "Diapositive",
+    "score": "Score",
+    "yourScore": "Votre score",
+    "maxScore": "Score maximum",
+    "total": "Total",
+    "totalScore": "Score total",
+    "showSolutions": "Voir la correction",
+    "retry": "Recommencer",
+    "exportAnswers": "Exporter",
+    "hideKeywords": "Cacher la liste des mots-clés",
+    "showKeywords": "Afficher la liste des mots-clés",
+    "fullscreen": "Plein écran",
+    "exitFullscreen": "Quitter le plein écran",
+    "prevSlide": "Diapositive précédente",
+    "nextSlide": "Diapositive suivante",
+    "currentSlide": "Diapositive courante",
+    "lastSlide": "Dernière diapositive",
+    "solutionModeTitle": "Sortir du mode &quot;Correction&quot;",
+    "solutionModeText": "Passer en mode &quot;correction&quot;",
+    "summaryMultipleTaskText": "Activités multiples",
+    "scoreMessage": "Votre score :",
+    "shareFacebook": "Partager sur Facebook",
+    "shareTwitter": "Partager sur Twitter",
+    "shareGoogle": "Partager sur Google+",
+    "summary": "Résumé",
+    "solutionsButtonTitle": "Afficher les commentaires",
+    "printTitle": "Imprimer",
+    "printIngress": "Comment souhaitez-vous imprimer cette présentation ?",
+    "printAllSlides": "Imprimer toutes les diapositives",
+    "printCurrentSlide": "Imprimer la diapositive courante",
+    "noTitle": "Sans intitulé",
+    "accessibilitySlideNavigationExplanation": "Utilisez les flèches gauche et droite pour pour naviguer entre les diapositives",
+    "accessibilityCanvasLabel": "Zone de présentation. Utilisez les flèches gauche et droite pour naviguer entre les diapositives.",
+    "containsNotCompleted": "@slideName contient des interactions incomplètes",
+    "containsCompleted": "@slideName ccontient des interactions complètes",
+    "slideCount": "Diapositive a @index de @total",
+    "containsOnlyCorrect": "toutes les réponses sont bonnes sur @slideName",
+    "containsIncorrectAnswers": "@slideName contient des réponses incorrectes",
+    "shareResult": "Partager le résultat",
+    "accessibilityTotalScore": "Vous avez obtenu @score sur @maxScore points au total",
+    "accessibilityEnteredFullscreen": "Mode plein-écran activé",
+    "accessibilityExitedFullscreen": "Mode plein-écran désactivé",
+    "confirmDialogHeader": "Envoyer vos réponses",
+    "confirmDialogText": "Cette action va envoyer vos réponses, voulez-vous continuer?",
+    "confirmDialogConfirmText": "Envoyer et voir les résultats",
+    "accessibilityProgressBarLabel": "Choose slide to display",
+    "slideshowNavigationLabel": "Slideshow navigation"
+  }
+}

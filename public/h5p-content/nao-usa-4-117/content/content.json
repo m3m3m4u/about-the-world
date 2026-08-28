@@ -1,0 +1,978 @@
+{
+  "presentation": {
+    "slides": [
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 6.622516556291391,
+            "width": 92.73743016759778,
+            "height": 50.77262693156732,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:3em;\"><strong>Gli Stati Uniti e il conflitto israelo-palestinese</strong></span></p>\n\n<p><strong><span style=\"font-size:1.5em;\">Informazioni ed esercitazioni</span></strong></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "dff56334-2e6b-4f64-ab5f-fd72e6484f52"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 0,
+            "y": 0,
+            "width": 100,
+            "height": 99.99999999999999,
+            "action": {
+              "library": "H5P.Video 1.6",
+              "params": {
+                "visuals": {
+                  "fit": true,
+                  "controls": true
+                },
+                "playback": {
+                  "autoplay": false,
+                  "loop": false
+                },
+                "l10n": {
+                  "name": "Video",
+                  "loading": "Video player in caricamento...",
+                  "noPlayers": "Impossibile trovare dei video player che supportino quel formato video",
+                  "noSources": "Mancano i sorgenti del video",
+                  "aborted": "La riproduzione multimediale è stata interrotta",
+                  "networkFailure": "Errore di rete",
+                  "cannotDecode": "Impossibile decodificare il supporto",
+                  "formatNotSupported": "Formato video non supportato",
+                  "mediaEncrypted": "Media criptato",
+                  "unknownError": "Errore sconosciuto",
+                  "invalidYtId": "ID YouTube non valido",
+                  "unknownYtId": "Impossibile trovare un video con quell&#039;ID YouTube",
+                  "restrictedYt": "Il proprietario di questo video non ne permette l&#039;incorporazione"
+                },
+                "sources": [
+                  {
+                    "path": "https://youtu.be/z07whg6Uk2w",
+                    "mime": "video/YouTube",
+                    "copyright": {
+                      "license": "U"
+                    }
+                  }
+                ]
+              },
+              "subContentId": "11b25549-8d32-4f04-b993-101b4044330d",
+              "metadata": {
+                "contentType": "Video",
+                "license": "U",
+                "title": "Unbenannt: Video"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2331154684095864,
+            "y": 4.414482262971937,
+            "width": 54.46623093681917,
+            "height": 8.825607767023717,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Testo informativo (Parte 1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "5627dc6e-c943-439e-ab4a-4531b7f24264"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 12.910611231371064,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Contesto storico</strong><br>\nIl conflitto israelo-palestinese ha le sue radici alla fine del 1800 e all'inizio del 1900, quando coloni ebrei iniziarono a trasferirsi nella zona allora controllata dall'Impero Ottomano e successivamente dal Regno Unito, conosciuta come Palestina. Dopo la Seconda Guerra Mondiale e l'Olocausto, il sostegno per uno stato ebraico crebbe e nel 1947 l'ONU adottò una risoluzione per dividere la Palestina in uno stato ebraico e uno stato arabo. La guerra successiva del 1948 portò alla fondazione dello stato di Israele.</p>\n\n<p><strong>Supporto degli Stati Uniti per Israele</strong><br>\nGli Stati Uniti hanno sostenuto Israele sin dalla sua fondazione. Questo sostegno include aiuti militari, assistenza economica e supporto diplomatico in forum internazionali. Gli Stati Uniti vedono Israele come un alleato strategico nel Medio Oriente, che rappresenta gli interessi occidentali in una regione instabile. Il sostegno è anche attribuibile alla forte lobby ebraica negli Stati Uniti e ai valori democratici condivisi.</p>\n\n<p><strong>Critiche al supporto degli Stati Uniti per Israele</strong><br>\nCi sono critiche sul modo in cui gli Stati Uniti sostengono Israele, in particolare riguardo al conflitto con i palestinesi. I critici sostengono che l'ampio sostegno militare degli Stati Uniti per Israele acuisce il conflitto e riduce le possibilità di una soluzione pacifica. Essi evidenziano anche violazioni dei diritti umani da parte delle forze armate israeliane.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "53bc5361-5ce5-43a9-a00f-57bbceee9cd0"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Testo informativo (Parte 2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "55aaf4d3-f7e3-4a3e-9196-01a6f7474f94"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Il ruolo degli Stati Uniti come mediatori</strong><br>\nGli Stati Uniti hanno spesso tentato di agire come mediatori nel conflitto israelo-palestinese. Hanno lanciato diverse iniziative di pace e supportato negoziati tra le due parti. Tuttavia, questi sforzi hanno spesso avuto poco successo, in parte a causa della sfiducia che alcuni palestinesi e altri arabi nutrono verso gli Stati Uniti come mediatori imparziali.</p>\n\n<p><strong>Gli accordi di Oslo</strong><br>\nSotto la mediazione statunitense, Israele e l'OLP raggiunsero gli accordi di Oslo nel 1993, che prevedevano l'autonomia per i palestinesi e l'inizio di un processo di pace. Sebbene questi accordi fossero visti come un passo nella giusta direzione, molti dei punti centrali del conflitto rimangono irrisolti.</p>\n\n<p><strong>Reazione degli Stati Uniti alla Hamas</strong><br>\nGli Stati Uniti considerano la Hamas, un'organizzazione politica e militare palestinese, come un gruppo terroristico. Il loro rapporto con la Hamas ha complicato gli sforzi di mediazione statunitensi, dato che la Hamas gioca un ruolo importante nella politica palestinese.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "3b13867b-feab-4e2e-bfa2-fcc82e4dbff1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Testo informativo (Parte 3)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "4381b60d-c67f-4722-b83d-b17f2fc9d01c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Opinione pubblica americana</strong><br>\nL'opinione pubblica negli Stati Uniti è divisa sul conflitto israelo-palestinese. Mentre molti americani sostengono Israele, c'è anche una crescente simpatia per la causa palestinese, in particolare tra i giovani americani e i progressisti politici.</p>\n\n<p><strong>Impatto sulla politica estera statunitense</strong><br>\nIl conflitto israelo-palestinese ha ampie ripercussioni sulla politica estera degli Stati Uniti nel Medio Oriente. Esso influenza le relazioni degli Stati Uniti con altri paesi della regione e contribuisce alla complessità della dinamica geopolitica.</p>\n\n<p><strong>Sforzi futuri</strong><br>\nResta da vedere come gli Stati Uniti modelleranno il loro ruolo nel conflitto israelo-palestinese in futuro. C'è speranza che un rinnovato focus sulla diplomazia e una soluzione equa per entrambe le parti possano portare a una risoluzione duratura del conflitto.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "3d655444-fd55-42f7-aba2-16a16db7dc58"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Trascina le parole nelle caselle corrette!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Submit",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra soluzione",
+                "dropZoneIndex": "Zona di rilascio @index",
+                "empty": "Zona di rilascio @index è vuota",
+                "contains": "La zona di rilascio @index contiene @draggable trascinabile",
+                "ariaDraggableIndex": "@index di @count trascinabili",
+                "tipLabel": "Mostra suggerimento",
+                "correctText": "Giusto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Resetta elemento trascinabile",
+                "resetDropDescription": "Sei sicuro di voler resettare questo elemento trascinabile?",
+                "grabbed": "L&#039;elemento trascinabile è stato afferrato",
+                "cancelledDragging": "Trascinamento cancellato",
+                "correctAnswer": "Risposta giusta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Mediatore* - terza parte che tenta di facilitare un accordo tra due parti in conflitto\n*Lobby ebraica* - gruppo influente negli Stati Uniti che sostiene Israele\n*Hamas* - organizzazione politica e militare palestinese considerata terrorista dagli Stati Uniti\n*Geopolitica* - studio delle influenze geografiche sulla politica e sulle relazioni internazionali",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Termini importanti (1)",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "4a94ce62-c440-4215-bc76-32408bcec41d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termini importanti (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "e773caca-acd3-4ee8-9ed2-b80b588d3a60"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Trascina le parole nelle caselle corrette!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Submit",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra soluzione",
+                "dropZoneIndex": "Zona di rilascio @index",
+                "empty": "Zona di rilascio @index è vuota",
+                "contains": "La zona di rilascio @index contiene @draggable trascinabile",
+                "ariaDraggableIndex": "@index di @count trascinabili",
+                "tipLabel": "Mostra suggerimento",
+                "correctText": "Giusto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Resetta elemento trascinabile",
+                "resetDropDescription": "Sei sicuro di voler resettare questo elemento trascinabile?",
+                "grabbed": "L&#039;elemento trascinabile è stato afferrato",
+                "cancelledDragging": "Trascinamento cancellato",
+                "correctAnswer": "Risposta giusta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Conflitto israelo-palestinese* - lunga disputa territoriale e politica tra Israele e Palestina\n*Impero Ottomano* - precedente potenza dominante della regione, sostituita dal Regno Unito\n*Risoluzione ONU* - decisione dell&#039;Organizzazione delle Nazioni Unite per dividere la Palestina\n*Guerra del 1948* - conflitto che ha portato alla fondazione di Israele\n*Accordi di Oslo* - accordi del 1993 per l&#039;autonomia palestinese e l&#039;inizio di un processo di pace",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Termini importanti (2)",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "b74a36f9-2aa3-417a-814c-50e58208f7b3"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termini importanti (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "be59e194-86c9-4928-9194-f6e496790bc1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Completate le frasi!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Submit",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra soluzione",
+                "dropZoneIndex": "Zona di rilascio @index",
+                "empty": "Zona di rilascio @index è vuota",
+                "contains": "La zona di rilascio @index contiene @draggable trascinabile",
+                "ariaDraggableIndex": "@index di @count trascinabili",
+                "tipLabel": "Mostra suggerimento",
+                "correctText": "Giusto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Resetta elemento trascinabile",
+                "resetDropDescription": "Sei sicuro di voler resettare questo elemento trascinabile?",
+                "grabbed": "L&#039;elemento trascinabile è stato afferrato",
+                "cancelledDragging": "Trascinamento cancellato",
+                "correctAnswer": "Risposta giusta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Conflitto israelo-palestinese ha radici ...* - ... nel tardo 1800 e inizio 1900.\n*Gli Stati Uniti forniscono ad Israele ...* - ... aiuti militari e supporto diplomatico.\n*L&#039;ONU nel 1947 ha diviso ...* - ... la Palestina in due stati.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Frasi complete (1)",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "fc5741fc-cbfd-45c8-9433-cf39572a4b81"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Frasi complete (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "ecb45d14-3fe2-4a02-ab8f-6c03ba60ef4c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Completate le frasi!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Submit",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra soluzione",
+                "dropZoneIndex": "Zona di rilascio @index",
+                "empty": "Zona di rilascio @index è vuota",
+                "contains": "La zona di rilascio @index contiene @draggable trascinabile",
+                "ariaDraggableIndex": "@index di @count trascinabili",
+                "tipLabel": "Mostra suggerimento",
+                "correctText": "Giusto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Resetta elemento trascinabile",
+                "resetDropDescription": "Sei sicuro di voler resettare questo elemento trascinabile?",
+                "grabbed": "L&#039;elemento trascinabile è stato afferrato",
+                "cancelledDragging": "Trascinamento cancellato",
+                "correctAnswer": "Risposta giusta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Critici sostengono che il supporto USA ...* - ... aggrava il conflitto israelo-palestinese.\n*Gli accordi di Oslo prevedono ...* - ... autonomia per i palestinesi.\n*La Hamas è considerata dai ...* - ... Stati Uniti come un gruppo terroristico.\n*L&#039;opinione pubblica americana è ...* - ... divisa sul conflitto israelo-palestinese.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Frasi complete (2)",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "a8bdf3b3-dac7-40e5-bdfd-f199401a2c3e"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Frasi complete (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "1351cab9-7952-442e-bc32-7d4a3895ab3d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Vero o falso?</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "3f4bfb9e-6eb5-4097-abf6-f0c1308dfc3f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 10.758842692809221,
+            "width": 95.41899441340783,
+            "height": 88.30022075055187,
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>Scegliete l'affermazione corretta!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Avanzamento:",
+                "scoreLabel": "Risposte sbagliate:",
+                "resultLabel": "Il tuo risultato",
+                "labelCorrect": "Giusto",
+                "labelIncorrect": "Sbagliato! Prova ancora",
+                "alternativeIncorrectLabel": "Sbagliato",
+                "labelCorrectAnswers": "Risposte giuste",
+                "tipButtonLabel": "Mostra suggerimento",
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "progressText": "Avanzamento: :num su :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "Gli Stati Uniti hanno sostenuto Israele sin dalla sua fondazione.",
+                      "L'ONU non è stata coinvolta nella divisione della Palestina."
+                    ],
+                    "subContentId": "fba55b0c-795c-49a2-9377-a3bd8426f647",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "La guerra del 1948 ha portato alla fondazione di Israele.",
+                      "Gli accordi di Oslo hanno risolto tutti i problemi del conflitto."
+                    ],
+                    "subContentId": "5c853c6b-8726-4395-ac72-cb6a3d6c1ce2",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Gli accordi di Oslo sono stati firmati nel 1993.",
+                      "Gli Stati Uniti non forniscono aiuti militari a Israele."
+                    ],
+                    "subContentId": "c19b369c-c4f9-45ed-a681-c22eb83f692e",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Gli Stati Uniti considerano la Hamas come un gruppo terroristico.",
+                      "La lobby ebraica non ha alcun ruolo nel sostegno degli Stati Uniti ad Israele."
+                    ],
+                    "subContentId": "b3cd074d-0daf-4fe9-b471-571144fff554",
+                    "tip": ""
+                  }
+                ]
+              },
+              "subContentId": "6207504c-ae8f-4a09-b236-0a5b6cd442ec",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "Vero o falso?",
+                "defaultLanguage": "it"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Domande</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "303d8e49-9df8-4ebb-bb74-21e0f7344e25"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.346368715083799,
+            "y": 15.673289183222957,
+            "width": 92.40223463687151,
+            "height": 58.27814569536424,
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": false,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Prossima domanda",
+                  "showSolutionButtonLabel": "Mostra soluzione",
+                  "retryButtonLabel": "Riprova",
+                  "solutionViewTitle": "Elenco delle soluzioni",
+                  "correctText": "Giusto!",
+                  "incorrectText": "Sbagliato!",
+                  "muteButtonLabel": "Silenzia il suono di feedback",
+                  "closeButtonLabel": "Chiudi",
+                  "slideOfTotal": ":num slide di :total",
+                  "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                  "solutionListQuestionNumber": "Domanda :num",
+                  "a11yShowSolution": "Mostra soluzione",
+                  "a11yRetry": "Riprova",
+                  "shouldSelect": "Should have been selected",
+                  "shouldNotSelect": "Should not have been selected"
+                },
+                "choices": [
+                  {
+                    "question": "Chi ha controllato la Palestina prima del Regno Unito?",
+                    "answers": [
+                      "Impero Ottomano",
+                      "Francia",
+                      "Italia",
+                      "Spagna"
+                    ],
+                    "subContentId": "8b723e8c-bda8-4289-8f8e-7e75c4a85d91"
+                  },
+                  {
+                    "question": "Nel quale anno sono stati firmati gli accordi di Oslo?",
+                    "answers": [
+                      "1993",
+                      "1990",
+                      "1987",
+                      "2000"
+                    ],
+                    "subContentId": "b3843de2-28a6-4c80-a477-7a81187829b6"
+                  },
+                  {
+                    "question": "Quale organizzazione viene considerata terroristica dagli Stati Uniti?",
+                    "answers": [
+                      "Hamas",
+                      "ONU",
+                      "NATO",
+                      "Unione Europea"
+                    ],
+                    "subContentId": "40a1ab34-2b32-465d-a748-212fee1eb704"
+                  },
+                  {
+                    "question": "Gli accordi di Oslo hanno risolto il conflitto israelo-palestinese?",
+                    "answers": [
+                      "No",
+                      "Sì",
+                      "Parzialmente",
+                      "Non specificato"
+                    ],
+                    "subContentId": "364846bd-c629-4309-b4fd-e78adb968543"
+                  },
+                  {
+                    "question": "Quale guerra ha portato alla fondazione di Israele?",
+                    "answers": [
+                      "Guerra del 1948",
+                      "Guerra del 1967",
+                      "Prima Guerra Mondiale",
+                      "Seconda Guerra Mondiale"
+                    ],
+                    "subContentId": "6ffe1ac1-d731-408f-a99e-0ff33fa373ad"
+                  },
+                  {
+                    "question": "Chi ha adottato la risoluzione per dividere la Palestina nel 1947?",
+                    "answers": [
+                      "ONU",
+                      "USA",
+                      "Regno Unito",
+                      "Francia"
+                    ],
+                    "subContentId": "f3e6a05c-0d01-455d-9b70-d7394f30c189"
+                  }
+                ]
+              },
+              "subContentId": "dc6b82f1-4264-4137-8683-db0b27e41a00",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Domande",
+                "defaultLanguage": "it"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      }
+    ],
+    "keywordListEnabled": true,
+    "globalBackgroundSelector": {},
+    "keywordListAlwaysShow": false,
+    "keywordListAutoHide": false,
+    "keywordListOpacity": 90
+  },
+  "override": {
+    "activeSurface": false,
+    "hideSummarySlide": false,
+    "summarySlideSolutionButton": true,
+    "summarySlideRetryButton": true,
+    "enablePrintButton": false,
+    "social": {
+      "showFacebookShare": false,
+      "facebookShare": {
+        "url": "@currentpageurl",
+        "quote": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht."
+      },
+      "showTwitterShare": false,
+      "twitterShare": {
+        "statement": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht.",
+        "url": "@currentpageurl",
+        "hashtags": "h5p, Kurs"
+      },
+      "showGoogleShare": false,
+      "googleShareUrl": "@currentpageurl"
+    }
+  },
+  "l10n": {
+    "slide": "Slide",
+    "score": "Punteggio",
+    "yourScore": "Il tuo punteggio",
+    "maxScore": "Punteggio massimo",
+    "total": "Totale",
+    "totalScore": "Punteggio totale",
+    "showSolutions": "Mostra soluzioni",
+    "retry": "Riprova",
+    "exportAnswers": "Esporta testo",
+    "hideKeywords": "Nascondi l&#039;elenco delle parole chiave",
+    "showKeywords": "Mostra l&#039;elenco delle parole chiave",
+    "fullscreen": "Schermo intero",
+    "exitFullscreen": "Esci da schermo intero",
+    "prevSlide": "Slide precedente",
+    "nextSlide": "Prossima slide",
+    "currentSlide": "Slide corrente",
+    "lastSlide": "Ultima slide",
+    "solutionModeTitle": "Esci dalla modalità di soluzione",
+    "solutionModeText": "Modalità di soluzione",
+    "summaryMultipleTaskText": "Attività multiple",
+    "scoreMessage": "Hai ottenuto:",
+    "shareFacebook": "Condividi su Facebook",
+    "shareTwitter": "Condividi su Twitter",
+    "shareGoogle": "Condividi su Google+",
+    "summary": "Riepilogo",
+    "solutionsButtonTitle": "Mostra commenti",
+    "printTitle": "Stampa",
+    "printIngress": "Come vorresti stampare questa presentazione?",
+    "printAllSlides": "Stampa tutte le slide",
+    "printCurrentSlide": "Stampa la slide corrente",
+    "noTitle": "Nessun titolo",
+    "accessibilitySlideNavigationExplanation": "Usa le frecce destra e sinistra per cambiare slide ogni volta che il canvas è selezionato",
+    "accessibilityCanvasLabel": "Canvas di presentazione. Usa le frecce destra e sinistra per muoverti tra le slide",
+    "containsNotCompleted": "@slideName contiene interazioni non portate a termine",
+    "containsCompleted": "@slideName contiene interazioni portate a termine",
+    "slideCount": "Slide @index di @total",
+    "containsOnlyCorrect": "@slideName ha soltanto risposte giuste",
+    "containsIncorrectAnswers": "@slideName contiene risposte sbagliate",
+    "shareResult": "Condividi risultato",
+    "accessibilityTotalScore": "Il tuo punteggio complessivo è @score su @maxScore",
+    "accessibilityEnteredFullscreen": "Entrata a schermo intero",
+    "accessibilityExitedFullscreen": "Uscita da schermo intero",
+    "confirmDialogHeader": "Submit your answers",
+    "confirmDialogText": "This will submit your results, do you want to continue?",
+    "confirmDialogConfirmText": "Submit and see results",
+    "accessibilityProgressBarLabel": "Choose slide to display",
+    "slideshowNavigationLabel": "Slideshow navigation"
+  }
+}

@@ -1,0 +1,917 @@
+{
+  "presentation": {
+    "slides": [
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 6.455305615685532,
+            "width": 92.73743016759778,
+            "height": 50.77262693156732,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:3em;\"><strong>Paul Dirac (1902-1984) - fisico</strong></span></p>\n\n<p><strong><span style=\"font-size:1.5em;\">Informazioni ed esercitazioni</span></strong></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "dff56334-2e6b-4f64-ab5f-fd72e6484f52"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2331154684095864,
+            "y": 4.414482262971937,
+            "width": 54.46623093681917,
+            "height": 8.825607767023717,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Testo informativo (Parte 1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "5627dc6e-c943-439e-ab4a-4531b7f24264"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582783,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Giovinezza e educazione</strong><br>\nPaul Dirac nacque a Bristol, in Inghilterra, nel 1902. Da giovane, dimostrò un notevole talento per la matematica e la fisica, che lo portò a studiare ingegneria elettrica prima e fisica teorica poi. Dopo aver completato i suoi studi all'Università di Bristol, ottenne una borsa di studio per il St John's College di Cambridge, dove iniziò a lavorare su problemi di meccanica quantistica.</p>\n\n<p><strong>Contributi alla meccanica quantistica</strong><br>\nDirac è celebre per il suo lavoro nel campo della meccanica quantistica, in particolare per l'equazione che porta il suo nome. L'equazione di Dirac predice l'esistenza di particelle fino ad allora sconosciute, che poi si sono rivelate essere l'antimateria. Questo fu un importante progresso per la fisica, allargando la comprensione della natura delle particelle elementari.</p>\n\n<p><strong>Premio Nobel per la Fisica</strong><br>\nNel 1933, Dirac ricevette il Premio Nobel per la Fisica insieme a Erwin Schrödinger per la scoperta di nuove forme produttive della teoria atomica. Questo riconoscimento sottolineò il suo ruolo di primo piano nella comunità scientifica e l'importanza delle sue teorie che hanno aperto la strada a future scoperte nella fisica delle particelle.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "53bc5361-5ce5-43a9-a00f-57bbceee9cd0"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Testo informativo (Parte 2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "55aaf4d3-f7e3-4a3e-9196-01a6f7474f94"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>La famosa equazione</strong><br>\nL'equazione di Dirac unì per la prima volta la meccanica quantistica con la teoria della relatività ristretta di Einstein. Questa equazione non solo descrive il comportamento degli elettroni ma implica anche che ogni particella ha una controparte, chiamata antiparticella. La scoperta dell'antielettrone, o positrone, nel 1932 confermò la previsione di Dirac.</p>\n\n<p><strong>La teoria dei buchi e l'antimateria</strong><br>\nDirac introdusse la teoria dei \"buchi\", che spiegava l'antimateria come \"buchi\" in un mare di energia negativa. Questa teoria era rivoluzionaria ma anche controversa, e aprì nuove direzioni di ricerca che portarono alla fisica delle particelle e alla cosmologia moderna.</p>\n\n<p><strong>Filosofia scientifica</strong><br>\nDirac era noto per il suo stile di pensiero unico, che combinava intuizioni fisiche profonde con una forma di bellezza matematica. Credeva fermamente che le equazioni matematiche dovessero possedere bellezza e simmetria per descrivere correttamente la natura, un principio che guidò molte delle sue ricerche.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "3b13867b-feab-4e2e-bfa2-fcc82e4dbff1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Testo informativo (Parte 3)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "4381b60d-c67f-4722-b83d-b17f2fc9d01c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 12.910611231371064,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Vita privata e insegnamento</strong><br>\nOltre alla sua ricerca, Dirac era dedicato all'insegnamento e alla divulgazione della fisica. Fu un professore rispettato al Cambridge e in seguito in altri istituti di ricerca. La sua vita privata era piuttosto riservata, e si dedicò alla famiglia e alla vela, una delle sue grandi passioni.</p>\n\n<p><strong>L'eredità di Dirac</strong><br>\nLa figura di Dirac rimane centrale nella storia della fisica. Oltre alle sue scoperte, lasciò un'impronta duratura come mentore di futuri fisici e attraverso le sue numerose pubblicazioni, che continuano ad essere fonti di ispirazione per la comunità scientifica.</p>\n\n<p><strong>Ricordo e tributi</strong><br>\nDirac morì nel 1984, ma il suo lavoro vive nella fisica contemporanea. È ricordato come uno dei padri della meccanica quantistica e un pioniere del concetto di antimateria. La sua eredità è celebrata con vari premi e riconoscimenti che portano il suo nome, assicurando che la sua influenza continui a guidare la fisica teorica.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "3d655444-fd55-42f7-aba2-16a16db7dc58"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Trascina le parole nelle caselle corrette!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Submit",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra soluzione",
+                "dropZoneIndex": "Zona di rilascio @index",
+                "empty": "Zona di rilascio @index è vuota",
+                "contains": "La zona di rilascio @index contiene @draggable trascinabile",
+                "ariaDraggableIndex": "@index di @count trascinabili",
+                "tipLabel": "Mostra suggerimento",
+                "correctText": "Giusto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Resetta elemento trascinabile",
+                "resetDropDescription": "Sei sicuro di voler resettare questo elemento trascinabile?",
+                "grabbed": "L&#039;elemento trascinabile è stato afferrato",
+                "cancelledDragging": "Trascinamento cancellato",
+                "correctAnswer": "Risposta giusta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Bristol* - città natale di Paul Dirac in Inghilterra\n*Ingegneria elettrica* - primo campo di studio di Dirac\n*Meccanica quantistica* - area di specializzazione di Dirac\n*Equazione di Dirac* - predice l&#039;esistenza dell&#039;antimateria\n*Antimateria* - scoperta fondamentale nella fisica",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Termini importanti (1)",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "4a94ce62-c440-4215-bc76-32408bcec41d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termini importanti (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "e773caca-acd3-4ee8-9ed2-b80b588d3a60"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Trascina le parole nelle caselle corrette!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Submit",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra soluzione",
+                "dropZoneIndex": "Zona di rilascio @index",
+                "empty": "Zona di rilascio @index è vuota",
+                "contains": "La zona di rilascio @index contiene @draggable trascinabile",
+                "ariaDraggableIndex": "@index di @count trascinabili",
+                "tipLabel": "Mostra suggerimento",
+                "correctText": "Giusto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Resetta elemento trascinabile",
+                "resetDropDescription": "Sei sicuro di voler resettare questo elemento trascinabile?",
+                "grabbed": "L&#039;elemento trascinabile è stato afferrato",
+                "cancelledDragging": "Trascinamento cancellato",
+                "correctAnswer": "Risposta giusta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Premio Nobel* - riconoscimento per le teorie di Dirac\n*Teoria dei buchi* - spiegazione dell&#039;antimateria da Dirac\n*Bellezza matematica* - principio guida nelle ricerche di Dirac\n*Sailing* - passione personale di Paul Dirac",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Termini importanti (2)",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "b74a36f9-2aa3-417a-814c-50e58208f7b3"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termini importanti (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "be59e194-86c9-4928-9194-f6e496790bc1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Completate le frasi!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Submit",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra soluzione",
+                "dropZoneIndex": "Zona di rilascio @index",
+                "empty": "Zona di rilascio @index è vuota",
+                "contains": "La zona di rilascio @index contiene @draggable trascinabile",
+                "ariaDraggableIndex": "@index di @count trascinabili",
+                "tipLabel": "Mostra suggerimento",
+                "correctText": "Giusto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Resetta elemento trascinabile",
+                "resetDropDescription": "Sei sicuro di voler resettare questo elemento trascinabile?",
+                "grabbed": "L&#039;elemento trascinabile è stato afferrato",
+                "cancelledDragging": "Trascinamento cancellato",
+                "correctAnswer": "Risposta giusta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Paul Dirac nacque a Bristol ...* - ... in Inghilterra nel 1902.\n*Dirac ricevette il Nobel ...* - ... per la Fisica nel 1933.\n*L&#039;equazione di Dirac unì meccanica quantistica ...* - ... e relatività ristretta.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Frasi complete (1)",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "fc5741fc-cbfd-45c8-9433-cf39572a4b81"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Frasi complete (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "ecb45d14-3fe2-4a02-ab8f-6c03ba60ef4c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Completate le frasi!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Submit",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra soluzione",
+                "dropZoneIndex": "Zona di rilascio @index",
+                "empty": "Zona di rilascio @index è vuota",
+                "contains": "La zona di rilascio @index contiene @draggable trascinabile",
+                "ariaDraggableIndex": "@index di @count trascinabili",
+                "tipLabel": "Mostra suggerimento",
+                "correctText": "Giusto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Resetta elemento trascinabile",
+                "resetDropDescription": "Sei sicuro di voler resettare questo elemento trascinabile?",
+                "grabbed": "L&#039;elemento trascinabile è stato afferrato",
+                "cancelledDragging": "Trascinamento cancellato",
+                "correctAnswer": "Risposta giusta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Dirac introdusse la controversa teoria ...* - ... dei &quot;buchi&quot;.\n*La filosofia di Dirac enfatizzava la bellezza ...* - ... matematica nelle equazioni.\n*Dirac fu un insegnante rispettato ...* - ... al Cambridge.\n*Morì nel 1984, lasciando un&#039;impronta ...* - ... duratura nella fisica.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Frasi complete (2)",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "a8bdf3b3-dac7-40e5-bdfd-f199401a2c3e"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Frasi complete (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "1351cab9-7952-442e-bc32-7d4a3895ab3d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Vero o falso?</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "3f4bfb9e-6eb5-4097-abf6-f0c1308dfc3f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 10.758842692809221,
+            "width": 95.41899441340783,
+            "height": 88.30022075055187,
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>Scegliete l'affermazione corretta!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Avanzamento:",
+                "scoreLabel": "Risposte sbagliate:",
+                "resultLabel": "Il tuo risultato",
+                "labelCorrect": "Giusto",
+                "labelIncorrect": "Sbagliato! Prova ancora",
+                "alternativeIncorrectLabel": "Sbagliato",
+                "labelCorrectAnswers": "Risposte giuste",
+                "tipButtonLabel": "Mostra suggerimento",
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "progressText": "Avanzamento: :num su :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "Dirac nacque nel 1902 a Bristol, in Inghilterra.",
+                      "Dirac studiò solo fisica teorica, mai ingegneria."
+                    ],
+                    "subContentId": "cbae8014-c9ad-410d-9c34-0965eec61944",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Dirac contribuì significativamente alla meccanica quantistica.",
+                      "L'equazione di Dirac descrive il movimento dei pianeti."
+                    ],
+                    "subContentId": "9586850a-c258-44f8-a3d3-e4e8a1c1da6f",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "L'equazione di Dirac prediceva l'antimateria.",
+                      "Dirac introdusse la teoria dei \"buchi\" per la meccanica classica."
+                    ],
+                    "subContentId": "2eb13140-502a-44b3-90b5-f4ea85d97db0",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Dirac vinse il Premio Nobel per la Fisica nel 1933.",
+                      "Dirac non era interessato alla bellezza matematica nelle sue teorie."
+                    ],
+                    "subContentId": "4ac776fa-ee63-4767-b795-e1a0b97d066e",
+                    "tip": ""
+                  }
+                ]
+              },
+              "subContentId": "6207504c-ae8f-4a09-b236-0a5b6cd442ec",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "Vero o falso?",
+                "defaultLanguage": "it"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Domande</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "303d8e49-9df8-4ebb-bb74-21e0f7344e25"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 92.40223463687151,
+            "height": 58.27814569536424,
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": false,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Prossima domanda",
+                  "showSolutionButtonLabel": "Mostra soluzione",
+                  "retryButtonLabel": "Riprova",
+                  "solutionViewTitle": "Elenco delle soluzioni",
+                  "correctText": "Giusto!",
+                  "incorrectText": "Sbagliato!",
+                  "muteButtonLabel": "Silenzia il suono di feedback",
+                  "closeButtonLabel": "Chiudi",
+                  "slideOfTotal": ":num slide di :total",
+                  "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                  "solutionListQuestionNumber": "Domanda :num",
+                  "a11yShowSolution": "Mostra soluzione",
+                  "a11yRetry": "Riprova",
+                  "shouldSelect": "Should have been selected",
+                  "shouldNotSelect": "Should not have been selected"
+                },
+                "choices": [
+                  {
+                    "question": "Dove nacque Paul Dirac?",
+                    "answers": [
+                      "Bristol",
+                      "Cambridge",
+                      "Londra",
+                      "Manchester"
+                    ],
+                    "subContentId": "7c07ed46-db34-409f-8b25-3d884d7769bb"
+                  },
+                  {
+                    "question": "In quale anno Dirac vinse il Premio Nobel?",
+                    "answers": [
+                      "1933",
+                      "1925",
+                      "1940",
+                      "1952"
+                    ],
+                    "subContentId": "7f37d653-924d-426a-84a9-41c18f770c60"
+                  },
+                  {
+                    "question": "Quale equazione è famosa per la predizione dell'antimateria?",
+                    "answers": [
+                      "Equazione di Dirac",
+                      "Legge di Newton",
+                      "Principio di Heisenberg",
+                      "Equazione di Schrödinger"
+                    ],
+                    "subContentId": "3f9b76ec-5c27-455a-b302-d8b1c413a611"
+                  },
+                  {
+                    "question": "Qual era l'interesse personale di Dirac al di fuori della fisica?",
+                    "answers": [
+                      "Vela",
+                      "Pittura",
+                      "Calcio",
+                      "Cucina"
+                    ],
+                    "subContentId": "b5e3d9b7-1cd5-41e4-9d2f-1ee91399563e"
+                  },
+                  {
+                    "question": "Quale principio influenzò fortemente il lavoro di Dirac?",
+                    "answers": [
+                      "Bellezza matematica",
+                      "Semplicità",
+                      "Praticità",
+                      "Randomicità"
+                    ],
+                    "subContentId": "8411bfa1-1421-4f2b-98c2-9c70d06a1534"
+                  },
+                  {
+                    "question": "In quale università Dirac era professore?",
+                    "answers": [
+                      "Cambridge",
+                      "Oxford",
+                      "Harvard",
+                      "MIT"
+                    ],
+                    "subContentId": "08a48e49-fbbf-4de2-a75f-5a709d846de2"
+                  }
+                ]
+              },
+              "subContentId": "dc6b82f1-4264-4137-8683-db0b27e41a00",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Domande",
+                "defaultLanguage": "it"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      }
+    ],
+    "keywordListEnabled": true,
+    "globalBackgroundSelector": {},
+    "keywordListAlwaysShow": false,
+    "keywordListAutoHide": false,
+    "keywordListOpacity": 90
+  },
+  "override": {
+    "activeSurface": false,
+    "hideSummarySlide": false,
+    "summarySlideSolutionButton": true,
+    "summarySlideRetryButton": true,
+    "enablePrintButton": false,
+    "social": {
+      "showFacebookShare": false,
+      "facebookShare": {
+        "url": "@currentpageurl",
+        "quote": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht."
+      },
+      "showTwitterShare": false,
+      "twitterShare": {
+        "statement": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht.",
+        "url": "@currentpageurl",
+        "hashtags": "h5p, Kurs"
+      },
+      "showGoogleShare": false,
+      "googleShareUrl": "@currentpageurl"
+    }
+  },
+  "l10n": {
+    "slide": "Slide",
+    "score": "Punteggio",
+    "yourScore": "Il tuo punteggio",
+    "maxScore": "Punteggio massimo",
+    "total": "Totale",
+    "totalScore": "Punteggio totale",
+    "showSolutions": "Mostra soluzioni",
+    "retry": "Riprova",
+    "exportAnswers": "Esporta testo",
+    "hideKeywords": "Nascondi l&#039;elenco delle parole chiave",
+    "showKeywords": "Mostra l&#039;elenco delle parole chiave",
+    "fullscreen": "Schermo intero",
+    "exitFullscreen": "Esci da schermo intero",
+    "prevSlide": "Slide precedente",
+    "nextSlide": "Prossima slide",
+    "currentSlide": "Slide corrente",
+    "lastSlide": "Ultima slide",
+    "solutionModeTitle": "Esci dalla modalità di soluzione",
+    "solutionModeText": "Modalità di soluzione",
+    "summaryMultipleTaskText": "Attività multiple",
+    "scoreMessage": "Hai ottenuto:",
+    "shareFacebook": "Condividi su Facebook",
+    "shareTwitter": "Condividi su Twitter",
+    "shareGoogle": "Condividi su Google+",
+    "summary": "Riepilogo",
+    "solutionsButtonTitle": "Mostra commenti",
+    "printTitle": "Stampa",
+    "printIngress": "Come vorresti stampare questa presentazione?",
+    "printAllSlides": "Stampa tutte le slide",
+    "printCurrentSlide": "Stampa la slide corrente",
+    "noTitle": "Nessun titolo",
+    "accessibilitySlideNavigationExplanation": "Usa le frecce destra e sinistra per cambiare slide ogni volta che il canvas è selezionato",
+    "accessibilityCanvasLabel": "Canvas di presentazione. Usa le frecce destra e sinistra per muoverti tra le slide",
+    "containsNotCompleted": "@slideName contiene interazioni non portate a termine",
+    "containsCompleted": "@slideName contiene interazioni portate a termine",
+    "slideCount": "Slide @index di @total",
+    "containsOnlyCorrect": "@slideName ha soltanto risposte giuste",
+    "containsIncorrectAnswers": "@slideName contiene risposte sbagliate",
+    "shareResult": "Condividi risultato",
+    "accessibilityTotalScore": "Il tuo punteggio complessivo è @score su @maxScore",
+    "accessibilityEnteredFullscreen": "Entrata a schermo intero",
+    "accessibilityExitedFullscreen": "Uscita da schermo intero",
+    "confirmDialogHeader": "Submit your answers",
+    "confirmDialogText": "This will submit your results, do you want to continue?",
+    "confirmDialogConfirmText": "Submit and see results",
+    "accessibilityProgressBarLabel": "Choose slide to display",
+    "slideshowNavigationLabel": "Slideshow navigation"
+  }
+}

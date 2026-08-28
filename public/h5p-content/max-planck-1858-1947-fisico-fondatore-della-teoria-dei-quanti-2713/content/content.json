@@ -1,0 +1,917 @@
+{
+  "presentation": {
+    "slides": [
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 6.455305615685532,
+            "width": 92.73743016759778,
+            "height": 50.77262693156732,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:3em;\"><strong>Max Planck (1858-1947) - fisico, fondatore della teoria dei quanti</strong></span></p>\n\n<p><strong><span style=\"font-size:1.5em;\">Informazioni ed esercitazioni</span></strong></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "dff56334-2e6b-4f64-ab5f-fd72e6484f52"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2331154684095864,
+            "y": 4.414482262971937,
+            "width": 54.46623093681917,
+            "height": 8.825607767023717,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Testo informativo (Parte 1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "5627dc6e-c943-439e-ab4a-4531b7f24264"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582783,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Vita di Max Planck</strong><br>\nMax Planck nacque a Kiel, in Germania, nel 1858. Divenne professore di fisica all'Università di Berlino nel 1889 e iniziò a studiare la teoria del calore e la termodinamica. Planck è principalmente noto per essere il fondatore della teoria dei quanti, che introdusse nel 1900. Questa teoria rivoluzionò il modo in cui gli scienziati comprendevano i processi atomici e subatomici.</p>\n\n<p><strong>Legge di Planck</strong><br>\nNel 1900, Planck formulò una legge che spiega come gli oggetti emettono radiazioni elettromagnetiche, che è conosciuta come la legge di Planck. Stabilì la relazione tra l'energia e la frequenza della radiazione, che è proporzionale alla costante che ora porta il suo nome, la costante di Planck.</p>\n\n<p><strong>Costante di Planck</strong><br>\nLa costante di Planck è uno dei concetti fondamentali nella fisica quantistica. È il quanto di azione che relaziona l'energia di un fotone alla sua frequenza. La scoperta di questa costante ha permesso di sviluppare ulteriori teorie nel campo della meccanica quantistica e della fisica delle particelle.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "53bc5361-5ce5-43a9-a00f-57bbceee9cd0"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Testo informativo (Parte 2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "55aaf4d3-f7e3-4a3e-9196-01a6f7474f94"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Premio Nobel per la Fisica</strong><br>\nPlanck ricevette il Premio Nobel per la Fisica nel 1918 per il suo ruolo nello sviluppo della meccanica quantistica. Il suo lavoro non solo aprì la strada a nuove teorie fisiche ma influenzò anche lo sviluppo della tecnologia moderna, come i semiconduttori e la laseristica.</p>\n\n<p><strong>Impatto sulla fisica moderna</strong><br>\nLe teorie di Planck sulla quantizzazione dell'energia hanno avuto un impatto profondo sulla fisica del XX secolo. La sua ricerca ha guidato lo sviluppo di tecnologie che vanno dai microscopi elettronici ai computer quantistici, influenzando così la vita quotidiana e l'industria moderna.</p>\n\n<p><strong>Il dualismo onda-particella</strong><br>\nLa teoria dei quanti di Planck ha anche contribuito al concetto di dualismo onda-particella, che descrive come le particelle possano avere proprietà sia di onde che di particelle. Questo concetto è centrale per capire la natura della luce e della materia a livello quantistico.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "3b13867b-feab-4e2e-bfa2-fcc82e4dbff1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Testo informativo (Parte 3)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "4381b60d-c67f-4722-b83d-b17f2fc9d01c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 12.910611231371064,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>La fisica e la filosofia</strong><br>\nLe scoperte di Planck hanno influenzato non solo la fisica, ma anche la filosofia della scienza. Ha sollevato questioni sulla realtà della natura e sulla capacità dell'uomo di comprendere l'universo, che hanno stimolato dibattiti filosofici riguardo la conoscenza e l'osservazione.</p>\n\n<p><strong>La guerra e la perdita personale</strong><br>\nLa vita di Planck fu segnata da tragedie personali, soprattutto durante le due guerre mondiali. Perse i suoi figli in circostanze tragiche e visse attraverso periodi di grande turbamento politico e sociale in Germania. Nonostante ciò, continuò a dedicarsi alla ricerca scientifica.</p>\n\n<p><strong>L'eredità di Planck</strong><br>\nMax Planck morì nel 1947, lasciando un'eredità duratura nel campo della fisica. La sua ricerca continua a essere una pietra miliare per gli scienziati di tutto il mondo e il suo nome è commemorato in istituzioni e premi scientifici, inclusa la Società Max Planck per il progresso della scienza in Germania.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "3d655444-fd55-42f7-aba2-16a16db7dc58"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Trascina le parole nelle caselle corrette!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Submit",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra soluzione",
+                "dropZoneIndex": "Zona di rilascio @index",
+                "empty": "Zona di rilascio @index è vuota",
+                "contains": "La zona di rilascio @index contiene @draggable trascinabile",
+                "ariaDraggableIndex": "@index di @count trascinabili",
+                "tipLabel": "Mostra suggerimento",
+                "correctText": "Giusto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Resetta elemento trascinabile",
+                "resetDropDescription": "Sei sicuro di voler resettare questo elemento trascinabile?",
+                "grabbed": "L&#039;elemento trascinabile è stato afferrato",
+                "cancelledDragging": "Trascinamento cancellato",
+                "correctAnswer": "Risposta giusta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Quantentheorie* - Revolutionäre Theorie über Atom- und Subatomprozesse\n*Legge di Planck* - Descrive l&#039;emissione di radiazioni elettromagnetiche dagli oggetti\n*Costante di Planck* - Quanto di azione che lega energia e frequenza dei fotoni\n*Premio Nobel per la Fisica* - Riconoscimento per il contributo alla meccanica quantistica\n*Impatto sulla fisica moderna* - Influenza su tecnologie come microscopi e computer quantistici",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Termini importanti (1)",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "4a94ce62-c440-4215-bc76-32408bcec41d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termini importanti (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "e773caca-acd3-4ee8-9ed2-b80b588d3a60"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Trascina le parole nelle caselle corrette!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Submit",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra soluzione",
+                "dropZoneIndex": "Zona di rilascio @index",
+                "empty": "Zona di rilascio @index è vuota",
+                "contains": "La zona di rilascio @index contiene @draggable trascinabile",
+                "ariaDraggableIndex": "@index di @count trascinabili",
+                "tipLabel": "Mostra suggerimento",
+                "correctText": "Giusto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Resetta elemento trascinabile",
+                "resetDropDescription": "Sei sicuro di voler resettare questo elemento trascinabile?",
+                "grabbed": "L&#039;elemento trascinabile è stato afferrato",
+                "cancelledDragging": "Trascinamento cancellato",
+                "correctAnswer": "Risposta giusta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Dualismo onda-particella* - Particelle con proprietà sia di onde che di particelle\n*Fisica e filosofia* - Riflessioni sull&#039;osservazione e comprensione dell&#039;universo\n*Guerra e perdita personale* - Tragedie familiari e turbamenti politici durante le guerre\n*L&#039;eredità di Planck* - Fondamentale contributo per la fisica e la scienza moderna",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Termini importanti (2)",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "b74a36f9-2aa3-417a-814c-50e58208f7b3"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termini importanti (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "be59e194-86c9-4928-9194-f6e496790bc1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Completate le frasi!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Submit",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra soluzione",
+                "dropZoneIndex": "Zona di rilascio @index",
+                "empty": "Zona di rilascio @index è vuota",
+                "contains": "La zona di rilascio @index contiene @draggable trascinabile",
+                "ariaDraggableIndex": "@index di @count trascinabili",
+                "tipLabel": "Mostra suggerimento",
+                "correctText": "Giusto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Resetta elemento trascinabile",
+                "resetDropDescription": "Sei sicuro di voler resettare questo elemento trascinabile?",
+                "grabbed": "L&#039;elemento trascinabile è stato afferrato",
+                "cancelledDragging": "Trascinamento cancellato",
+                "correctAnswer": "Risposta giusta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Max Planck nacque a Kiel ...* - ... in Germania nel 1858.\n*Divenne professore di fisica ...* - ... all&#039;Università di Berlino nel 1889.\n*Formulò la legge che spiega ...* - ... l&#039;emissione di radiazioni elettromagnetiche.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Frasi complete (1)",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "fc5741fc-cbfd-45c8-9433-cf39572a4b81"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Frasi complete (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "ecb45d14-3fe2-4a02-ab8f-6c03ba60ef4c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Completate le frasi!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Submit",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra soluzione",
+                "dropZoneIndex": "Zona di rilascio @index",
+                "empty": "Zona di rilascio @index è vuota",
+                "contains": "La zona di rilascio @index contiene @draggable trascinabile",
+                "ariaDraggableIndex": "@index di @count trascinabili",
+                "tipLabel": "Mostra suggerimento",
+                "correctText": "Giusto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Resetta elemento trascinabile",
+                "resetDropDescription": "Sei sicuro di voler resettare questo elemento trascinabile?",
+                "grabbed": "L&#039;elemento trascinabile è stato afferrato",
+                "cancelledDragging": "Trascinamento cancellato",
+                "correctAnswer": "Risposta giusta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*La costante di Planck è cruciale ...* - ... nella fisica quantistica.\n*Ricevette il Nobel per la Fisica ...* - ... nel 1918 per la meccanica quantistica.\n*Le sue teorie influenzarono profondamente ...* - ... la fisica del XX secolo.\n*La vita di Planck fu segnata ...* - ... da tragedie personali durante le guerre.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Frasi complete (2)",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "a8bdf3b3-dac7-40e5-bdfd-f199401a2c3e"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Frasi complete (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "1351cab9-7952-442e-bc32-7d4a3895ab3d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Vero o falso?</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "3f4bfb9e-6eb5-4097-abf6-f0c1308dfc3f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 10.758842692809221,
+            "width": 95.41899441340783,
+            "height": 88.30022075055187,
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>Scegliete l'affermazione corretta!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Avanzamento:",
+                "scoreLabel": "Risposte sbagliate:",
+                "resultLabel": "Il tuo risultato",
+                "labelCorrect": "Giusto",
+                "labelIncorrect": "Sbagliato! Prova ancora",
+                "alternativeIncorrectLabel": "Sbagliato",
+                "labelCorrectAnswers": "Risposte giuste",
+                "tipButtonLabel": "Mostra suggerimento",
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "progressText": "Avanzamento: :num su :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "Max Planck è nato nel 1858 a Kiel, Germania.",
+                      "Planck è noto per il suo lavoro sulla teoria della relatività."
+                    ],
+                    "subContentId": "9aed6d5a-ab00-4996-9dda-d88466e7666b",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Formulò la legge che spiega l'emissione di radiazioni elettromagnetiche.",
+                      "La costante di Planck riguarda la velocità della luce."
+                    ],
+                    "subContentId": "d7f69eec-c165-4cce-b011-eb9ed44d7971",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Ricevette il Nobel per la Fisica nel 1918.",
+                      "Ricevette il Nobel per la Chimica."
+                    ],
+                    "subContentId": "83c1acd7-7b46-42eb-8fc6-1024cb43c0ef",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Le sue teorie influenzarono la fisica e la tecnologia moderne.",
+                      "Planck non ha affrontato le sfide personali durante le guerre."
+                    ],
+                    "subContentId": "d84f2768-f9ec-4a51-a9ff-f899bb1bd0c5",
+                    "tip": ""
+                  }
+                ]
+              },
+              "subContentId": "6207504c-ae8f-4a09-b236-0a5b6cd442ec",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "Vero o falso?",
+                "defaultLanguage": "it"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Domande</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "303d8e49-9df8-4ebb-bb74-21e0f7344e25"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 92.40223463687151,
+            "height": 58.27814569536424,
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": false,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Prossima domanda",
+                  "showSolutionButtonLabel": "Mostra soluzione",
+                  "retryButtonLabel": "Riprova",
+                  "solutionViewTitle": "Elenco delle soluzioni",
+                  "correctText": "Giusto!",
+                  "incorrectText": "Sbagliato!",
+                  "muteButtonLabel": "Silenzia il suono di feedback",
+                  "closeButtonLabel": "Chiudi",
+                  "slideOfTotal": ":num slide di :total",
+                  "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                  "solutionListQuestionNumber": "Domanda :num",
+                  "a11yShowSolution": "Mostra soluzione",
+                  "a11yRetry": "Riprova",
+                  "shouldSelect": "Should have been selected",
+                  "shouldNotSelect": "Should not have been selected"
+                },
+                "choices": [
+                  {
+                    "question": "In quale anno Max Planck nacque?",
+                    "answers": [
+                      "1858",
+                      "1870",
+                      "1900",
+                      "1925"
+                    ],
+                    "subContentId": "4b0175cc-cb11-45d0-9f9c-f17cb37e5b6b"
+                  },
+                  {
+                    "question": "Qual è il campo principale di studio di Max Planck?",
+                    "answers": [
+                      "Quantentheorie",
+                      "Biologia",
+                      "Chimica",
+                      "Geologia"
+                    ],
+                    "subContentId": "1eb8aba1-74ea-4267-8a7c-a8ad9e3c185d"
+                  },
+                  {
+                    "question": "Per quale scoperta Planck ricevette il Nobel?",
+                    "answers": [
+                      "Quantenmechanik",
+                      "Relativitätstheorie",
+                      "Elettricità",
+                      "Gravità"
+                    ],
+                    "subContentId": "09d96b8a-2b29-4c85-a207-4f52fc7248fa"
+                  },
+                  {
+                    "question": "Qual è il nome della costante fondamentale scoperta da Planck?",
+                    "answers": [
+                      "Costante di Planck",
+                      "Costante di Einstein",
+                      "Costante di Newton",
+                      "Costante di Bohr"
+                    ],
+                    "subContentId": "2f2fbaca-6d82-467c-a536-723f0d6b8fcd"
+                  },
+                  {
+                    "question": "In quale università Planck divenne professore?",
+                    "answers": [
+                      "Università di Berlino",
+                      "Università di Vienna",
+                      "Università di Monaco",
+                      "Università di Oxford"
+                    ],
+                    "subContentId": "d02c1732-8bfd-419e-b434-7683cda6c5e5"
+                  },
+                  {
+                    "question": "Quale legge formulò Planck nel 1900?",
+                    "answers": [
+                      "Legge di Planck",
+                      "Legge di Hubble",
+                      "Legge di Ohm",
+                      "Legge di Kepler"
+                    ],
+                    "subContentId": "818d1be6-e1c3-4dd5-977d-ebb381cdabb7"
+                  }
+                ]
+              },
+              "subContentId": "dc6b82f1-4264-4137-8683-db0b27e41a00",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Domande",
+                "defaultLanguage": "it"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      }
+    ],
+    "keywordListEnabled": true,
+    "globalBackgroundSelector": {},
+    "keywordListAlwaysShow": false,
+    "keywordListAutoHide": false,
+    "keywordListOpacity": 90
+  },
+  "override": {
+    "activeSurface": false,
+    "hideSummarySlide": false,
+    "summarySlideSolutionButton": true,
+    "summarySlideRetryButton": true,
+    "enablePrintButton": false,
+    "social": {
+      "showFacebookShare": false,
+      "facebookShare": {
+        "url": "@currentpageurl",
+        "quote": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht."
+      },
+      "showTwitterShare": false,
+      "twitterShare": {
+        "statement": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht.",
+        "url": "@currentpageurl",
+        "hashtags": "h5p, Kurs"
+      },
+      "showGoogleShare": false,
+      "googleShareUrl": "@currentpageurl"
+    }
+  },
+  "l10n": {
+    "slide": "Slide",
+    "score": "Punteggio",
+    "yourScore": "Il tuo punteggio",
+    "maxScore": "Punteggio massimo",
+    "total": "Totale",
+    "totalScore": "Punteggio totale",
+    "showSolutions": "Mostra soluzioni",
+    "retry": "Riprova",
+    "exportAnswers": "Esporta testo",
+    "hideKeywords": "Nascondi l&#039;elenco delle parole chiave",
+    "showKeywords": "Mostra l&#039;elenco delle parole chiave",
+    "fullscreen": "Schermo intero",
+    "exitFullscreen": "Esci da schermo intero",
+    "prevSlide": "Slide precedente",
+    "nextSlide": "Prossima slide",
+    "currentSlide": "Slide corrente",
+    "lastSlide": "Ultima slide",
+    "solutionModeTitle": "Esci dalla modalità di soluzione",
+    "solutionModeText": "Modalità di soluzione",
+    "summaryMultipleTaskText": "Attività multiple",
+    "scoreMessage": "Hai ottenuto:",
+    "shareFacebook": "Condividi su Facebook",
+    "shareTwitter": "Condividi su Twitter",
+    "shareGoogle": "Condividi su Google+",
+    "summary": "Riepilogo",
+    "solutionsButtonTitle": "Mostra commenti",
+    "printTitle": "Stampa",
+    "printIngress": "Come vorresti stampare questa presentazione?",
+    "printAllSlides": "Stampa tutte le slide",
+    "printCurrentSlide": "Stampa la slide corrente",
+    "noTitle": "Nessun titolo",
+    "accessibilitySlideNavigationExplanation": "Usa le frecce destra e sinistra per cambiare slide ogni volta che il canvas è selezionato",
+    "accessibilityCanvasLabel": "Canvas di presentazione. Usa le frecce destra e sinistra per muoverti tra le slide",
+    "containsNotCompleted": "@slideName contiene interazioni non portate a termine",
+    "containsCompleted": "@slideName contiene interazioni portate a termine",
+    "slideCount": "Slide @index di @total",
+    "containsOnlyCorrect": "@slideName ha soltanto risposte giuste",
+    "containsIncorrectAnswers": "@slideName contiene risposte sbagliate",
+    "shareResult": "Condividi risultato",
+    "accessibilityTotalScore": "Il tuo punteggio complessivo è @score su @maxScore",
+    "accessibilityEnteredFullscreen": "Entrata a schermo intero",
+    "accessibilityExitedFullscreen": "Uscita da schermo intero",
+    "confirmDialogHeader": "Submit your answers",
+    "confirmDialogText": "This will submit your results, do you want to continue?",
+    "confirmDialogConfirmText": "Submit and see results",
+    "accessibilityProgressBarLabel": "Choose slide to display",
+    "slideshowNavigationLabel": "Slideshow navigation"
+  }
+}

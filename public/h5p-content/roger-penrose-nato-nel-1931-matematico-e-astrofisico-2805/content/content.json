@@ -1,0 +1,917 @@
+{
+  "presentation": {
+    "slides": [
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 6.455305615685532,
+            "width": 92.73743016759778,
+            "height": 50.77262693156732,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:3em;\"><strong>Roger Penrose (nato nel 1931) - matematico e astrofisico</strong></span></p>\n\n<p><strong><span style=\"font-size:1.5em;\">Informazioni ed esercitazioni</span></strong></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "dff56334-2e6b-4f64-ab5f-fd72e6484f52"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2331154684095864,
+            "y": 4.414482262971937,
+            "width": 54.46623093681917,
+            "height": 8.825607767023717,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Testo informativo (Parte 1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "5627dc6e-c943-439e-ab4a-4531b7f24264"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582783,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Chi è Roger Penrose</strong><br>\nRoger Penrose è un matematico e fisico britannico nato nel 1931, rinomato per i suoi contributi significativi nel campo della fisica matematica e della cosmologia. È noto per il suo lavoro sulla relatività generale e per aver dimostrato che la formazione di buchi neri è una previsione generale della teoria di Einstein.</p>\n\n<p><strong>L'importanza della relatività generale</strong><br>\nLa relatività generale è una teoria del gravitazione proposta da Albert Einstein, che descrive la gravità come una proprietà dello spazio-tempo curvato dalla massa e dall'energia. Penrose ha esteso la comprensione di questa teoria, mostrando che può prevedere la formazione di singolarità, dove le leggi della fisica come le conosciamo cessano di essere valide.</p>\n\n<p><strong>Penrose e i buchi neri</strong><br>\nPenrose ha sviluppato teoremi che dimostrano l'esistenza dei buchi neri e ha collaborato con Stephen Hawking per elaborare teorie sulla singolarità spazio-temporale. Il suo lavoro ha contribuito a una migliore comprensione dei fenomeni estremi dell'universo e alla fisica dei buchi neri.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "53bc5361-5ce5-43a9-a00f-57bbceee9cd0"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Testo informativo (Parte 2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "55aaf4d3-f7e3-4a3e-9196-01a6f7474f94"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Tassellature di Penrose</strong><br>\nOltre ai suoi studi sull'universo, Penrose ha esplorato il mondo della matematica pura, creando un set di tassellature aperiodiche che portano il suo nome. Queste tassellature hanno la caratteristica di non ripetersi mai periodicamente, dimostrando un ordine matematico in forme apparentemente casuali.</p>\n\n<p><strong>La Mappa Penrose</strong><br>\nPenrose ha anche inventato la \"mappa Penrose\", un tipo di proiezione utilizzata per rappresentare un'intera sfera su un piano. Questa mappa mantiene la direzione locale in ogni punto, ma distorce forma e dimensioni, utilizzata in particolare nella rappresentazione di fenomeni relativistici.</p>\n\n<p><strong>Twistor Theory</strong><br>\nUna delle sue maggiori realizzazioni è la teoria del twistor, che propone una nuova struttura matematica per le leggi fondamentali della fisica. Questa teoria offre una prospettiva alternativa per descrivere i campi quantistici e la gravità, cercando di unificare la meccanica quantistica con la teoria della relatività generale.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "3b13867b-feab-4e2e-bfa2-fcc82e4dbff1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Testo informativo (Parte 3)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "4381b60d-c67f-4722-b83d-b17f2fc9d01c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 12.910611231371064,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Contributi alla scienza popolare</strong><br>\nPenrose è anche un autore di successo e un divulgatore scientifico. Ha scritto diversi libri che cercano di rendere comprensibili i concetti complessi della matematica e della fisica al pubblico generale, come \"La strada che porta alla realtà\".</p>\n\n<p><strong>Premi e riconoscimenti</strong><br>\nPer i suoi eccezionali contributi alla matematica e alla fisica, Penrose ha ricevuto numerosi premi, tra cui il prestigioso Premio Nobel per la fisica nel 2020, condiviso con altri scienziati per il loro lavoro sui buchi neri.</p>\n\n<p><strong>L'eredità di Penrose</strong><br>\nL'eredità di Penrose nell'ambito scientifico è vasta e duratura. I suoi studi continuano ad influenzare la ricerca moderna in matematica e fisica, ispirando nuove generazioni di scienziati a esplorare i confini del nostro universo e la comprensione della realtà.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "3d655444-fd55-42f7-aba2-16a16db7dc58"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Trascina le parole nelle caselle corrette!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Submit",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra soluzione",
+                "dropZoneIndex": "Zona di rilascio @index",
+                "empty": "Zona di rilascio @index è vuota",
+                "contains": "La zona di rilascio @index contiene @draggable trascinabile",
+                "ariaDraggableIndex": "@index di @count trascinabili",
+                "tipLabel": "Mostra suggerimento",
+                "correctText": "Giusto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Resetta elemento trascinabile",
+                "resetDropDescription": "Sei sicuro di voler resettare questo elemento trascinabile?",
+                "grabbed": "L&#039;elemento trascinabile è stato afferrato",
+                "cancelledDragging": "Trascinamento cancellato",
+                "correctAnswer": "Risposta giusta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Relatività generale* - teoria della gravitazione proposta da Einstein\n*Buchi neri* - regioni dello spazio con gravità estremamente forte\n*Singolarità* - punto dove le leggi fisiche non sono valide\n*Tassellature di Penrose* - set di piastrelle aperiodiche matematiche\n*Mappa Penrose* - proiezione per rappresentare sfere su piani",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Termini importanti (1)",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "4a94ce62-c440-4215-bc76-32408bcec41d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termini importanti (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "e773caca-acd3-4ee8-9ed2-b80b588d3a60"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Trascina le parole nelle caselle corrette!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Submit",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra soluzione",
+                "dropZoneIndex": "Zona di rilascio @index",
+                "empty": "Zona di rilascio @index è vuota",
+                "contains": "La zona di rilascio @index contiene @draggable trascinabile",
+                "ariaDraggableIndex": "@index di @count trascinabili",
+                "tipLabel": "Mostra suggerimento",
+                "correctText": "Giusto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Resetta elemento trascinabile",
+                "resetDropDescription": "Sei sicuro di voler resettare questo elemento trascinabile?",
+                "grabbed": "L&#039;elemento trascinabile è stato afferrato",
+                "cancelledDragging": "Trascinamento cancellato",
+                "correctAnswer": "Risposta giusta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Teoria del Twistor* - struttura matematica per leggi fisiche\n*Divulgatore scientifico* - persona che rende la scienza accessibile\n*Premio Nobel per la fisica* - riconoscimento per contributi scientifici\n*Eredità scientifica* - impatto duraturo sul mondo della scienza",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Termini importanti (2)",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "b74a36f9-2aa3-417a-814c-50e58208f7b3"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termini importanti (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "be59e194-86c9-4928-9194-f6e496790bc1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Completate le frasi!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Submit",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra soluzione",
+                "dropZoneIndex": "Zona di rilascio @index",
+                "empty": "Zona di rilascio @index è vuota",
+                "contains": "La zona di rilascio @index contiene @draggable trascinabile",
+                "ariaDraggableIndex": "@index di @count trascinabili",
+                "tipLabel": "Mostra suggerimento",
+                "correctText": "Giusto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Resetta elemento trascinabile",
+                "resetDropDescription": "Sei sicuro di voler resettare questo elemento trascinabile?",
+                "grabbed": "L&#039;elemento trascinabile è stato afferrato",
+                "cancelledDragging": "Trascinamento cancellato",
+                "correctAnswer": "Risposta giusta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Roger Penrose, matematico britannico ...* - ... nato nel 1931.\n*Ha contribuito significativamente ...* - ... alla fisica matematica.\n*Penrose ha lavorato sulla ...* - ... relatività generale.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Frasi complete (1)",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "fc5741fc-cbfd-45c8-9433-cf39572a4b81"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Frasi complete (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "ecb45d14-3fe2-4a02-ab8f-6c03ba60ef4c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Completate le frasi!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Submit",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra soluzione",
+                "dropZoneIndex": "Zona di rilascio @index",
+                "empty": "Zona di rilascio @index è vuota",
+                "contains": "La zona di rilascio @index contiene @draggable trascinabile",
+                "ariaDraggableIndex": "@index di @count trascinabili",
+                "tipLabel": "Mostra suggerimento",
+                "correctText": "Giusto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Resetta elemento trascinabile",
+                "resetDropDescription": "Sei sicuro di voler resettare questo elemento trascinabile?",
+                "grabbed": "L&#039;elemento trascinabile è stato afferrato",
+                "cancelledDragging": "Trascinamento cancellato",
+                "correctAnswer": "Risposta giusta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Dimostrato formazione buchi neri ...* - ... come previsione di Einstein.\n*Ha sviluppato teoremi sull&#039;esistenza ...* - ... dei buchi neri.\n*Creò tassellature aperiodiche ...* - ... conosciute come Penrose.\n*Inventò la mappa Penrose ...* - ... per rappresentazioni sferiche.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Frasi complete (2)",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "a8bdf3b3-dac7-40e5-bdfd-f199401a2c3e"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Frasi complete (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "1351cab9-7952-442e-bc32-7d4a3895ab3d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Vero o falso?</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "3f4bfb9e-6eb5-4097-abf6-f0c1308dfc3f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 10.758842692809221,
+            "width": 95.41899441340783,
+            "height": 88.30022075055187,
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>Scegliete l'affermazione corretta!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Avanzamento:",
+                "scoreLabel": "Risposte sbagliate:",
+                "resultLabel": "Il tuo risultato",
+                "labelCorrect": "Giusto",
+                "labelIncorrect": "Sbagliato! Prova ancora",
+                "alternativeIncorrectLabel": "Sbagliato",
+                "labelCorrectAnswers": "Risposte giuste",
+                "tipButtonLabel": "Mostra suggerimento",
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "progressText": "Avanzamento: :num su :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "Roger Penrose è nato nel 1931.",
+                      "Penrose ha scoperto la teoria della relatività generale."
+                    ],
+                    "subContentId": "5a3fadd9-3c60-48ce-b0cd-0ad9b7a978f0",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Ha ricevuto il Premio Nobel per la fisica nel 2020.",
+                      "Le tassellature di Penrose ripetono periodicamente."
+                    ],
+                    "subContentId": "0eed386d-cfc6-4c7e-aa93-be05b1ab01da",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Penrose ha collaborato con Stephen Hawking.",
+                      "La mappa Penrose è usata principalmente in geografia."
+                    ],
+                    "subContentId": "9dd6c2c7-a9e4-4662-9a29-496e1a8a6e8c",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Ha scritto libri sulla matematica e fisica.",
+                      "La teoria del Twistor è stata rifiutata dalla comunità scientifica."
+                    ],
+                    "subContentId": "39c711a1-0e6a-4ce6-9c18-06fef6325123",
+                    "tip": ""
+                  }
+                ]
+              },
+              "subContentId": "6207504c-ae8f-4a09-b236-0a5b6cd442ec",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "Vero o falso?",
+                "defaultLanguage": "it"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Domande</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "303d8e49-9df8-4ebb-bb74-21e0f7344e25"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 92.40223463687151,
+            "height": 58.27814569536424,
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": false,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Prossima domanda",
+                  "showSolutionButtonLabel": "Mostra soluzione",
+                  "retryButtonLabel": "Riprova",
+                  "solutionViewTitle": "Elenco delle soluzioni",
+                  "correctText": "Giusto!",
+                  "incorrectText": "Sbagliato!",
+                  "muteButtonLabel": "Silenzia il suono di feedback",
+                  "closeButtonLabel": "Chiudi",
+                  "slideOfTotal": ":num slide di :total",
+                  "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                  "solutionListQuestionNumber": "Domanda :num",
+                  "a11yShowSolution": "Mostra soluzione",
+                  "a11yRetry": "Riprova",
+                  "shouldSelect": "Should have been selected",
+                  "shouldNotSelect": "Should not have been selected"
+                },
+                "choices": [
+                  {
+                    "question": "In quale campo Roger Penrose ha fatto importanti contributi?",
+                    "answers": [
+                      "Fisica matematica e cosmologia",
+                      "Biologia",
+                      "Chimica",
+                      "Informatica"
+                    ],
+                    "subContentId": "31264ebe-534c-4a8e-b695-99946767ec78"
+                  },
+                  {
+                    "question": "Qual è la teoria principale associata a Roger Penrose?",
+                    "answers": [
+                      "Relatività generale",
+                      "Teoria delle stringhe",
+                      "Elettromagnetismo",
+                      "Termodinamica"
+                    ],
+                    "subContentId": "e5e52bc0-c692-4625-86a5-1c78925a36af"
+                  },
+                  {
+                    "question": "Per cosa sono famose le tassellature di Penrose?",
+                    "answers": [
+                      "Non ripetersi mai periodicamente",
+                      "Essere colorate",
+                      "Rappresentare animali",
+                      "Essere tridimensionali"
+                    ],
+                    "subContentId": "1dc66c84-9212-4980-9cee-c5bec977fd96"
+                  },
+                  {
+                    "question": "Quale premio ha ricevuto Roger Penrose nel 2020?",
+                    "answers": [
+                      "Premio Nobel per la fisica",
+                      "Medaglia Fields",
+                      "Pulitzer",
+                      "Grammy"
+                    ],
+                    "subContentId": "adbee2ff-e35b-48d4-ad97-b315c89a1135"
+                  },
+                  {
+                    "question": "Qual è lo scopo della mappa Penrose?",
+                    "answers": [
+                      "Rappresentare sfere su piani",
+                      "Misurare distanze",
+                      "Navigazione marittima",
+                      "Previsioni meteorologiche"
+                    ],
+                    "subContentId": "acd697b1-efa7-47be-9d8e-83e94dd9328b"
+                  },
+                  {
+                    "question": "Che cos'è la teoria del Twistor?",
+                    "answers": [
+                      "Struttura matematica per leggi fisiche",
+                      "Teoria della relatività",
+                      "Modello atomico",
+                      "Teoria della musica"
+                    ],
+                    "subContentId": "b6b64596-9e93-4260-90be-c7a9d27eda94"
+                  }
+                ]
+              },
+              "subContentId": "dc6b82f1-4264-4137-8683-db0b27e41a00",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Domande",
+                "defaultLanguage": "it"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      }
+    ],
+    "keywordListEnabled": true,
+    "globalBackgroundSelector": {},
+    "keywordListAlwaysShow": false,
+    "keywordListAutoHide": false,
+    "keywordListOpacity": 90
+  },
+  "override": {
+    "activeSurface": false,
+    "hideSummarySlide": false,
+    "summarySlideSolutionButton": true,
+    "summarySlideRetryButton": true,
+    "enablePrintButton": false,
+    "social": {
+      "showFacebookShare": false,
+      "facebookShare": {
+        "url": "@currentpageurl",
+        "quote": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht."
+      },
+      "showTwitterShare": false,
+      "twitterShare": {
+        "statement": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht.",
+        "url": "@currentpageurl",
+        "hashtags": "h5p, Kurs"
+      },
+      "showGoogleShare": false,
+      "googleShareUrl": "@currentpageurl"
+    }
+  },
+  "l10n": {
+    "slide": "Slide",
+    "score": "Punteggio",
+    "yourScore": "Il tuo punteggio",
+    "maxScore": "Punteggio massimo",
+    "total": "Totale",
+    "totalScore": "Punteggio totale",
+    "showSolutions": "Mostra soluzioni",
+    "retry": "Riprova",
+    "exportAnswers": "Esporta testo",
+    "hideKeywords": "Nascondi l&#039;elenco delle parole chiave",
+    "showKeywords": "Mostra l&#039;elenco delle parole chiave",
+    "fullscreen": "Schermo intero",
+    "exitFullscreen": "Esci da schermo intero",
+    "prevSlide": "Slide precedente",
+    "nextSlide": "Prossima slide",
+    "currentSlide": "Slide corrente",
+    "lastSlide": "Ultima slide",
+    "solutionModeTitle": "Esci dalla modalità di soluzione",
+    "solutionModeText": "Modalità di soluzione",
+    "summaryMultipleTaskText": "Attività multiple",
+    "scoreMessage": "Hai ottenuto:",
+    "shareFacebook": "Condividi su Facebook",
+    "shareTwitter": "Condividi su Twitter",
+    "shareGoogle": "Condividi su Google+",
+    "summary": "Riepilogo",
+    "solutionsButtonTitle": "Mostra commenti",
+    "printTitle": "Stampa",
+    "printIngress": "Come vorresti stampare questa presentazione?",
+    "printAllSlides": "Stampa tutte le slide",
+    "printCurrentSlide": "Stampa la slide corrente",
+    "noTitle": "Nessun titolo",
+    "accessibilitySlideNavigationExplanation": "Usa le frecce destra e sinistra per cambiare slide ogni volta che il canvas è selezionato",
+    "accessibilityCanvasLabel": "Canvas di presentazione. Usa le frecce destra e sinistra per muoverti tra le slide",
+    "containsNotCompleted": "@slideName contiene interazioni non portate a termine",
+    "containsCompleted": "@slideName contiene interazioni portate a termine",
+    "slideCount": "Slide @index di @total",
+    "containsOnlyCorrect": "@slideName ha soltanto risposte giuste",
+    "containsIncorrectAnswers": "@slideName contiene risposte sbagliate",
+    "shareResult": "Condividi risultato",
+    "accessibilityTotalScore": "Il tuo punteggio complessivo è @score su @maxScore",
+    "accessibilityEnteredFullscreen": "Entrata a schermo intero",
+    "accessibilityExitedFullscreen": "Uscita da schermo intero",
+    "confirmDialogHeader": "Submit your answers",
+    "confirmDialogText": "This will submit your results, do you want to continue?",
+    "confirmDialogConfirmText": "Submit and see results",
+    "accessibilityProgressBarLabel": "Choose slide to display",
+    "slideshowNavigationLabel": "Slideshow navigation"
+  }
+}

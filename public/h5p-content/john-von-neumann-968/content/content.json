@@ -1,0 +1,917 @@
+{
+  "presentation": {
+    "slides": [
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 6.455305615685532,
+            "width": 92.73743016759778,
+            "height": 50.77262693156732,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:3em;\"><strong>John von Neumann</strong></span></p>\n\n<p><strong><span style=\"font-size:1.5em;\">Information and exercises</span></strong></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "dff56334-2e6b-4f64-ab5f-fd72e6484f52"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>INFORMATION TEXT (Part 1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "5627dc6e-c943-439e-ab4a-4531b7f24264"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582783,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>John von Neumann's Early Life</strong><br>\nJohn von Neumann was born in Budapest, Hungary, in 1903. He was recognized early on for his exceptional intelligence. By the age of six, he could divide two eight-digit numbers in his head. He excelled at languages as well, speaking Ancient Greek and Latin fluently by the time he was a teenager. His brilliance in mathematics became evident at a young age, leading him to pursue a career in mathematics and science.</p>\n\n<p><strong>Education and Academic Grounding</strong><br>\nVon Neumann received his Ph.D. in mathematics with minors in experimental physics and chemistry at the age of 22 from the University of Budapest. He then went on to study at the University of Göttingen, which was then the mecca of mathematical physics. His professors included David Hilbert and Hermann Weyl, under whose guidance von Neumann made significant contributions to set theory, quantum mechanics, and operator theory.</p>\n\n<p><strong>Contributions to Mathematics</strong><br>\nJohn von Neumann contributed to several fields of mathematics, including set theory, functional analysis, quantum mechanics, ergodic theory, continuous geometry, economics, and statistics. He provided a mathematical foundation for quantum mechanics with his work on operator theory. He also developed the concept of the von Neumann algebra and the pointwise ergodic theorem, demonstrating his breadth of knowledge across mathematical disciplines.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "53bc5361-5ce5-43a9-a00f-57bbceee9cd0"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>INFORMATION TEXT (Part 2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "55aaf4d3-f7e3-4a3e-9196-01a6f7474f94"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Involvement in Computer Science</strong><br>\nVon Neumann's interest in applied mathematics led him to work on problems of ballistics during World War II, which in turn introduced him to electronic computing. He wrote the seminal \"First Draft of a Report on the EDVAC,\" outlining the architecture of a stored-program computer. This design, later known as the von Neumann architecture, became fundamental to building modern computers.</p>\n\n<p><strong>The von Neumann Architecture</strong><br>\nThe von Neumann architecture is a computer design model that uses a single storage structure to hold both the set of instructions on how to perform the computation and the data required or generated by the computation. This concept revolutionized the way computers were made and is still the basis for most computer architectures today.</p>\n\n<p><strong>Work on the Manhattan Project</strong><br>\nDuring World War II, von Neumann worked on the Manhattan Project, contributing to the development of the atomic bomb. His mathematical expertise helped solve the implosion problem that was crucial to the bomb's design. He also worked on the development of hydrogen bombs and on various military projects involving computational models.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "3b13867b-feab-4e2e-bfa2-fcc82e4dbff1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>INFORMATION TEXT (Part 3)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "4381b60d-c67f-4722-b83d-b17f2fc9d01c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 12.910611231371064,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Later Years and Death</strong><br>\nIn his later years, von Neumann turned his attention to high-speed computing machines and contributed to the development of the Institute for Advanced Study's computer. He was diagnosed with cancer and passed away in 1957. Despite his illness, he continued to work on mathematics and computing until his final days.</p>\n\n<p><strong>Legacy in Mathematics and Computer Science</strong><br>\nJohn von Neumann's legacy in mathematics and computer science is enormous. He is considered one of the greatest mathematicians of the 20th century. His work laid the groundwork for many areas of mathematics and the development of computer science as a field of study.</p>\n\n<p><strong>Personal Traits and Recognition</strong><br>\nKnown for his quick wit and love of parties, von Neumann's personality was as large as his intellect. He received numerous awards for his work, including the Medal for Merit for his wartime services. He was known for his ability to memorize complete books and for his speed of thought, often solving problems faster than his colleagues could comprehend.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "3d655444-fd55-42f7-aba2-16a16db7dc58"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Drag the words into the correct boxes!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Check",
+                "submitAnswer": "Submit",
+                "tryAgain": "Retry",
+                "showSolution": "Show solution",
+                "dropZoneIndex": "Drop Zone @index.",
+                "empty": "Drop Zone @index is empty.",
+                "contains": "Drop Zone @index contains draggable @draggable.",
+                "ariaDraggableIndex": "@index of @count draggables.",
+                "tipLabel": "Show tip",
+                "correctText": "Correct!",
+                "incorrectText": "Incorrect!",
+                "resetDropTitle": "Reset drop",
+                "resetDropDescription": "Are you sure you want to reset this drop zone?",
+                "grabbed": "Draggable is grabbed.",
+                "cancelledDragging": "Cancelled dragging.",
+                "correctAnswer": "Correct answer:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "You got :num out of :total points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Mathematician* - A scientist specializing in mathematics\n*Quantum Mechanics* - A fundamental theory in physics\n*Ergodic Theory* - Mathematical theory dealing with dynamical systems\n*Set Theory* - Mathematical study of sets of numbers\n*Functional Analysis* - Branch of mathematics analyzing functions",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Terms 1",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "4a94ce62-c440-4215-bc76-32408bcec41d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>IMPORTANT TERMS (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "e773caca-acd3-4ee8-9ed2-b80b588d3a60"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Drag the words into the correct boxes!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Check",
+                "submitAnswer": "Submit",
+                "tryAgain": "Retry",
+                "showSolution": "Show solution",
+                "dropZoneIndex": "Drop Zone @index.",
+                "empty": "Drop Zone @index is empty.",
+                "contains": "Drop Zone @index contains draggable @draggable.",
+                "ariaDraggableIndex": "@index of @count draggables.",
+                "tipLabel": "Show tip",
+                "correctText": "Correct!",
+                "incorrectText": "Incorrect!",
+                "resetDropTitle": "Reset drop",
+                "resetDropDescription": "Are you sure you want to reset this drop zone?",
+                "grabbed": "Draggable is grabbed.",
+                "cancelledDragging": "Cancelled dragging.",
+                "correctAnswer": "Correct answer:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "You got :num out of :total points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Von Neumann Architecture* - Design model for computer construction\n*Manhattan Project* - WWII project developing atomic bombs\n*Ballistics* - Science of the motion of projectiles\n*Operator Theory* - Study of linear operators in function spaces",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Terms 2",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "b74a36f9-2aa3-417a-814c-50e58208f7b3"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>IMPORTANT TERMS (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "d2c257d7-2a39-42ba-a7cf-19e97358039f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Complete the sentences!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Check",
+                "submitAnswer": "Submit",
+                "tryAgain": "Retry",
+                "showSolution": "Show solution",
+                "dropZoneIndex": "Drop Zone @index.",
+                "empty": "Drop Zone @index is empty.",
+                "contains": "Drop Zone @index contains draggable @draggable.",
+                "ariaDraggableIndex": "@index of @count draggables.",
+                "tipLabel": "Show tip",
+                "correctText": "Correct!",
+                "incorrectText": "Incorrect!",
+                "resetDropTitle": "Reset drop",
+                "resetDropDescription": "Are you sure you want to reset this drop zone?",
+                "grabbed": "Draggable is grabbed.",
+                "cancelledDragging": "Cancelled dragging.",
+                "correctAnswer": "Correct answer:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "You got :num out of :total points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*John von Neumann was born ...* - ... in Budapest, Hungary.\n*He developed the von Neumann ...* - ... architecture for computers.\n*Von Neumann contributed to ...* - ... the Manhattan Project.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Sentences 1",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "fc5741fc-cbfd-45c8-9433-cf39572a4b81"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>COMPLETE SENTENCES (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "ecb45d14-3fe2-4a02-ab8f-6c03ba60ef4c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Complete the sentences!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Check",
+                "submitAnswer": "Submit",
+                "tryAgain": "Retry",
+                "showSolution": "Show solution",
+                "dropZoneIndex": "Drop Zone @index.",
+                "empty": "Drop Zone @index is empty.",
+                "contains": "Drop Zone @index contains draggable @draggable.",
+                "ariaDraggableIndex": "@index of @count draggables.",
+                "tipLabel": "Show tip",
+                "correctText": "Correct!",
+                "incorrectText": "Incorrect!",
+                "resetDropTitle": "Reset drop",
+                "resetDropDescription": "Are you sure you want to reset this drop zone?",
+                "grabbed": "Draggable is grabbed.",
+                "cancelledDragging": "Cancelled dragging.",
+                "correctAnswer": "Correct answer:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "You got :num out of :total points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*He solved important problems ...* - ... in quantum mechanics.\n*Fluent in Ancient Greek ...* - ... and Latin as a teenager.\n*His work impacted both ...* - ... mathematics and computer science.\n*He passed away in ...* - ... the year 1957.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Sentences 2",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "a8bdf3b3-dac7-40e5-bdfd-f199401a2c3e"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>COMPLETE SENTENCES (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "1351cab9-7952-442e-bc32-7d4a3895ab3d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>TRUE OR FALSE?</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "3f4bfb9e-6eb5-4097-abf6-f0c1308dfc3f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.2346368715083798,
+            "y": 11.69916114790287,
+            "width": 95.41899441340783,
+            "height": 88.30022075055187,
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>Choose the correct statement!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Progress:",
+                "scoreLabel": "Wrong answers:",
+                "resultLabel": "Your result",
+                "labelCorrect": "Correct.",
+                "labelIncorrect": "Incorrect! Please try again.",
+                "alternativeIncorrectLabel": "Incorrect",
+                "labelCorrectAnswers": "Correct answers.",
+                "tipButtonLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "progressText": "Progress :num of :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "John von Neumann was born in 1903.",
+                      "Von Neumann specialized only in quantum mechanics."
+                    ],
+                    "subContentId": "9aac822f-ddfe-4f0a-abad-6feced59ffb5",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "He received his Ph.D. at the age of 22.",
+                      "He was born and raised in the United States."
+                    ],
+                    "subContentId": "c81a3c3c-9e96-4c72-b8b7-16976fbae2c4",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Von Neumann contributed to the development of the atomic bomb.",
+                      "Von Neumann’s main contribution was in biology."
+                    ],
+                    "subContentId": "c217c129-9a21-47b0-92e0-5e0d137d5a7b",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "He was involved in the creation of the von Neumann architecture.",
+                      "He was not involved in any wartime projects."
+                    ],
+                    "subContentId": "6feccef0-fde9-4685-a169-094a25bef338",
+                    "tip": ""
+                  }
+                ]
+              },
+              "subContentId": "6207504c-ae8f-4a09-b236-0a5b6cd442ec",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "True or false?",
+                "defaultLanguage": "en"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>QUESTIONS</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "303d8e49-9df8-4ebb-bb74-21e0f7344e25"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 92.40223463687151,
+            "height": 58.27814569536424,
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": false,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Next question",
+                  "showSolutionButtonLabel": "Show solution",
+                  "retryButtonLabel": "Retry",
+                  "solutionViewTitle": "Solution list",
+                  "correctText": "Correct!",
+                  "incorrectText": "Incorrect!",
+                  "muteButtonLabel": "Mute feedback sound",
+                  "closeButtonLabel": "Close",
+                  "slideOfTotal": "Slide :num of :total",
+                  "scoreBarLabel": "You got :num out of :total points",
+                  "solutionListQuestionNumber": "Question :num",
+                  "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                  "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                  "shouldSelect": "Should have been selected",
+                  "shouldNotSelect": "Should not have been selected"
+                },
+                "choices": [
+                  {
+                    "question": "Where was John von Neumann born?",
+                    "answers": [
+                      "Budapest, Hungary",
+                      "Berlin, Germany",
+                      "Paris, France",
+                      "London, England"
+                    ],
+                    "subContentId": "6debfa86-daf4-4de0-9c90-2ba1ac765a60"
+                  },
+                  {
+                    "question": "What is the von Neumann architecture?",
+                    "answers": [
+                      "Computer design model",
+                      "Economic theory",
+                      "Quantum mechanics concept",
+                      "Set theory principle"
+                    ],
+                    "subContentId": "7ced6a62-85a6-4c17-9027-cbec3285260c"
+                  },
+                  {
+                    "question": "Which project did von Neumann contribute to during WWII?",
+                    "answers": [
+                      "Manhattan Project",
+                      "Apollo Project",
+                      "Enigma Project",
+                      "Rosetta Stone Project"
+                    ],
+                    "subContentId": "4d0da185-4d08-4c7a-b01f-fdcf7c20cae2"
+                  },
+                  {
+                    "question": "In which field did von Neumann make significant contributions?",
+                    "answers": [
+                      "Mathematics and Computer Science",
+                      "Biology and Medicine",
+                      "Geography and Geology",
+                      "Linguistics and Literature"
+                    ],
+                    "subContentId": "e0f4bd43-ec43-42af-aa35-94c0f9579dd1"
+                  },
+                  {
+                    "question": "At what age did von Neumann receive his Ph.D.?",
+                    "answers": [
+                      "22",
+                      "30",
+                      "18",
+                      "25"
+                    ],
+                    "subContentId": "1f9f69bd-53e6-43d8-8c1f-aada1b2ff304"
+                  },
+                  {
+                    "question": "What was von Neumann known for memorizing?",
+                    "answers": [
+                      "Complete books",
+                      "Musical compositions",
+                      "Political speeches",
+                      "Scientific formulas"
+                    ],
+                    "subContentId": "4e06e691-779e-4191-ad02-044118c01976"
+                  }
+                ]
+              },
+              "subContentId": "dc6b82f1-4264-4137-8683-db0b27e41a00",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Questions",
+                "defaultLanguage": "en"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      }
+    ],
+    "keywordListEnabled": true,
+    "globalBackgroundSelector": {},
+    "keywordListAlwaysShow": false,
+    "keywordListAutoHide": false,
+    "keywordListOpacity": 90
+  },
+  "override": {
+    "activeSurface": false,
+    "hideSummarySlide": false,
+    "summarySlideSolutionButton": true,
+    "summarySlideRetryButton": true,
+    "enablePrintButton": false,
+    "social": {
+      "showFacebookShare": false,
+      "facebookShare": {
+        "url": "@currentpageurl",
+        "quote": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht."
+      },
+      "showTwitterShare": false,
+      "twitterShare": {
+        "statement": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht.",
+        "url": "@currentpageurl",
+        "hashtags": "h5p, Kurs"
+      },
+      "showGoogleShare": false,
+      "googleShareUrl": "@currentpageurl"
+    }
+  },
+  "l10n": {
+    "slide": "Slide",
+    "score": "Score",
+    "yourScore": "Your Score",
+    "maxScore": "Max Score",
+    "total": "Total",
+    "totalScore": "Total Score",
+    "showSolutions": "Show solutions",
+    "retry": "Retry",
+    "exportAnswers": "Export text",
+    "hideKeywords": "Hide sidebar navigation menu",
+    "showKeywords": "Show sidebar navigation menu",
+    "fullscreen": "Fullscreen",
+    "exitFullscreen": "Exit fullscreen",
+    "prevSlide": "Previous slide",
+    "nextSlide": "Next slide",
+    "currentSlide": "Current slide",
+    "lastSlide": "Last slide",
+    "solutionModeTitle": "Exit solution mode",
+    "solutionModeText": "Solution Mode",
+    "summaryMultipleTaskText": "Multiple tasks",
+    "scoreMessage": "You achieved:",
+    "shareFacebook": "Share on Facebook",
+    "shareTwitter": "Share on Twitter",
+    "shareGoogle": "Share on Google+",
+    "summary": "Summary",
+    "solutionsButtonTitle": "Show comments",
+    "printTitle": "Print",
+    "printIngress": "How would you like to print this presentation?",
+    "printAllSlides": "Print all slides",
+    "printCurrentSlide": "Print current slide",
+    "noTitle": "No title",
+    "accessibilitySlideNavigationExplanation": "Use left and right arrow to change slide in that direction whenever canvas is selected.",
+    "accessibilityCanvasLabel": "Presentation canvas. Use left and right arrow to move between slides.",
+    "containsNotCompleted": "@slideName contains not completed interaction",
+    "containsCompleted": "@slideName contains completed interaction",
+    "slideCount": "Slide @index of @total",
+    "containsOnlyCorrect": "@slideName only has correct answers",
+    "containsIncorrectAnswers": "@slideName has incorrect answers",
+    "shareResult": "Share Result",
+    "accessibilityTotalScore": "You got @score of @maxScore points in total",
+    "accessibilityEnteredFullscreen": "Entered fullscreen",
+    "accessibilityExitedFullscreen": "Exited fullscreen",
+    "confirmDialogHeader": "Submit your answers",
+    "confirmDialogText": "This will submit your results, do you want to continue?",
+    "confirmDialogConfirmText": "Submit and see results",
+    "accessibilityProgressBarLabel": "Choose slide to display",
+    "slideshowNavigationLabel": "Slideshow navigation"
+  }
+}

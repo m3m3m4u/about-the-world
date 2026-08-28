@@ -1,0 +1,917 @@
+{
+  "presentation": {
+    "slides": [
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 6.455305615685532,
+            "width": 92.73743016759778,
+            "height": 50.77262693156732,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:3em;\"><strong>Archimede (287-212 a.C. circa) - matematico e inventore greco</strong></span></p>\n\n<p><strong><span style=\"font-size:1.5em;\">Informazioni ed esercitazioni</span></strong></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "dff56334-2e6b-4f64-ab5f-fd72e6484f52"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2331154684095864,
+            "y": 4.414482262971937,
+            "width": 54.46623093681917,
+            "height": 8.825607767023717,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Testo informativo (Parte 1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "5627dc6e-c943-439e-ab4a-4531b7f24264"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582783,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Archimede: il matematico greco</strong><br>\nArchimede di Siracusa è stato uno dei più grandi matematici dell'antichità. Nato intorno al 287 a.C. a Siracusa, in Sicilia, si distinse per le sue scoperte nel campo della matematica e della fisica. È famoso per i suoi studi sulla leva, sul piano inclinato e sul principio di spostamento del volume di liquido, che è la base della sua leggenda più nota, il \"Eureka\". Archimede fu anche un ingegnere abile, che progettò macchine come argani e catapulte.</p>\n\n<p><strong>Le scoperte in geometria</strong><br>\nArchimede è conosciuto per i suoi contributi fondamentali in geometria. Calcolò l'area del cerchio, la superficie e il volume della sfera e del cilindro, e sviluppò metodi per determinare i centri di gravità di varie figure solide. Le sue opere, come \"Sulla sfera e il cilindro\" e \"Misura del cerchio\", hanno posto le basi per ulteriori sviluppi matematici e ingegneristici nei secoli a venire.</p>\n\n<p><strong>L'invenzione della vite di Archimede</strong><br>\nUna delle sue invenzioni più famose è la vite di Archimede, un dispositivo utilizzato per sollevare l'acqua per l'irrigazione e drenare le miniere allagate. La vite è un cilindro con una spirale interna che, girando, trasporta l'acqua verso l'alto. Questa invenzione è stata di fondamentale importanza per l'agricoltura e l'ingegneria civile dell'epoca.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "53bc5361-5ce5-43a9-a00f-57bbceee9cd0"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Testo informativo (Parte 2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "55aaf4d3-f7e3-4a3e-9196-01a6f7474f94"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Il principio di Archimede</strong><br>\nIl principio di Archimede afferma che un corpo immerso in un fluido riceve una spinta verso l'alto pari al peso del fluido spostato. Questo principio è ancora oggi utilizzato per calcolare la spinta e il galleggiamento degli oggetti in acqua, ed è una pietra miliare della fisica e dell'ingegneria.</p>\n\n<p><strong>Le macchine da guerra</strong><br>\nDurante l'assedio di Siracusa, Archimede costruì diverse macchine da guerra per difendere la città. Tra queste, specchi ustori che avrebbero bruciato le navi romane usando la riflessione solare, anche se l'esistenza di tali macchine è oggetto di dibattito tra gli storici. Le sue invenzioni belliche includono anche catapulte e meccanismi per sollevare o ribaltare le navi nemiche.</p>\n\n<p><strong>L'importanza dei lavori scritti</strong><br>\nI contributi di Archimede non si limitano alle sue invenzioni, ma includono anche una vasta gamma di trattati. Scritti in greco dorico, la lingua di Siracusa, i suoi testi hanno influenzato generazioni successive di scienziati e matematici. Purtroppo, molti dei suoi lavori sono andati persi nel corso dei secoli, ma quelli sopravvissuti rimangono testi di grande valore.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "3b13867b-feab-4e2e-bfa2-fcc82e4dbff1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Testo informativo (Parte 3)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "4381b60d-c67f-4722-b83d-b17f2fc9d01c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 12.910611231371064,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Morte e eredità</strong><br>\nArchimede morì durante l'invasione romana di Siracusa nel 212 a.C. Si dice che sia stato ucciso da un soldato romano, nonostante l'ordine di non farlo del generale romano Marcello, che voleva catturarlo vivo per sfruttare la sua mente geniale. La sua eredità continua a vivere nella scienza e nella tecnologia moderna.</p>\n\n<p><strong>Il metodo di Archimede</strong><br>\nArchimede utilizzava un approccio chiamato \"metodo di esaustione\" per calcolare l'area e il volume di figure geometriche. Questo metodo prevedeva l'uso di sequenze di poligoni regolari inscritti e circoscritti per approssimare le dimensioni di una figura. Il suo lavoro in questo campo ha anticipato l'integrazione, un concetto centrale nel calcolo matematico.</p>\n\n<p><strong>L'aneddoto del \"Eureka\"</strong><br>\nL'aneddoto più famoso riguardante Archimede è il suo \"Eureka\", esclamato mentre correva nudo per le strade di Siracusa dopo aver scoperto il principio che porta il suo nome. Questo racconto evidenzia il suo carattere di scienziato appassionato e la sua costante ricerca di soluzioni ai problemi pratici attraverso l'osservazione e l'esperimento.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "3d655444-fd55-42f7-aba2-16a16db7dc58"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Trascina le parole nelle caselle corrette!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Submit",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra soluzione",
+                "dropZoneIndex": "Zona di rilascio @index",
+                "empty": "Zona di rilascio @index è vuota",
+                "contains": "La zona di rilascio @index contiene @draggable trascinabile",
+                "ariaDraggableIndex": "@index di @count trascinabili",
+                "tipLabel": "Mostra suggerimento",
+                "correctText": "Giusto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Resetta elemento trascinabile",
+                "resetDropDescription": "Sei sicuro di voler resettare questo elemento trascinabile?",
+                "grabbed": "L&#039;elemento trascinabile è stato afferrato",
+                "cancelledDragging": "Trascinamento cancellato",
+                "correctAnswer": "Risposta giusta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Principio di Archimede* - la spinta di un fluido su un corpo immerso\n*Cerchio* - figura geometrica con tutti punti equidistanti dal centro\n*Sfera* - corpo geometrico perfettamente rotondo in tre dimensioni\n*Cilindro* - solido con due basi circolari parallele e congruenti\n*Vite di Archimede* - dispositivo per sollevare acqua con una spirale",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Termini importanti (1)",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "4a94ce62-c440-4215-bc76-32408bcec41d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termini importanti (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "e773caca-acd3-4ee8-9ed2-b80b588d3a60"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Trascina le parole nelle caselle corrette!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Submit",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra soluzione",
+                "dropZoneIndex": "Zona di rilascio @index",
+                "empty": "Zona di rilascio @index è vuota",
+                "contains": "La zona di rilascio @index contiene @draggable trascinabile",
+                "ariaDraggableIndex": "@index di @count trascinabili",
+                "tipLabel": "Mostra suggerimento",
+                "correctText": "Giusto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Resetta elemento trascinabile",
+                "resetDropDescription": "Sei sicuro di voler resettare questo elemento trascinabile?",
+                "grabbed": "L&#039;elemento trascinabile è stato afferrato",
+                "cancelledDragging": "Trascinamento cancellato",
+                "correctAnswer": "Risposta giusta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Metodo di esaustione* - tecnica per calcolare aree e volumi\n*Macchine da guerra* - dispositivi bellici progettati da Archimede\n*Specchi ustori* - presunta invenzione per incendiare navi con il sole\n*Eureka* - esclamazione di scoperta del principio di spostamento",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Termini importanti (2)",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "b74a36f9-2aa3-417a-814c-50e58208f7b3"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termini importanti (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "be59e194-86c9-4928-9194-f6e496790bc1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Completate le frasi!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Submit",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra soluzione",
+                "dropZoneIndex": "Zona di rilascio @index",
+                "empty": "Zona di rilascio @index è vuota",
+                "contains": "La zona di rilascio @index contiene @draggable trascinabile",
+                "ariaDraggableIndex": "@index di @count trascinabili",
+                "tipLabel": "Mostra suggerimento",
+                "correctText": "Giusto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Resetta elemento trascinabile",
+                "resetDropDescription": "Sei sicuro di voler resettare questo elemento trascinabile?",
+                "grabbed": "L&#039;elemento trascinabile è stato afferrato",
+                "cancelledDragging": "Trascinamento cancellato",
+                "correctAnswer": "Risposta giusta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Archimede nacque a Siracusa ...* - ... intorno al 287 a.C.\n*Calcolò l&#039;area e il volume ...* - ... di sfere e cilindri.\n*Inventò la vite per sollevare ...* - ... l&#039;acqua per irrigazione.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Frasi complete (1)",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "fc5741fc-cbfd-45c8-9433-cf39572a4b81"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Frasi complete (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "ecb45d14-3fe2-4a02-ab8f-6c03ba60ef4c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Completate le frasi!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Submit",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra soluzione",
+                "dropZoneIndex": "Zona di rilascio @index",
+                "empty": "Zona di rilascio @index è vuota",
+                "contains": "La zona di rilascio @index contiene @draggable trascinabile",
+                "ariaDraggableIndex": "@index di @count trascinabili",
+                "tipLabel": "Mostra suggerimento",
+                "correctText": "Giusto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Resetta elemento trascinabile",
+                "resetDropDescription": "Sei sicuro di voler resettare questo elemento trascinabile?",
+                "grabbed": "L&#039;elemento trascinabile è stato afferrato",
+                "cancelledDragging": "Trascinamento cancellato",
+                "correctAnswer": "Risposta giusta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Un corpo immerso in un fluido ...* - ... riceve una spinta verso l&#039;alto.\n*Durante l&#039;assedio di Siracusa, ...* - ... inventò macchine da guerra.\n*I suoi trattati influenzarono ...* - ... la scienza moderna.\n*Morì durante l&#039;invasione ...* - ... romana di Siracusa.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Frasi complete (2)",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "a8bdf3b3-dac7-40e5-bdfd-f199401a2c3e"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Frasi complete (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "1351cab9-7952-442e-bc32-7d4a3895ab3d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Vero o falso?</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "3f4bfb9e-6eb5-4097-abf6-f0c1308dfc3f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 10.758842692809221,
+            "width": 95.41899441340783,
+            "height": 88.30022075055187,
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>Scegliete l'affermazione corretta!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Avanzamento:",
+                "scoreLabel": "Risposte sbagliate:",
+                "resultLabel": "Il tuo risultato",
+                "labelCorrect": "Giusto",
+                "labelIncorrect": "Sbagliato! Prova ancora",
+                "alternativeIncorrectLabel": "Sbagliato",
+                "labelCorrectAnswers": "Risposte giuste",
+                "tipButtonLabel": "Mostra suggerimento",
+                "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                "progressText": "Avanzamento: :num su :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "Archimede scoprì il principio di spostamento del volume di liquido.",
+                      "Archimede era noto per le sue scoperte in biologia marina."
+                    ],
+                    "subContentId": "8650090b-1461-4632-8433-e82f9f747665",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Contribuì significativamente alla geometria, calcolando area e volume.",
+                      "Il principio di Archimede è usato per calcolare la velocità del suono."
+                    ],
+                    "subContentId": "b36cde8f-1deb-4093-8249-67c740767ad8",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Inventò la vite di Archimede, usata per sollevare l'acqua.",
+                      "La vite di Archimede era principalmente un'arma bellica."
+                    ],
+                    "subContentId": "cb1da4a8-ca54-4874-b52c-1d87fa2c22d8",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Utilizzò il metodo di esaustione per approssimare figure geometriche.",
+                      "Archimede fu ucciso durante un esperimento scientifico."
+                    ],
+                    "subContentId": "6c3a8d4f-514e-4fa8-ab9e-9cec6df4ad29",
+                    "tip": ""
+                  }
+                ]
+              },
+              "subContentId": "6207504c-ae8f-4a09-b236-0a5b6cd442ec",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "Vero o falso?",
+                "defaultLanguage": "it"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Domande</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "303d8e49-9df8-4ebb-bb74-21e0f7344e25"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 92.40223463687151,
+            "height": 58.27814569536424,
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": false,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Prossima domanda",
+                  "showSolutionButtonLabel": "Mostra soluzione",
+                  "retryButtonLabel": "Riprova",
+                  "solutionViewTitle": "Elenco delle soluzioni",
+                  "correctText": "Giusto!",
+                  "incorrectText": "Sbagliato!",
+                  "muteButtonLabel": "Silenzia il suono di feedback",
+                  "closeButtonLabel": "Chiudi",
+                  "slideOfTotal": ":num slide di :total",
+                  "scoreBarLabel": "Il tuo punteggio è :num su :total",
+                  "solutionListQuestionNumber": "Domanda :num",
+                  "a11yShowSolution": "Mostra soluzione",
+                  "a11yRetry": "Riprova",
+                  "shouldSelect": "Should have been selected",
+                  "shouldNotSelect": "Should not have been selected"
+                },
+                "choices": [
+                  {
+                    "question": "In quale città nacque Archimede?",
+                    "answers": [
+                      "Siracusa",
+                      "Atene",
+                      "Roma",
+                      "Alessandria"
+                    ],
+                    "subContentId": "f12088de-a27c-4d14-aa88-334de8afe7d7"
+                  },
+                  {
+                    "question": "Qual è il nome dell'invenzione di Archimede per sollevare acqua?",
+                    "answers": [
+                      "Vite di Archimede",
+                      "Leva di Archimede",
+                      "Catapulta di Archimede",
+                      "Ruota di Archimede"
+                    ],
+                    "subContentId": "20099ea9-ae91-4861-868e-4cb8857de3b5"
+                  },
+                  {
+                    "question": "Che cosa calcolò Archimede in geometria?",
+                    "answers": [
+                      "Area del cerchio",
+                      "Velocità della luce",
+                      "Peso dell'aria",
+                      "Distanza tra le stelle"
+                    ],
+                    "subContentId": "f0c8fbf4-c7b8-4166-b54b-bb4828250cd8"
+                  },
+                  {
+                    "question": "Qual è il principio scoperto da Archimede?",
+                    "answers": [
+                      "Spinta di un fluido",
+                      "Gravità",
+                      "Inerzia",
+                      "Forza centrifuga"
+                    ],
+                    "subContentId": "e2b1c120-b467-466c-b322-fb3b40486553"
+                  },
+                  {
+                    "question": "Come si chiama il metodo usato da Archimede per calcolare aree e volumi?",
+                    "answers": [
+                      "Metodo di esaustione",
+                      "Metodo della divisione",
+                      "Metodo degli incrementi",
+                      "Metodo delle differenze"
+                    ],
+                    "subContentId": "94e89e7e-8357-4126-afda-da563f871ce7"
+                  },
+                  {
+                    "question": "Cosa avrebbe usato Archimede per difendere Siracusa?",
+                    "answers": [
+                      "Specchi ustori",
+                      "Archi",
+                      "Cannoni",
+                      "Fionde"
+                    ],
+                    "subContentId": "32592cb1-d0ed-43b2-a7b2-33cd27598e1c"
+                  }
+                ]
+              },
+              "subContentId": "dc6b82f1-4264-4137-8683-db0b27e41a00",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Domande",
+                "defaultLanguage": "it"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      }
+    ],
+    "keywordListEnabled": true,
+    "globalBackgroundSelector": {},
+    "keywordListAlwaysShow": false,
+    "keywordListAutoHide": false,
+    "keywordListOpacity": 90
+  },
+  "override": {
+    "activeSurface": false,
+    "hideSummarySlide": false,
+    "summarySlideSolutionButton": true,
+    "summarySlideRetryButton": true,
+    "enablePrintButton": false,
+    "social": {
+      "showFacebookShare": false,
+      "facebookShare": {
+        "url": "@currentpageurl",
+        "quote": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht."
+      },
+      "showTwitterShare": false,
+      "twitterShare": {
+        "statement": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht.",
+        "url": "@currentpageurl",
+        "hashtags": "h5p, Kurs"
+      },
+      "showGoogleShare": false,
+      "googleShareUrl": "@currentpageurl"
+    }
+  },
+  "l10n": {
+    "slide": "Slide",
+    "score": "Punteggio",
+    "yourScore": "Il tuo punteggio",
+    "maxScore": "Punteggio massimo",
+    "total": "Totale",
+    "totalScore": "Punteggio totale",
+    "showSolutions": "Mostra soluzioni",
+    "retry": "Riprova",
+    "exportAnswers": "Esporta testo",
+    "hideKeywords": "Nascondi l&#039;elenco delle parole chiave",
+    "showKeywords": "Mostra l&#039;elenco delle parole chiave",
+    "fullscreen": "Schermo intero",
+    "exitFullscreen": "Esci da schermo intero",
+    "prevSlide": "Slide precedente",
+    "nextSlide": "Prossima slide",
+    "currentSlide": "Slide corrente",
+    "lastSlide": "Ultima slide",
+    "solutionModeTitle": "Esci dalla modalità di soluzione",
+    "solutionModeText": "Modalità di soluzione",
+    "summaryMultipleTaskText": "Attività multiple",
+    "scoreMessage": "Hai ottenuto:",
+    "shareFacebook": "Condividi su Facebook",
+    "shareTwitter": "Condividi su Twitter",
+    "shareGoogle": "Condividi su Google+",
+    "summary": "Riepilogo",
+    "solutionsButtonTitle": "Mostra commenti",
+    "printTitle": "Stampa",
+    "printIngress": "Come vorresti stampare questa presentazione?",
+    "printAllSlides": "Stampa tutte le slide",
+    "printCurrentSlide": "Stampa la slide corrente",
+    "noTitle": "Nessun titolo",
+    "accessibilitySlideNavigationExplanation": "Usa le frecce destra e sinistra per cambiare slide ogni volta che il canvas è selezionato",
+    "accessibilityCanvasLabel": "Canvas di presentazione. Usa le frecce destra e sinistra per muoverti tra le slide",
+    "containsNotCompleted": "@slideName contiene interazioni non portate a termine",
+    "containsCompleted": "@slideName contiene interazioni portate a termine",
+    "slideCount": "Slide @index di @total",
+    "containsOnlyCorrect": "@slideName ha soltanto risposte giuste",
+    "containsIncorrectAnswers": "@slideName contiene risposte sbagliate",
+    "shareResult": "Condividi risultato",
+    "accessibilityTotalScore": "Il tuo punteggio complessivo è @score su @maxScore",
+    "accessibilityEnteredFullscreen": "Entrata a schermo intero",
+    "accessibilityExitedFullscreen": "Uscita da schermo intero",
+    "confirmDialogHeader": "Submit your answers",
+    "confirmDialogText": "This will submit your results, do you want to continue?",
+    "confirmDialogConfirmText": "Submit and see results",
+    "accessibilityProgressBarLabel": "Choose slide to display",
+    "slideshowNavigationLabel": "Slideshow navigation"
+  }
+}

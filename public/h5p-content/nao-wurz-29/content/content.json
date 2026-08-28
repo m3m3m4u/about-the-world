@@ -1,0 +1,959 @@
+{
+  "presentation": {
+    "slides": [
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 6.622516556291391,
+            "width": 92.73743016759778,
+            "height": 50.77262693156732,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:3em;\"><strong>Die Wurzeln des Konfliktes - Entstehung Israels und Palästinas</strong></span></p>\n\n<p>&nbsp;</p>\n\n<p><strong><span style=\"font-size:1.5em;\">Informationen und Übungen</span></strong></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "dff56334-2e6b-4f64-ab5f-fd72e6484f52"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 0,
+            "y": 0,
+            "width": 100,
+            "height": 99.99999999999999,
+            "action": {
+              "library": "H5P.Video 1.6",
+              "params": {
+                "visuals": {
+                  "fit": true,
+                  "controls": true
+                },
+                "playback": {
+                  "autoplay": false,
+                  "loop": false
+                },
+                "l10n": {
+                  "name": "Video",
+                  "loading": "Videoplayer lädt...",
+                  "noPlayers": "Keine Videoplayer gefunden, die das vorliegende Videoformat unterstützen.",
+                  "noSources": "Es wurden für das Video keine Quellen angegeben.",
+                  "aborted": "Das Abspielen des Videos wurde abgebrochen.",
+                  "networkFailure": "Netzwerkfehler.",
+                  "cannotDecode": "Dekodierung des Mediums nicht möglich.",
+                  "formatNotSupported": "Videoformat wird nicht unterstützt.",
+                  "mediaEncrypted": "Medium verschlüsselt.",
+                  "unknownError": "Unbekannter Fehler.",
+                  "invalidYtId": "Ungültige YouTube-ID.",
+                  "unknownYtId": "Video mit dieser YouTube-ID konnte nicht gefunden werden.",
+                  "restrictedYt": "Der Besitzer dieses Videos erlaubt kein Einbetten."
+                },
+                "sources": [
+                  {
+                    "path": "https://youtu.be/TPTMWZp0lc0",
+                    "mime": "video/YouTube",
+                    "copyright": {
+                      "license": "U"
+                    }
+                  }
+                ]
+              },
+              "subContentId": "ca274bad-7212-49f6-9b95-8d3931f5d03d",
+              "metadata": {
+                "contentType": "Video",
+                "license": "U",
+                "title": "Unbenannt: Video"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Informationstext (Teil 1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "5627dc6e-c943-439e-ab4a-4531b7f24264"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 12.910611231371064,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Biblische Zeiten</strong><br>\nDie Geschichte der Region, die heute Israel und Palästina umfasst, reicht weit zurück bis in die biblische Zeit. In dieser Region siedelten unterschiedliche Völker, darunter die Hebräer, die Philister und andere. Historische und archäologische Belege zeigen die komplexe Vergangenheit dieses Gebiets und die unterschiedlichen kulturellen und religiösen Einflüsse, die hier aufeinander trafen.</p>\n\n<p><strong>Das Osmanische Reich</strong><br>\nBis zum Ende des Ersten Weltkriegs gehörte das Gebiet des heutigen Israel und Palästina zum Osmanischen Reich. Mit der Niederlage des Reiches im Jahr 1918 und dem Zerfall des Osmanischen Reichs wurden die Grenzen im Nahen Osten neu gezogen. Die europäischen Mächte, insbesondere Großbritannien und Frankreich, spielten eine entscheidende Rolle bei der Festlegung dieser neuen Grenzen.</p>\n\n<p><strong>Das Britische Mandat</strong><br>\nNach dem Ersten Weltkrieg kam das Gebiet unter britische Kontrolle und wurde als \"Britisches Mandat Palästina\" bekannt. In dieser Zeit kam es zu einer verstärkten jüdischen Einwanderung in die Region, getrieben von dem zionistischen Traum, einen jüdischen Staat zu gründen. Doch auch die arabisch-palästinensische Bevölkerung strebte nach Selbstbestimmung und Unabhängigkeit.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "53bc5361-5ce5-43a9-a00f-57bbceee9cd0"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Informationstext (Teil 2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "55aaf4d3-f7e3-4a3e-9196-01a6f7474f94"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>UN-Teilungsplan von 1947</strong><br>\n1947 schlugen die Vereinten Nationen einen Plan zur Teilung Palästinas in einen jüdischen und einen arabischen Staat vor. Der Plan wurde von den jüdischen Führern akzeptiert, aber von den arabischen Führern abgelehnt. Dies führte zu weiteren Spannungen und Konflikten zwischen den beiden Gemeinschaften in der Region.</p>\n\n<p><strong>Gründung des Staates Israel</strong><br>\nAm 14. Mai 1948 erklärte David Ben-Gurion, der erste Premierminister Israels, die Unabhängigkeit des jüdischen Staates. Dies führte zum Ausbruch des ersten arabisch-israelischen Krieges, bei dem mehrere arabische Staaten in den Konflikt eingriffen. Der Krieg endete mit einem Waffenstillstand, aber die Grenzen und der Status Palästinas blieben umstritten.</p>\n\n<p><strong>Die Sechstagekriege und danach</strong><br>\n1967 führte die Eskalation der Spannungen zum Sechstagekrieg, bei dem Israel die Kontrolle über weitere Gebiete, einschließlich des Westjordanlands und des Gazastreifens, erlangte. In den folgenden Jahrzehnten gab es mehrere weitere Konflikte und Friedensbemühungen, doch eine endgültige Lösung des Konflikts bleibt bis heute aus.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "3b13867b-feab-4e2e-bfa2-fcc82e4dbff1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Informationstext (Teil 3)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "4381b60d-c67f-4722-b83d-b17f2fc9d01c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Osloer Abkommen</strong><br>\n1993 und 1995 wurden die Osloer Abkommen zwischen Israel und der Palästinensischen Befreiungsorganisation (PLO) unterzeichnet, die eine zeitweise Selbstverwaltung für die Palästinenser in Teilen des Westjordanlands und des Gazastreifens vorsahen. Doch die Abkommen führten nicht zu einer dauerhaften Friedenslösung, und die Gewalt flammte in den folgenden Jahren wieder auf.</p>\n\n<p><strong>Die aktuelle Situation</strong><br>\nDie heutige Situation ist durch anhaltende Spannungen und periodische Ausbrüche von Gewalt gekennzeichnet. Beide Seiten haben tief verwurzelte Ansprüche auf das Land, und die Bemühungen um eine Zwei-Staaten-Lösung sind immer wieder gescheitert. Die Unruhen und Konflikte haben zu einem tragischen Verlust von Menschenleben und einem dauerhaften Misstrauen zwischen den Gemeinschaften geführt.</p>\n\n<p><strong>Internationale Bemühungen</strong><br>\nDie internationale Gemeinschaft, einschließlich der Vereinten Nationen und anderer internationaler Organisationen, hat wiederholt versucht, in dem Konflikt zu vermitteln und eine Lösung zu finden. Trotz einiger Fortschritte bleibt eine dauerhafte und gerechte Lösung für beide Seiten jedoch eine herausfordernde und ungelöste Aufgabe.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "3d655444-fd55-42f7-aba2-16a16db7dc58"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Ziehe die Wörter in die richtigen Felder!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Überprüfen",
+                "submitAnswer": "Submit",
+                "tryAgain": "Wiederholen",
+                "showSolution": "Lösung anzeigen",
+                "dropZoneIndex": "Ablagefeld @index.",
+                "empty": "Ablagefeld @index ist leer.",
+                "contains": "Ablagefeld @index enthält ziehbaren Text @draggable.",
+                "ariaDraggableIndex": "@index von @count ziehbaren Texten.",
+                "tipLabel": "Tipp anzeigen",
+                "correctText": "Richtig!",
+                "incorrectText": "Falsch!",
+                "resetDropTitle": "Ablagefelder zurücksetzen",
+                "resetDropDescription": "Bist du sicher, dass du dieses Ablagefeld zurücksetzen möchtest?",
+                "grabbed": "Ziehbarer Text wurde aufgenommen.",
+                "cancelledDragging": "Ziehen abgebrochen.",
+                "correctAnswer": "Korrekte Antwort:",
+                "feedbackHeader": "Rückmeldung",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "a11yCheck": "Die Antworten überprüfen. Die Eingaben werden als richtig, falsch oder unbeantwortet markiert.",
+                "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                "a11yRetry": "Die Aufgabe wiederholen. Alle Eingaben werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                "textField": "*UN-Teilungsplan* - 1947, zwei Staaten aus Palästina\n*Sechstagekrieg* - 1967, Israel erobert Gebiete\n*Osloer Abkommen* - 1993/1995, temporäre Selbstverwaltung Palästinenser\n*Zwei-Staaten-Lösung* - angestrebtes Modell, zwei souveräne Staaten",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Begriffe 1"
+              },
+              "subContentId": "4a94ce62-c440-4215-bc76-32408bcec41d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Wichtige Begriffe (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "e773caca-acd3-4ee8-9ed2-b80b588d3a60"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "Ziehe die Wörter in die richtigen Felder!",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Überprüfen",
+                "submitAnswer": "Submit",
+                "tryAgain": "Wiederholen",
+                "showSolution": "Lösung anzeigen",
+                "dropZoneIndex": "Ablagefeld @index.",
+                "empty": "Ablagefeld @index ist leer.",
+                "contains": "Ablagefeld @index enthält ziehbaren Text @draggable.",
+                "ariaDraggableIndex": "@index von @count ziehbaren Texten.",
+                "tipLabel": "Tipp anzeigen",
+                "correctText": "Richtig!",
+                "incorrectText": "Falsch!",
+                "resetDropTitle": "Ablagefelder zurücksetzen",
+                "resetDropDescription": "Bist du sicher, dass du dieses Ablagefeld zurücksetzen möchtest?",
+                "grabbed": "Ziehbarer Text wurde aufgenommen.",
+                "cancelledDragging": "Ziehen abgebrochen.",
+                "correctAnswer": "Korrekte Antwort:",
+                "feedbackHeader": "Rückmeldung",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "a11yCheck": "Die Antworten überprüfen. Die Eingaben werden als richtig, falsch oder unbeantwortet markiert.",
+                "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                "a11yRetry": "Die Aufgabe wiederholen. Alle Eingaben werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                "textField": "*Hebräer* - antikes Volk, siedelte in Region Israel/Palästina\n*Philister* - anderes antikes Volk, Region Israel/Palästina\n*Osmanisches Reich* - Großreich, Kontrolle über Israel/Palästina bis 1918\n*Britisches Mandat* - britische Kontrolle, nach 1 Weltkrieg\n*Zionismus* - jüdische Bewegung, Staat in Palästina",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Begriffe 2"
+              },
+              "subContentId": "b74a36f9-2aa3-417a-814c-50e58208f7b3"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Wichtige Begriffe (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "be59e194-86c9-4928-9194-f6e496790bc1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Vervollständige die Sätze!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Überprüfen",
+                "submitAnswer": "Submit",
+                "tryAgain": "Wiederholen",
+                "showSolution": "Lösung anzeigen",
+                "dropZoneIndex": "Ablagefeld @index.",
+                "empty": "Ablagefeld @index ist leer.",
+                "contains": "Ablagefeld @index enthält ziehbaren Text @draggable.",
+                "ariaDraggableIndex": "@index von @count ziehbaren Texten.",
+                "tipLabel": "Tipp anzeigen",
+                "correctText": "Richtig!",
+                "incorrectText": "Falsch!",
+                "resetDropTitle": "Ablagefelder zurücksetzen",
+                "resetDropDescription": "Bist du sicher, dass du dieses Ablagefeld zurücksetzen möchtest?",
+                "grabbed": "Ziehbarer Text wurde aufgenommen.",
+                "cancelledDragging": "Ziehen abgebrochen.",
+                "correctAnswer": "Korrekte Antwort:",
+                "feedbackHeader": "Rückmeldung",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "a11yCheck": "Die Antworten überprüfen. Die Eingaben werden als richtig, falsch oder unbeantwortet markiert.",
+                "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                "a11yRetry": "Die Aufgabe wiederholen. Alle Eingaben werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                "textField": "*Die Region beherbergte ...* - ... verschiedene antike Völker.  \n*Großbritannien und Frankreich ...* - ... beeinflussten die neuen Grenzen.  \n*Die jüdische Einwanderung ...* - ... war zionistisch motiviert.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Sätze 1"
+              },
+              "subContentId": "fc5741fc-cbfd-45c8-9433-cf39572a4b81"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Sätze vervollständigen (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "ecb45d14-3fe2-4a02-ab8f-6c03ba60ef4c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Vervollständige die Sätze!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Überprüfen",
+                "submitAnswer": "Submit",
+                "tryAgain": "Wiederholen",
+                "showSolution": "Lösung anzeigen",
+                "dropZoneIndex": "Ablagefeld @index.",
+                "empty": "Ablagefeld @index ist leer.",
+                "contains": "Ablagefeld @index enthält ziehbaren Text @draggable.",
+                "ariaDraggableIndex": "@index von @count ziehbaren Texten.",
+                "tipLabel": "Tipp anzeigen",
+                "correctText": "Richtig!",
+                "incorrectText": "Falsch!",
+                "resetDropTitle": "Ablagefelder zurücksetzen",
+                "resetDropDescription": "Bist du sicher, dass du dieses Ablagefeld zurücksetzen möchtest?",
+                "grabbed": "Ziehbarer Text wurde aufgenommen.",
+                "cancelledDragging": "Ziehen abgebrochen.",
+                "correctAnswer": "Korrekte Antwort:",
+                "feedbackHeader": "Rückmeldung",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "a11yCheck": "Die Antworten überprüfen. Die Eingaben werden als richtig, falsch oder unbeantwortet markiert.",
+                "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                "a11yRetry": "Die Aufgabe wiederholen. Alle Eingaben werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                "textField": "*Der UN-Teilungsplan wurde ...* - ... von Arabern abgelehnt.  \n*David Ben-Gurion erklärte ...* - ... Israels Unabhängigkeit 1948.  \n*Der Sechstagekrieg fand ...* - ... im Jahr 1967 statt.  \n*Osloer Abkommen ermöglichten ...* - ... zeitweise Selbstverwaltung.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Sätze 2"
+              },
+              "subContentId": "a8bdf3b3-dac7-40e5-bdfd-f199401a2c3e"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Sätze vervollständigen (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "1351cab9-7952-442e-bc32-7d4a3895ab3d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Wahr oder falsch?</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "3f4bfb9e-6eb5-4097-abf6-f0c1308dfc3f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.2346368715083798,
+            "y": 11.69916114790287,
+            "width": 95.41899441340783,
+            "height": 88.30022075055187,
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>Wähle die korrekte Aussage!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Fortschritt:",
+                "scoreLabel": "Falsche Antworten:",
+                "resultLabel": "Dein Ergebnis",
+                "labelCorrect": "Richtig.",
+                "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                "alternativeIncorrectLabel": "Falsch",
+                "labelCorrectAnswers": "Richtige Antwort(en).",
+                "tipButtonLabel": "Tipp anzeigen",
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "progressText": "Fortschritt :num von :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "Die Region war einst Teil des Osmanischen Reiches.",
+                      "Das Osmanische Reich wurde nach dem Zweiten Weltkrieg zerfallen."
+                    ],
+                    "subContentId": "6dc6fa52-9899-413c-8e8d-5b3d33c11ba8",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Das britische Mandat folgte dem Ersten Weltkrieg.",
+                      "Das Britische Mandat förderte die arabische Einwanderung."
+                    ],
+                    "subContentId": "e1689850-dc81-46ac-b3e5-9eebc86c1c5a",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Der UN-Teilungsplan von 1947 wurde von arabischen Führern abgelehnt.",
+                      "Der Sechstagekrieg führte zur Unabhängigkeit Palästinas."
+                    ],
+                    "subContentId": "d9bd3207-c523-4a00-81fb-3fbd75e15eb0",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "David Ben-Gurion war der erste Premierminister Israels.",
+                      "Die Osloer Abkommen sorgten für dauerhaften Frieden."
+                    ],
+                    "subContentId": "2feb051b-ebb7-408e-8dc5-219a0dc1fda6",
+                    "tip": ""
+                  }
+                ]
+              },
+              "subContentId": "6207504c-ae8f-4a09-b236-0a5b6cd442ec",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "Wahr oder falsch?"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Fragen</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "303d8e49-9df8-4ebb-bb74-21e0f7344e25"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.346368715083799,
+            "y": 15.673289183222957,
+            "width": 92.40223463687151,
+            "height": 58.27814569536424,
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": false,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Weiter",
+                  "showSolutionButtonLabel": "Lösung anzeigen",
+                  "retryButtonLabel": "Wiederholen",
+                  "solutionViewTitle": "Lösung",
+                  "correctText": "Richtig!",
+                  "incorrectText": "Falsch!",
+                  "muteButtonLabel": "Stumm schalten",
+                  "closeButtonLabel": "Schließen",
+                  "slideOfTotal": "Seite :num von :total",
+                  "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                  "solutionListQuestionNumber": "Frage :num",
+                  "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                  "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                  "shouldSelect": "Should have been selected",
+                  "shouldNotSelect": "Should not have been selected"
+                },
+                "choices": [
+                  {
+                    "question": "Wer war der erste Premierminister Israels?",
+                    "answers": [
+                      "David Ben-Gurion",
+                      "Golda Meir",
+                      "Yitzhak Rabin",
+                      "Ariel Sharon"
+                    ],
+                    "subContentId": "ed605050-88a9-4fc8-8087-b74ff8905d5b"
+                  },
+                  {
+                    "question": "Welches Reich kontrollierte die Region bis 1918?",
+                    "answers": [
+                      "Osmanisches Reich",
+                      "Byzantinisches Reich",
+                      "Römisches Reich",
+                      "Persisches Reich"
+                    ],
+                    "subContentId": "076843b5-fd56-4505-8e32-706dea75bccd"
+                  },
+                  {
+                    "question": "Was folgte direkt auf das Ende des Osmanischen Reiches in der Region?",
+                    "answers": [
+                      "Britisches Mandat",
+                      "Französisches Mandat",
+                      "UN-Verwaltung",
+                      "Osmanische Restauration"
+                    ],
+                    "subContentId": "b5756250-38c2-4f00-96f3-999969663bcf"
+                  },
+                  {
+                    "question": "Was ermöglichten die Osloer Abkommen?",
+                    "answers": [
+                      "Temporäre Selbstverwaltung für Palästinenser",
+                      "Unabhängigkeit für Palästina",
+                      "Zwei-Staaten-Lösung",
+                      "Friedensvertrag zwischen Israel und Palästina"
+                    ],
+                    "subContentId": "e6ba1ab5-4fe8-429b-b595-88859fa470fa"
+                  },
+                  {
+                    "question": "Wann wurde der Staat Israel gegründet?",
+                    "answers": [
+                      "17667",
+                      "15. Mai 1948",
+                      "1. Januar 1948",
+                      "31. Dezember 1947"
+                    ],
+                    "subContentId": "122f5d28-5969-44e9-ba93-656d449f9661"
+                  },
+                  {
+                    "question": "Wann fand der Sechstagekrieg statt?",
+                    "answers": [
+                      "1967",
+                      "1973",
+                      "1956",
+                      "1982"
+                    ],
+                    "subContentId": "cf768413-8d83-410f-8372-639097c261a5"
+                  }
+                ]
+              },
+              "subContentId": "dc6b82f1-4264-4137-8683-db0b27e41a00",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Fragen"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      }
+    ],
+    "keywordListEnabled": true,
+    "globalBackgroundSelector": {},
+    "keywordListAlwaysShow": false,
+    "keywordListAutoHide": false,
+    "keywordListOpacity": 90
+  },
+  "override": {
+    "activeSurface": false,
+    "hideSummarySlide": false,
+    "summarySlideSolutionButton": true,
+    "summarySlideRetryButton": true,
+    "enablePrintButton": false,
+    "social": {
+      "showFacebookShare": false,
+      "facebookShare": {
+        "url": "@currentpageurl",
+        "quote": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht."
+      },
+      "showTwitterShare": false,
+      "twitterShare": {
+        "statement": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht.",
+        "url": "@currentpageurl",
+        "hashtags": "h5p, Kurs"
+      },
+      "showGoogleShare": false,
+      "googleShareUrl": "@currentpageurl"
+    }
+  },
+  "l10n": {
+    "slide": "Folie",
+    "score": "Punktzahl",
+    "yourScore": "Deine Punktzahl",
+    "maxScore": "Maximale Punktzahl",
+    "total": "Summe",
+    "totalScore": "Gesamtpunktzahl",
+    "showSolutions": "Lösungen anzeigen",
+    "retry": "Wiederholen",
+    "exportAnswers": "Text exportieren",
+    "hideKeywords": "Stichwortliste verbergen",
+    "showKeywords": "Stichwortliste anzeigen",
+    "fullscreen": "Vollbild",
+    "exitFullscreen": "Vollbild beenden",
+    "prevSlide": "Vorherige Folie",
+    "nextSlide": "Nächste Folie",
+    "currentSlide": "Aktuelle Folie",
+    "lastSlide": "Letzte Folie",
+    "solutionModeTitle": "Lösungsmodus beenden",
+    "solutionModeText": "Lösungsmodus",
+    "summaryMultipleTaskText": "Mehrere Aufgaben",
+    "scoreMessage": "Du hast erreicht:",
+    "shareFacebook": "Auf Facebook teilen",
+    "shareTwitter": "Auf Twitter teilen",
+    "shareGoogle": "Auf Google+ teilen",
+    "summary": "Zusammenfassung",
+    "solutionsButtonTitle": "Kommentare anzeigen",
+    "printTitle": "Drucken",
+    "printIngress": "Wie möchtest du diese Präsentation drucken?",
+    "printAllSlides": "Alle Folien drucken",
+    "printCurrentSlide": "Aktuelle Folie drucken",
+    "noTitle": "Kein Titel",
+    "accessibilitySlideNavigationExplanation": "Verwende die linke oder rechte Cursortaste, um zur Folie in der jeweiligen Richtung zu blättern, wenn der Präsentationsbereich ausgewählt ist.",
+    "accessibilityCanvasLabel": "Präsentationsbereich. Verwende die linke oder rechte Cursortaste, um zwischen den Folien zu navigieren.",
+    "containsNotCompleted": "@slideName enthält eine nicht abgeschlossene Interaktion",
+    "containsCompleted": "@slideName wurde abgeschlossen",
+    "slideCount": "Folie @index von @total",
+    "containsOnlyCorrect": "@slideName enthält nur richtige Antworten",
+    "containsIncorrectAnswers": "@slideName enthält falsche Antworten",
+    "shareResult": "Ergebnis teilen",
+    "accessibilityTotalScore": "Du hast insgesamt @score von @maxScore Punkten erreicht.",
+    "accessibilityEnteredFullscreen": "Vollbild aktiviert",
+    "accessibilityExitedFullscreen": "Vollbild deaktiviert",
+    "confirmDialogHeader": "Submit your answers",
+    "confirmDialogText": "This will submit your results, do you want to continue?",
+    "confirmDialogConfirmText": "Submit and see results",
+    "accessibilityProgressBarLabel": "Wähle das zu zeigende Schaubild",
+    "slideshowNavigationLabel": "Schaubild-Navigation"
+  }
+}

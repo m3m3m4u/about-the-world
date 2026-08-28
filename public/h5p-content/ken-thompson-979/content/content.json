@@ -1,0 +1,917 @@
+{
+  "presentation": {
+    "slides": [
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 6.455305615685532,
+            "width": 92.73743016759778,
+            "height": 50.77262693156732,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:3em;\"><strong>Ken Thompson</strong></span></p>\n\n<p><strong><span style=\"font-size:1.5em;\">Information and exercises</span></strong></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "dff56334-2e6b-4f64-ab5f-fd72e6484f52"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>INFORMATION TEXT (Part 1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "5627dc6e-c943-439e-ab4a-4531b7f24264"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582783,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Early Life and Education of Ken Thompson</strong><br>\nKen Thompson was born in 1943 in New Orleans, Louisiana. From an early age, he showed an interest in electronics and programming. He attended the University of California at Berkeley where he earned his Bachelor's degree in Electrical Engineering and Master's degree in Electrical Engineering and Computer Science. His studies laid the foundation for his contributions to computer science and his later work on the UNIX operating system.</p>\n\n<p><strong>Beginnings at Bell Labs</strong><br>\nAfter completing his education, Ken Thompson began working at Bell Labs. It was here that he, along with colleague Dennis Ritchie, began the development of the UNIX operating system. Bell Labs provided an environment that encouraged innovation and the exploration of new ideas, which was instrumental in the creation of UNIX.</p>\n\n<p><strong>Development of UNIX</strong><br>\nThe development of UNIX began in the late 1960s when Thompson and Ritchie sought to create a more flexible and portable operating system. UNIX was revolutionary in that it was written in the C programming language, which allowed it to be installed on many different types of hardware. This made UNIX incredibly versatile and widely adopted.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "53bc5361-5ce5-43a9-a00f-57bbceee9cd0"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>INFORMATION TEXT (Part 2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "55aaf4d3-f7e3-4a3e-9196-01a6f7474f94"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Contributions to Programming Languages</strong><br>\nKen Thompson is not only known for his work on UNIX but also for his contributions to programming languages. He was involved in the creation of the B programming language, which was a precursor to the C language. His work on these languages has had a lasting impact on software development and programming.</p>\n\n<p><strong>Creation of Other Tools</strong><br>\nBeyond UNIX and programming languages, Thompson created several other important tools and software. He developed regular expression notation, which is used to specify search patterns in text processing. He also helped create the UTF-8 encoding, a character encoding that enabled the consistent representation and handling of text expressed in most of the world's writing systems.</p>\n\n<p><strong>Collaborative Work with Dennis Ritchie</strong><br>\nKen Thompson's collaboration with Dennis Ritchie was a defining factor in his career. Together, they achieved many technological breakthroughs. Their joint efforts were recognized when they were awarded the Turing Award in 1983 for their contributions to the development of operating systems, specifically UNIX, which had by then become synonymous with robust and flexible software design.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "3b13867b-feab-4e2e-bfa2-fcc82e4dbff1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>INFORMATION TEXT (Part 3)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "4381b60d-c67f-4722-b83d-b17f2fc9d01c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 12.910611231371064,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Influence on Operating Systems</strong><br>\nThompson's influence on the field of operating systems is monumental. His work on UNIX set the stage for a multitude of software tools and operating systems that followed. UNIX's design principles are evident in many subsequent operating systems, including Linux and BSD, and have influenced the architecture of modern software systems.</p>\n\n<p><strong>Later Career and Legacy</strong><br>\nIn his later career, Ken Thompson continued to innovate. He co-developed the Go programming language at Google, where he worked until his retirement. His legacy is not only in the tools and languages he created but also in his approach to software design, which emphasizes simplicity and effectiveness.</p>\n\n<p><strong>Ken Thompson's Impact on Technology and Culture</strong><br>\nKen Thompson's work has had a significant impact on both technology and culture. The creation of UNIX and his other contributions have shaped the computing world and influenced the open-source software movement. His efforts have made technology more accessible and transformed the way people use and interact with computers.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "3d655444-fd55-42f7-aba2-16a16db7dc58"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Drag the words into the correct boxes!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Check",
+                "submitAnswer": "Submit",
+                "tryAgain": "Retry",
+                "showSolution": "Show solution",
+                "dropZoneIndex": "Drop Zone @index.",
+                "empty": "Drop Zone @index is empty.",
+                "contains": "Drop Zone @index contains draggable @draggable.",
+                "ariaDraggableIndex": "@index of @count draggables.",
+                "tipLabel": "Show tip",
+                "correctText": "Correct!",
+                "incorrectText": "Incorrect!",
+                "resetDropTitle": "Reset drop",
+                "resetDropDescription": "Are you sure you want to reset this drop zone?",
+                "grabbed": "Draggable is grabbed.",
+                "cancelledDragging": "Cancelled dragging.",
+                "correctAnswer": "Correct answer:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "You got :num out of :total points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*UNIX* - A versatile and portable operating system\n*Bell Labs* - Research facility known for technological innovations\n*C Programming Language* - Language for developing software\n*B Programming Language* - Precursor to the C language\n*Regular Expression Notation* - Pattern specification for text processing",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Terms 1",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "4a94ce62-c440-4215-bc76-32408bcec41d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>IMPORTANT TERMS (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "e773caca-acd3-4ee8-9ed2-b80b588d3a60"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Drag the words into the correct boxes!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Check",
+                "submitAnswer": "Submit",
+                "tryAgain": "Retry",
+                "showSolution": "Show solution",
+                "dropZoneIndex": "Drop Zone @index.",
+                "empty": "Drop Zone @index is empty.",
+                "contains": "Drop Zone @index contains draggable @draggable.",
+                "ariaDraggableIndex": "@index of @count draggables.",
+                "tipLabel": "Show tip",
+                "correctText": "Correct!",
+                "incorrectText": "Incorrect!",
+                "resetDropTitle": "Reset drop",
+                "resetDropDescription": "Are you sure you want to reset this drop zone?",
+                "grabbed": "Draggable is grabbed.",
+                "cancelledDragging": "Cancelled dragging.",
+                "correctAnswer": "Correct answer:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "You got :num out of :total points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*UTF-8 Encoding* - Character encoding for global text systems\n*Turing Award* - Prestigious recognition in computer science\n*Go Programming Language* - Modern programming language for simplicity\n*Open-Source Software* - Free software with accessible source code",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Terms 2",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "b74a36f9-2aa3-417a-814c-50e58208f7b3"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>IMPORTANT TERMS (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "d2c257d7-2a39-42ba-a7cf-19e97358039f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Complete the sentences!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Check",
+                "submitAnswer": "Submit",
+                "tryAgain": "Retry",
+                "showSolution": "Show solution",
+                "dropZoneIndex": "Drop Zone @index.",
+                "empty": "Drop Zone @index is empty.",
+                "contains": "Drop Zone @index contains draggable @draggable.",
+                "ariaDraggableIndex": "@index of @count draggables.",
+                "tipLabel": "Show tip",
+                "correctText": "Correct!",
+                "incorrectText": "Incorrect!",
+                "resetDropTitle": "Reset drop",
+                "resetDropDescription": "Are you sure you want to reset this drop zone?",
+                "grabbed": "Draggable is grabbed.",
+                "cancelledDragging": "Cancelled dragging.",
+                "correctAnswer": "Correct answer:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "You got :num out of :total points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*Ken Thompson was born ...* - ... in 1943 in New Orleans.\n*Thompson attended the University ...* - ... of California at Berkeley.\n*UNIX was developed ...* - ... at Bell Labs in the 1960s.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Sentences 1",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "fc5741fc-cbfd-45c8-9433-cf39572a4b81"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>COMPLETE SENTENCES (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "ecb45d14-3fe2-4a02-ab8f-6c03ba60ef4c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Complete the sentences!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Check",
+                "submitAnswer": "Submit",
+                "tryAgain": "Retry",
+                "showSolution": "Show solution",
+                "dropZoneIndex": "Drop Zone @index.",
+                "empty": "Drop Zone @index is empty.",
+                "contains": "Drop Zone @index contains draggable @draggable.",
+                "ariaDraggableIndex": "@index of @count draggables.",
+                "tipLabel": "Show tip",
+                "correctText": "Correct!",
+                "incorrectText": "Incorrect!",
+                "resetDropTitle": "Reset drop",
+                "resetDropDescription": "Are you sure you want to reset this drop zone?",
+                "grabbed": "Draggable is grabbed.",
+                "cancelledDragging": "Cancelled dragging.",
+                "correctAnswer": "Correct answer:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "You got :num out of :total points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                "textField": "*The UNIX system was written ...* - ... in the C programming language.\n*Thompson helped create ...* - ... the UTF-8 encoding system.\n*Thompson and Ritchie received ...* - ... the Turing Award in 1983.\n*The Go language emphasizes ...* - ... simplicity in software design.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Sentences 2",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "a8bdf3b3-dac7-40e5-bdfd-f199401a2c3e"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>COMPLETE SENTENCES (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "1351cab9-7952-442e-bc32-7d4a3895ab3d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>TRUE OR FALSE?</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "3f4bfb9e-6eb5-4097-abf6-f0c1308dfc3f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.2346368715083798,
+            "y": 11.69916114790287,
+            "width": 95.41899441340783,
+            "height": 88.30022075055187,
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>Choose the correct statement!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Progress:",
+                "scoreLabel": "Wrong answers:",
+                "resultLabel": "Your result",
+                "labelCorrect": "Correct.",
+                "labelIncorrect": "Incorrect! Please try again.",
+                "alternativeIncorrectLabel": "Incorrect",
+                "labelCorrectAnswers": "Correct answers.",
+                "tipButtonLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "progressText": "Progress :num of :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "Ken Thompson co-developed the UNIX operating system.",
+                      "Thompson's main contribution was in hardware design."
+                    ],
+                    "subContentId": "7d6b04cc-ec01-48f2-a47e-b1bb8505f992",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "He was awarded the Turing Award with Dennis Ritchie.",
+                      "He worked alone on the development of UNIX."
+                    ],
+                    "subContentId": "9607bd6f-0f38-479a-91c6-358a4cfa995b",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Thompson was involved in creating the B programming language.",
+                      "The UNIX system was initially developed in the 1980s."
+                    ],
+                    "subContentId": "4cb9e98a-7ca7-4102-8c35-34be0d0aa574",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "He contributed to the development of the UTF-8 encoding.",
+                      "Thompson ended his career away from the tech industry."
+                    ],
+                    "subContentId": "e5ba8391-5e2c-40c6-ba03-82aef1f6a40e",
+                    "tip": ""
+                  }
+                ]
+              },
+              "subContentId": "6207504c-ae8f-4a09-b236-0a5b6cd442ec",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "True or false?",
+                "defaultLanguage": "en"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>QUESTIONS</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "en"
+              },
+              "subContentId": "303d8e49-9df8-4ebb-bb74-21e0f7344e25"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 92.40223463687151,
+            "height": 58.27814569536424,
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": false,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Next question",
+                  "showSolutionButtonLabel": "Show solution",
+                  "retryButtonLabel": "Retry",
+                  "solutionViewTitle": "Solution list",
+                  "correctText": "Correct!",
+                  "incorrectText": "Incorrect!",
+                  "muteButtonLabel": "Mute feedback sound",
+                  "closeButtonLabel": "Close",
+                  "slideOfTotal": "Slide :num of :total",
+                  "scoreBarLabel": "You got :num out of :total points",
+                  "solutionListQuestionNumber": "Question :num",
+                  "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                  "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                  "shouldSelect": "Should have been selected",
+                  "shouldNotSelect": "Should not have been selected"
+                },
+                "choices": [
+                  {
+                    "question": "What year was Ken Thompson born?",
+                    "answers": [
+                      "1943",
+                      "1950",
+                      "1948",
+                      "1955"
+                    ],
+                    "subContentId": "7893a747-83ef-46c5-95b7-007d245588e8"
+                  },
+                  {
+                    "question": "Where did Thompson work when developing UNIX?",
+                    "answers": [
+                      "Bell Labs",
+                      "Google",
+                      "Microsoft",
+                      "Apple"
+                    ],
+                    "subContentId": "e681d5ed-f2eb-42b4-93f4-8049bbca42a4"
+                  },
+                  {
+                    "question": "Which language is a precursor to C?",
+                    "answers": [
+                      "B Programming Language",
+                      "Java",
+                      "Python",
+                      "Assembly"
+                    ],
+                    "subContentId": "0a4db19f-0f20-4138-a2ef-c114157476a3"
+                  },
+                  {
+                    "question": "What did Thompson develop for text processing?",
+                    "answers": [
+                      "Regular Expression Notation",
+                      "HTML",
+                      "SQL",
+                      "JavaScript"
+                    ],
+                    "subContentId": "25d46bca-ee8e-4ae7-8535-f8d9ccd5dbdf"
+                  },
+                  {
+                    "question": "What award did Thompson receive with Ritchie?",
+                    "answers": [
+                      "Turing Award",
+                      "Nobel Prize",
+                      "Fields Medal",
+                      "Pritzker Prize"
+                    ],
+                    "subContentId": "09eb667e-66a0-4c25-927e-041a79df94ed"
+                  },
+                  {
+                    "question": "What language did Thompson co-develop at Google?",
+                    "answers": [
+                      "Go Programming Language",
+                      "Rust",
+                      "Swift",
+                      "Kotlin"
+                    ],
+                    "subContentId": "4ae90530-e867-494d-a249-b1c42265ffe7"
+                  }
+                ]
+              },
+              "subContentId": "dc6b82f1-4264-4137-8683-db0b27e41a00",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Questions",
+                "defaultLanguage": "en"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      }
+    ],
+    "keywordListEnabled": true,
+    "globalBackgroundSelector": {},
+    "keywordListAlwaysShow": false,
+    "keywordListAutoHide": false,
+    "keywordListOpacity": 90
+  },
+  "override": {
+    "activeSurface": false,
+    "hideSummarySlide": false,
+    "summarySlideSolutionButton": true,
+    "summarySlideRetryButton": true,
+    "enablePrintButton": false,
+    "social": {
+      "showFacebookShare": false,
+      "facebookShare": {
+        "url": "@currentpageurl",
+        "quote": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht."
+      },
+      "showTwitterShare": false,
+      "twitterShare": {
+        "statement": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht.",
+        "url": "@currentpageurl",
+        "hashtags": "h5p, Kurs"
+      },
+      "showGoogleShare": false,
+      "googleShareUrl": "@currentpageurl"
+    }
+  },
+  "l10n": {
+    "slide": "Slide",
+    "score": "Score",
+    "yourScore": "Your Score",
+    "maxScore": "Max Score",
+    "total": "Total",
+    "totalScore": "Total Score",
+    "showSolutions": "Show solutions",
+    "retry": "Retry",
+    "exportAnswers": "Export text",
+    "hideKeywords": "Hide sidebar navigation menu",
+    "showKeywords": "Show sidebar navigation menu",
+    "fullscreen": "Fullscreen",
+    "exitFullscreen": "Exit fullscreen",
+    "prevSlide": "Previous slide",
+    "nextSlide": "Next slide",
+    "currentSlide": "Current slide",
+    "lastSlide": "Last slide",
+    "solutionModeTitle": "Exit solution mode",
+    "solutionModeText": "Solution Mode",
+    "summaryMultipleTaskText": "Multiple tasks",
+    "scoreMessage": "You achieved:",
+    "shareFacebook": "Share on Facebook",
+    "shareTwitter": "Share on Twitter",
+    "shareGoogle": "Share on Google+",
+    "summary": "Summary",
+    "solutionsButtonTitle": "Show comments",
+    "printTitle": "Print",
+    "printIngress": "How would you like to print this presentation?",
+    "printAllSlides": "Print all slides",
+    "printCurrentSlide": "Print current slide",
+    "noTitle": "No title",
+    "accessibilitySlideNavigationExplanation": "Use left and right arrow to change slide in that direction whenever canvas is selected.",
+    "accessibilityCanvasLabel": "Presentation canvas. Use left and right arrow to move between slides.",
+    "containsNotCompleted": "@slideName contains not completed interaction",
+    "containsCompleted": "@slideName contains completed interaction",
+    "slideCount": "Slide @index of @total",
+    "containsOnlyCorrect": "@slideName only has correct answers",
+    "containsIncorrectAnswers": "@slideName has incorrect answers",
+    "shareResult": "Share Result",
+    "accessibilityTotalScore": "You got @score of @maxScore points in total",
+    "accessibilityEnteredFullscreen": "Entered fullscreen",
+    "accessibilityExitedFullscreen": "Exited fullscreen",
+    "confirmDialogHeader": "Submit your answers",
+    "confirmDialogText": "This will submit your results, do you want to continue?",
+    "confirmDialogConfirmText": "Submit and see results",
+    "accessibilityProgressBarLabel": "Choose slide to display",
+    "slideshowNavigationLabel": "Slideshow navigation"
+  }
+}

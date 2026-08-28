@@ -1,0 +1,959 @@
+{
+  "presentation": {
+    "slides": [
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 6.622516556291391,
+            "width": 92.73743016759778,
+            "height": 50.77262693156732,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:3em;\"><strong>Jerusalem - 1 Stadt, 3 Religionen</strong></span></p>\n\n<p><strong><span style=\"font-size:1.5em;\">Informationen und Übungen</span></strong></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "dff56334-2e6b-4f64-ab5f-fd72e6484f52"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 0,
+            "y": 0,
+            "width": 100,
+            "height": 99.99999999999999,
+            "action": {
+              "library": "H5P.Video 1.6",
+              "params": {
+                "visuals": {
+                  "fit": true,
+                  "controls": true
+                },
+                "playback": {
+                  "autoplay": false,
+                  "loop": false
+                },
+                "l10n": {
+                  "name": "Video",
+                  "loading": "Videoplayer lädt...",
+                  "noPlayers": "Keine Videoplayer gefunden, die das vorliegende Videoformat unterstützen.",
+                  "noSources": "Es wurden für das Video keine Quellen angegeben.",
+                  "aborted": "Das Abspielen des Videos wurde abgebrochen.",
+                  "networkFailure": "Netzwerkfehler.",
+                  "cannotDecode": "Dekodierung des Mediums nicht möglich.",
+                  "formatNotSupported": "Videoformat wird nicht unterstützt.",
+                  "mediaEncrypted": "Medium verschlüsselt.",
+                  "unknownError": "Unbekannter Fehler.",
+                  "invalidYtId": "Ungültige YouTube-ID.",
+                  "unknownYtId": "Video mit dieser YouTube-ID konnte nicht gefunden werden.",
+                  "restrictedYt": "Der Besitzer dieses Videos erlaubt kein Einbetten."
+                },
+                "sources": [
+                  {
+                    "path": "https://youtu.be/K7oNNKbotuQ",
+                    "mime": "video/YouTube",
+                    "copyright": {
+                      "license": "U"
+                    }
+                  }
+                ]
+              },
+              "subContentId": "ba1d7b9c-1b42-41e7-92dc-c2089cc36480",
+              "metadata": {
+                "contentType": "Video",
+                "license": "U",
+                "title": "Unbenannt: Video"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Informationstext (Teil 1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "5627dc6e-c943-439e-ab4a-4531b7f24264"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 12.903225806451612,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Ursprung der Stadt</strong><br>\nJerusalem ist eine sehr alte Stadt mit einer Geschichte, die Tausende von Jahren zurückreicht. Sie liegt im Nahen Osten und ist bekannt für ihre religiöse Bedeutung für drei der größten Glaubensrichtungen der Welt: das Judentum, das Christentum und den Islam. Archäologische Funde deuten darauf hin, dass die Gegend bereits im 4. Jahrtausend vor Christus besiedelt war. Durch die Jahrhunderte hindurch war die Stadt Schauplatz vieler historischer Ereignisse.</p>\n\n<p><strong>Bedeutung für das Judentum</strong><br>\nFür Juden ist Jerusalem das spirituelle Herz. Die Stadt beherbergt die Klagemauer, die ein Überbleibsel des Zweiten Tempels ist, der im Jahr 70 n. Chr. von den Römern zerstört wurde. Der Tempelberg ist auch der Ort, an dem, laut Überlieferung, Abraham seinen Sohn Isaak opfern sollte. Viele jüdische Feste und Rituale sind eng mit der Stadt verbunden und sie ist auch ein wichtiger Ort für jüdische Pilger.</p>\n\n<p><strong>Bedeutung für das Christentum</strong><br>\nJerusalem ist auch für Christen eine heilige Stadt. Laut christlicher Überlieferung ist dies der Ort, an dem Jesus Christus gekreuzigt wurde und auferstanden ist. Die Via Dolorosa, der Leidensweg Christi, und die Grabeskirche sind wichtige Pilgerstätten. Jedes Jahr reisen Christen aus aller Welt nach Jerusalem, um diese und andere heilige Stätten zu besuchen.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "53bc5361-5ce5-43a9-a00f-57bbceee9cd0"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Informationstext (Teil 2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "55aaf4d3-f7e3-4a3e-9196-01a6f7474f94"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Bedeutung für den Islam</strong><br>\nIm Islam wird Jerusalem als dritte heiligste Stadt nach Mekka und Medina angesehen. Der Felsendom und die Al-Aqsa-Moschee auf dem Tempelberg sind bedeutende islamische Heiligtümer. Laut islamischer Überlieferung reiste der Prophet Mohammed in einer Nacht von Mekka nach Jerusalem und stieg von dort in den Himmel auf.</p>\n\n<p><strong>Politische Konflikte</strong><br>\nDie verschiedenen religiösen Ansprüche auf die Stadt haben durch die Jahrhunderte hindurch zu Konflikten geführt. Die politische Lage ist komplex, mit Israel und Palästina, die beide Ansprüche auf die Stadt stellen. Die Konflikte um den Status von Jerusalem sind oft mit religiösen Spannungen verbunden und haben viele Male zu Gewalt geführt.</p>\n\n<p><strong>Architektur und Kultur</strong><br>\nJerusalem hat eine einzigartige Architektur und Kultur, die stark von den drei vorherrschenden Religionen beeinflusst ist. Die Stadt bietet eine Mischung aus antiken Gebäuden, religiösen Stätten und moderner Architektur. Durch die Jahrhunderte hindurch haben verschiedene Kulturen und Zivilisationen ihre Spuren in der Architektur und Kultur der Stadt hinterlassen.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "3b13867b-feab-4e2e-bfa2-fcc82e4dbff1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Informationstext (Teil 3)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "4381b60d-c67f-4722-b83d-b17f2fc9d01c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Wirtschaft und Tourismus</strong><br>\nTourismus ist eine wichtige Einkommensquelle für Jerusalem, da die Stadt jedes Jahr Millionen von Pilgern und Touristen anzieht. Die Besucher kommen, um die heiligen Stätten zu sehen und die reiche Geschichte und Kultur der Stadt zu erleben. Auch die lokale Wirtschaft profitiert von den Besuchern, und es gibt viele Geschäfte und Märkte, die traditionelle Waren und Souvenirs verkaufen.</p>\n\n<p><strong>Bildung und Forschung</strong><br>\nIn Jerusalem gibt es viele Bildungs- und Forschungseinrichtungen. Die Hebräische Universität von Jerusalem ist eine der führenden Universitäten des Landes und bietet eine breite Palette von Studienmöglichkeiten. Es gibt auch viele Forschungsinstitute, die sich mit der reichen Geschichte und den religiösen Traditionen der Stadt beschäftigen.</p>\n\n<p><strong>Die Zukunft von Jerusalem</strong><br>\nDie Zukunft von Jerusalem ist ungewiss, da die politischen und religiösen Spannungen weiterhin bestehen. Es gibt Hoffnung auf Frieden und eine gemeinsame Lösung für alle Beteiligten, aber die komplexen Herausforderungen erfordern Geduld und Verständnis von allen Seiten. Die Stadt wird jedoch weiterhin ein Ort von großer religiöser und historischer Bedeutung bleiben, der Menschen aus aller Welt anzieht.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "3d655444-fd55-42f7-aba2-16a16db7dc58"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Ziehe die Wörter in die richtigen Felder!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Überprüfen",
+                "submitAnswer": "Submit",
+                "tryAgain": "Wiederholen",
+                "showSolution": "Lösung anzeigen",
+                "dropZoneIndex": "Ablagefeld @index.",
+                "empty": "Ablagefeld @index ist leer.",
+                "contains": "Ablagefeld @index enthält ziehbaren Text @draggable.",
+                "ariaDraggableIndex": "@index von @count ziehbaren Texten.",
+                "tipLabel": "Tipp anzeigen",
+                "correctText": "Richtig!",
+                "incorrectText": "Falsch!",
+                "resetDropTitle": "Ablagefelder zurücksetzen",
+                "resetDropDescription": "Bist du sicher, dass du dieses Ablagefeld zurücksetzen möchtest?",
+                "grabbed": "Ziehbarer Text wurde aufgenommen.",
+                "cancelledDragging": "Ziehen abgebrochen.",
+                "correctAnswer": "Korrekte Antwort:",
+                "feedbackHeader": "Rückmeldung",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "a11yCheck": "Die Antworten überprüfen. Die Eingaben werden als richtig, falsch oder unbeantwortet markiert.",
+                "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                "a11yRetry": "Die Aufgabe wiederholen. Alle Eingaben werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                "textField": "*Pilger* - Personen, die heilige Stätten aus religiösen Gründen besuchen\n*Tempel* - heilige Gebäude für religiöse Aktivitäten\n*Hebräische Universität* - Bildungseinrichtung in Jerusalem\n*Glaubensrichtungen* - verschiedene religiöse Überzeugungen oder Lehren",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Begriffe 1"
+              },
+              "subContentId": "4a94ce62-c440-4215-bc76-32408bcec41d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Wichtige Begriffe (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "e773caca-acd3-4ee8-9ed2-b80b588d3a60"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "Ziehe die Wörter in die richtigen Felder!",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Überprüfen",
+                "submitAnswer": "Submit",
+                "tryAgain": "Wiederholen",
+                "showSolution": "Lösung anzeigen",
+                "dropZoneIndex": "Ablagefeld @index.",
+                "empty": "Ablagefeld @index ist leer.",
+                "contains": "Ablagefeld @index enthält ziehbaren Text @draggable.",
+                "ariaDraggableIndex": "@index von @count ziehbaren Texten.",
+                "tipLabel": "Tipp anzeigen",
+                "correctText": "Richtig!",
+                "incorrectText": "Falsch!",
+                "resetDropTitle": "Ablagefelder zurücksetzen",
+                "resetDropDescription": "Bist du sicher, dass du dieses Ablagefeld zurücksetzen möchtest?",
+                "grabbed": "Ziehbarer Text wurde aufgenommen.",
+                "cancelledDragging": "Ziehen abgebrochen.",
+                "correctAnswer": "Korrekte Antwort:",
+                "feedbackHeader": "Rückmeldung",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "a11yCheck": "Die Antworten überprüfen. Die Eingaben werden als richtig, falsch oder unbeantwortet markiert.",
+                "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                "a11yRetry": "Die Aufgabe wiederholen. Alle Eingaben werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                "textField": "*Naher Osten* - geographische Region, in der Jerusalem liegt\n*Klagemauer* - Überbleibsel des Zweiten jüdischen Tempels\n*Tempelberg* - heiliger Ort für Juden, Christen und Muslime\n*Via Dolorosa* - Straße, die den Leidensweg Christi darstellt\n*Felsendom* - bedeutendes islamisches Heiligtum in Jerusalem",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Begriffe 2"
+              },
+              "subContentId": "b74a36f9-2aa3-417a-814c-50e58208f7b3"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Wichtige Begriffe (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "be59e194-86c9-4928-9194-f6e496790bc1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Vervollständige die Sätze!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Überprüfen",
+                "submitAnswer": "Submit",
+                "tryAgain": "Wiederholen",
+                "showSolution": "Lösung anzeigen",
+                "dropZoneIndex": "Ablagefeld @index.",
+                "empty": "Ablagefeld @index ist leer.",
+                "contains": "Ablagefeld @index enthält ziehbaren Text @draggable.",
+                "ariaDraggableIndex": "@index von @count ziehbaren Texten.",
+                "tipLabel": "Tipp anzeigen",
+                "correctText": "Richtig!",
+                "incorrectText": "Falsch!",
+                "resetDropTitle": "Ablagefelder zurücksetzen",
+                "resetDropDescription": "Bist du sicher, dass du dieses Ablagefeld zurücksetzen möchtest?",
+                "grabbed": "Ziehbarer Text wurde aufgenommen.",
+                "cancelledDragging": "Ziehen abgebrochen.",
+                "correctAnswer": "Korrekte Antwort:",
+                "feedbackHeader": "Rückmeldung",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "a11yCheck": "Die Antworten überprüfen. Die Eingaben werden als richtig, falsch oder unbeantwortet markiert.",
+                "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                "a11yRetry": "Die Aufgabe wiederholen. Alle Eingaben werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                "textField": "*Jerusalem ist eine ...* - ... sehr alte Stadt.  \n*Die Stadt ist bekannt ...* - ... für ihre religiöse Bedeutung.  \n*Archäologische Funde deuten darauf ...* - ... hin, dass die Gegend besiedelt war.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Sätze 1"
+              },
+              "subContentId": "fc5741fc-cbfd-45c8-9433-cf39572a4b81"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Sätze vervollständigen (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "ecb45d14-3fe2-4a02-ab8f-6c03ba60ef4c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Vervollständige die Sätze!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Überprüfen",
+                "submitAnswer": "Submit",
+                "tryAgain": "Wiederholen",
+                "showSolution": "Lösung anzeigen",
+                "dropZoneIndex": "Ablagefeld @index.",
+                "empty": "Ablagefeld @index ist leer.",
+                "contains": "Ablagefeld @index enthält ziehbaren Text @draggable.",
+                "ariaDraggableIndex": "@index von @count ziehbaren Texten.",
+                "tipLabel": "Tipp anzeigen",
+                "correctText": "Richtig!",
+                "incorrectText": "Falsch!",
+                "resetDropTitle": "Ablagefelder zurücksetzen",
+                "resetDropDescription": "Bist du sicher, dass du dieses Ablagefeld zurücksetzen möchtest?",
+                "grabbed": "Ziehbarer Text wurde aufgenommen.",
+                "cancelledDragging": "Ziehen abgebrochen.",
+                "correctAnswer": "Korrekte Antwort:",
+                "feedbackHeader": "Rückmeldung",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "a11yCheck": "Die Antworten überprüfen. Die Eingaben werden als richtig, falsch oder unbeantwortet markiert.",
+                "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                "a11yRetry": "Die Aufgabe wiederholen. Alle Eingaben werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                "textField": "*Die Klagemauer ist ein ...* - ... Überbleibsel des Zweiten Tempels.  \n*Die Via Dolorosa stellt ...* - ... den Leidensweg Christi dar.  \n*Der Tourismus ist eine ...* - ... wichtige Einkommensquelle für Jerusalem.  \n*Die Hebräische Universität ist ...* - ... eine der führenden des Landes.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Sätze 2"
+              },
+              "subContentId": "a8bdf3b3-dac7-40e5-bdfd-f199401a2c3e"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Sätze vervollständigen (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "1351cab9-7952-442e-bc32-7d4a3895ab3d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Wahr oder falsch?</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "3f4bfb9e-6eb5-4097-abf6-f0c1308dfc3f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.2346368715083798,
+            "y": 11.69916114790287,
+            "width": 95.41899441340783,
+            "height": 88.30022075055187,
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>Wähle die korrekte Aussage!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Fortschritt:",
+                "scoreLabel": "Falsche Antworten:",
+                "resultLabel": "Dein Ergebnis",
+                "labelCorrect": "Richtig.",
+                "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                "alternativeIncorrectLabel": "Falsch",
+                "labelCorrectAnswers": "Richtige Antwort(en).",
+                "tipButtonLabel": "Tipp anzeigen",
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "progressText": "Fortschritt :num von :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "Jerusalem ist für das Judentum, das Christentum und den Islam von Bedeutung.",
+                      "Die Klagemauer wurde von den Ägyptern erbaut."
+                    ],
+                    "subContentId": "4888a118-22b2-4a43-91a2-0944a9d20db8",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Die Stadt beherbergt die Klagemauer und den Tempelberg.",
+                      "Der Felsendom steht in Mekka."
+                    ],
+                    "subContentId": "d829f08e-eff6-4721-b7f5-2badcada86d1",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Im Islam wird Jerusalem als dritte heiligste Stadt angesehen.",
+                      "Die Hebräische Universität befindet sich in Tel Aviv."
+                    ],
+                    "subContentId": "2f5496a6-649e-43e2-837c-c4b84efd75f0",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Tourismus ist eine wichtige Einkommensquelle für die Stadt.",
+                      "Jerusalem liegt in Europa."
+                    ],
+                    "subContentId": "8d869be8-a22b-4d56-a745-7060618e9607",
+                    "tip": ""
+                  }
+                ]
+              },
+              "subContentId": "6207504c-ae8f-4a09-b236-0a5b6cd442ec",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "Wahr oder falsch?"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Fragen</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "303d8e49-9df8-4ebb-bb74-21e0f7344e25"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.346368715083799,
+            "y": 15.673289183222957,
+            "width": 92.40223463687151,
+            "height": 58.27814569536424,
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": false,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Weiter",
+                  "showSolutionButtonLabel": "Lösung anzeigen",
+                  "retryButtonLabel": "Wiederholen",
+                  "solutionViewTitle": "Lösung",
+                  "correctText": "Richtig!",
+                  "incorrectText": "Falsch!",
+                  "muteButtonLabel": "Stumm schalten",
+                  "closeButtonLabel": "Schließen",
+                  "slideOfTotal": "Seite :num von :total",
+                  "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                  "solutionListQuestionNumber": "Frage :num",
+                  "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                  "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                  "shouldSelect": "Should have been selected",
+                  "shouldNotSelect": "Should not have been selected"
+                },
+                "choices": [
+                  {
+                    "question": "Welche Stadt ist die dritte heiligste im Islam?",
+                    "answers": [
+                      "Jerusalem",
+                      "Istanbul",
+                      "Bagdad",
+                      "Kairo"
+                    ],
+                    "subContentId": "09e25b63-449d-4cb7-a748-88fe0a85ca33"
+                  },
+                  {
+                    "question": "Welches Gebäude ist ein Überbleibsel des Zweiten Tempels?",
+                    "answers": [
+                      "Klagemauer",
+                      "Petersdom",
+                      "Kaaba",
+                      "Taj Mahal"
+                    ],
+                    "subContentId": "e1ba4617-5e73-493b-ad71-0ca52410c795"
+                  },
+                  {
+                    "question": "Wo liegt Jerusalem geographisch?",
+                    "answers": [
+                      "Naher Osten",
+                      "Südostasien",
+                      "Nordamerika",
+                      "Europa"
+                    ],
+                    "subContentId": "d4c45412-f95e-45e6-9e9e-0dee35aeb065"
+                  },
+                  {
+                    "question": "Was stellt die Via Dolorosa dar?",
+                    "answers": [
+                      "Leidensweg Christi",
+                      "Pilgerweg nach Mekka",
+                      "Römische Straße",
+                      "Marktplatz in Jerusalem"
+                    ],
+                    "subContentId": "561d480b-e237-4167-bd31-c0a49a58101b"
+                  },
+                  {
+                    "question": "Welche Universität ist in Jerusalem?",
+                    "answers": [
+                      "Hebräische Universität",
+                      "Oxford Universität",
+                      "Harvard Universität",
+                      "Universität von Tokyo"
+                    ],
+                    "subContentId": "89466e2b-15d2-46e2-9695-f8642ca37552"
+                  },
+                  {
+                    "question": "Welcher Prophet reiste laut islamischer Überlieferung von Mekka nach Jerusalem?",
+                    "answers": [
+                      "Mohammed",
+                      "Moses",
+                      "Jesus",
+                      "Buddha"
+                    ],
+                    "subContentId": "38754bae-e839-443f-9860-81aaa570edaa"
+                  }
+                ]
+              },
+              "subContentId": "dc6b82f1-4264-4137-8683-db0b27e41a00",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Fragen"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      }
+    ],
+    "keywordListEnabled": true,
+    "globalBackgroundSelector": {},
+    "keywordListAlwaysShow": false,
+    "keywordListAutoHide": false,
+    "keywordListOpacity": 90
+  },
+  "override": {
+    "activeSurface": false,
+    "hideSummarySlide": false,
+    "summarySlideSolutionButton": true,
+    "summarySlideRetryButton": true,
+    "enablePrintButton": false,
+    "social": {
+      "showFacebookShare": false,
+      "facebookShare": {
+        "url": "@currentpageurl",
+        "quote": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht."
+      },
+      "showTwitterShare": false,
+      "twitterShare": {
+        "statement": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht.",
+        "url": "@currentpageurl",
+        "hashtags": "h5p, Kurs"
+      },
+      "showGoogleShare": false,
+      "googleShareUrl": "@currentpageurl"
+    }
+  },
+  "l10n": {
+    "slide": "Folie",
+    "score": "Punktzahl",
+    "yourScore": "Deine Punktzahl",
+    "maxScore": "Maximale Punktzahl",
+    "total": "Summe",
+    "totalScore": "Gesamtpunktzahl",
+    "showSolutions": "Lösungen anzeigen",
+    "retry": "Wiederholen",
+    "exportAnswers": "Text exportieren",
+    "hideKeywords": "Stichwortliste verbergen",
+    "showKeywords": "Stichwortliste anzeigen",
+    "fullscreen": "Vollbild",
+    "exitFullscreen": "Vollbild beenden",
+    "prevSlide": "Vorherige Folie",
+    "nextSlide": "Nächste Folie",
+    "currentSlide": "Aktuelle Folie",
+    "lastSlide": "Letzte Folie",
+    "solutionModeTitle": "Lösungsmodus beenden",
+    "solutionModeText": "Lösungsmodus",
+    "summaryMultipleTaskText": "Mehrere Aufgaben",
+    "scoreMessage": "Du hast erreicht:",
+    "shareFacebook": "Auf Facebook teilen",
+    "shareTwitter": "Auf Twitter teilen",
+    "shareGoogle": "Auf Google+ teilen",
+    "summary": "Zusammenfassung",
+    "solutionsButtonTitle": "Kommentare anzeigen",
+    "printTitle": "Drucken",
+    "printIngress": "Wie möchtest du diese Präsentation drucken?",
+    "printAllSlides": "Alle Folien drucken",
+    "printCurrentSlide": "Aktuelle Folie drucken",
+    "noTitle": "Kein Titel",
+    "accessibilitySlideNavigationExplanation": "Verwende die linke oder rechte Cursortaste, um zur Folie in der jeweiligen Richtung zu blättern, wenn der Präsentationsbereich ausgewählt ist.",
+    "accessibilityCanvasLabel": "Präsentationsbereich. Verwende die linke oder rechte Cursortaste, um zwischen den Folien zu navigieren.",
+    "containsNotCompleted": "@slideName enthält eine nicht abgeschlossene Interaktion",
+    "containsCompleted": "@slideName wurde abgeschlossen",
+    "slideCount": "Folie @index von @total",
+    "containsOnlyCorrect": "@slideName enthält nur richtige Antworten",
+    "containsIncorrectAnswers": "@slideName enthält falsche Antworten",
+    "shareResult": "Ergebnis teilen",
+    "accessibilityTotalScore": "Du hast insgesamt @score von @maxScore Punkten erreicht.",
+    "accessibilityEnteredFullscreen": "Vollbild aktiviert",
+    "accessibilityExitedFullscreen": "Vollbild deaktiviert",
+    "confirmDialogHeader": "Submit your answers",
+    "confirmDialogText": "This will submit your results, do you want to continue?",
+    "confirmDialogConfirmText": "Submit and see results",
+    "accessibilityProgressBarLabel": "Wähle das zu zeigende Schaubild",
+    "slideshowNavigationLabel": "Schaubild-Navigation"
+  }
+}

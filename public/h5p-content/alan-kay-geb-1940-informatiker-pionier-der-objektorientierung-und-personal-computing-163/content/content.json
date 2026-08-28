@@ -1,0 +1,898 @@
+{
+  "presentation": {
+    "slides": [
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 6.455305615685532,
+            "width": 92.73743016759778,
+            "height": 50.77262693156732,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:3em;\"><strong>Alan Kay (geb. 1940) - Informatiker, Pionier der Objektorientierung und Personal Computing</strong></span></p>\n\n<p><strong><span style=\"font-size:1.5em;\">Informationen und Übungen</span></strong></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "dff56334-2e6b-4f64-ab5f-fd72e6484f52"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Informationstext (Teil 1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "5627dc6e-c943-439e-ab4a-4531b7f24264"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582783,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Frühe Jahre und Bildungsweg von Alan Kay</strong><br>\nAlan Kay wurde im Jahr 1940 geboren und wuchs in einer Zeit auf, in der Computer große, komplexe Maschinen waren, die nur von Experten bedient werden konnten. Sein Interesse an Computern begann in den frühen Jahren seines Lebens. Kay studierte an der University of Colorado, wo er Mathematik und molekulare Biologie studierte. Er setzte seine Ausbildung an der Stanford University fort, wo er sich mit Computertechnik und Computerwissenschaften beschäftigte und seinen Doktortitel erwarb.</p>\n\n<p><strong>Entwicklung der Objektorientierung</strong><br>\nIn den 1960er Jahren begann Kay mit dem Konzept der objektorientierten Programmierung (OOP). Diese Art des Programmierens ermöglicht es, Software so zu entwickeln, dass sie die Eigenschaften von Objekten der realen Welt nachahmt. Er glaubte, dass diese Vorgehensweise das Programmieren vereinfachen und die Softwareentwicklung verbessern könnte. Kay’s Ideen führten zu einer revolutionären Veränderung in der Art und Weise, wie Software entwickelt wurde, und sind heute ein Grundstein der modernen Programmierung.</p>\n\n<p><strong>Beitrag zum Personal Computing</strong><br>\nAlan Kay war ein Visionär auf dem Gebiet des Personal Computing. Er erkannte früh das Potenzial von Computern als persönliche Werkzeuge, die nicht nur in der Wissenschaft oder Industrie, sondern auch im täglichen Leben Einzug halten könnten. Seine Vision von einem Computer als „dynamisches Medium“ für Kreativität und Entdeckung inspirierte die Entwicklung der ersten Personal Computer.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "53bc5361-5ce5-43a9-a00f-57bbceee9cd0"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Informationstext (Teil 2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "55aaf4d3-f7e3-4a3e-9196-01a6f7474f94"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Kay bei Xerox PARC</strong><br>\nIn den 1970er Jahren arbeitete Kay beim Xerox Palo Alto Research Center (PARC). Hier entwickelte er mit seinem Team den Alto, den ersten Computer, der eine grafische Benutzeroberfläche und eine Maus verwendete. Dies war ein großer Schritt vorwärts für die Computerbenutzerfreundlichkeit und beeinflusste maßgeblich die spätere Gestaltung von Apple-Computern.</p>\n\n<p><strong>Die Dynabook-Idee</strong><br>\nKay’s berühmteste Erfindung ist das Konzept des Dynabook, ein persönlicher Computer in Form eines Tabletts oder Buches, das für Kinder und Erwachsene gleichermaßen zugänglich ist. Obwohl es in den 1970er Jahren technologisch nicht umsetzbar war, ähneln moderne Tablets und E-Book-Reader stark seiner ursprünglichen Vision des Dynabook.</p>\n\n<p><strong>Einfluss auf Programmiersprachen</strong><br>\nAlan Kay spielte auch eine entscheidende Rolle bei der Entwicklung von Smalltalk, einer der ersten Programmiersprachen, die das Prinzip der Objektorientierung umsetzte. Smalltalk beeinflusste viele spätere Programmiersprachen und half, die Softwareentwicklung zu demokratisieren, indem es Menschen ohne umfangreiche technische Kenntnisse ermöglichte, Programmierung zu erlernen.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "3b13867b-feab-4e2e-bfa2-fcc82e4dbff1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Informationstext (Teil 3)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "4381b60d-c67f-4722-b83d-b17f2fc9d01c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 12.910611231371064,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Lehr- und Forschungsarbeit</strong><br>\nNeben seiner Arbeit in der Industrie hat Kay auch in der akademischen Welt gewirkt. Er hat an verschiedenen Universitäten gelehrt und betont die Bedeutung des lebenslangen Lernens und des kritischen Denkens. Kay ist der Meinung, dass Bildung nicht nur Wissen vermitteln, sondern auch zum Denken anregen sollte.</p>\n\n<p><strong>Auszeichnungen und Anerkennungen</strong><br>\nIm Laufe seiner Karriere wurde Kay mit zahlreichen Preisen ausgezeichnet, darunter der Turing Award, manchmal auch als „Nobelpreis der Informatik“ bezeichnet. Diese Anerkennungen bestätigen seinen Einfluss auf die Informatik und seine Beiträge zum Fortschritt des Personal Computing.</p>\n\n<p><strong>Kays philosophischer Ansatz</strong><br>\nAlan Kay ist nicht nur als Informatiker, sondern auch für seinen philosophischen Ansatz bekannt. Er hat den berühmten Satz geprägt: „Die beste Art, die Zukunft vorherzusagen, ist, sie zu erfinden.“ Kay fordert dazu auf, Grenzen zu überschreiten und Neues zu schaffen, anstatt sich nur auf bestehende Technologien zu verlassen. Sein Werk regt dazu an, über die bloße Technik hinauszudenken und ihre Möglichkeiten für die Verbesserung der Gesellschaft zu nutzen.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "3d655444-fd55-42f7-aba2-16a16db7dc58"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 3.2679738562091503,
+            "y": 12.910611231371064,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "Ziehe die Wörter in die richtigen Felder!",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Überprüfen",
+                "submitAnswer": "Submit",
+                "tryAgain": "Wiederholen",
+                "showSolution": "Lösung anzeigen",
+                "dropZoneIndex": "Ablagefeld @index.",
+                "empty": "Ablagefeld @index ist leer.",
+                "contains": "Ablagefeld @index enthält ziehbaren Text @draggable.",
+                "ariaDraggableIndex": "@index von @count ziehbaren Texten.",
+                "tipLabel": "Tipp anzeigen",
+                "correctText": "Richtig!",
+                "incorrectText": "Falsch!",
+                "resetDropTitle": "Ablagefelder zurücksetzen",
+                "resetDropDescription": "Bist du sicher, dass du dieses Ablagefeld zurücksetzen möchtest?",
+                "grabbed": "Ziehbarer Text wurde aufgenommen.",
+                "cancelledDragging": "Ziehen abgebrochen.",
+                "correctAnswer": "Korrekte Antwort:",
+                "feedbackHeader": "Rückmeldung",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "a11yCheck": "Die Antworten überprüfen. Die Eingaben werden als richtig, falsch oder unbeantwortet markiert.",
+                "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                "a11yRetry": "Die Aufgabe wiederholen. Alle Eingaben werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                "textField": "*Objektorientierte Programmierung* - Programmiermethode, die Objekte der Realität nachahmt\n*Personal Computing* - Nutzung von Computern als persönliche Werkzeuge\n*Xerox PARC* - Forschungszentrum, Entwicklung des ersten grafischen Computers\n*Dynabook* - Vision eines Tablet-ähnlichen persönlichen Computers\n*Smalltalk* - Frühe objektorientierte Programmiersprache",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Begriffe 1"
+              },
+              "subContentId": "4a94ce62-c440-4215-bc76-32408bcec41d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 3.2679738562091503,
+            "y": 4.303537077123688,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Wichtige Begriffe (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "e773caca-acd3-4ee8-9ed2-b80b588d3a60"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 3.5947712418300655,
+            "y": 13.12578808522725,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Ziehe die Wörter in die richtigen Felder!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Überprüfen",
+                "submitAnswer": "Submit",
+                "tryAgain": "Wiederholen",
+                "showSolution": "Lösung anzeigen",
+                "dropZoneIndex": "Ablagefeld @index.",
+                "empty": "Ablagefeld @index ist leer.",
+                "contains": "Ablagefeld @index enthält ziehbaren Text @draggable.",
+                "ariaDraggableIndex": "@index von @count ziehbaren Texten.",
+                "tipLabel": "Tipp anzeigen",
+                "correctText": "Richtig!",
+                "incorrectText": "Falsch!",
+                "resetDropTitle": "Ablagefelder zurücksetzen",
+                "resetDropDescription": "Bist du sicher, dass du dieses Ablagefeld zurücksetzen möchtest?",
+                "grabbed": "Ziehbarer Text wurde aufgenommen.",
+                "cancelledDragging": "Ziehen abgebrochen.",
+                "correctAnswer": "Korrekte Antwort:",
+                "feedbackHeader": "Rückmeldung",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "a11yCheck": "Die Antworten überprüfen. Die Eingaben werden als richtig, falsch oder unbeantwortet markiert.",
+                "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                "a11yRetry": "Die Aufgabe wiederholen. Alle Eingaben werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                "textField": "*Turing Award* - Hochangesehene Auszeichnung in der Informatik\n*Grafische Benutzeroberfläche* - Visuelle Schnittstelle zur Computerbedienung\n*Dynamisches Medium* - Konzept für kreative und entdeckende Computernutzung\n*Lebenslanges Lernen* - Wichtigkeit des kontinuierlichen Lernprozesses",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Begriffe 2"
+              },
+              "subContentId": "b74a36f9-2aa3-417a-814c-50e58208f7b3"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 3.5947712418300655,
+            "y": 3.227652807842766,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Wichtige Begriffe (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "be59e194-86c9-4928-9194-f6e496790bc1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 3.2679738562091503,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Vervollständige die Sätze!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Überprüfen",
+                "submitAnswer": "Submit",
+                "tryAgain": "Wiederholen",
+                "showSolution": "Lösung anzeigen",
+                "dropZoneIndex": "Ablagefeld @index.",
+                "empty": "Ablagefeld @index ist leer.",
+                "contains": "Ablagefeld @index enthält ziehbaren Text @draggable.",
+                "ariaDraggableIndex": "@index von @count ziehbaren Texten.",
+                "tipLabel": "Tipp anzeigen",
+                "correctText": "Richtig!",
+                "incorrectText": "Falsch!",
+                "resetDropTitle": "Ablagefelder zurücksetzen",
+                "resetDropDescription": "Bist du sicher, dass du dieses Ablagefeld zurücksetzen möchtest?",
+                "grabbed": "Ziehbarer Text wurde aufgenommen.",
+                "cancelledDragging": "Ziehen abgebrochen.",
+                "correctAnswer": "Korrekte Antwort:",
+                "feedbackHeader": "Rückmeldung",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "a11yCheck": "Die Antworten überprüfen. Die Eingaben werden als richtig, falsch oder unbeantwortet markiert.",
+                "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                "a11yRetry": "Die Aufgabe wiederholen. Alle Eingaben werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                "textField": "*Alan Kay wurde 1940 geboren ...* - ... und interessierte sich früh für Computer.\n*Er studierte Mathematik und ...* - ... molekulare Biologie an der University of Colorado.\n*Kay arbeitete bei Xerox PARC ...* - ... an der Entwicklung des Alto.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Sätze 1"
+              },
+              "subContentId": "fc5741fc-cbfd-45c8-9433-cf39572a4b81"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 3.2679738562091503,
+            "y": 4.303537077123688,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Sätze vervollständigen (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "ecb45d14-3fe2-4a02-ab8f-6c03ba60ef4c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 3.2679738562091503,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Vervollständige die Sätze!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Überprüfen",
+                "submitAnswer": "Submit",
+                "tryAgain": "Wiederholen",
+                "showSolution": "Lösung anzeigen",
+                "dropZoneIndex": "Ablagefeld @index.",
+                "empty": "Ablagefeld @index ist leer.",
+                "contains": "Ablagefeld @index enthält ziehbaren Text @draggable.",
+                "ariaDraggableIndex": "@index von @count ziehbaren Texten.",
+                "tipLabel": "Tipp anzeigen",
+                "correctText": "Richtig!",
+                "incorrectText": "Falsch!",
+                "resetDropTitle": "Ablagefelder zurücksetzen",
+                "resetDropDescription": "Bist du sicher, dass du dieses Ablagefeld zurücksetzen möchtest?",
+                "grabbed": "Ziehbarer Text wurde aufgenommen.",
+                "cancelledDragging": "Ziehen abgebrochen.",
+                "correctAnswer": "Korrekte Antwort:",
+                "feedbackHeader": "Rückmeldung",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "a11yCheck": "Die Antworten überprüfen. Die Eingaben werden als richtig, falsch oder unbeantwortet markiert.",
+                "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                "a11yRetry": "Die Aufgabe wiederholen. Alle Eingaben werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                "textField": "*Das Dynabook war Kays Vision ...* - ... eines Tablet-ähnlichen Computers.\n*Smalltalk beeinflusste viele spätere ...* - ... Programmiersprachen durch Objektorientierung.\n*Die Zukunft erfinden, ein berühmter ...* - ... Satz von Kay, inspiriert Innovation.\n*Kays Arbeit wurde mit dem ...* - ... Turing Award und anderen Preisen geehrt.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Sätze 2"
+              },
+              "subContentId": "a8bdf3b3-dac7-40e5-bdfd-f199401a2c3e"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 3.2679738562091503,
+            "y": 6.455305615685532,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Sätze vervollständigen (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "1351cab9-7952-442e-bc32-7d4a3895ab3d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 3.2679738562091503,
+            "y": 4.303537077123688,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Wahr oder falsch?</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "3f4bfb9e-6eb5-4097-abf6-f0c1308dfc3f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 3.2679738562091503,
+            "y": 10.758842692809221,
+            "width": 95.41899441340783,
+            "height": 88.30022075055187,
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>Wähle die korrekte Aussage!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Fortschritt:",
+                "scoreLabel": "Falsche Antworten:",
+                "resultLabel": "Dein Ergebnis",
+                "labelCorrect": "Richtig.",
+                "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                "alternativeIncorrectLabel": "Falsch",
+                "labelCorrectAnswers": "Richtige Antwort(en).",
+                "tipButtonLabel": "Tipp anzeigen",
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "progressText": "Fortschritt :num von :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "Alan Kay studierte an der University of Colorado und Stanford University.",
+                      "Alan Kay erfand die Programmiersprache Java."
+                    ],
+                    "subContentId": "63e3b1a8-93b1-46dd-ab5f-c4cc2f9c3ac6",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Kay entwickelte das Konzept des Dynabook in den 1970er Jahren.",
+                      "Das Dynabook wurde in den 1960er Jahren veröffentlicht."
+                    ],
+                    "subContentId": "d4ec0733-14e7-4d7b-af6b-de8f2c325742",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Er spielte eine Schlüsselrolle in der Entwicklung von Smalltalk.",
+                      "Kay erhielt den Turing Award für seine Arbeit in der Molekularbiologie."
+                    ],
+                    "subContentId": "77bda759-8adb-4268-9f45-9fe46f9daa32",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Kay arbeitete am Xerox Palo Alto Research Center (PARC).",
+                      "Die grafische Benutzeroberfläche wurde von Kay bei IBM entwickelt."
+                    ],
+                    "subContentId": "76ea3486-cbc0-4a2c-a61d-7107a5902c01",
+                    "tip": ""
+                  }
+                ]
+              },
+              "subContentId": "6207504c-ae8f-4a09-b236-0a5b6cd442ec",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "Wahr oder falsch?"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 3.2679738562091503,
+            "y": 4.303537077123688,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Fragen</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "303d8e49-9df8-4ebb-bb74-21e0f7344e25"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 3.2679738562091503,
+            "y": 15.062379769932909,
+            "width": 92.40223463687151,
+            "height": 58.27814569536424,
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": false,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Weiter",
+                  "showSolutionButtonLabel": "Lösung anzeigen",
+                  "retryButtonLabel": "Wiederholen",
+                  "solutionViewTitle": "Lösung",
+                  "correctText": "Richtig!",
+                  "incorrectText": "Falsch!",
+                  "muteButtonLabel": "Stumm schalten",
+                  "closeButtonLabel": "Schließen",
+                  "slideOfTotal": "Seite :num von :total",
+                  "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                  "solutionListQuestionNumber": "Frage :num",
+                  "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                  "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                  "shouldSelect": "Should have been selected",
+                  "shouldNotSelect": "Should not have been selected"
+                },
+                "choices": [
+                  {
+                    "question": "Wer entwickelte das Konzept der Objektorientierung in den 1960ern?",
+                    "answers": [
+                      "Alan Kay",
+                      "Steve Jobs",
+                      "Bill Gates",
+                      "Linus Torvalds"
+                    ],
+                    "subContentId": "6e486bbe-a154-4c0c-b8a0-3bc3a29674ff"
+                  },
+                  {
+                    "question": "Was ist das Dynabook?",
+                    "answers": [
+                      "Ein visionäres Computerkonzept",
+                      "Ein früher Laptop",
+                      "Ein E-Book-Reader",
+                      "Ein Smartphone-Prototyp"
+                    ],
+                    "subContentId": "60a11b96-bbc0-432d-a85f-b9bff7ced15a"
+                  },
+                  {
+                    "question": "Wo arbeitete Alan Kay in den 1970er Jahren?",
+                    "answers": [
+                      "Xerox PARC",
+                      "Microsoft",
+                      "Apple",
+                      "IBM"
+                    ],
+                    "subContentId": "3db8fdda-5ca8-406d-bf2a-6d3236fc5359"
+                  },
+                  {
+                    "question": "Welche Auszeichnung erhielt Alan Kay?",
+                    "answers": [
+                      "Turing Award",
+                      "Nobel-Preis",
+                      "Fields-Medaille",
+                      "Pritzker-Preis"
+                    ],
+                    "subContentId": "367b5827-51c5-4fae-b3d4-ccb7134b9056"
+                  },
+                  {
+                    "question": "Was ist Smalltalk?",
+                    "answers": [
+                      "Eine Programmiersprache",
+                      "Ein Betriebssystem",
+                      "Ein Computermodell",
+                      "Eine Datenbanksoftware"
+                    ],
+                    "subContentId": "ec09472c-f916-486a-beba-d4fae3e7e98c"
+                  },
+                  {
+                    "question": "Wofür ist Kay auch bekannt?",
+                    "answers": [
+                      "Seinen philosophischen Ansatz",
+                      "Seine musikalischen Talente",
+                      "Seine sportlichen Leistungen",
+                      "Seine politischen Ansichten"
+                    ],
+                    "subContentId": "c7b20781-7ec3-4d7e-9bee-3ee41b4f4ac9"
+                  }
+                ]
+              },
+              "subContentId": "dc6b82f1-4264-4137-8683-db0b27e41a00",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Fragen"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      }
+    ],
+    "keywordListEnabled": true,
+    "globalBackgroundSelector": {},
+    "keywordListAlwaysShow": false,
+    "keywordListAutoHide": false,
+    "keywordListOpacity": 90
+  },
+  "override": {
+    "activeSurface": false,
+    "hideSummarySlide": false,
+    "summarySlideSolutionButton": true,
+    "summarySlideRetryButton": true,
+    "enablePrintButton": false,
+    "social": {
+      "showFacebookShare": false,
+      "facebookShare": {
+        "url": "@currentpageurl",
+        "quote": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht."
+      },
+      "showTwitterShare": false,
+      "twitterShare": {
+        "statement": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht.",
+        "url": "@currentpageurl",
+        "hashtags": "h5p, Kurs"
+      },
+      "showGoogleShare": false,
+      "googleShareUrl": "@currentpageurl"
+    }
+  },
+  "l10n": {
+    "slide": "Folie",
+    "score": "Punktzahl",
+    "yourScore": "Deine Punktzahl",
+    "maxScore": "Maximale Punktzahl",
+    "total": "Summe",
+    "totalScore": "Gesamtpunktzahl",
+    "showSolutions": "Lösungen anzeigen",
+    "retry": "Wiederholen",
+    "exportAnswers": "Text exportieren",
+    "hideKeywords": "Stichwortliste verbergen",
+    "showKeywords": "Stichwortliste anzeigen",
+    "fullscreen": "Vollbild",
+    "exitFullscreen": "Vollbild beenden",
+    "prevSlide": "Vorherige Folie",
+    "nextSlide": "Nächste Folie",
+    "currentSlide": "Aktuelle Folie",
+    "lastSlide": "Letzte Folie",
+    "solutionModeTitle": "Lösungsmodus beenden",
+    "solutionModeText": "Lösungsmodus",
+    "summaryMultipleTaskText": "Mehrere Aufgaben",
+    "scoreMessage": "Du hast erreicht:",
+    "shareFacebook": "Auf Facebook teilen",
+    "shareTwitter": "Auf Twitter teilen",
+    "shareGoogle": "Auf Google+ teilen",
+    "summary": "Zusammenfassung",
+    "solutionsButtonTitle": "Kommentare anzeigen",
+    "printTitle": "Drucken",
+    "printIngress": "Wie möchtest du diese Präsentation drucken?",
+    "printAllSlides": "Alle Folien drucken",
+    "printCurrentSlide": "Aktuelle Folie drucken",
+    "noTitle": "Kein Titel",
+    "accessibilitySlideNavigationExplanation": "Verwende die linke oder rechte Cursortaste, um zur Folie in der jeweiligen Richtung zu blättern, wenn der Präsentationsbereich ausgewählt ist.",
+    "accessibilityCanvasLabel": "Präsentationsbereich. Verwende die linke oder rechte Cursortaste, um zwischen den Folien zu navigieren.",
+    "containsNotCompleted": "@slideName enthält eine nicht abgeschlossene Interaktion",
+    "containsCompleted": "@slideName wurde abgeschlossen",
+    "slideCount": "Folie @index von @total",
+    "containsOnlyCorrect": "@slideName enthält nur richtige Antworten",
+    "containsIncorrectAnswers": "@slideName enthält falsche Antworten",
+    "shareResult": "Ergebnis teilen",
+    "accessibilityTotalScore": "Du hast insgesamt @score von @maxScore Punkten erreicht.",
+    "accessibilityEnteredFullscreen": "Vollbild aktiviert",
+    "accessibilityExitedFullscreen": "Vollbild deaktiviert",
+    "confirmDialogHeader": "Submit your answers",
+    "confirmDialogText": "This will submit your results, do you want to continue?",
+    "confirmDialogConfirmText": "Submit and see results",
+    "accessibilityProgressBarLabel": "Wähle das zu zeigende Schaubild",
+    "slideshowNavigationLabel": "Schaubild-Navigation"
+  }
+}

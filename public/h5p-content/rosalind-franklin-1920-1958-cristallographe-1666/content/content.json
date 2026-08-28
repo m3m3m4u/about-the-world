@@ -1,0 +1,917 @@
+{
+  "presentation": {
+    "slides": [
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 6.455305615685532,
+            "width": 92.73551198257081,
+            "height": 77.46366738822638,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:3em;\"><strong>Rosalind Franklin (1920-1958) - cristallographe</strong></span></p>\n\n<p><strong><span style=\"font-size:1.5em;\">INFORMATIONS UND EXERCISES</span></strong></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "dff56334-2e6b-4f64-ab5f-fd72e6484f52"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2331154684095864,
+            "y": 4.414482262971937,
+            "width": 87.14596949891067,
+            "height": 8.82225100810356,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texte d'information (partie 1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "5627dc6e-c943-439e-ab4a-4531b7f24264"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582783,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Première vie et formation</strong><br>\nRosalind Franklin est née à Londres en 1920. Fascinée par les sciences naturelles, elle choisit de ne pas suivre la voie traditionnelle de nombreuses femmes de son époque, qui n'incluait pas la recherche scientifique. Elle a étudié à l'université de Cambridge, où elle a obtenu son diplôme de chimie en 1941. Après ses études, elle a travaillé dans différents instituts de recherche et s'est spécialisée dans l'analyse structurelle du charbon et du graphite.</p>\n\n<p><strong>Contribution à la recherche sur le charbon</strong><br>\nPendant la Seconde Guerre mondiale, Franklin a pris conscience de l'importance du charbon et du graphite dans l'industrie et s'est consacrée à leur étude. Son travail a largement contribué à la compréhension des propriétés de ces matériaux, ce qui était essentiel pour la fabrication de meilleurs masques à gaz et pour l'industrie. Ses recherches dans ce domaine ont également permis de mieux connaître les microstructures des matériaux à base de carbone.</p>\n\n<p><strong>Passage à la recherche sur l'ADN</strong><br>\nAprès la guerre, Franklin a changé d'orientation de recherche et a commencé à s'intéresser à l'étude biophysique de l'ADN. Elle a travaillé au King's College de Londres, où elle a eu accès à de nouvelles méthodes de recherche, telles que la cristallographie aux rayons X. Elle a également travaillé dans le domaine de la biologie moléculaire. Grâce à cette technique, elle a pu créer des images précises des molécules d'ADN, ce qui a constitué une étape décisive dans la compréhension de leur structure.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "53bc5361-5ce5-43a9-a00f-57bbceee9cd0"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2331154684095864,
+            "y": 4.414482262971937,
+            "width": 76.25272331154684,
+            "height": 8.825607767023717,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texte d'information (partie 2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "55aaf4d3-f7e3-4a3e-9196-01a6f7474f94"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Découverte de la structure de l'ADN</strong><br>\nFranklin et ses collègues ont découvert que l'ADN avait une structure en hélice. Leurs photographies détaillées, connues sous le nom de photo 51, ont montré des indices clairs d'une forme hélicoïdale de l'ADN. Ce travail a été fondamental pour les recherches ultérieures visant à élucider la structure de l'ADN, même s'il n'a pas été pleinement reconnu de son vivant.</p>\n\n<p><strong>Défis et concurrence</strong><br>\nFranklin a connu de grands défis dans son domaine professionnel, notamment en raison de son sexe. Elle travaillait dans un environnement dominé par les hommes et se trouvait souvent en concurrence avec d'autres scientifiques qui tentaient également de décrypter la structure de l'ADN. Malgré cette situation de concurrence et certains désaccords avec ses collègues, elle est restée fidèle à ses recherches.</p>\n\n<p><strong>Collaboration avec Maurice Wilkins</strong><br>\nLa collaboration avec Maurice Wilkins a été une partie essentielle, bien que compliquée, de la carrière scientifique de Franklin. Bien qu'ils aient mené des recherches indépendantes sur l'ADN, le manque de communication et de reconnaissance a entraîné des tensions. Malgré cela, le travail des deux a contribué à des avancées décisives dans la recherche sur l'ADN.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "3b13867b-feab-4e2e-bfa2-fcc82e4dbff1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2331154684095864,
+            "y": 4.414482262971937,
+            "width": 71.89542483660131,
+            "height": 8.825607767023717,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texte d'information (partie 3)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "4381b60d-c67f-4722-b83d-b17f2fc9d01c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 12.910611231371064,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Transfert au Birkbeck College</strong><br>\nEn 1953, Franklin a quitté le King's College pour le Birkbeck College, où elle a poursuivi ses travaux sur les virus. Là, elle se focalisa sur la structure du virus de la mosaïque du tabac et du poliovirus. Ses travaux dans ce domaine ont permis aux scientifiques de mieux comprendre le fonctionnement des virus et ont fait progresser la virologie.</p>\n\n<p><strong>Reconnaissance et héritage</strong><br>\nAprès sa mort en 1958, la communauté scientifique a lentement commencé à reconnaître l'ampleur de la contribution de Rosalind Franklin. Bien qu'elle n'ait jamais reçu de prix Nobel - en partie parce que le prix n'est pas décerné à titre posthume -, elle est aujourd'hui reconnue comme l'une des pionnières de la recherche sur l'ADN. Son travail a eu une influence considérable sur le domaine de la génétique et de la biologie moléculaire.</p>\n\n<p><strong>Décès et hommage permanent</strong><br>\nRosalind Franklin est décédée à l'âge de 37 ans d'un cancer des ovaires, une maladie qui a peut-être été aggravée par ses travaux intensifs sur les rayons X. Aujourd'hui, elle est célébrée comme une figure clé de la science, et son histoire a lancé des débats sur la reconnaissance de la contribution des femmes dans le domaine scientifique. Elle reste un exemple inspirant de persévérance et de dévouement dans la recherche.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "3d655444-fd55-42f7-aba2-16a16db7dc58"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Faites glisser les mots dans les bonnes cases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Vérifier",
+                "tryAgain": "Recommencer",
+                "showSolution": "Voir la correction",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient un élément déplaçable @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments déplaçables.",
+                "tipLabel": "Montrer l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Reparamétrer le déplacement",
+                "resetDropDescription": "Etes-vous certain de vouloir reparamétrer cet élément déplaçable ?",
+                "grabbed": "L&#039;élément déplaçable est saisi.",
+                "cancelledDragging": "Annuler le déplacement.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaire de retour",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Afficher la solution. La tâche sera notée avec sa solution correcte.",
+                "a11yRetry": "Réessayer la tâche. Réinitialiser toutes les réponses et recommencer la tâche.",
+                "textField": "*Cristallographie* - étude des cristaux pour comprendre leur structure\n*Charbon* - matière noire combustible, utilisée pendant la guerre\n*Graphite* - forme de carbone, utilisée dans l&#039;industrie et la recherche\n*Hélice* - forme en spirale, caractéristique de la structure de l&#039;ADN\n*Photo 51* - photographie célèbre montrant la structure de l&#039;ADN",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Termes importants (1)",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "4a94ce62-c440-4215-bc76-32408bcec41d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termes importants (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "e773caca-acd3-4ee8-9ed2-b80b588d3a60"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Faites glisser les mots dans les bonnes cases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Vérifier",
+                "tryAgain": "Recommencer",
+                "showSolution": "Voir la correction",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient un élément déplaçable @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments déplaçables.",
+                "tipLabel": "Montrer l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Reparamétrer le déplacement",
+                "resetDropDescription": "Etes-vous certain de vouloir reparamétrer cet élément déplaçable ?",
+                "grabbed": "L&#039;élément déplaçable est saisi.",
+                "cancelledDragging": "Annuler le déplacement.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaire de retour",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Afficher la solution. La tâche sera notée avec sa solution correcte.",
+                "a11yRetry": "Réessayer la tâche. Réinitialiser toutes les réponses et recommencer la tâche.",
+                "textField": "*Birkbeck College* - institution où Franklin a étudié les virus\n*Virologie* - science des virus, leur structure et fonctionnement\n*Reconnaissance posthume* - appréciation après la mort d&#039;une personne\n*Cancer des ovaires* - maladie ayant emporté Rosalind Franklin",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Termes importants (1)",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "b74a36f9-2aa3-417a-814c-50e58208f7b3"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termes importants (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "be59e194-86c9-4928-9194-f6e496790bc1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Complète les phrases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Vérifier",
+                "tryAgain": "Recommencer",
+                "showSolution": "Voir la correction",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient un élément déplaçable @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments déplaçables.",
+                "tipLabel": "Montrer l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Reparamétrer le déplacement",
+                "resetDropDescription": "Etes-vous certain de vouloir reparamétrer cet élément déplaçable ?",
+                "grabbed": "L&#039;élément déplaçable est saisi.",
+                "cancelledDragging": "Annuler le déplacement.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaire de retour",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Afficher la solution. La tâche sera notée avec sa solution correcte.",
+                "a11yRetry": "Réessayer la tâche. Réinitialiser toutes les réponses et recommencer la tâche.",
+                "textField": "*Rosalind Franklin, née à Londres ...* - ... en 1920, était cristallographe.\n*Elle a étudié à l&#039;université ...* - ... de Cambridge et obtenu son diplôme.\n*Franklin s&#039;est spécialisée ...* - ... dans l&#039;analyse du charbon et du graphite.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Compléter des phrases (1)",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "fc5741fc-cbfd-45c8-9433-cf39572a4b81"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Compléter des phrases (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "ecb45d14-3fe2-4a02-ab8f-6c03ba60ef4c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Complète les phrases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Vérifier",
+                "tryAgain": "Recommencer",
+                "showSolution": "Voir la correction",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient un élément déplaçable @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments déplaçables.",
+                "tipLabel": "Montrer l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Reparamétrer le déplacement",
+                "resetDropDescription": "Etes-vous certain de vouloir reparamétrer cet élément déplaçable ?",
+                "grabbed": "L&#039;élément déplaçable est saisi.",
+                "cancelledDragging": "Annuler le déplacement.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaire de retour",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Afficher la solution. La tâche sera notée avec sa solution correcte.",
+                "a11yRetry": "Réessayer la tâche. Réinitialiser toutes les réponses et recommencer la tâche.",
+                "textField": "*Après la guerre, son intérêt ...* - ... s&#039;est tourné vers l&#039;ADN.\n*Elle a travaillé au King&#039;s College ...* - ... sur la cristallographie aux rayons X.\n*Franklin a découvert la structure ...* - ... en hélice de l&#039;ADN.\n*Elle a fait face à des défis ...* - ... en tant que femme scientifique.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Compléter des phrases (2)",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "a8bdf3b3-dac7-40e5-bdfd-f199401a2c3e"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Compléter des phrases (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "1351cab9-7952-442e-bc32-7d4a3895ab3d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Vrai ou faux ?</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "3f4bfb9e-6eb5-4097-abf6-f0c1308dfc3f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 11.619550108233957,
+            "width": 95.41899441340783,
+            "height": 88.30022075055187,
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>Choisis l'affirmation correcte !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Progression :",
+                "scoreLabel": "Erreurs :",
+                "resultLabel": "Votre résultat :",
+                "labelCorrect": "Correct.",
+                "labelIncorrect": "Incorrect! Please try again.",
+                "alternativeIncorrectLabel": "Incorrect",
+                "labelCorrectAnswers": "Réponses correctes.",
+                "tipButtonLabel": "Montrer l&#039;indice",
+                "scoreBarLabel": "Vous avez :num points sur un total de :total",
+                "progressText": "Progression de :num sur :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "Franklin a contribué à la compréhension de la structure de l'ADN.",
+                      "Franklin a reçu un prix Nobel pour ses recherches sur l'ADN."
+                    ],
+                    "subContentId": "c75f89ed-a898-4ec1-8d9f-1d31922bab9f",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Elle a étudié la structure du charbon et du graphite pendant la guerre.",
+                      "Elle a toujours collaboré harmonieusement avec Maurice Wilkins."
+                    ],
+                    "subContentId": "71c44bae-a2d1-4ec4-acd1-9c056dd0e8e5",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "La photographie \"Photo 51\" a été clé dans la découverte de l'ADN.",
+                      "Le King's College était le dernier institut où Franklin a travaillé."
+                    ],
+                    "subContentId": "170d774e-a1e4-4e8e-84d9-34132eccce14",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Franklin a travaillé sur la virologie au Birkbeck College.",
+                      "Son travail sur l'ADN n'a pas été reconnu de son vivant."
+                    ],
+                    "subContentId": "baf63197-c08c-4ff5-82ac-0909cb7689a7",
+                    "tip": ""
+                  }
+                ]
+              },
+              "subContentId": "6207504c-ae8f-4a09-b236-0a5b6cd442ec",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "Vrai ou faux ?",
+                "defaultLanguage": "fr"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Questions</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "303d8e49-9df8-4ebb-bb74-21e0f7344e25"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 92.40223463687151,
+            "height": 58.27814569536424,
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": false,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Question suivante",
+                  "showSolutionButtonLabel": "Voir la solution",
+                  "retryButtonLabel": "Correction",
+                  "solutionViewTitle": "Recommencer",
+                  "correctText": "Correct !",
+                  "incorrectText": "Incorrect !",
+                  "muteButtonLabel": "Couper les retours sons",
+                  "closeButtonLabel": "Fermer",
+                  "slideOfTotal": "Diapositive :num sur :total",
+                  "scoreBarLabel": "Vous avez :num points sur un total de :total",
+                  "solutionListQuestionNumber": "Question :num",
+                  "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                  "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                  "shouldSelect": "Should have been selected",
+                  "shouldNotSelect": "Should not have been selected"
+                },
+                "choices": [
+                  {
+                    "question": "Quel domaine d'étude Franklin a-t-elle choisi à Cambridge?",
+                    "answers": [
+                      "chimie",
+                      "biologie",
+                      "physique",
+                      "médecine"
+                    ],
+                    "subContentId": "718b0520-3e92-46d3-a8cf-6d9e7741495c"
+                  },
+                  {
+                    "question": "Quelle technique Franklin a-t-elle utilisée pour l'ADN?",
+                    "answers": [
+                      "cristallographie aux rayons X",
+                      "microscopie électronique",
+                      "chimie analytique",
+                      "spectroscopie"
+                    ],
+                    "subContentId": "9f127d5d-8ebd-47d0-bf0e-e692145d0ef0"
+                  },
+                  {
+                    "question": "Quelle était la forme découverte de l'ADN?",
+                    "answers": [
+                      "hélice",
+                      "sphère",
+                      "cube",
+                      "plat"
+                    ],
+                    "subContentId": "c7a8d0df-cee4-432f-8dab-e091abed1ed5"
+                  },
+                  {
+                    "question": "Avec qui Franklin a-t-elle eu une collaboration compliquée?",
+                    "answers": [
+                      "Maurice Wilkins",
+                      "James Watson",
+                      "Francis Crick",
+                      "Linus Pauling"
+                    ],
+                    "subContentId": "161cf050-5374-4b27-816d-d5ff38905a0b"
+                  },
+                  {
+                    "question": "Où Franklin a-t-elle étudié après le King's College?",
+                    "answers": [
+                      "Birkbeck College",
+                      "Oxford University",
+                      "Harvard University",
+                      "MIT"
+                    ],
+                    "subContentId": "49b23d4a-296b-4545-ac8b-098e1d5e44fa"
+                  },
+                  {
+                    "question": "De quoi est décédée Franklin?",
+                    "answers": [
+                      "cancer des ovaires",
+                      "accident",
+                      "vieillesse",
+                      "maladie cardiaque"
+                    ],
+                    "subContentId": "b375d33e-d90e-4440-ac97-27d188fc2f56"
+                  }
+                ]
+              },
+              "subContentId": "dc6b82f1-4264-4137-8683-db0b27e41a00",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Questions",
+                "defaultLanguage": "fr"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      }
+    ],
+    "keywordListEnabled": true,
+    "globalBackgroundSelector": {},
+    "keywordListAlwaysShow": false,
+    "keywordListAutoHide": false,
+    "keywordListOpacity": 90
+  },
+  "override": {
+    "activeSurface": false,
+    "hideSummarySlide": false,
+    "summarySlideSolutionButton": true,
+    "summarySlideRetryButton": true,
+    "enablePrintButton": false,
+    "social": {
+      "showFacebookShare": false,
+      "facebookShare": {
+        "url": "@currentpageurl",
+        "quote": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht."
+      },
+      "showTwitterShare": false,
+      "twitterShare": {
+        "statement": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht.",
+        "url": "@currentpageurl",
+        "hashtags": "h5p, Kurs"
+      },
+      "showGoogleShare": false,
+      "googleShareUrl": "@currentpageurl"
+    }
+  },
+  "l10n": {
+    "slide": "Diapositive",
+    "score": "Score",
+    "yourScore": "Votre score",
+    "maxScore": "Score maximum",
+    "total": "Total",
+    "totalScore": "Score total",
+    "showSolutions": "Voir la correction",
+    "retry": "Recommencer",
+    "exportAnswers": "Exporter",
+    "hideKeywords": "Cacher la liste des mots-clés",
+    "showKeywords": "Afficher la liste des mots-clés",
+    "fullscreen": "Plein écran",
+    "exitFullscreen": "Quitter le plein écran",
+    "prevSlide": "Diapositive précédente",
+    "nextSlide": "Diapositive suivante",
+    "currentSlide": "Diapositive courante",
+    "lastSlide": "Dernière diapositive",
+    "solutionModeTitle": "Sortir du mode &quot;Correction&quot;",
+    "solutionModeText": "Passer en mode &quot;correction&quot;",
+    "summaryMultipleTaskText": "Activités multiples",
+    "scoreMessage": "Votre score :",
+    "shareFacebook": "Partager sur Facebook",
+    "shareTwitter": "Partager sur Twitter",
+    "shareGoogle": "Partager sur Google+",
+    "summary": "Résumé",
+    "solutionsButtonTitle": "Afficher les commentaires",
+    "printTitle": "Imprimer",
+    "printIngress": "Comment souhaitez-vous imprimer cette présentation ?",
+    "printAllSlides": "Imprimer toutes les diapositives",
+    "printCurrentSlide": "Imprimer la diapositive courante",
+    "noTitle": "Sans intitulé",
+    "accessibilitySlideNavigationExplanation": "Utilisez les flèches gauche et droite pour pour naviguer entre les diapositives",
+    "accessibilityCanvasLabel": "Zone de présentation. Utilisez les flèches gauche et droite pour naviguer entre les diapositives.",
+    "containsNotCompleted": "@slideName contient des interactions incomplètes",
+    "containsCompleted": "@slideName ccontient des interactions complètes",
+    "slideCount": "Diapositive a @index de @total",
+    "containsOnlyCorrect": "toutes les réponses sont bonnes sur @slideName",
+    "containsIncorrectAnswers": "@slideName contient des réponses incorrectes",
+    "shareResult": "Partager le résultat",
+    "accessibilityTotalScore": "Vous avez obtenu @score sur @maxScore points au total",
+    "accessibilityEnteredFullscreen": "Mode plein-écran activé",
+    "accessibilityExitedFullscreen": "Mode plein-écran désactivé",
+    "confirmDialogHeader": "Envoyer vos réponses",
+    "confirmDialogText": "Cette action va envoyer vos réponses, voulez-vous continuer?",
+    "confirmDialogConfirmText": "Envoyer et voir les résultats",
+    "accessibilityProgressBarLabel": "Choose slide to display",
+    "slideshowNavigationLabel": "Slideshow navigation"
+  }
+}

@@ -1,0 +1,978 @@
+{
+  "presentation": {
+    "slides": [
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 6.622516556291391,
+            "width": 92.73743016759778,
+            "height": 50.77262693156732,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:3em;\"><strong>Le sionisme</strong></span></p>\n\n<p><strong><span style=\"font-size:1.5em;\">INFORMATIONS UND EXERCISES</span></strong></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "dff56334-2e6b-4f64-ab5f-fd72e6484f52"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 0,
+            "y": 0,
+            "width": 100,
+            "height": 99.99999999999999,
+            "action": {
+              "library": "H5P.Video 1.6",
+              "params": {
+                "visuals": {
+                  "fit": true,
+                  "controls": true
+                },
+                "playback": {
+                  "autoplay": false,
+                  "loop": false
+                },
+                "l10n": {
+                  "name": "Video",
+                  "loading": "Chargement du lecteur vidéo...",
+                  "noPlayers": "Aucun lecteur vidéo trouvé pour supporter le format video utilisé.",
+                  "noSources": "La vidéo n&#039;a pas de source associée.",
+                  "aborted": "La lecture du média a été abandonnée.",
+                  "networkFailure": "Problème de connexion au réseau.",
+                  "cannotDecode": "Impossible de décoder la vidéo.",
+                  "formatNotSupported": "Format vidéo non supporté.",
+                  "mediaEncrypted": "Vidéo cryptée.",
+                  "unknownError": "Erreur inconnue.",
+                  "invalidYtId": "Identifiant YouTube invalide.",
+                  "unknownYtId": "Impossible de trouver la vidéo avec cet identifiant YouTube.",
+                  "restrictedYt": "Le propriétaire de cette vidéo n&#039;autorise pas son inclusion."
+                },
+                "sources": [
+                  {
+                    "path": "https://youtu.be/d3Nxy8rWRq0",
+                    "mime": "video/YouTube",
+                    "copyright": {
+                      "license": "U"
+                    }
+                  }
+                ]
+              },
+              "subContentId": "d3941751-889c-4441-a56c-c0971fc9851a",
+              "metadata": {
+                "contentType": "Video",
+                "license": "U",
+                "title": "Unbenannt: Video"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2331154684095864,
+            "y": 4.414482262971937,
+            "width": 87.14596949891067,
+            "height": 8.82225100810356,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texte d'information (partie 1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "5627dc6e-c943-439e-ab4a-4531b7f24264"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 12.910611231371064,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Origines du Sionisme</strong><br>\nLe sionisme est apparu à la fin du 19e siècle en réaction à la discrimination et à la persécution généralisées des Juifs en Europe. Theodor Herzl, un journaliste austro-hongrois, est considéré comme l'un des pères fondateurs du sionisme. Il a écrit le livre \"L'État des Juifs\", dans lequel il propose la création d'un État propre au peuple juif comme solution à l'antisémitisme.</p>\n\n<p><strong>Principaux Objectifs du Sionisme</strong><br>\nLes principaux objectifs du sionisme étaient le rétablissement de la souveraineté juive et la création d'un foyer pour les Juifs en Palestine. En établissant un tel État, les sionistes voulaient promouvoir la renaissance nationale et culturelle du peuple juif tout en offrant un refuge contre l'antisémitisme.</p>\n\n<p><strong>Déclaration Balfour</strong><br>\nUne étape importante vers la réalisation des objectifs sionistes a été la Déclaration Balfour de 1917. Le ministre britannique des Affaires étrangères, Arthur Balfour, y déclare le soutien de son gouvernement pour la création d'une \"foyer national pour le peuple juif\" en Palestine.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "53bc5361-5ce5-43a9-a00f-57bbceee9cd0"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2331154684095864,
+            "y": 4.414482262971937,
+            "width": 76.25272331154684,
+            "height": 8.825607767023717,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texte d'information (partie 2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "55aaf4d3-f7e3-4a3e-9196-01a6f7474f94"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Plan de Partage de l'ONU</strong><br>\nEn 1947, les Nations Unies ont proposé un plan de partage qui prévoyait la création d'un État juif et d'un État arabe en Palestine. La communauté juive a accepté le plan, tandis que la partie arabe l'a rejeté. L'année suivante, l'État d'Israël a été proclamé.</p>\n\n<p><strong>Guerres et Conflits</strong><br>\nDepuis sa fondation, Israël a été impliqué dans un certain nombre de guerres et de conflits, principalement avec ses voisins arabes. Ces guerres ont entraîné des changements territoriaux significatifs et ont influencé les relations entre Israël et les Palestiniens ainsi qu'avec d'autres États arabes.</p>\n\n<p><strong>Accords d'Oslo</strong><br>\nDans les années 1990, les Accords d'Oslo ont été signés entre Israël et l'Organisation de libération de la Palestine (OLP) sous la médiation norvégienne. Ces accords ont conduit à une auto-administration partielle des territoires palestiniens et ont jeté les bases pour d'autres négociations de paix.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "3b13867b-feab-4e2e-bfa2-fcc82e4dbff1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2331154684095864,
+            "y": 4.414482262971937,
+            "width": 71.89542483660131,
+            "height": 8.825607767023717,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texte d'information (partie 3)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "4381b60d-c67f-4722-b83d-b17f2fc9d01c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Politique de Colonisation</strong><br>\nUn point central du conflit israélo-palestinien est la politique de colonisation israélienne dans les territoires occupés. Les colonies sont largement considérées comme illégales au niveau international, et leur existence et expansion sont des points majeurs de discorde dans les négociations.</p>\n\n<p><strong>Bande de Gaza et Cisjordanie</strong><br>\nLa bande de Gaza et la Cisjordanie sont deux zones au cœur du conflit israélo-palestinien. Les deux zones ont des conditions politiques et sociales différentes, rendant le conflit complexe et difficile à résoudre.</p>\n\n<p><strong>Développements Actuels</strong><br>\nAu cours des dernières années, il y a eu quelques développements positifs au Moyen-Orient, y compris la normalisation des relations entre Israël et certains États arabes. Néanmoins, le conflit israélo-palestinien reste un grand défi et une source de tensions dans la région.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "3d655444-fd55-42f7-aba2-16a16db7dc58"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Faites glisser les mots dans les bonnes cases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Vérifier",
+                "tryAgain": "Recommencer",
+                "showSolution": "Voir la correction",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient un élément déplaçable @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments déplaçables.",
+                "tipLabel": "Montrer l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Reparamétrer le déplacement",
+                "resetDropDescription": "Etes-vous certain de vouloir reparamétrer cet élément déplaçable ?",
+                "grabbed": "L&#039;élément déplaçable est saisi.",
+                "cancelledDragging": "Annuler le déplacement.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaire de retour",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Afficher la solution. La tâche sera notée avec sa solution correcte.",
+                "a11yRetry": "Réessayer la tâche. Réinitialiser toutes les réponses et recommencer la tâche.",
+                "textField": "*Accords d&#039;Oslo* - accords de paix entre Israël et l&#039;OLP dans les années 1990.  \n*Politique de Colonisation* - implantation israélienne dans les territoires occupés.  \n*Bande de Gaza* - zone au cœur du conflit israélo-palestinien.  \n*Cisjordanie* - autre zone centrale dans le conflit israélo-palestinien.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Termes importants (1)",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "4a94ce62-c440-4215-bc76-32408bcec41d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termes importants (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "e773caca-acd3-4ee8-9ed2-b80b588d3a60"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Faites glisser les mots dans les bonnes cases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Vérifier",
+                "tryAgain": "Recommencer",
+                "showSolution": "Voir la correction",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient un élément déplaçable @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments déplaçables.",
+                "tipLabel": "Montrer l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Reparamétrer le déplacement",
+                "resetDropDescription": "Etes-vous certain de vouloir reparamétrer cet élément déplaçable ?",
+                "grabbed": "L&#039;élément déplaçable est saisi.",
+                "cancelledDragging": "Annuler le déplacement.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaire de retour",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Afficher la solution. La tâche sera notée avec sa solution correcte.",
+                "a11yRetry": "Réessayer la tâche. Réinitialiser toutes les réponses et recommencer la tâche.",
+                "textField": "*Sionisme* - mouvement visant à établir un foyer juif en Palestine.  \n*Theodor Herzl* - journaliste austro-hongrois, père fondateur du sionisme.  \n*Déclaration Balfour* - soutien britannique à un foyer juif en Palestine en 1917.  \n*Plan de Partage* - proposition de l&#039;ONU pour créer un État juif et un État arabe.  \n*Guerres et Conflits* - affrontements militaires impliquant Israël depuis sa fondation.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Termes importants (1)",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "b74a36f9-2aa3-417a-814c-50e58208f7b3"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termes importants (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "be59e194-86c9-4928-9194-f6e496790bc1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Complète les phrases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Vérifier",
+                "tryAgain": "Recommencer",
+                "showSolution": "Voir la correction",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient un élément déplaçable @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments déplaçables.",
+                "tipLabel": "Montrer l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Reparamétrer le déplacement",
+                "resetDropDescription": "Etes-vous certain de vouloir reparamétrer cet élément déplaçable ?",
+                "grabbed": "L&#039;élément déplaçable est saisi.",
+                "cancelledDragging": "Annuler le déplacement.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaire de retour",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Afficher la solution. La tâche sera notée avec sa solution correcte.",
+                "a11yRetry": "Réessayer la tâche. Réinitialiser toutes les réponses et recommencer la tâche.",
+                "textField": "*Theodor Herzl est considéré ...* - ... comme l&#039;un des pères fondateurs.  \n*Le sionisme est apparu ...* - ... à la fin du 19e siècle.  \n*Le but était de créer ...* - ... un État propre au peuple juif.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Compléter des phrases (1)",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "fc5741fc-cbfd-45c8-9433-cf39572a4b81"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Compléter des phrases (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "ecb45d14-3fe2-4a02-ab8f-6c03ba60ef4c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Complète les phrases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Vérifier",
+                "tryAgain": "Recommencer",
+                "showSolution": "Voir la correction",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient un élément déplaçable @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments déplaçables.",
+                "tipLabel": "Montrer l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Reparamétrer le déplacement",
+                "resetDropDescription": "Etes-vous certain de vouloir reparamétrer cet élément déplaçable ?",
+                "grabbed": "L&#039;élément déplaçable est saisi.",
+                "cancelledDragging": "Annuler le déplacement.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaire de retour",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Afficher la solution. La tâche sera notée avec sa solution correcte.",
+                "a11yRetry": "Réessayer la tâche. Réinitialiser toutes les réponses et recommencer la tâche.",
+                "textField": "*La Déclaration Balfour a été ...* - ... une étape importante pour le sionisme.  \n*Les Accords d&#039;Oslo ont conduit ...* - ... à une auto-administration partielle.  \n*La Bande de Gaza et ...* - ... la Cisjordanie sont au cœur du conflit.  \n*Les colonies sont considérées ...* - ... comme illégales au niveau international.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Compléter des phrases (2)",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "a8bdf3b3-dac7-40e5-bdfd-f199401a2c3e"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Compléter des phrases (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "1351cab9-7952-442e-bc32-7d4a3895ab3d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Vrai ou faux ?</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "3f4bfb9e-6eb5-4097-abf6-f0c1308dfc3f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 11.619550108233957,
+            "width": 95.41899441340783,
+            "height": 88.30022075055187,
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>Choisis l'affirmation correcte !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Progression :",
+                "scoreLabel": "Erreurs :",
+                "resultLabel": "Votre résultat :",
+                "labelCorrect": "Correct.",
+                "labelIncorrect": "Incorrect! Please try again.",
+                "alternativeIncorrectLabel": "Incorrect",
+                "labelCorrectAnswers": "Réponses correctes.",
+                "tipButtonLabel": "Montrer l&#039;indice",
+                "scoreBarLabel": "Vous avez :num points sur un total de :total",
+                "progressText": "Progression de :num sur :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "La Déclaration Balfour date de 1917.",
+                      "Le sionisme est apparu au début du 20e siècle."
+                    ],
+                    "subContentId": "6c3cb9c4-6e9b-4d51-9360-bb0ad08e3236",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Theodor Herzl a écrit \"L'État des Juifs\".",
+                      "Arthur Balfour était ministre américain des Affaires étrangères."
+                    ],
+                    "subContentId": "027634ce-c812-4817-9516-c94dc32b2195",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "La communauté juive a accepté le Plan de Partage de l'ONU.",
+                      "Le Plan de Partage de l'ONU a été rejeté par la communauté juive."
+                    ],
+                    "subContentId": "0de7b4c7-2d59-4369-b861-1967ed21f777",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Les Accords d'Oslo ont été signés dans les années 1990.",
+                      "La Bande de Gaza et la Cisjordanie ont les mêmes conditions politiques."
+                    ],
+                    "subContentId": "ab04e024-4169-4bc6-80ad-ad545ee1dde1",
+                    "tip": ""
+                  }
+                ]
+              },
+              "subContentId": "6207504c-ae8f-4a09-b236-0a5b6cd442ec",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "Vrai ou faux ?",
+                "defaultLanguage": "fr"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Questions</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "303d8e49-9df8-4ebb-bb74-21e0f7344e25"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.346368715083799,
+            "y": 15.673289183222957,
+            "width": 92.40223463687151,
+            "height": 58.27814569536424,
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": false,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Question suivante",
+                  "showSolutionButtonLabel": "Voir la solution",
+                  "retryButtonLabel": "Correction",
+                  "solutionViewTitle": "Recommencer",
+                  "correctText": "Correct !",
+                  "incorrectText": "Incorrect !",
+                  "muteButtonLabel": "Couper les retours sons",
+                  "closeButtonLabel": "Fermer",
+                  "slideOfTotal": "Diapositive :num sur :total",
+                  "scoreBarLabel": "Vous avez :num points sur un total de :total",
+                  "solutionListQuestionNumber": "Question :num",
+                  "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                  "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                  "shouldSelect": "Should have been selected",
+                  "shouldNotSelect": "Should not have been selected"
+                },
+                "choices": [
+                  {
+                    "question": "Qui est considéré comme l'un des pères fondateurs du sionisme?",
+                    "answers": [
+                      "Theodor Herzl",
+                      "Arthur Balfour",
+                      "Nelson Mandela",
+                      "Mahatma Gandhi"
+                    ],
+                    "subContentId": "27b06f02-eea3-4546-af7e-8f45eec9a378"
+                  },
+                  {
+                    "question": "Quel est l'objectif principal du sionisme?",
+                    "answers": [
+                      "Établir un État juif en Palestine",
+                      "Promouvoir l'antisémitisme",
+                      "Coloniser l'Afrique",
+                      "Établir un État islamique en Palestine"
+                    ],
+                    "subContentId": "9a53830a-923c-4ca9-a1fe-d74ebfa1bc39"
+                  },
+                  {
+                    "question": "Dans quelle année la Déclaration Balfour a-t-elle été faite?",
+                    "answers": [
+                      "1917",
+                      "1947",
+                      "1987",
+                      "2000"
+                    ],
+                    "subContentId": "7b4ed02f-63f4-4cac-accc-b9f52272bcd4"
+                  },
+                  {
+                    "question": "Qui a signé les Accords d'Oslo?",
+                    "answers": [
+                      "Israël et l'OLP",
+                      "États-Unis et l'URSS",
+                      "France et Allemagne",
+                      "Inde et Pakistan"
+                    ],
+                    "subContentId": "c9fe99a0-5d23-4496-80a8-8df67431451b"
+                  },
+                  {
+                    "question": "Quelle est une zone centrale du conflit israélo-palestinien?",
+                    "answers": [
+                      "Bande de Gaza",
+                      "Tokyo",
+                      "New York",
+                      "Sydney"
+                    ],
+                    "subContentId": "4de8365f-16c5-4d5a-b460-b530705047f0"
+                  },
+                  {
+                    "question": "Quel est le statut international des colonies israéliennes?",
+                    "answers": [
+                      "Largement considérées comme illégales",
+                      "Largement considérées comme légales",
+                      "Neutre",
+                      "Soutenues par l'ONU"
+                    ],
+                    "subContentId": "f2cf0245-2a9f-446d-853b-d73c675eb7c4"
+                  }
+                ]
+              },
+              "subContentId": "dc6b82f1-4264-4137-8683-db0b27e41a00",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Questions",
+                "defaultLanguage": "fr"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      }
+    ],
+    "keywordListEnabled": true,
+    "globalBackgroundSelector": {},
+    "keywordListAlwaysShow": false,
+    "keywordListAutoHide": false,
+    "keywordListOpacity": 90
+  },
+  "override": {
+    "activeSurface": false,
+    "hideSummarySlide": false,
+    "summarySlideSolutionButton": true,
+    "summarySlideRetryButton": true,
+    "enablePrintButton": false,
+    "social": {
+      "showFacebookShare": false,
+      "facebookShare": {
+        "url": "@currentpageurl",
+        "quote": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht."
+      },
+      "showTwitterShare": false,
+      "twitterShare": {
+        "statement": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht.",
+        "url": "@currentpageurl",
+        "hashtags": "h5p, Kurs"
+      },
+      "showGoogleShare": false,
+      "googleShareUrl": "@currentpageurl"
+    }
+  },
+  "l10n": {
+    "slide": "Diapositive",
+    "score": "Score",
+    "yourScore": "Votre score",
+    "maxScore": "Score maximum",
+    "total": "Total",
+    "totalScore": "Score total",
+    "showSolutions": "Voir la correction",
+    "retry": "Recommencer",
+    "exportAnswers": "Exporter",
+    "hideKeywords": "Cacher la liste des mots-clés",
+    "showKeywords": "Afficher la liste des mots-clés",
+    "fullscreen": "Plein écran",
+    "exitFullscreen": "Quitter le plein écran",
+    "prevSlide": "Diapositive précédente",
+    "nextSlide": "Diapositive suivante",
+    "currentSlide": "Diapositive courante",
+    "lastSlide": "Dernière diapositive",
+    "solutionModeTitle": "Sortir du mode &quot;Correction&quot;",
+    "solutionModeText": "Passer en mode &quot;correction&quot;",
+    "summaryMultipleTaskText": "Activités multiples",
+    "scoreMessage": "Votre score :",
+    "shareFacebook": "Partager sur Facebook",
+    "shareTwitter": "Partager sur Twitter",
+    "shareGoogle": "Partager sur Google+",
+    "summary": "Résumé",
+    "solutionsButtonTitle": "Afficher les commentaires",
+    "printTitle": "Imprimer",
+    "printIngress": "Comment souhaitez-vous imprimer cette présentation ?",
+    "printAllSlides": "Imprimer toutes les diapositives",
+    "printCurrentSlide": "Imprimer la diapositive courante",
+    "noTitle": "Sans intitulé",
+    "accessibilitySlideNavigationExplanation": "Utilisez les flèches gauche et droite pour pour naviguer entre les diapositives",
+    "accessibilityCanvasLabel": "Zone de présentation. Utilisez les flèches gauche et droite pour naviguer entre les diapositives.",
+    "containsNotCompleted": "@slideName contient des interactions incomplètes",
+    "containsCompleted": "@slideName ccontient des interactions complètes",
+    "slideCount": "Diapositive a @index de @total",
+    "containsOnlyCorrect": "toutes les réponses sont bonnes sur @slideName",
+    "containsIncorrectAnswers": "@slideName contient des réponses incorrectes",
+    "shareResult": "Partager le résultat",
+    "accessibilityTotalScore": "Vous avez obtenu @score sur @maxScore points au total",
+    "accessibilityEnteredFullscreen": "Mode plein-écran activé",
+    "accessibilityExitedFullscreen": "Mode plein-écran désactivé",
+    "confirmDialogHeader": "Envoyer vos réponses",
+    "confirmDialogText": "Cette action va envoyer vos réponses, voulez-vous continuer?",
+    "confirmDialogConfirmText": "Envoyer et voir les résultats",
+    "accessibilityProgressBarLabel": "Choose slide to display",
+    "slideshowNavigationLabel": "Slideshow navigation"
+  }
+}

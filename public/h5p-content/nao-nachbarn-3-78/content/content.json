@@ -1,0 +1,978 @@
+{
+  "presentation": {
+    "slides": [
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 6.622516556291391,
+            "width": 92.73743016759778,
+            "height": 50.77262693156732,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:3em;\"><strong>Israël et ses relations avec les États voisins</strong></span></p>\n\n<p><strong><span style=\"font-size:1.5em;\">INFORMATIONS UND EXERCISES</span></strong></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "dff56334-2e6b-4f64-ab5f-fd72e6484f52"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 0,
+            "y": 0,
+            "width": 100,
+            "height": 99.99999999999999,
+            "action": {
+              "library": "H5P.Video 1.6",
+              "params": {
+                "visuals": {
+                  "fit": true,
+                  "controls": true
+                },
+                "playback": {
+                  "autoplay": false,
+                  "loop": false
+                },
+                "l10n": {
+                  "name": "Video",
+                  "loading": "Chargement du lecteur vidéo...",
+                  "noPlayers": "Aucun lecteur vidéo trouvé pour supporter le format video utilisé.",
+                  "noSources": "La vidéo n&#039;a pas de source associée.",
+                  "aborted": "La lecture du média a été abandonnée.",
+                  "networkFailure": "Problème de connexion au réseau.",
+                  "cannotDecode": "Impossible de décoder la vidéo.",
+                  "formatNotSupported": "Format vidéo non supporté.",
+                  "mediaEncrypted": "Vidéo cryptée.",
+                  "unknownError": "Erreur inconnue.",
+                  "invalidYtId": "Identifiant YouTube invalide.",
+                  "unknownYtId": "Impossible de trouver la vidéo avec cet identifiant YouTube.",
+                  "restrictedYt": "Le propriétaire de cette vidéo n&#039;autorise pas son inclusion."
+                },
+                "sources": [
+                  {
+                    "path": "https://youtu.be/-uQ2N78Dl9c",
+                    "mime": "video/YouTube",
+                    "copyright": {
+                      "license": "U"
+                    }
+                  }
+                ]
+              },
+              "subContentId": "f6e6290a-7e21-4463-a6b0-d79bb46ce92f",
+              "metadata": {
+                "contentType": "Video",
+                "license": "U",
+                "title": "Unbenannt: Video"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2331154684095864,
+            "y": 4.414482262971937,
+            "width": 87.14596949891067,
+            "height": 8.82225100810356,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texte d'information (partie 1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "5627dc6e-c943-439e-ab4a-4531b7f24264"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 12.910611231371064,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Situation géographique</strong><br>\nIsraël est situé au Moyen-Orient et partage ses frontières avec plusieurs pays voisins. Au nord, il borde le Liban, au nord-est la Syrie, à l'est la Jordanie et au sud-ouest l'Égypte. Il possède également une côte le long de la Méditerranée, ce qui en fait un lieu stratégiquement important dans la région.</p>\n\n<p><strong>Contexte historique</strong><br>\nLes relations entre Israël et ses pays voisins ont été fortement influencées par des événements historiques. Depuis sa création en 1948, Israël a été impliqué dans plusieurs guerres et conflits avec ses voisins. Ces événements historiques ont accru la méfiance et les tensions dans la région.</p>\n\n<p><strong>Traités de paix</strong><br>\nMalgré les conflits en cours, Israël a conclu des traités de paix avec certains de ses pays voisins. Un traité de paix a été signé avec l'Égypte en 1979, et un autre a suivi avec la Jordanie en 1994. Ces traités ont amélioré les relations et ont contribué à une certaine stabilité dans la région.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "53bc5361-5ce5-43a9-a00f-57bbceee9cd0"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2331154684095864,
+            "y": 4.414482262971937,
+            "width": 76.25272331154684,
+            "height": 8.825607767023717,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texte d'information (partie 2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "55aaf4d3-f7e3-4a3e-9196-01a6f7474f94"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Conflits persistants</strong><br>\nIl existe cependant toujours des conflits en cours, notamment avec les Palestiniens dans les territoires occupés. La relation avec la Syrie et le Liban reste également tendue, en partie en raison du soutien de ces pays à des groupes militants qui luttent contre Israël.</p>\n\n<p><strong>Coopération économique</strong><br>\nLa coopération économique entre Israël et ses voisins est une étape importante pour améliorer les relations régionales. Grâce à des accords commerciaux et des projets communs dans des domaines tels que l'eau et l'énergie, les pays peuvent bénéficier les uns des autres et établir une base pour de nouvelles avancées politiques.</p>\n\n<p><strong>Menaces militaires</strong><br>\nLa menace militaire demeure un sujet central dans la région. Israël possède une des armées les plus puissantes du monde et fait face en même temps à des menaces de groupes militants et de certains pays voisins. Cela influence fortement les relations et la politique de sécurité d'Israël.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "3b13867b-feab-4e2e-bfa2-fcc82e4dbff1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2331154684095864,
+            "y": 4.414482262971937,
+            "width": 71.89542483660131,
+            "height": 8.825607767023717,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texte d'information (partie 3)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "4381b60d-c67f-4722-b83d-b17f2fc9d01c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Médiation internationale</strong><br>\nLa médiation internationale joue un rôle important dans l'amélioration des relations entre Israël et ses pays voisins. Les États-Unis et d'autres pays occidentaux ont souvent agi comme médiateurs pour promouvoir des accords de paix et atténuer les tensions.</p>\n\n<p><strong>Échange culturel</strong><br>\nL'échange culturel peut également contribuer à améliorer les relations. Par l'éducation, le sport et l'art, les personnes de différents pays peuvent se rencontrer et développer une meilleure compréhension mutuelle, ce qui peut à long terme contribuer à réduire les préjugés et les hostilités.</p>\n\n<p><strong>Perspectives futures</strong><br>\nLes relations futures entre Israël et ses pays voisins dépendent de nombreux facteurs. La volonté de résoudre les conflits, de surmonter les traumatismes historiques et de promouvoir la compréhension mutuelle sont cruciales pour établir une paix durable dans la région.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "3d655444-fd55-42f7-aba2-16a16db7dc58"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Faites glisser les mots dans les bonnes cases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Vérifier",
+                "tryAgain": "Recommencer",
+                "showSolution": "Voir la correction",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient un élément déplaçable @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments déplaçables.",
+                "tipLabel": "Montrer l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Reparamétrer le déplacement",
+                "resetDropDescription": "Etes-vous certain de vouloir reparamétrer cet élément déplaçable ?",
+                "grabbed": "L&#039;élément déplaçable est saisi.",
+                "cancelledDragging": "Annuler le déplacement.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaire de retour",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Afficher la solution. La tâche sera notée avec sa solution correcte.",
+                "a11yRetry": "Réessayer la tâche. Réinitialiser toutes les réponses et recommencer la tâche.",
+                "textField": "*Médiation internationale* - intervention extérieure pour résoudre des conflits.  \n*Échange culturel* - partage des coutumes, art et éducation.  \n*Perspectives futures* - attentes ou prévisions pour le temps à venir.  \n*Conflits persistants* - affrontements ou désaccords qui durent dans le temps.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Termes importants (1)",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "4a94ce62-c440-4215-bc76-32408bcec41d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termes importants (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "e773caca-acd3-4ee8-9ed2-b80b588d3a60"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Faites glisser les mots dans les bonnes cases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Vérifier",
+                "tryAgain": "Recommencer",
+                "showSolution": "Voir la correction",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient un élément déplaçable @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments déplaçables.",
+                "tipLabel": "Montrer l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Reparamétrer le déplacement",
+                "resetDropDescription": "Etes-vous certain de vouloir reparamétrer cet élément déplaçable ?",
+                "grabbed": "L&#039;élément déplaçable est saisi.",
+                "cancelledDragging": "Annuler le déplacement.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaire de retour",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Afficher la solution. La tâche sera notée avec sa solution correcte.",
+                "a11yRetry": "Réessayer la tâche. Réinitialiser toutes les réponses et recommencer la tâche.",
+                "textField": "*Moyen-Orient* - région géographique englobant l&#039;Asie de l&#039;Ouest et l&#039;Égypte.  \n*Traités de paix* - accords formels pour mettre fin aux hostilités.  \n*Territoires occupés* - zones contrôlées par une puissance étrangère.  \n*Coopération économique* - travail conjoint dans les domaines économiques.  \n*Menaces militaires* - risques d&#039;actes hostiles armés.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Termes importants (1)",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "b74a36f9-2aa3-417a-814c-50e58208f7b3"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termes importants (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "be59e194-86c9-4928-9194-f6e496790bc1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Complète les phrases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Vérifier",
+                "tryAgain": "Recommencer",
+                "showSolution": "Voir la correction",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient un élément déplaçable @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments déplaçables.",
+                "tipLabel": "Montrer l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Reparamétrer le déplacement",
+                "resetDropDescription": "Etes-vous certain de vouloir reparamétrer cet élément déplaçable ?",
+                "grabbed": "L&#039;élément déplaçable est saisi.",
+                "cancelledDragging": "Annuler le déplacement.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaire de retour",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Afficher la solution. La tâche sera notée avec sa solution correcte.",
+                "a11yRetry": "Réessayer la tâche. Réinitialiser toutes les réponses et recommencer la tâche.",
+                "textField": "*Israël est situé ...* - ... au Moyen-Orient.  \n*Il partage ses frontières ...* - ... avec plusieurs pays.  \n*Les relations ont été influencées ...* - ... par des événements historiques.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Compléter des phrases (1)",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "fc5741fc-cbfd-45c8-9433-cf39572a4b81"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Compléter des phrases (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "ecb45d14-3fe2-4a02-ab8f-6c03ba60ef4c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Complète les phrases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Vérifier",
+                "tryAgain": "Recommencer",
+                "showSolution": "Voir la correction",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient un élément déplaçable @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments déplaçables.",
+                "tipLabel": "Montrer l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Reparamétrer le déplacement",
+                "resetDropDescription": "Etes-vous certain de vouloir reparamétrer cet élément déplaçable ?",
+                "grabbed": "L&#039;élément déplaçable est saisi.",
+                "cancelledDragging": "Annuler le déplacement.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaire de retour",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Afficher la solution. La tâche sera notée avec sa solution correcte.",
+                "a11yRetry": "Réessayer la tâche. Réinitialiser toutes les réponses et recommencer la tâche.",
+                "textField": "*Israël a conclu des traités ...* - ... de paix avec certains voisins.  \n*La coopération économique est une étape ...* - ... pour améliorer les relations.  \n*La menace militaire reste ...* - ... un sujet central.  \n*La médiation internationale joue ...* - ... un rôle important.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Compléter des phrases (2)",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "a8bdf3b3-dac7-40e5-bdfd-f199401a2c3e"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Compléter des phrases (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "1351cab9-7952-442e-bc32-7d4a3895ab3d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Vrai ou faux ?</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "3f4bfb9e-6eb5-4097-abf6-f0c1308dfc3f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 11.619550108233957,
+            "width": 95.41899441340783,
+            "height": 88.30022075055187,
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>Choisis l'affirmation correcte !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Progression :",
+                "scoreLabel": "Erreurs :",
+                "resultLabel": "Votre résultat :",
+                "labelCorrect": "Correct.",
+                "labelIncorrect": "Incorrect! Please try again.",
+                "alternativeIncorrectLabel": "Incorrect",
+                "labelCorrectAnswers": "Réponses correctes.",
+                "tipButtonLabel": "Montrer l&#039;indice",
+                "scoreBarLabel": "Vous avez :num points sur un total de :total",
+                "progressText": "Progression de :num sur :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "Israël a été créé en 1948.",
+                      "Israël partage une frontière avec la Turquie."
+                    ],
+                    "subContentId": "8726cee9-8cb7-49e1-bf29-a2d8c8aa15f3",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Israël a conclu un traité de paix avec l'Égypte en 1979.",
+                      "Israël a toujours eu des relations pacifiques avec ses voisins."
+                    ],
+                    "subContentId": "4d89a29b-7940-4b75-b194-b19e1d79dd80",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Les relations avec la Syrie et le Liban restent tendues.",
+                      "La coopération économique n'a pas d'importance pour Israël."
+                    ],
+                    "subContentId": "52972814-c0a7-48ca-94d4-8fadcfad66dd",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "La médiation internationale contribue à l'amélioration des relations.",
+                      "Israël ne fait pas face à des menaces militaires."
+                    ],
+                    "subContentId": "ae8eda81-0527-4f91-ba63-cc73e2bae14d",
+                    "tip": ""
+                  }
+                ]
+              },
+              "subContentId": "6207504c-ae8f-4a09-b236-0a5b6cd442ec",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "Vrai ou faux ?",
+                "defaultLanguage": "fr"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Questions</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "303d8e49-9df8-4ebb-bb74-21e0f7344e25"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.346368715083799,
+            "y": 15.673289183222957,
+            "width": 92.40223463687151,
+            "height": 58.27814569536424,
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": false,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Question suivante",
+                  "showSolutionButtonLabel": "Voir la solution",
+                  "retryButtonLabel": "Correction",
+                  "solutionViewTitle": "Recommencer",
+                  "correctText": "Correct !",
+                  "incorrectText": "Incorrect !",
+                  "muteButtonLabel": "Couper les retours sons",
+                  "closeButtonLabel": "Fermer",
+                  "slideOfTotal": "Diapositive :num sur :total",
+                  "scoreBarLabel": "Vous avez :num points sur un total de :total",
+                  "solutionListQuestionNumber": "Question :num",
+                  "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                  "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                  "shouldSelect": "Should have been selected",
+                  "shouldNotSelect": "Should not have been selected"
+                },
+                "choices": [
+                  {
+                    "question": "Quel pays borde Israël au nord?",
+                    "answers": [
+                      "Liban",
+                      "Égypte",
+                      "Jordanie",
+                      "Syrie"
+                    ],
+                    "subContentId": "b8cd935a-4d22-49cc-8e12-c8778ae326a8"
+                  },
+                  {
+                    "question": "Quand a été signé le traité de paix avec l'Égypte?",
+                    "answers": [
+                      "1979",
+                      "1994",
+                      "1985",
+                      "2000"
+                    ],
+                    "subContentId": "1fe4cd50-75d5-4ed8-857f-27c00d097cea"
+                  },
+                  {
+                    "question": "Quel domaine est mentionné comme bénéfique pour la coopération économique?",
+                    "answers": [
+                      "Eau et énergie",
+                      "Tourisme",
+                      "Agriculture",
+                      "Technologie"
+                    ],
+                    "subContentId": "0b72765d-cfc4-4602-907e-7812897a092c"
+                  },
+                  {
+                    "question": "Quelle nation agit souvent comme médiateur international?",
+                    "answers": [
+                      "États-Unis",
+                      "Russie",
+                      "Chine",
+                      "France"
+                    ],
+                    "subContentId": "0fddde0b-6344-4a3b-b446-87dccbc90cc5"
+                  },
+                  {
+                    "question": "Avec quel pays Israël n'a pas de traité de paix?",
+                    "answers": [
+                      "Syrie",
+                      "Jordanie",
+                      "Égypte",
+                      "Liban"
+                    ],
+                    "subContentId": "556d41de-1a23-4956-ae17-ec2bc6c50d9f"
+                  },
+                  {
+                    "question": "Quel élément peut contribuer à réduire les préjugés?",
+                    "answers": [
+                      "Échange culturel",
+                      "Menaces militaires",
+                      "Conflits persistants",
+                      "Traités de paix"
+                    ],
+                    "subContentId": "157209fb-2645-4076-8e0d-10e96d135ce4"
+                  }
+                ]
+              },
+              "subContentId": "dc6b82f1-4264-4137-8683-db0b27e41a00",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Questions",
+                "defaultLanguage": "fr"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      }
+    ],
+    "keywordListEnabled": true,
+    "globalBackgroundSelector": {},
+    "keywordListAlwaysShow": false,
+    "keywordListAutoHide": false,
+    "keywordListOpacity": 90
+  },
+  "override": {
+    "activeSurface": false,
+    "hideSummarySlide": false,
+    "summarySlideSolutionButton": true,
+    "summarySlideRetryButton": true,
+    "enablePrintButton": false,
+    "social": {
+      "showFacebookShare": false,
+      "facebookShare": {
+        "url": "@currentpageurl",
+        "quote": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht."
+      },
+      "showTwitterShare": false,
+      "twitterShare": {
+        "statement": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht.",
+        "url": "@currentpageurl",
+        "hashtags": "h5p, Kurs"
+      },
+      "showGoogleShare": false,
+      "googleShareUrl": "@currentpageurl"
+    }
+  },
+  "l10n": {
+    "slide": "Diapositive",
+    "score": "Score",
+    "yourScore": "Votre score",
+    "maxScore": "Score maximum",
+    "total": "Total",
+    "totalScore": "Score total",
+    "showSolutions": "Voir la correction",
+    "retry": "Recommencer",
+    "exportAnswers": "Exporter",
+    "hideKeywords": "Cacher la liste des mots-clés",
+    "showKeywords": "Afficher la liste des mots-clés",
+    "fullscreen": "Plein écran",
+    "exitFullscreen": "Quitter le plein écran",
+    "prevSlide": "Diapositive précédente",
+    "nextSlide": "Diapositive suivante",
+    "currentSlide": "Diapositive courante",
+    "lastSlide": "Dernière diapositive",
+    "solutionModeTitle": "Sortir du mode &quot;Correction&quot;",
+    "solutionModeText": "Passer en mode &quot;correction&quot;",
+    "summaryMultipleTaskText": "Activités multiples",
+    "scoreMessage": "Votre score :",
+    "shareFacebook": "Partager sur Facebook",
+    "shareTwitter": "Partager sur Twitter",
+    "shareGoogle": "Partager sur Google+",
+    "summary": "Résumé",
+    "solutionsButtonTitle": "Afficher les commentaires",
+    "printTitle": "Imprimer",
+    "printIngress": "Comment souhaitez-vous imprimer cette présentation ?",
+    "printAllSlides": "Imprimer toutes les diapositives",
+    "printCurrentSlide": "Imprimer la diapositive courante",
+    "noTitle": "Sans intitulé",
+    "accessibilitySlideNavigationExplanation": "Utilisez les flèches gauche et droite pour pour naviguer entre les diapositives",
+    "accessibilityCanvasLabel": "Zone de présentation. Utilisez les flèches gauche et droite pour naviguer entre les diapositives.",
+    "containsNotCompleted": "@slideName contient des interactions incomplètes",
+    "containsCompleted": "@slideName ccontient des interactions complètes",
+    "slideCount": "Diapositive a @index de @total",
+    "containsOnlyCorrect": "toutes les réponses sont bonnes sur @slideName",
+    "containsIncorrectAnswers": "@slideName contient des réponses incorrectes",
+    "shareResult": "Partager le résultat",
+    "accessibilityTotalScore": "Vous avez obtenu @score sur @maxScore points au total",
+    "accessibilityEnteredFullscreen": "Mode plein-écran activé",
+    "accessibilityExitedFullscreen": "Mode plein-écran désactivé",
+    "confirmDialogHeader": "Envoyer vos réponses",
+    "confirmDialogText": "Cette action va envoyer vos réponses, voulez-vous continuer?",
+    "confirmDialogConfirmText": "Envoyer et voir les résultats",
+    "accessibilityProgressBarLabel": "Choose slide to display",
+    "slideshowNavigationLabel": "Slideshow navigation"
+  }
+}

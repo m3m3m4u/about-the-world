@@ -1,0 +1,898 @@
+{
+  "presentation": {
+    "slides": [
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 6.455305615685532,
+            "width": 92.73743016759778,
+            "height": 50.77262693156732,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:3em;\"><strong>Alexander Fleming (1881-1955) - Entdecker des Penicillins</strong></span></p>\n\n<p><strong><span style=\"font-size:1.5em;\">Informationen und Übungen</span></strong></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "dff56334-2e6b-4f64-ab5f-fd72e6484f52"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Informationstext (Teil 1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "5627dc6e-c943-439e-ab4a-4531b7f24264"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582783,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Frühes Leben und Bildung</strong><br>\nAlexander Fleming wurde am 6. August 1881 auf einer Farm in Lochfield, Schottland, geboren. Er besuchte die Louden Moor Schule, die Darvel Schule und anschließend die Kilmarnock Academy. Später zog Fleming nach London, um am St. Mary's Hospital Medical School zu studieren. Er zeigte großes Interesse an der Medizin und gewann sogar ein Stipendium, was es ihm ermöglichte, seine Studien fortzusetzen und in Mikrobiologie herausragend zu werden.</p>\n\n<p><strong>Beginn seiner medizinischen Karriere</strong><br>\nNach seinem Abschluss begann Fleming seine medizinische Karriere am St. Mary's Hospital in London. Während des Ersten Weltkriegs diente er als Arzt in der Armee und sah die verheerenden Effekte von Infektionen, die sich in Wunden von Soldaten entwickelten. Diese Erfahrungen motivierten ihn, nach wirksamen Behandlungsmethoden zu suchen, um solche Infektionen zu bekämpfen.</p>\n\n<p><strong>Entdeckung der Antiseptika</strong><br>\nFleming war an der Suche nach besseren Antiseptika beteiligt, da die bis dahin verwendeten Behandlungsmethoden oft unwirksam waren und die Heilung von Wunden eher behinderten als förderten. Er experimentierte mit verschiedenen Substanzen und stellte fest, dass Antiseptika, die Bakterien töten, oft auch die für die Heilung wichtigen weißen Blutkörperchen schädigten. Seine Forschungen führten zu der Einsicht, dass ein idealer Wirkstoff selektiv Bakterien eliminieren sollte, ohne den menschlichen Körper zu schädigen.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "53bc5361-5ce5-43a9-a00f-57bbceee9cd0"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Informationstext (Teil 2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "55aaf4d3-f7e3-4a3e-9196-01a6f7474f94"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Die zufällige Entdeckung des Penicillins</strong><br>\nIm September 1928 machte Fleming eine zufällige Entdeckung, als er nach einem Urlaub in sein Labor zurückkehrte. Er bemerkte, dass eine seiner Petrischalen mit Staphylokokken-Bakterien durch Schimmelpilzsporen kontaminiert worden war, und dass um diese Schimmelpilze herum die Bakterien abgetötet wurden. Der Schimmel, der später als Penicillium notatum identifiziert wurde, schien eine Substanz zu produzieren, die bakterizide Eigenschaften hatte.</p>\n\n<p><strong>Forschung und Experimente mit Penicillin</strong><br>\nFleming begann sofort mit der Forschung an diesem Schimmelpilz und fand heraus, dass der Stoff, den er Penicillin nannte, in der Tat in der Lage war, viele Arten von Bakterien zu töten, die für schwere Krankheiten wie Scharlach, Lungenentzündung und Diphtherie verantwortlich sind. Er veröffentlichte seine Entdeckung 1929, aber erst ein Jahrzehnt später erkannten andere Wissenschaftler das therapeutische Potenzial des Penicillins.</p>\n\n<p><strong>Herausforderungen bei der Entwicklung</strong><br>\nTrotz der offensichtlichen Vorteile von Penicillin war die Entwicklung des Medikaments schwierig. Fleming hatte Schwierigkeiten, Penicillin in reiner Form und in ausreichenden Mengen für eine ausgiebige klinische Anwendung zu extrahieren. Das Potenzial des Penicillins blieb für einige Zeit ungenutzt, da es nicht im großen Maßstab produziert werden konnte.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "3b13867b-feab-4e2e-bfa2-fcc82e4dbff1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Informationstext (Teil 3)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "4381b60d-c67f-4722-b83d-b17f2fc9d01c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 12.910611231371064,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Zweiter Weltkrieg und Massenproduktion</strong><br>\nDer Ausbruch des Zweiten Weltkriegs erhöhte die Dringlichkeit, wirksame Behandlungen für verwundete Soldaten zu finden. Dies führte dazu, dass Wissenschaftler in den USA und Großbritannien nach Wegen suchten, Penicillin in großen Mengen zu produzieren. Schließlich wurden Techniken entwickelt, um das Medikament massenhaft herzustellen, wodurch es Tausenden von Soldaten und später auch Zivilisten zugänglich gemacht wurde.</p>\n\n<p><strong>Flemings spätere Jahre und Anerkennung</strong><br>\nIn seinen späteren Jahren erhielt Fleming viele Ehrungen für seine Arbeit. Er wurde 1944 zum Ritter geschlagen und erhielt zusammen mit Howard Florey und Ernst Boris Chain den Nobelpreis für Medizin im Jahr 1945 für die Entdeckung und Entwicklung des Penicillins. Seine Arbeit hat das Feld der antibakteriellen Behandlung revolutioniert und das Leben unzähliger Menschen gerettet.</p>\n\n<p><strong>Flemings Vermächtnis und Einfluss</strong><br>\nAlexander Fleming starb am 11. März 1955, aber sein Vermächtnis lebt in der medizinischen Gemeinschaft fort. Penicillin hat sich als eines der mächtigsten Werkzeuge im Kampf gegen bakterielle Infektionen erwiesen und den Weg für die Entwicklung weiterer Antibiotika geebnet. Flemings Entdeckung gilt als einer der wichtigsten Wendepunkte in der Geschichte der Medizin.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "3d655444-fd55-42f7-aba2-16a16db7dc58"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 3.2679738562091503,
+            "y": 12.910611231371064,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "Ziehe die Wörter in die richtigen Felder!",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Überprüfen",
+                "submitAnswer": "Submit",
+                "tryAgain": "Wiederholen",
+                "showSolution": "Lösung anzeigen",
+                "dropZoneIndex": "Ablagefeld @index.",
+                "empty": "Ablagefeld @index ist leer.",
+                "contains": "Ablagefeld @index enthält ziehbaren Text @draggable.",
+                "ariaDraggableIndex": "@index von @count ziehbaren Texten.",
+                "tipLabel": "Tipp anzeigen",
+                "correctText": "Richtig!",
+                "incorrectText": "Falsch!",
+                "resetDropTitle": "Ablagefelder zurücksetzen",
+                "resetDropDescription": "Bist du sicher, dass du dieses Ablagefeld zurücksetzen möchtest?",
+                "grabbed": "Ziehbarer Text wurde aufgenommen.",
+                "cancelledDragging": "Ziehen abgebrochen.",
+                "correctAnswer": "Korrekte Antwort:",
+                "feedbackHeader": "Rückmeldung",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "a11yCheck": "Die Antworten überprüfen. Die Eingaben werden als richtig, falsch oder unbeantwortet markiert.",
+                "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                "a11yRetry": "Die Aufgabe wiederholen. Alle Eingaben werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                "textField": "*Lochfield* - Geburtsort von Alexander Fleming in Schottland\n*Louden Moor Schule* - eine von Flemings frühen Schulen\n*St Mary&#039;s Hospital Medical School* - Flemings Studienort in London\n*Mikrobiologie* - Wissenschaft der Mikroorganismen, Flemings Spezialgebiet\n*Antiseptika* - Substanzen zur Bekämpfung von Infektionen",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Begriffe 1"
+              },
+              "subContentId": "4a94ce62-c440-4215-bc76-32408bcec41d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 3.2679738562091503,
+            "y": 4.303537077123688,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Wichtige Begriffe (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "e773caca-acd3-4ee8-9ed2-b80b588d3a60"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 3.5947712418300655,
+            "y": 13.12578808522725,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Ziehe die Wörter in die richtigen Felder!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Überprüfen",
+                "submitAnswer": "Submit",
+                "tryAgain": "Wiederholen",
+                "showSolution": "Lösung anzeigen",
+                "dropZoneIndex": "Ablagefeld @index.",
+                "empty": "Ablagefeld @index ist leer.",
+                "contains": "Ablagefeld @index enthält ziehbaren Text @draggable.",
+                "ariaDraggableIndex": "@index von @count ziehbaren Texten.",
+                "tipLabel": "Tipp anzeigen",
+                "correctText": "Richtig!",
+                "incorrectText": "Falsch!",
+                "resetDropTitle": "Ablagefelder zurücksetzen",
+                "resetDropDescription": "Bist du sicher, dass du dieses Ablagefeld zurücksetzen möchtest?",
+                "grabbed": "Ziehbarer Text wurde aufgenommen.",
+                "cancelledDragging": "Ziehen abgebrochen.",
+                "correctAnswer": "Korrekte Antwort:",
+                "feedbackHeader": "Rückmeldung",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "a11yCheck": "Die Antworten überprüfen. Die Eingaben werden als richtig, falsch oder unbeantwortet markiert.",
+                "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                "a11yRetry": "Die Aufgabe wiederholen. Alle Eingaben werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                "textField": "*Penicillium notatum* - Schimmelpilz, Quelle des Penicillins\n*Bakterizid* - Eigenschaft, Bakterien abzutöten\n*Penicillin* - von Fleming entdecktes Antibiotikum\n*Nobelpreis für Medizin* - von Fleming für Penicillin erhalten",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Begriffe 2"
+              },
+              "subContentId": "b74a36f9-2aa3-417a-814c-50e58208f7b3"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 3.5947712418300655,
+            "y": 3.227652807842766,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Wichtige Begriffe (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "be59e194-86c9-4928-9194-f6e496790bc1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 3.2679738562091503,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Vervollständige die Sätze!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Überprüfen",
+                "submitAnswer": "Submit",
+                "tryAgain": "Wiederholen",
+                "showSolution": "Lösung anzeigen",
+                "dropZoneIndex": "Ablagefeld @index.",
+                "empty": "Ablagefeld @index ist leer.",
+                "contains": "Ablagefeld @index enthält ziehbaren Text @draggable.",
+                "ariaDraggableIndex": "@index von @count ziehbaren Texten.",
+                "tipLabel": "Tipp anzeigen",
+                "correctText": "Richtig!",
+                "incorrectText": "Falsch!",
+                "resetDropTitle": "Ablagefelder zurücksetzen",
+                "resetDropDescription": "Bist du sicher, dass du dieses Ablagefeld zurücksetzen möchtest?",
+                "grabbed": "Ziehbarer Text wurde aufgenommen.",
+                "cancelledDragging": "Ziehen abgebrochen.",
+                "correctAnswer": "Korrekte Antwort:",
+                "feedbackHeader": "Rückmeldung",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "a11yCheck": "Die Antworten überprüfen. Die Eingaben werden als richtig, falsch oder unbeantwortet markiert.",
+                "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                "a11yRetry": "Die Aufgabe wiederholen. Alle Eingaben werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                "textField": "*Alexander Fleming wurde ...* - ... in Lochfield, Schottland, geboren.\n*Er studierte Medizin in London ...* - ... am St. Mary&#039;s Hospital.\n*Im Ersten Weltkrieg war Fleming ...* - ... als Arzt in der Armee tätig.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Sätze 1"
+              },
+              "subContentId": "fc5741fc-cbfd-45c8-9433-cf39572a4b81"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 3.2679738562091503,
+            "y": 4.303537077123688,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Sätze vervollständigen (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "ecb45d14-3fe2-4a02-ab8f-6c03ba60ef4c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 3.2679738562091503,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Vervollständige die Sätze!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Überprüfen",
+                "submitAnswer": "Submit",
+                "tryAgain": "Wiederholen",
+                "showSolution": "Lösung anzeigen",
+                "dropZoneIndex": "Ablagefeld @index.",
+                "empty": "Ablagefeld @index ist leer.",
+                "contains": "Ablagefeld @index enthält ziehbaren Text @draggable.",
+                "ariaDraggableIndex": "@index von @count ziehbaren Texten.",
+                "tipLabel": "Tipp anzeigen",
+                "correctText": "Richtig!",
+                "incorrectText": "Falsch!",
+                "resetDropTitle": "Ablagefelder zurücksetzen",
+                "resetDropDescription": "Bist du sicher, dass du dieses Ablagefeld zurücksetzen möchtest?",
+                "grabbed": "Ziehbarer Text wurde aufgenommen.",
+                "cancelledDragging": "Ziehen abgebrochen.",
+                "correctAnswer": "Korrekte Antwort:",
+                "feedbackHeader": "Rückmeldung",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "a11yCheck": "Die Antworten überprüfen. Die Eingaben werden als richtig, falsch oder unbeantwortet markiert.",
+                "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                "a11yRetry": "Die Aufgabe wiederholen. Alle Eingaben werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                "textField": "*Seine Forschung konzentrierte sich auf ...* - ... effektivere Antiseptika.\n*Fleming entdeckte Penicillin ...* - ... durch eine zufällige Beobachtung.\n*Penicillin wurde im Zweiten Weltkrieg ...* - ... massenhaft produziert.\n*Fleming erhielt für Penicillin ...* - ... den Nobelpreis für Medizin.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Sätze 2"
+              },
+              "subContentId": "a8bdf3b3-dac7-40e5-bdfd-f199401a2c3e"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 3.2679738562091503,
+            "y": 6.455305615685532,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Sätze vervollständigen (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "1351cab9-7952-442e-bc32-7d4a3895ab3d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 3.2679738562091503,
+            "y": 4.303537077123688,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Wahr oder falsch?</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "3f4bfb9e-6eb5-4097-abf6-f0c1308dfc3f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 3.2679738562091503,
+            "y": 10.758842692809221,
+            "width": 95.41899441340783,
+            "height": 88.30022075055187,
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>Wähle die korrekte Aussage!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Fortschritt:",
+                "scoreLabel": "Falsche Antworten:",
+                "resultLabel": "Dein Ergebnis",
+                "labelCorrect": "Richtig.",
+                "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                "alternativeIncorrectLabel": "Falsch",
+                "labelCorrectAnswers": "Richtige Antwort(en).",
+                "tipButtonLabel": "Tipp anzeigen",
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "progressText": "Fortschritt :num von :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "Alexander Fleming wurde 1881 in Schottland geboren.",
+                      "Fleming erfand das Penicillin bewusst und gezielt."
+                    ],
+                    "subContentId": "2980a8ac-9800-4f7d-b3a5-235a871c45be",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Fleming studierte Medizin am St. Mary's Hospital in London.",
+                      "Er erhielt den Nobelpreis für Physik für seine Entdeckung."
+                    ],
+                    "subContentId": "ea7ce22a-96fb-4e91-b5e4-dbf8328e9efc",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Die Entdeckung des Penicillins war eher zufällig.",
+                      "Penicillin wurde während des Ersten Weltkriegs entwickelt."
+                    ],
+                    "subContentId": "2ee825d4-dd6f-4515-a96d-ce2d3bc03a9f",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Penicillin revolutionierte die Behandlung bakterieller Infektionen.",
+                      "Fleming war während seiner gesamten Karriere in Schottland tätig."
+                    ],
+                    "subContentId": "feb9816e-547f-411d-a88d-b0d00850e36e",
+                    "tip": ""
+                  }
+                ]
+              },
+              "subContentId": "6207504c-ae8f-4a09-b236-0a5b6cd442ec",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "Wahr oder falsch?"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 3.2679738562091503,
+            "y": 4.303537077123688,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Fragen</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "303d8e49-9df8-4ebb-bb74-21e0f7344e25"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 3.2679738562091503,
+            "y": 15.062379769932909,
+            "width": 92.40223463687151,
+            "height": 58.27814569536424,
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": false,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Weiter",
+                  "showSolutionButtonLabel": "Lösung anzeigen",
+                  "retryButtonLabel": "Wiederholen",
+                  "solutionViewTitle": "Lösung",
+                  "correctText": "Richtig!",
+                  "incorrectText": "Falsch!",
+                  "muteButtonLabel": "Stumm schalten",
+                  "closeButtonLabel": "Schließen",
+                  "slideOfTotal": "Seite :num von :total",
+                  "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                  "solutionListQuestionNumber": "Frage :num",
+                  "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                  "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                  "shouldSelect": "Should have been selected",
+                  "shouldNotSelect": "Should not have been selected"
+                },
+                "choices": [
+                  {
+                    "question": "Wann wurde Alexander Fleming geboren?",
+                    "answers": [
+                      "August 1881",
+                      "11. März 1955",
+                      "1",
+                      "31. Dezember 1899"
+                    ],
+                    "subContentId": "615083cf-0130-4cb8-96fe-cd0565f4b196"
+                  },
+                  {
+                    "question": "Wo studierte Alexander Fleming Medizin?",
+                    "answers": [
+                      "St. Mary's Hospital Medical School",
+                      "Universität Edinburgh",
+                      "Universität Glasgow",
+                      "Oxford University"
+                    ],
+                    "subContentId": "87a4a4bc-4fda-42b9-a710-26ca33ba1c0f"
+                  },
+                  {
+                    "question": "Was war Flemings Spezialgebiet?",
+                    "answers": [
+                      "Mikrobiologie",
+                      "Physik",
+                      "Chemie",
+                      "Botanik"
+                    ],
+                    "subContentId": "f0ff386e-db0c-487a-95c1-0b5e97ecd9a0"
+                  },
+                  {
+                    "question": "Was entdeckte Fleming 1928?",
+                    "answers": [
+                      "Penicillin",
+                      "Insulin",
+                      "DNA",
+                      "Röntgenstrahlen"
+                    ],
+                    "subContentId": "44b30007-541a-4354-8246-11c96cd548b6"
+                  },
+                  {
+                    "question": "Für was erhielt Fleming den Nobelpreis?",
+                    "answers": [
+                      "Medizin",
+                      "Physik",
+                      "Chemie",
+                      "Frieden"
+                    ],
+                    "subContentId": "57897125-d784-4991-ad2a-fd8a92d72080"
+                  },
+                  {
+                    "question": "Wie hat Fleming Penicillin entdeckt?",
+                    "answers": [
+                      "Durch eine zufällige Beobachtung",
+                      "Durch gezielte Experimente",
+                      "Während des Ersten Weltkriegs",
+                      "Nach dem Zweiten Weltkrieg"
+                    ],
+                    "subContentId": "3bdeb46a-df4a-4ae4-8ca5-3ed1f5f0e0a3"
+                  }
+                ]
+              },
+              "subContentId": "dc6b82f1-4264-4137-8683-db0b27e41a00",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Fragen"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      }
+    ],
+    "keywordListEnabled": true,
+    "globalBackgroundSelector": {},
+    "keywordListAlwaysShow": false,
+    "keywordListAutoHide": false,
+    "keywordListOpacity": 90
+  },
+  "override": {
+    "activeSurface": false,
+    "hideSummarySlide": false,
+    "summarySlideSolutionButton": true,
+    "summarySlideRetryButton": true,
+    "enablePrintButton": false,
+    "social": {
+      "showFacebookShare": false,
+      "facebookShare": {
+        "url": "@currentpageurl",
+        "quote": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht."
+      },
+      "showTwitterShare": false,
+      "twitterShare": {
+        "statement": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht.",
+        "url": "@currentpageurl",
+        "hashtags": "h5p, Kurs"
+      },
+      "showGoogleShare": false,
+      "googleShareUrl": "@currentpageurl"
+    }
+  },
+  "l10n": {
+    "slide": "Folie",
+    "score": "Punktzahl",
+    "yourScore": "Deine Punktzahl",
+    "maxScore": "Maximale Punktzahl",
+    "total": "Summe",
+    "totalScore": "Gesamtpunktzahl",
+    "showSolutions": "Lösungen anzeigen",
+    "retry": "Wiederholen",
+    "exportAnswers": "Text exportieren",
+    "hideKeywords": "Stichwortliste verbergen",
+    "showKeywords": "Stichwortliste anzeigen",
+    "fullscreen": "Vollbild",
+    "exitFullscreen": "Vollbild beenden",
+    "prevSlide": "Vorherige Folie",
+    "nextSlide": "Nächste Folie",
+    "currentSlide": "Aktuelle Folie",
+    "lastSlide": "Letzte Folie",
+    "solutionModeTitle": "Lösungsmodus beenden",
+    "solutionModeText": "Lösungsmodus",
+    "summaryMultipleTaskText": "Mehrere Aufgaben",
+    "scoreMessage": "Du hast erreicht:",
+    "shareFacebook": "Auf Facebook teilen",
+    "shareTwitter": "Auf Twitter teilen",
+    "shareGoogle": "Auf Google+ teilen",
+    "summary": "Zusammenfassung",
+    "solutionsButtonTitle": "Kommentare anzeigen",
+    "printTitle": "Drucken",
+    "printIngress": "Wie möchtest du diese Präsentation drucken?",
+    "printAllSlides": "Alle Folien drucken",
+    "printCurrentSlide": "Aktuelle Folie drucken",
+    "noTitle": "Kein Titel",
+    "accessibilitySlideNavigationExplanation": "Verwende die linke oder rechte Cursortaste, um zur Folie in der jeweiligen Richtung zu blättern, wenn der Präsentationsbereich ausgewählt ist.",
+    "accessibilityCanvasLabel": "Präsentationsbereich. Verwende die linke oder rechte Cursortaste, um zwischen den Folien zu navigieren.",
+    "containsNotCompleted": "@slideName enthält eine nicht abgeschlossene Interaktion",
+    "containsCompleted": "@slideName wurde abgeschlossen",
+    "slideCount": "Folie @index von @total",
+    "containsOnlyCorrect": "@slideName enthält nur richtige Antworten",
+    "containsIncorrectAnswers": "@slideName enthält falsche Antworten",
+    "shareResult": "Ergebnis teilen",
+    "accessibilityTotalScore": "Du hast insgesamt @score von @maxScore Punkten erreicht.",
+    "accessibilityEnteredFullscreen": "Vollbild aktiviert",
+    "accessibilityExitedFullscreen": "Vollbild deaktiviert",
+    "confirmDialogHeader": "Submit your answers",
+    "confirmDialogText": "This will submit your results, do you want to continue?",
+    "confirmDialogConfirmText": "Submit and see results",
+    "accessibilityProgressBarLabel": "Wähle das zu zeigende Schaubild",
+    "slideshowNavigationLabel": "Schaubild-Navigation"
+  }
+}

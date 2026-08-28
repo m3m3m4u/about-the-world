@@ -1,0 +1,917 @@
+{
+  "presentation": {
+    "slides": [
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 6.455305615685532,
+            "width": 92.73551198257081,
+            "height": 77.46366738822638,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:3em;\"><strong>Stephen Hawking (1942-2018) - physicien</strong></span></p>\n\n<p><strong><span style=\"font-size:1.5em;\">INFORMATIONS UND EXERCISES</span></strong></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "dff56334-2e6b-4f64-ab5f-fd72e6484f52"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2331154684095864,
+            "y": 4.414482262971937,
+            "width": 87.14596949891067,
+            "height": 8.82225100810356,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texte d'information (partie 1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "5627dc6e-c943-439e-ab4a-4531b7f24264"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582783,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Première vie et formation</strong><br>\nStephen Hawking est né le 8 janvier 1942 à Oxford, en Angleterre. Fils d'un chercheur dans la recherche médicale et d'une diplômée en économie, il a grandi dans une famille qui appréciait beaucoup la science et l'éducation. Il a montré très tôt un grand intérêt pour les sciences naturelles et l'univers. Hawking a commencé ses études universitaires à l'University College d'Oxford, où il a étudié la physique et était considéré comme un étudiant talentueux, même s'il ne s'est pleinement investi qu'en troisième année.</p>\n\n<p><strong>Le diagnostic de sa maladie</strong><br>\nÀ 21 ans, Hawking a été diagnostiqué avec une forme précoce de la maladie des neurones moteurs, également connue sous le nom de sclérose latérale amyotrophique (SLA) ou de maladie de Lou Gehrig. Les médecins ne lui donnaient alors que quelques années à vivre. Malgré cette nouvelle bouleversante, Hawking a poursuivi ses études scientifiques et a fait preuve d'une remarquable volonté pour ne pas se laisser abattre par la maladie.</p>\n\n<p><strong>Contributions à la théorie des trous noirs</strong><br>\nStephen Hawking a réalisé un travail révolutionnaire dans le domaine de la physique théorique, en particulier dans la recherche sur les trous noirs. Il a proposé que les trous noirs ne soient pas complètement noirs, mais qu'ils puissent émettre de l'énergie en raison d'effets quantiques connus sous le nom de \"rayonnement de Hawking\". Cette théorie a changé notre compréhension des trous noirs et de la thermodynamique dans l'univers.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "53bc5361-5ce5-43a9-a00f-57bbceee9cd0"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2331154684095864,
+            "y": 4.414482262971937,
+            "width": 76.25272331154684,
+            "height": 8.825607767023717,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texte d'information (partie 2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "55aaf4d3-f7e3-4a3e-9196-01a6f7474f94"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>L'univers dans une coquille de noix</strong><br>\nHawking n'était pas seulement connu pour ses recherches scientifiques, mais aussi en tant qu'auteur. Son livre peut-être le plus célèbre, \"Une brève histoire du temps\", a traduit des concepts scientifiques complexes en un langage que les profanes pouvaient comprendre. Il a également publié \"L'univers dans une coquille de noix\", qui expliquait et représentait en images d'autres développements de la physique théorique.</p>\n\n<p><strong>Culture populaire et influence</strong><br>\nSon influence s'est étendue au-delà de la science, puisqu'il est devenu présent dans la culture populaire. Hawking est apparu dans des séries télévisées telles que \"Star Trek : The Next Generation\" et \"The Big Bang Theory\" et est devenu une personnalité connue en dehors des cercles scientifiques grâce à sa voix d'ordinateur caractéristique. Sa capacité à combiner l'humour et l'autodérision avec la science sérieuse l'a rendu populaire dans le monde entier.</p>\n\n<p><strong>Lutte contre la maladie</strong><br>\nHawking a montré au monde que les limitations physiques ne doivent pas limiter l'horizon intellectuel. Même lorsque sa maladie a progressé et qu'il a dû se déplacer en fauteuil roulant, il a continué ses recherches. Les outils technologiques lui ont permis de communiquer et de travailler, même lorsqu'il ne pouvait plus parler.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "3b13867b-feab-4e2e-bfa2-fcc82e4dbff1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2331154684095864,
+            "y": 4.414482262971937,
+            "width": 71.89542483660131,
+            "height": 8.825607767023717,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texte d'information (partie 3)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "4381b60d-c67f-4722-b83d-b17f2fc9d01c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 12.910611231371064,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Reconnaissance scientifique et récompenses</strong><br>\nAu cours de sa carrière, Stephen Hawking a reçu de nombreux prix et distinctions, dont le prestigieux prix Albert Einstein et la médaille Copley. Il a été membre de la Royal Society et de la National Academy of Sciences américaine. Son travail a considérablement influencé et élargi la recherche fondamentale en physique.</p>\n\n<p><strong>La vie de famille et les enfants</strong><br>\nStephen Hawking s'est marié deux fois et a eu trois enfants. Sa famille lui a apporté soutien et motivation tout au long de sa maladie. Bien que les défis liés à sa santé aient représenté une part importante de sa vie, Stephen Hawking a souvent évoqué l'importance qu'il accordait au bonheur et au bien-être de ses enfants.</p>\n\n<p><strong>Son héritage et sa mort</strong><br>\nStephen Hawking est décédé le 14 mars 2018, mais son héritage perdure. On se souviendra de lui non seulement pour ses contributions à la cosmologie et à la physique quantique, mais aussi comme symbole de courage et de persévérance. Hawking a montré que les obstacles peuvent être surmontés et que l'esprit humain est inébranlable. Sa vie et son travail continuent d'inspirer les scientifiques et les non-scientifiques du monde entier.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "3d655444-fd55-42f7-aba2-16a16db7dc58"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Faites glisser les mots dans les bonnes cases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Vérifier",
+                "tryAgain": "Recommencer",
+                "showSolution": "Voir la correction",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient un élément déplaçable @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments déplaçables.",
+                "tipLabel": "Montrer l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Reparamétrer le déplacement",
+                "resetDropDescription": "Etes-vous certain de vouloir reparamétrer cet élément déplaçable ?",
+                "grabbed": "L&#039;élément déplaçable est saisi.",
+                "cancelledDragging": "Annuler le déplacement.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaire de retour",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Afficher la solution. La tâche sera notée avec sa solution correcte.",
+                "a11yRetry": "Réessayer la tâche. Réinitialiser toutes les réponses et recommencer la tâche.",
+                "textField": "*Sclérose latérale amyotrophique* - maladie neurodégénérative affectant les neurones moteurs.\n*University College d&#039;Oxford* - établissement où Hawking a étudié la physique.\n*Rayonnement de Hawking* - énergie émise par les trous noirs, théorie révolutionnaire.\n*Une brève histoire du temps* - livre de Hawking simplifiant des concepts scientifiques.\n*Physique quantique* - domaine de la science étudié par Hawking.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Termes importants (1)",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "4a94ce62-c440-4215-bc76-32408bcec41d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termes importants (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "e773caca-acd3-4ee8-9ed2-b80b588d3a60"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Faites glisser les mots dans les bonnes cases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Vérifier",
+                "tryAgain": "Recommencer",
+                "showSolution": "Voir la correction",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient un élément déplaçable @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments déplaçables.",
+                "tipLabel": "Montrer l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Reparamétrer le déplacement",
+                "resetDropDescription": "Etes-vous certain de vouloir reparamétrer cet élément déplaçable ?",
+                "grabbed": "L&#039;élément déplaçable est saisi.",
+                "cancelledDragging": "Annuler le déplacement.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaire de retour",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Afficher la solution. La tâche sera notée avec sa solution correcte.",
+                "a11yRetry": "Réessayer la tâche. Réinitialiser toutes les réponses et recommencer la tâche.",
+                "textField": "*Médaille Copley* - récompense prestigieuse reçue par Hawking pour ses contributions.\n*Trous noirs* - objets cosmiques au cœur des recherches de Hawking.\n*Culture populaire* - domaine où Hawking était également reconnu, au-delà de la science.\n*Royal Society* - organisation scientifique dont Hawking était membre.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Termes importants (1)",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "b74a36f9-2aa3-417a-814c-50e58208f7b3"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termes importants (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "be59e194-86c9-4928-9194-f6e496790bc1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Complète les phrases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Vérifier",
+                "tryAgain": "Recommencer",
+                "showSolution": "Voir la correction",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient un élément déplaçable @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments déplaçables.",
+                "tipLabel": "Montrer l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Reparamétrer le déplacement",
+                "resetDropDescription": "Etes-vous certain de vouloir reparamétrer cet élément déplaçable ?",
+                "grabbed": "L&#039;élément déplaçable est saisi.",
+                "cancelledDragging": "Annuler le déplacement.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaire de retour",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Afficher la solution. La tâche sera notée avec sa solution correcte.",
+                "a11yRetry": "Réessayer la tâche. Réinitialiser toutes les réponses et recommencer la tâche.",
+                "textField": "*Stephen Hawking est né ...* - ... le 8 janvier 1942.\n*La SLA a été diagnostiquée ...* - ... à Hawking à 21 ans.\n*Hawking a étudié à ...* - ... l&#039;University College d&#039;Oxford.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Compléter des phrases (1)",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "fc5741fc-cbfd-45c8-9433-cf39572a4b81"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Compléter des phrases (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "ecb45d14-3fe2-4a02-ab8f-6c03ba60ef4c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Complète les phrases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Vérifier",
+                "tryAgain": "Recommencer",
+                "showSolution": "Voir la correction",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient un élément déplaçable @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments déplaçables.",
+                "tipLabel": "Montrer l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Reparamétrer le déplacement",
+                "resetDropDescription": "Etes-vous certain de vouloir reparamétrer cet élément déplaçable ?",
+                "grabbed": "L&#039;élément déplaçable est saisi.",
+                "cancelledDragging": "Annuler le déplacement.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaire de retour",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Afficher la solution. La tâche sera notée avec sa solution correcte.",
+                "a11yRetry": "Réessayer la tâche. Réinitialiser toutes les réponses et recommencer la tâche.",
+                "textField": "*Les trous noirs peuvent émettre ...* - ... de l&#039;énergie, selon Hawking.\n*Hawking a popularisé la science ...* - ... dans &quot;Une brève histoire du temps&quot;.\n*Stephen Hawking a reçu ...* - ... le prix Albert Einstein.\n*Il est décédé le ...* - ... 14 mars 2018.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Compléter des phrases (2)",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "a8bdf3b3-dac7-40e5-bdfd-f199401a2c3e"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Compléter des phrases (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "1351cab9-7952-442e-bc32-7d4a3895ab3d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Vrai ou faux ?</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "3f4bfb9e-6eb5-4097-abf6-f0c1308dfc3f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 11.619550108233957,
+            "width": 95.41899441340783,
+            "height": 88.30022075055187,
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>Choisis l'affirmation correcte !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Progression :",
+                "scoreLabel": "Erreurs :",
+                "resultLabel": "Votre résultat :",
+                "labelCorrect": "Correct.",
+                "labelIncorrect": "Incorrect! Please try again.",
+                "alternativeIncorrectLabel": "Incorrect",
+                "labelCorrectAnswers": "Réponses correctes.",
+                "tipButtonLabel": "Montrer l&#039;indice",
+                "scoreBarLabel": "Vous avez :num points sur un total de :total",
+                "progressText": "Progression de :num sur :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "Hawking a proposé une nouvelle théorie sur les trous noirs.",
+                      "Hawking a reçu le prix Nobel de physique."
+                    ],
+                    "subContentId": "581b852e-5043-43ed-8e59-2c6dd233a6d8",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Il a écrit le livre \"L'univers dans une coquille de noix\".",
+                      "Il a complètement guéri de la sclérose latérale amyotrophique."
+                    ],
+                    "subContentId": "b886bb69-7860-43f1-88d4-ff0e426fae57",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Stephen Hawking a fait des apparitions dans des séries télévisées.",
+                      "Stephen Hawking était un biologiste."
+                    ],
+                    "subContentId": "ef625db7-2b9e-423f-bc36-01747b3732b6",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Il a été membre de la National Academy of Sciences américaine.",
+                      "Il a étudié à l'Université de Cambridge pour son premier diplôme."
+                    ],
+                    "subContentId": "007772f4-bd4a-4c94-a093-d7180d494978",
+                    "tip": ""
+                  }
+                ]
+              },
+              "subContentId": "6207504c-ae8f-4a09-b236-0a5b6cd442ec",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "Vrai ou faux ?",
+                "defaultLanguage": "fr"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Questions</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "303d8e49-9df8-4ebb-bb74-21e0f7344e25"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 92.40223463687151,
+            "height": 58.27814569536424,
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": false,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Question suivante",
+                  "showSolutionButtonLabel": "Voir la solution",
+                  "retryButtonLabel": "Correction",
+                  "solutionViewTitle": "Recommencer",
+                  "correctText": "Correct !",
+                  "incorrectText": "Incorrect !",
+                  "muteButtonLabel": "Couper les retours sons",
+                  "closeButtonLabel": "Fermer",
+                  "slideOfTotal": "Diapositive :num sur :total",
+                  "scoreBarLabel": "Vous avez :num points sur un total de :total",
+                  "solutionListQuestionNumber": "Question :num",
+                  "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                  "a11yRetry": "Retry the task. Reset all responses and start the task over again.",
+                  "shouldSelect": "Should have been selected",
+                  "shouldNotSelect": "Should not have been selected"
+                },
+                "choices": [
+                  {
+                    "question": "Quelle maladie a été diagnostiquée à Stephen Hawking?",
+                    "answers": [
+                      "sclérose latérale amyotrophique",
+                      "cancer",
+                      "maladie cardiaque",
+                      "diabète"
+                    ],
+                    "subContentId": "225aede6-bf21-4f1f-8c76-5a4e8c839fa2"
+                  },
+                  {
+                    "question": "Où Stephen Hawking a-t-il étudié la physique?",
+                    "answers": [
+                      "University College d'Oxford",
+                      "Université de Cambridge",
+                      "Université de Harvard",
+                      "Université de Yale"
+                    ],
+                    "subContentId": "660e0c3d-c8f0-4333-bd46-737923b22503"
+                  },
+                  {
+                    "question": "Quel livre célèbre Hawking a-t-il écrit?",
+                    "answers": [
+                      "Une brève histoire du temps",
+                      "L'origine des espèces",
+                      "Le Cosmos",
+                      "Le monde en coquille de noix"
+                    ],
+                    "subContentId": "c9a06a0a-e8aa-420d-9dcb-8a8c805d6334"
+                  },
+                  {
+                    "question": "Quelle est la théorie de Hawking sur les trous noirs?",
+                    "answers": [
+                      "émission d'énergie",
+                      "absorption totale de lumière",
+                      "portails vers d'autres univers",
+                      "stabilité éternelle"
+                    ],
+                    "subContentId": "f19b35c2-cd83-471b-a34e-0ebf75ef4cbf"
+                  },
+                  {
+                    "question": "Dans quel domaine scientifique Hawking a-t-il principalement travaillé?",
+                    "answers": [
+                      "physique théorique",
+                      "biologie",
+                      "chimie",
+                      "informatique"
+                    ],
+                    "subContentId": "78056324-da40-41f8-a2b1-40593af5ad27"
+                  },
+                  {
+                    "question": "Quelle récompense prestigieuse Hawking a-t-il reçue?",
+                    "answers": [
+                      "médaille Copley",
+                      "prix Nobel",
+                      "médaille Fields",
+                      "prix Pulitzer"
+                    ],
+                    "subContentId": "1f95c8ff-0ab7-489f-b409-ea3edbe0fcdb"
+                  }
+                ]
+              },
+              "subContentId": "dc6b82f1-4264-4137-8683-db0b27e41a00",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Questions",
+                "defaultLanguage": "fr"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      }
+    ],
+    "keywordListEnabled": true,
+    "globalBackgroundSelector": {},
+    "keywordListAlwaysShow": false,
+    "keywordListAutoHide": false,
+    "keywordListOpacity": 90
+  },
+  "override": {
+    "activeSurface": false,
+    "hideSummarySlide": false,
+    "summarySlideSolutionButton": true,
+    "summarySlideRetryButton": true,
+    "enablePrintButton": false,
+    "social": {
+      "showFacebookShare": false,
+      "facebookShare": {
+        "url": "@currentpageurl",
+        "quote": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht."
+      },
+      "showTwitterShare": false,
+      "twitterShare": {
+        "statement": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht.",
+        "url": "@currentpageurl",
+        "hashtags": "h5p, Kurs"
+      },
+      "showGoogleShare": false,
+      "googleShareUrl": "@currentpageurl"
+    }
+  },
+  "l10n": {
+    "slide": "Diapositive",
+    "score": "Score",
+    "yourScore": "Votre score",
+    "maxScore": "Score maximum",
+    "total": "Total",
+    "totalScore": "Score total",
+    "showSolutions": "Voir la correction",
+    "retry": "Recommencer",
+    "exportAnswers": "Exporter",
+    "hideKeywords": "Cacher la liste des mots-clés",
+    "showKeywords": "Afficher la liste des mots-clés",
+    "fullscreen": "Plein écran",
+    "exitFullscreen": "Quitter le plein écran",
+    "prevSlide": "Diapositive précédente",
+    "nextSlide": "Diapositive suivante",
+    "currentSlide": "Diapositive courante",
+    "lastSlide": "Dernière diapositive",
+    "solutionModeTitle": "Sortir du mode &quot;Correction&quot;",
+    "solutionModeText": "Passer en mode &quot;correction&quot;",
+    "summaryMultipleTaskText": "Activités multiples",
+    "scoreMessage": "Votre score :",
+    "shareFacebook": "Partager sur Facebook",
+    "shareTwitter": "Partager sur Twitter",
+    "shareGoogle": "Partager sur Google+",
+    "summary": "Résumé",
+    "solutionsButtonTitle": "Afficher les commentaires",
+    "printTitle": "Imprimer",
+    "printIngress": "Comment souhaitez-vous imprimer cette présentation ?",
+    "printAllSlides": "Imprimer toutes les diapositives",
+    "printCurrentSlide": "Imprimer la diapositive courante",
+    "noTitle": "Sans intitulé",
+    "accessibilitySlideNavigationExplanation": "Utilisez les flèches gauche et droite pour pour naviguer entre les diapositives",
+    "accessibilityCanvasLabel": "Zone de présentation. Utilisez les flèches gauche et droite pour naviguer entre les diapositives.",
+    "containsNotCompleted": "@slideName contient des interactions incomplètes",
+    "containsCompleted": "@slideName ccontient des interactions complètes",
+    "slideCount": "Diapositive a @index de @total",
+    "containsOnlyCorrect": "toutes les réponses sont bonnes sur @slideName",
+    "containsIncorrectAnswers": "@slideName contient des réponses incorrectes",
+    "shareResult": "Partager le résultat",
+    "accessibilityTotalScore": "Vous avez obtenu @score sur @maxScore points au total",
+    "accessibilityEnteredFullscreen": "Mode plein-écran activé",
+    "accessibilityExitedFullscreen": "Mode plein-écran désactivé",
+    "confirmDialogHeader": "Envoyer vos réponses",
+    "confirmDialogText": "Cette action va envoyer vos réponses, voulez-vous continuer?",
+    "confirmDialogConfirmText": "Envoyer et voir les résultats",
+    "accessibilityProgressBarLabel": "Choose slide to display",
+    "slideshowNavigationLabel": "Slideshow navigation"
+  }
+}

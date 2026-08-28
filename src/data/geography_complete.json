@@ -1,0 +1,668 @@
+[
+  {
+    "id": "vulkanismus_erdbeben",
+    "title": {
+      "de": "1. Vulkanismus, Erdbeben & Naturgewalten",
+      "en": "1. Volcanism, Earthquakes & Natural Forces",
+      "fr": "1. Volcanisme, séismes et forces naturelles",
+      "es": "1. Vulcanismo, terremotos y fuerzas de la naturaleza",
+      "it": "1. Vulcanismo, terremoti e forze della natura"
+    },
+    "desc": {
+      "de": "Die größten Vulkane der Erde, Vulkanismus, Erdbeben, der Pazifische Feuerring und seismische Aktivitäten.",
+      "en": "Largest volcanoes on Earth, volcanism, earthquakes, Ring of Fire, and seismic hazards.",
+      "fr": "Les plus grands volcans de la Terre, éruptions, séismes et ceinture de feu du Pacifique.",
+      "es": "Los volcanes más grandes de la Tierra, vulcanismo, terremotos y cinturón de fuego.",
+      "it": "I più grandi vulcani della Terra, eruzioni, terremoti e anello di fuoco del Pacifico."
+    },
+    "lessons": [
+      {
+        "id": "groesste-vulkane",
+        "title": {
+          "de": "Die größten Vulkane der Erde",
+          "en": "The Largest Volcanoes on Earth",
+          "fr": "Les plus grands volcans de la Terre",
+          "es": "Los volcanes más grandes de la Tierra",
+          "it": "I più grandi vulcani della Terra"
+        },
+        "h5pSlugs": {
+          "de": "die-groesten-vulkane-der-erde-4218",
+          "en": "the-largest-volcanoes-on-earth-4238",
+          "fr": "les-plus-grands-volcans-de-la-terre-4241",
+          "es": "los-volcanes-mas-grandes-de-la-tierra-4261",
+          "it": "die-groesten-vulkane-der-erde-4218"
+        },
+        "text": {
+          "de": "Vulkane entstehen an den Grenzen tektonischer Platten oder über Mantel-Hotspots. Der Mauna Loa auf Hawaii ist der massereichste Schildvulkan unseres Planeten.",
+          "en": "Volcanoes form along tectonic plate boundaries and mantle plumes. Mauna Loa in Hawaii is Earth's most massive shield volcano.",
+          "fr": "Les volcans se forment aux frontières des plaques tectoniques et au-dessus des points chauds.",
+          "es": "Los volcanes se forman en los límites de las placas tectónicas y en los puntos calientes.",
+          "it": "I vulcani si formano lungo i confini delle placche tettoniche e sui punti caldi."
+        }
+      },
+      {
+        "id": "mauna-loa-hawaii",
+        "title": {
+          "de": "Mauna Loa – Der größte Vulkan auf Hawaii",
+          "en": "Mauna Loa – The Giant Volcano in Hawaii",
+          "fr": "Mauna Loa – Le plus grand volcan d'Hawaï",
+          "es": "Mauna Loa – El mayor volcán de Hawái",
+          "it": "Mauna Loa – Il più grande vulcano delle Hawaii"
+        },
+        "h5pSlugs": {
+          "de": "mauna-loa-der-groese-vulkan-auf-hawaii-7633",
+          "en": "the-largest-volcanoes-on-earth-4238",
+          "fr": "les-plus-grands-volcans-de-la-terre-4241",
+          "es": "los-volcanes-mas-grandes-de-la-tierra-4261",
+          "it": "mauna-loa-der-groese-vulkan-auf-hawaii-7633"
+        },
+        "text": {
+          "de": "Vom Meeresgrund gemessen ist der Mauna Loa über 9.000 Meter hoch und damit einer der mächtigsten Berge unseres Sonnensystems.",
+          "en": "Rising over 9,000 meters from its submarine base, Mauna Loa is one of the grandest volcanic edifices on Earth.",
+          "fr": "Mesuré depuis le fond océanique, le Mauna Loa culmine à plus de 9 000 mètres de hauteur totale.",
+          "es": "Medido desde el lecho marino, el Mauna Loa supera los 9.000 metros de altura total.",
+          "it": "Misurato dal fondo oceanico, il Mauna Loa supera i 9.000 metri di altezza complessiva."
+        }
+      },
+      {
+        "id": "mount-st-helens",
+        "title": {
+          "de": "Mount St. Helens – Der Ausbruch von 1980",
+          "en": "Mount St. Helens – The 1980 Eruption",
+          "fr": "Mont Saint Helens – L'éruption de 1980",
+          "es": "Monte Santa Helena – La erupción de 1980",
+          "it": "Monte Saint Helens – L'eruzione del 1980"
+        },
+        "h5pSlugs": {
+          "de": "mount-st-helens-7638",
+          "en": "the-largest-volcanoes-on-earth-4238",
+          "fr": "les-plus-grands-volcans-de-la-terre-4241",
+          "es": "los-volcanes-mas-grandes-de-la-tierra-4261",
+          "it": "mount-st-helens-7638"
+        },
+        "text": {
+          "de": "Der verheerende Ausbruch des Schichtvulkans Mount St. Helens im Mai 1980 sprengte die gesamte Nordflanke des Berges weg.",
+          "en": "The catastrophic May 1980 lateral blast of Mount St. Helens collapsed the volcano's entire northern flank.",
+          "fr": "L'éruption explosive de mai 1980 a pulvérisé tout le flanc nord du volcan.",
+          "es": "La erupción lateral de mayo de 1980 destruyó por completo el flanco norte del estratovolcán.",
+          "it": "La devastante eruzione del maggio 1980 ha spazzato via l'intero versante settentrionale del vulcano."
+        }
+      }
+    ]
+  },
+  {
+    "id": "gebirge_gipfel",
+    "title": {
+      "de": "2. Gebirge & Höchste Gipfel der Erde",
+      "en": "2. Mountain Ranges & Highest Peaks on Earth",
+      "fr": "2. Chaînes de montagnes et plus hauts sommets",
+      "es": "2. Cordilleras y cumbres más altas de la Tierra",
+      "it": "2. Catene montuose e vette più alte della Terra"
+    },
+    "desc": {
+      "de": "Die höchsten Faltengebirge der Erde, der Himalaya, die Rocky Mountains, die Anden und die Alpen.",
+      "en": "Highest fold mountains, Himalayas, Rocky Mountains, Andes, and Alps.",
+      "fr": "Les plus hautes chaînes de montagnes, Himalaya, Rocheuses, Andes et Alpes.",
+      "es": "Las cordilleras más altas, Himalaya, Rocosas, Andes y Alpes.",
+      "it": "Le catene montuose più alte, Himalaya, Rocciose, Ande e Alpi."
+    },
+    "lessons": [
+      {
+        "id": "groesste-gebirge-weltweit",
+        "title": {
+          "de": "Die größten Gebirge der Erde",
+          "en": "The Highest Mountain Ranges of the Earth",
+          "fr": "Les plus grandes chaînes de montagnes de la Terre",
+          "es": "Las montañas más grandes del mundo",
+          "it": "Le montagne più grandi della Terra"
+        },
+        "h5pSlugs": {
+          "de": "die-groesten-gebirge-der-erde-4204",
+          "en": "the-highest-mountain-ranges-of-the-earth-4222",
+          "fr": "les-plus-grandes-chaines-de-montagnes-de-la-terre-4260",
+          "es": "las-montanas-mas-grandes-del-mundo-4280",
+          "it": "le-montagne-piu-g-a2-a137randi-della-terra-4290"
+        },
+        "text": {
+          "de": "Der Himalaya beherbergt alle 14 Achttausender der Erde. Die südamerikanischen Anden bilden die mit 7.500 km längste zusammenhängende Gebirgskette über dem Meeresspiegel.",
+          "en": "The Himalayas host all 14 peaks above 8,000 meters. The Andes form the longest subaerial mountain chain stretching over 7,500 km.",
+          "fr": "L'Himalaya rassemble tous les 14 sommets de plus de 8 000 m. Les Andes s'étirent sur plus de 7 500 km.",
+          "es": "El Himalaya alberga los 14 ochomiles del planeta. Los Andes forman la cordillera más larga con más de 7.500 km.",
+          "it": "L'Himalaya ospita tutti i 14 ottomila della Terra. Le Ande formano la catena più lunga con oltre 7.500 km."
+        }
+      },
+      {
+        "id": "gebirge-europas-alpen",
+        "title": {
+          "de": "Die größten Gebirge Europas & die Alpen",
+          "en": "Mountain Ranges of Europe & the Alps",
+          "fr": "Les grandes chaînes de montagnes d'Europe et les Alpes",
+          "es": "Las grandes cordilleras de Europa y los Alpes",
+          "it": "Le grandi catene montuose d'Europa e le Alpi"
+        },
+        "h5pSlugs": {
+          "de": "die-groesten-gebirge-europas-4308",
+          "en": "the-highest-mountain-ranges-of-the-earth-4222",
+          "fr": "les-plus-grandes-chaines-de-montagnes-de-la-terre-4260",
+          "es": "las-montanas-mas-grandes-del-mundo-4280",
+          "it": "die-groesten-gebirge-europas-4308"
+        },
+        "text": {
+          "de": "Die Alpen, Pyrenäen, Karpaten, Apenninen und der Kaukasus prägen das europäische Relief und sind wichtige Klimascheiden.",
+          "en": "The Alps, Pyrenees, Carpathians, and Caucasus define European geomorphology and act as major climatic divides.",
+          "fr": "Les Alpes, Pyrénées, Carpates et le Caucase façonnent le relief et les climats européens.",
+          "es": "Los Alpes, Pirineos, Cárpatos y el Cáucaso definen el relieve y los climas de Europa.",
+          "it": "Le Alpi, i Pirenei, i Carpazi e il Caucaso modellano il rilievo e il clima europeo."
+        }
+      },
+      {
+        "id": "denali-nordamerika",
+        "title": {
+          "de": "Der Denali – Höchster Berg Nordamerikas",
+          "en": "Denali – The Highest Mountain in North America",
+          "fr": "Le Denali – Plus haut sommet d'Amérique du Nord",
+          "es": "El Denali – La montaña más alta de América del Norte",
+          "it": "Il Denali – La montagna più alta del Nord America"
+        },
+        "h5pSlugs": {
+          "de": "der-denali-hochster-berg-nordamerikas-7511",
+          "en": "the-highest-mountain-ranges-of-the-earth-4222",
+          "fr": "les-plus-grandes-chaines-de-montagnes-de-la-terre-4260",
+          "es": "las-montanas-mas-grandes-del-mundo-4280",
+          "it": "der-denali-hochster-berg-nordamerikas-7511"
+        },
+        "text": {
+          "de": "Mit 6.190 Metern Höhe überragt der Denali (ehemals Mount McKinley) in Alaska die gesamte nordamerikanische Kordillere.",
+          "en": "Standing at 6,190 meters in Alaska, Denali is the highest mountain peak in North America.",
+          "fr": "Culminant à 6 190 mètres en Alaska, le Denali est le point culminant de l'Amérique du Nord.",
+          "es": "Con 6.190 metros de altitud en Alaska, el Denali es el pico más alto de América del Norte.",
+          "it": "Con i suoi 6.190 metri in Alaska, il Denali è la vetta più alta del Nord America."
+        }
+      }
+    ]
+  },
+  {
+    "id": "ozeane_fluesse",
+    "title": {
+      "de": "3. Ozeane, Meere & Flusssysteme",
+      "en": "3. Oceans, Seas & River Systems",
+      "fr": "3. Océans, mers et systèmes fluviaux",
+      "es": "3. Océanos, mares y sistemas fluviales",
+      "it": "3. Oceani, mari e sistemi fluviali"
+    },
+    "desc": {
+      "de": "Die Weltmeere, Seen, der Rhein, die Donau und die größten Flüsse der Erde und Kontinente.",
+      "en": "World oceans, lakes, Rhine, Danube, and largest rivers across Earth and continents.",
+      "fr": "Océans, lacs, le Rhin, le Danube et les plus grands fleuves du monde.",
+      "es": "Océanos, lagos, el Rin, el Danubio y los mayores ríos del mundo.",
+      "it": "Oceani, laghi, il Reno, il Danubio e i più grandi fiumi del mondo."
+    },
+    "lessons": [
+      {
+        "id": "groesste-ozeane-meere",
+        "title": {
+          "de": "Die größten Ozeane und Meere der Erde",
+          "en": "The Largest Oceans and Seas of the Earth",
+          "fr": "Les plus grands océans et mers de la Terre",
+          "es": "Los mayores océanos y mares de la Tierra",
+          "it": "I più grandi oceani e mari della Terra"
+        },
+        "h5pSlugs": {
+          "de": "die-groesten-ozeane-und-meere-der-erde-4311",
+          "en": "die-groesten-ozeane-und-meere-der-erde-4311",
+          "fr": "die-groesten-ozeane-und-meere-der-erde-4311",
+          "es": "die-groesten-ozeane-und-meere-der-erde-4311",
+          "it": "die-groesten-ozeane-und-meere-der-erde-4311"
+        },
+        "text": {
+          "de": "Über 71 % der Erdoberfläche sind vom Weltmeer bedeckt. Pazifik, Atlantik, Indik, Antarktis- und Arktis-Ozean bestimmen den globalen Wasserkreislauf.",
+          "en": "Oceans cover over 71% of Earth. Pacific, Atlantic, Indian, Southern, and Arctic oceans drive global hydrological cycles.",
+          "fr": "Les océans couvrent 71 % du globe et régulent le cycle mondial de l'eau.",
+          "es": "Los océanos cubren más del 71% del planeta y regulan el ciclo hidrológico global.",
+          "it": "Gli oceani coprono il 71% del pianeta e regolano il ciclo idrologico globale."
+        }
+      },
+      {
+        "id": "groesste-fluesse-erde",
+        "title": {
+          "de": "Die größten Flüsse der Erde (Nil, Amazonas & Co.)",
+          "en": "The Largest Rivers on Earth (Nile, Amazon & Co.)",
+          "fr": "Les plus grands fleuves de la Terre (Nil, Amazone, etc.)",
+          "es": "Los ríos más grandes de la Tierra (Nilo, Amazonas, etc.)",
+          "it": "I più grandi fiumi della Terra (Nilo, Rio delle Amazzoni, ecc.)"
+        },
+        "h5pSlugs": {
+          "de": "die-groesten-flusse-der-erde-4202",
+          "en": "the-largest-rivers-of-the-earth-4237",
+          "fr": "les-plus-grands-fleuves-de-la-terre-4257",
+          "es": "los-rios-mas-grandes-de-la-tierra-4277",
+          "it": "i-piu-grandi-fiumi-della-terra-4282"
+        },
+        "text": {
+          "de": "Der Amazonas führt mit durchschnittlich 209.000 m³/s mehr Wasser als die nächsten sieben größten Flüsse zusammen.",
+          "en": "Discharging 209,000 cubic meters per second, the Amazon carries more runoff volume than the next seven rivers combined.",
+          "fr": "L'Amazone débite en moyenne 209 000 m³/s, surpassant les sept fleuves suivants réunis.",
+          "es": "Con 209.000 m³/s, el Amazonas descarga más agua que los siguientes siete mayores ríos juntos.",
+          "it": "Con 209.000 m³/s, il Rio delle Amazzoni scarica più acqua dei successivi sette fiumi messi insieme."
+        }
+      },
+      {
+        "id": "fluesse-europas",
+        "title": {
+          "de": "Die größten Flüsse Europas (Wolga, Donau, Rhein)",
+          "en": "The Longest Rivers of Europe (Volga, Danube, Rhine)",
+          "fr": "Les plus grands fleuves d'Europe (Volga, Danube, Rhin)",
+          "es": "Los ríos más grandes de Europa (Volga, Danubio, Rin)",
+          "it": "I più grandi fiumi d'Europa (Volga, Danubio, Reno)"
+        },
+        "h5pSlugs": {
+          "de": "die-groesten-flusse-europas-4203",
+          "en": "the-longest-rivers-of-europe-4239",
+          "fr": "les-plus-grands-fleuves-d-039-europe-4242",
+          "es": "los-rios-mas-grandes-de-europa-4262",
+          "it": "i-fiumi-piu-lunghi-d-039-europa-4281"
+        },
+        "text": {
+          "de": "Die Wolga ist der längste Strom Europas, während Donau und Rhein die wichtigsten europäischen Industrie- und Binnenschifffahrtswege darstellen.",
+          "en": "The Volga is Europe's longest river, while the Danube and Rhine serve as premier commercial inland waterways.",
+          "fr": "La Volga est le plus long fleuve d'Europe, le Danube et le Rhin étant les voies navigables majeures.",
+          "es": "El Volga es el más largo, mientras que el Danubio y el Rin son las principales vías de navegación comercial.",
+          "it": "Il Volga è il più lungo, mentre il Danubio e il Reno sono le vie navigabili commerciali d'Europa."
+        }
+      },
+      {
+        "id": "der-rhein",
+        "title": {
+          "de": "Der Rhein – Von den Alpen zur Nordsee",
+          "en": "The Rhine River – From the Alps to the North Sea",
+          "fr": "Le Rhin – Des Alpes à la mer du Nord",
+          "es": "El Rin – De los Alpes al Mar del Norte",
+          "it": "Il Reno – Dalle Alpi al Mare del Nord"
+        },
+        "h5pSlugs": {
+          "de": "der-rhein-4200",
+          "en": "the-rhine-river-4240",
+          "fr": "le-rhin-4259",
+          "es": "el-rin-4279",
+          "it": "il-reno-4285"
+        },
+        "text": {
+          "de": "Der 1.233 km lange Rhein entspringt in den Schweizer Alpen und fließt durch Deutschland und die Niederlande in die Nordsee.",
+          "en": "Stretching 1,233 km from the Swiss Alps, the Rhine flows through Germany and the Netherlands into the North Sea.",
+          "fr": "Long de 1 233 km, le Rhin prend sa source dans les Alpes suisses et se jette dans la mer du Nord.",
+          "es": "Con 1.233 km, el Rin nace en los Alpes suizos y desemboca en el Mar del Norte a través de los Países Bajos.",
+          "it": "Lungo 1.233 km, il Reno nasce nelle Alpi svizzere e sfocia nel Mare del Nord."
+        }
+      },
+      {
+        "id": "die-donau",
+        "title": {
+          "de": "Die Donau – Europas internationaler Strom",
+          "en": "The Danube River – Europe's International River",
+          "fr": "Le Danube – Fleuve international de l'Europe",
+          "es": "El Danubio – Río internacional de Europa",
+          "it": "Il Danubio – Fiume internazionale d'Europa"
+        },
+        "h5pSlugs": {
+          "de": "die-donau-4201",
+          "en": "the-danube-river-4221",
+          "fr": "la-danube-4258",
+          "es": "el-danubio-4278",
+          "it": "il-danubio-4284"
+        },
+        "text": {
+          "de": "Die Donau entspringt im Schwarzwald, durchquert 10 europäische Länder und mündet über das artenreiche Donaudelta ins Schwarze Meer.",
+          "en": "Originating in the Black Forest, the Danube crosses 10 sovereign nations before entering the Black Sea via its vast delta.",
+          "fr": "Né en Forêt-Noire, le Danube traverse 10 pays avant de former son delta sur la mer Noire.",
+          "es": "Nacido en la Selva Negra, el Danubio recorre 10 países hasta desembocar en el Mar Negro.",
+          "it": "Nato nella Foresta Nera, il Danubio attraversa 10 paesi prima di sfociare nel Mar Nero."
+        }
+      },
+      {
+        "id": "fluesse-deutschlands",
+        "title": {
+          "de": "Die größten Flüsse Deutschlands",
+          "en": "Major Rivers of Germany",
+          "fr": "Les grands fleuves d'Allemagne",
+          "es": "Los principales ríos de Alemania",
+          "it": "I grandi fiumi della Germania"
+        },
+        "h5pSlugs": {
+          "de": "die-groesten-flusse-deutschlands-4304",
+          "en": "the-rhine-river-4240",
+          "fr": "les-plus-grands-fleuves-d-039-europe-4242",
+          "es": "los-rios-mas-grandes-de-europa-4262",
+          "it": "die-groesten-flusse-deutschlands-4304"
+        },
+        "text": {
+          "de": "Rhein, Elbe, Donau, Weser, Oder, Main und Neckar bilden das dichte Netz deutscher Binnengewässer.",
+          "en": "Rhine, Elbe, Danube, Weser, Oder, and Main constitute Germany's core hydrological network.",
+          "fr": "Le Rhin, l'Elbe, le Danube, la Weser et le Main forment le réseau fluvial allemand.",
+          "es": "El Rin, Elba, Danubio, Weser y Meno forman la red fluvial de Alemania.",
+          "it": "Il Reno, Elba, Danubio, Weser e Meno formano la rete fluviale tedesca."
+        }
+      },
+      {
+        "id": "groesste-seen-erde",
+        "title": {
+          "de": "Die größten Seen der Erde (Kaspisches Meer, Baikal & Co.)",
+          "en": "The Largest Lakes of the Earth (Caspian Sea, Baikal & Co.)",
+          "fr": "Les plus grands lacs de la Terre (Mer Caspienne, Baïkal, etc.)",
+          "es": "Los mayores lagos de la Tierra (Mar Caspio, Baikal, etc.)",
+          "it": "I più grandi laghi della Terra (Mar Caspio, Baikal, ecc.)"
+        },
+        "h5pSlugs": {
+          "de": "die-groessten-seen-der-erde-4301",
+          "en": "die-groessten-seen-der-erde-4301",
+          "fr": "die-groessten-seen-der-erde-4301",
+          "es": "die-groessten-seen-der-erde-4301",
+          "it": "die-groessten-seen-der-erde-4301"
+        },
+        "text": {
+          "de": "Das Kaspische Meer ist der flächengrößte See der Erde, während der sibirische Baikalsee mit 1.642 Metern der tiefste und wasserreichste Süßwassersee ist.",
+          "en": "The Caspian Sea is Earth's largest lake by area, while Lake Baikal holds 20% of global unfrozen surface freshwater.",
+          "fr": "La mer Caspienne est le plus grand lac du monde, le lac Baïkal étant le plus profond et volumineux.",
+          "es": "El mar Caspio es el lago más extenso del mundo, mientras que el Baikal es el más profundo y voluminoso.",
+          "it": "Il Mar Caspio è il lago più esteso del mondo, mentre il Baikal è il più profondo e voluminoso."
+        }
+      }
+    ]
+  },
+  {
+    "id": "wuesten_klima",
+    "title": {
+      "de": "4. Wüsten, Inseln & Landschaftszonen",
+      "en": "4. Deserts, Islands & Climate Landscapes",
+      "fr": "4. Déserts, îles et paysages climatiques",
+      "es": "4. Desiertos, islas y zonas bioclimáticas",
+      "it": "4. Deserti, isole e zone bioclimatiche"
+    },
+    "desc": {
+      "de": "Die größten Wüsten der Erde (Sahara, Gobi), Inseln, Amerika-Vergleich und geographische Extreme.",
+      "en": "World's largest deserts (Sahara, Gobi), islands, Americas comparison, and geographic extremes.",
+      "fr": "Les plus grands déserts (Sahara, Gobi), îles, comparaison des Amériques et extrêmes.",
+      "es": "Los mayores desiertos (Sáhara, Gobi), islas, comparación de las Américas y extremos.",
+      "it": "I più grandi deserti (Sahara, Gobi), isole, confronto delle Americhe ed estremi."
+    },
+    "lessons": [
+      {
+        "id": "groesste-wuesten-erde",
+        "title": {
+          "de": "Die größten Wüsten der Erde (Sahara, Antarktis, Gobi)",
+          "en": "The Largest Deserts of the Earth",
+          "fr": "Les plus grands déserts de la Terre",
+          "es": "Los mayores desiertos de la Tierra",
+          "it": "I più grandi deserti della Terra"
+        },
+        "h5pSlugs": {
+          "de": "die-groesten-wusten-der-erde-4219",
+          "en": "the-largest-deserts-of-the-earth-4236",
+          "fr": "les-plus-grands-deserts-de-la-terre-4254",
+          "es": "las-mayores-desiertos-de-la-tierra-4274",
+          "it": "le-piu-grandi-deserti-della-terra-4300"
+        },
+        "text": {
+          "de": "Die Antarktis und Arktis sind die größten Kältewüsten der Erde. Die Sahara in Afrika ist mit über 9 Millionen km² die größte Trockenwüste.",
+          "en": "Antarctica is Earth's largest polar desert, while the Sahara in Africa forms the largest subtropical desert exceeding 9 million sq km.",
+          "fr": "L'Antarctique est le plus vaste désert polaire, le Sahara étant le plus grand désert chaud avec 9 millions de km².",
+          "es": "La Antártida es el mayor desierto polar, mientras que el Sáhara supera los 9 millones de km².",
+          "it": "L'Antartide è il più grande deserto polare, mentre il Sahara supera i 9 milioni di km²."
+        }
+      },
+      {
+        "id": "groesste-inseln-erde",
+        "title": {
+          "de": "Die größten Inseln der Erde (Grönland, Neuguinea, Borneo)",
+          "en": "The Largest Islands of the Earth",
+          "fr": "Les plus grandes îles de la Terre",
+          "es": "Las islas más grandes de la Tierra",
+          "it": "Le più grandi isole della Terra"
+        },
+        "h5pSlugs": {
+          "de": "die-groesten-inseln-der-erde-4309",
+          "en": "die-groesten-inseln-der-erde-4309",
+          "fr": "die-groesten-inseln-der-erde-4309",
+          "es": "die-groesten-inseln-der-erde-4309",
+          "it": "die-groesten-inseln-der-erde-4309"
+        },
+        "text": {
+          "de": "Grönland ist mit 2,16 Millionen km² die größte Insel der Erde, gefolgt von Neuguinea, Borneo und Madagaskar.",
+          "en": "Covering 2.16 million sq km, Greenland is the largest non-continental island, followed by New Guinea, Borneo, and Madagascar.",
+          "fr": "Le Groenland est la plus grande île du monde avec 2,16 millions de km², suivi de la Nouvelle-Guinée et de Bornéo.",
+          "es": "Groenlandia es la isla más grande con 2,16 millones de km², seguida por Nueva Guinea y Borneo.",
+          "it": "La Groenlandia è l'isola più grande con 2,16 milioni di km², seguita da Nuova Guinea e Borneo."
+        }
+      },
+      {
+        "id": "nord-suedamerika-klima",
+        "title": {
+          "de": "Nord- und Südamerika im Vergleich – Landschaften & Zonen",
+          "en": "North & South America in Comparison – Landscapes & Climate",
+          "fr": "Amérique du Nord et du Sud – Relief et zones climatiques",
+          "es": "América del Norte y del Sur – Paisajes y zonas bioclimáticas",
+          "it": "America del Nord e del Sud – Paesaggi e zone bioclimatiche"
+        },
+        "h5pSlugs": {
+          "de": "nord-und-sudamerika-im-vergleich-landschaften-und-klimazonen-6746",
+          "en": "north-and-south-america-in-comparison-landscapes-and-climate-zones-6286",
+          "fr": "north-and-south-america-in-comparison-landscapes-and-climate-zones-6286",
+          "es": "america-del-norte-y-america-del-sur-en-comparacion-paisajes-y-zonas-climaticas-6368",
+          "it": "nord-und-sudamerika-im-vergleich-landschaften-und-klimazonen-6746"
+        },
+        "text": {
+          "de": "Vergleich zweier Kontinente: Von der arktischen Tundra Alaskas und den Great Plains über den tropischen Regenwald Amazoniens bis zu den Gletschern Patagoniens.",
+          "en": "Comparing continents: from Alaskan Arctic tundra to Amazonian rainforest and Patagonian glaciers.",
+          "fr": "De la toundra arctique d'Alaska à la forêt amazonienne et aux glaciers de Patagonie.",
+          "es": "Desde la tundra ártica de Alaska hasta la selva amazónica y los glaciares patagónicos.",
+          "it": "Dalla tundra artica dell'Alaska alla foresta amazzonica e ai ghiacciai patagonici."
+        }
+      }
+    ]
+  },
+  {
+    "id": "metropolen_staedte",
+    "title": {
+      "de": "5. Metropolen & Größte Städte der Kontinente",
+      "en": "5. Megacities & Largest Cities of the Continents",
+      "fr": "5. Mégalopoles et plus grandes villes des continents",
+      "es": "5. Megaciudades y mayores ciudades de los continentes",
+      "it": "5. Megalopoli e più grandi città dei continenti"
+    },
+    "desc": {
+      "de": "Die Megastädte der Erde, Metropolen in Europa, Asien, Amerika, Afrika und Deutschland.",
+      "en": "World megacities, urban centers in Europe, Asia, Americas, Africa, and Germany.",
+      "fr": "Les mégapoles du monde, métropoles d'Europe, Asie, Amériques, Afrique et Allemagne.",
+      "es": "Las megaciudades del mundo, metrópolis de Europa, Asia, América, África y Alemania.",
+      "it": "Le megalopoli del mondo, metropoli d'Europa, Asia, Americhe, Africa e Germania."
+    },
+    "lessons": [
+      {
+        "id": "groesste-staedte-erde",
+        "title": {
+          "de": "Die größten Städte der Erde (Tokio, Delhi, Shanghai & Co.)",
+          "en": "The Largest Cities on Earth (Tokyo, Delhi, Shanghai & Co.)",
+          "fr": "Les plus grandes villes du monde (Tokyo, Delhi, Shanghai, etc.)",
+          "es": "Las ciudades más grandes del mundo (Tokio, Delhi, Shanghái, etc.)",
+          "it": "Le più grandi città della Terra (Tokyo, Delhi, Shanghai, ecc.)"
+        },
+        "h5pSlugs": {
+          "de": "die-groesten-stadte-der-erde-4209",
+          "en": "the-largest-cities-on-earth-4233",
+          "fr": "les-plus-grandes-villes-du-monde-4256",
+          "es": "las-ciudades-mas-grandes-del-mundo-4276",
+          "it": "le-grandi-citta-della-terra-4289"
+        },
+        "text": {
+          "de": "Der Großraum Tokio ist mit über 37 Millionen Einwohnern die bevölkerungsreichste Metropolregion unseres Planeten.",
+          "en": "Greater Tokyo is Earth's most populous metropolitan agglomeration housing over 37 million residents.",
+          "fr": "Le Grand Tokyo est la plus grande agglomération urbaine du monde avec plus de 37 millions d'habitants.",
+          "es": "El área metropolitana de Tokio es la más poblada del mundo con más de 37 millones de habitantes.",
+          "it": "L'area metropolitana di Tokyo è la più popolata del pianeta con oltre 37 milioni di abitanti."
+        }
+      },
+      {
+        "id": "groesste-staedte-deutschland",
+        "title": {
+          "de": "Die größten Städte Deutschlands (Berlin, Hamburg, München, Köln)",
+          "en": "Major Cities of Germany (Berlin, Hamburg, Munich, Cologne)",
+          "fr": "Les plus grandes villes d'Allemagne (Berlin, Hambourg, Munich)",
+          "es": "Las ciudades más grandes de Alemania (Berlín, Hamburgo, Múnich)",
+          "it": "Le più grandi città della Germania (Berlino, Amburgo, Monaco)"
+        },
+        "h5pSlugs": {
+          "de": "die-groesten-stadte-deutschlands-4212",
+          "en": "germany-039-s-largest-cities-4220",
+          "fr": "les-plus-grandes-villes-d-039-allemagne-4252",
+          "es": "las-ciudades-mas-grandes-de-alemania-4272",
+          "it": "le-piu-grandi-citta-della-germania-4294"
+        },
+        "text": {
+          "de": "Die vier Millionenstädte Berlin, Hamburg, München und Köln bilden die wirtschaftlichen und kulturellen Zentren Deutschlands.",
+          "en": "Berlin, Hamburg, Munich, and Cologne constitute Germany's four cities with over one million inhabitants.",
+          "fr": "Berlin, Hambourg, Munich et Cologne sont les quatre métropoles millionnaires allemandes.",
+          "es": "Berlín, Hamburgo, Múnich y Colonia son las cuatro ciudades alemanas de más de un millón de habitantes.",
+          "it": "Berlino, Amburgo, Monaco e Colonia sono le quattro metropoli milionarie tedesche."
+        }
+      },
+      {
+        "id": "groesste-staedte-usa",
+        "title": {
+          "de": "Die größten Städte der USA (New York, Los Angeles, Chicago)",
+          "en": "The Largest Cities in the USA (New York, LA, Chicago)",
+          "fr": "Les plus grandes villes des États-Unis (New York, LA, Chicago)",
+          "es": "Las ciudades más grandes de EE. UU. (Nueva York, LA, Chicago)",
+          "it": "Le più grandi città degli Stati Uniti (New York, LA, Chicago)"
+        },
+        "h5pSlugs": {
+          "de": "die-groesten-stadte-der-usa-4211",
+          "en": "the-largest-cities-in-the-usa-4223",
+          "fr": "les-plus-grandes-villes-des-tats-unis-4255",
+          "es": "las-ciudades-mas-grandes-de-ee-uu-4275",
+          "it": "le-piu-grandi-citta-degli-stati-uniti-4292"
+        },
+        "text": {
+          "de": "New York City, Los Angeles, Chicago, Houston und Phoenix sind die größten urbanen Ballungszentren der Vereinigten Staaten.",
+          "en": "New York City, Los Angeles, Chicago, and Houston anchor America's primary economic and urban corridors.",
+          "fr": "New York, Los Angeles, Chicago et Houston sont les plus grandes métropoles américaines.",
+          "es": "Nueva York, Los Ángeles, Chicago y Houston son las mayores áreas metropolitanas estadounidenses.",
+          "it": "New York, Los Angeles, Chicago e Houston sono le principali aree urbane statunitensi."
+        }
+      },
+      {
+        "id": "groesste-staedte-asien",
+        "title": {
+          "de": "Die größten Städte Asiens",
+          "en": "The Largest Cities of Asia",
+          "fr": "Les plus grandes villes d'Asie",
+          "es": "Las ciudades más grandes de Asia",
+          "it": "Le più grandi città dell'Asia"
+        },
+        "h5pSlugs": {
+          "de": "die-groesten-stadte-asiens-4208",
+          "en": "the-largest-cities-of-asia-4225",
+          "fr": "les-plus-grandes-villes-d-039-asie-4250",
+          "es": "las-ciudades-mas-grandes-de-asia-4270",
+          "it": "le-piu-grandi-citta-dell-039-asia-4297"
+        },
+        "text": {
+          "de": "Asien beherbergt die Mehrheit der weltweiten Megacitys wie Tokio, Shanghai, Delhi, Mumbai, Peking und Dhaka.",
+          "en": "Asia hosts the world's largest concentration of megacities including Shanghai, Delhi, Mumbai, and Beijing.",
+          "fr": "L'Asie concentre la majorité des mégapoles mondiales telles que Shanghai, Delhi, Mumbai et Pékin.",
+          "es": "Asia concentra la mayoría de las megaciudades del mundo como Shanghái, Delhi, Bombay y Pekín.",
+          "it": "L'Asia concentra la maggior parte delle megalopoli mondiali come Shanghai, Delhi, Mumbai e Pechino."
+        }
+      },
+      {
+        "id": "groesste-staedte-afrika",
+        "title": {
+          "de": "Die größten Städte Afrikas",
+          "en": "The Largest Cities of Africa",
+          "fr": "Les plus grandes villes d'Afrique",
+          "es": "Las ciudades más grandes de África",
+          "it": "Le più grandi città dell'Africa"
+        },
+        "h5pSlugs": {
+          "de": "die-groesten-stadte-afrikas-4205",
+          "en": "the-largest-cities-of-africa-4224",
+          "fr": "les-plus-grandes-villes-d-039-afrique-4249",
+          "es": "las-ciudades-mas-grandes-de-frica-4269",
+          "it": "le-piu-grandi-citta-dell-039-africa-4296"
+        },
+        "text": {
+          "de": "Kairo, Lagos, Kinshasa, Johannesburg und Luanda gehören zu den am schnellsten wachsenden Ballungsräumen Afrikas.",
+          "en": "Cairo, Lagos, Kinshasa, and Johannesburg represent Africa's most dynamic urban hubs.",
+          "fr": "Le Caire, Lagos, Kinshasa et Johannesburg sont les plus grands pôles urbains d'Afrique.",
+          "es": "El Cairo, Lagos, Kinshasa y Johannesburgo son los centros urbanos más poblados de África.",
+          "it": "Il Cairo, Lagos, Kinshasa e Johannesburg sono i principali poli urbani dell'Africa."
+        }
+      }
+    ]
+  },
+  {
+    "id": "raum_zeit_naturschutz",
+    "title": {
+      "de": "6. Globale Zeitzonen & Nationalparks",
+      "en": "6. Global Time Zones & National Parks",
+      "fr": "6. Fuseaux horaires mondiaux et parcs nationaux",
+      "es": "6. Husos horarios globales y parques nacionales",
+      "it": "6. Fusi orari globali e parchi nazionali"
+    },
+    "desc": {
+      "de": "Orientierung auf dem Globus, 24 Zeitzonen der Erde, Gradnetz, Nationalparks und geographischer Schutz.",
+      "en": "Global orientation, 24 time zones, coordinate grid, national parks, and geographical conservation.",
+      "fr": "Orientation sur le globe, 24 fuseaux horaires, coordonnées et parcs nationaux.",
+      "es": "Orientación global, 24 husos horarios, coordenadas y parques nacionales.",
+      "it": "Orientamento globale, 24 fusi orari, coordinate e parchi nazionali."
+    },
+    "lessons": [
+      {
+        "id": "zeitzonen-orientierung",
+        "title": {
+          "de": "Zeitzonen, Gradnetz & Orientierung auf der Erde",
+          "en": "Time Zones, Geographic Coordinates & Orientation",
+          "fr": "Fuseaux horaires, coordonnées géographiques et orientation",
+          "es": "Husos horarios, coordenadas geográficas y orientación",
+          "it": "Fusi orari, coordinate geografiche e orientamento"
+        },
+        "h5pSlugs": {
+          "de": "zeitzonen-in-den-vereinigten-staaten-7657",
+          "en": "zeitzonen-in-den-vereinigten-staaten-7657",
+          "fr": "zeitzonen-in-den-vereinigten-staaten-7657",
+          "es": "zeitzonen-in-den-vereinigten-staaten-7657",
+          "it": "zeitzonen-in-den-vereinigten-staaten-7657"
+        },
+        "text": {
+          "de": "Die Erde ist in 24 Zeitzonen à 15 Längengrade aufgeteilt. Der Nullmeridian verläuft durch Greenwich in London.",
+          "en": "Earth is divided into 24 standard time zones spaced 15 degrees of longitude apart from the Prime Meridian in Greenwich.",
+          "fr": "La Terre est divisée en 24 fuseaux horaires de 15 degrés de longitude depuis Greenwich.",
+          "es": "La Tierra se divide en 24 husos horarios de 15 grados de longitud desde el meridiano de Greenwich.",
+          "it": "La Terra è divisa in 24 fusi orari di 15 gradi di longitudine dal meridiano di Greenwich."
+        }
+      },
+      {
+        "id": "nationalparks-geotopschutz",
+        "title": {
+          "de": "Nationalparks & geographischer Geotopschutz",
+          "en": "National Parks & Geomorphological Conservation",
+          "fr": "Parcs nationaux et protection des géotopes",
+          "es": "Parques nacionales y conservación de geotopos",
+          "it": "Parchi nazionali e conservazione dei geotopi"
+        },
+        "h5pSlugs": {
+          "de": "nationalparks-der-vereinigten-staaten-7639",
+          "en": "nationalparks-der-vereinigten-staaten-7639",
+          "fr": "nationalparks-der-vereinigten-staaten-7639",
+          "es": "nationalparks-der-vereinigten-staaten-7639",
+          "it": "nationalparks-der-vereinigten-staaten-7639"
+        },
+        "text": {
+          "de": "Nationalparks wie Yellowstone oder Grand Canyon bewahren spektakuläre geologische Landschaftsformen und Ökosysteme.",
+          "en": "National parks like Yellowstone and the Grand Canyon preserve monumental geological landforms and pristine wilderness.",
+          "fr": "Des parcs emblématiques comme Yellowstone et le Grand Canyon protègent des formations géologiques remarquables.",
+          "es": "Parques emblemáticos como Yellowstone y el Gran Cañón preservan formaciones geológicas monumentales.",
+          "it": "Parchi emblematici come Yellowstone e il Grand Canyon preservano formazioni geologiche monumentali."
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,959 @@
+{
+  "presentation": {
+    "slides": [
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 6.622516556291391,
+            "width": 92.73743016759778,
+            "height": 50.77262693156732,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:3em;\"><strong>Geschichte Israels bis 1919</strong></span></p>\n\n<p><strong><span style=\"font-size:1.5em;\">Informationen und Übungen</span></strong></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "dff56334-2e6b-4f64-ab5f-fd72e6484f52"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 0,
+            "y": 0,
+            "width": 100,
+            "height": 99.99999999999999,
+            "action": {
+              "library": "H5P.Video 1.6",
+              "params": {
+                "visuals": {
+                  "fit": true,
+                  "controls": true
+                },
+                "playback": {
+                  "autoplay": false,
+                  "loop": false
+                },
+                "l10n": {
+                  "name": "Video",
+                  "loading": "Videoplayer lädt...",
+                  "noPlayers": "Keine Videoplayer gefunden, die das vorliegende Videoformat unterstützen.",
+                  "noSources": "Es wurden für das Video keine Quellen angegeben.",
+                  "aborted": "Das Abspielen des Videos wurde abgebrochen.",
+                  "networkFailure": "Netzwerkfehler.",
+                  "cannotDecode": "Dekodierung des Mediums nicht möglich.",
+                  "formatNotSupported": "Videoformat wird nicht unterstützt.",
+                  "mediaEncrypted": "Medium verschlüsselt.",
+                  "unknownError": "Unbekannter Fehler.",
+                  "invalidYtId": "Ungültige YouTube-ID.",
+                  "unknownYtId": "Video mit dieser YouTube-ID konnte nicht gefunden werden.",
+                  "restrictedYt": "Der Besitzer dieses Videos erlaubt kein Einbetten."
+                },
+                "sources": [
+                  {
+                    "path": "https://youtu.be/06yjeBVWzfs",
+                    "mime": "video/YouTube",
+                    "copyright": {
+                      "license": "U"
+                    }
+                  }
+                ]
+              },
+              "subContentId": "aa2d73dc-110e-4234-9836-93052464f78d",
+              "metadata": {
+                "contentType": "Video",
+                "license": "U",
+                "title": "Unbenannt: Video"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Informationstext (Teil 1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "5627dc6e-c943-439e-ab4a-4531b7f24264"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 12.910611231371064,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Ursprünge</strong><br>\nDie Wurzeln Israels reichen weit zurück bis in die biblische Zeit. Laut biblischer Überlieferung führte Moses das israelitische Volk aus der ägyptischen Sklaverei, und sein Nachfolger Josua eroberte das Land Kanaan, welches später als Israel bekannt wurde. Über die Jahre etablierten sich hier verschiedene Königreiche, darunter das vereinigte Königreich unter Saul, David und Salomo sowie die getrennten Königreiche Israel und Judah nach der Trennung.</p>\n\n<p><strong>Persische und Hellenistische Periode</strong><br>\nNach einer langen Phase unter assyrischer, babylonischer und persischer Kontrolle, erlebte die Region eine Hellenisierung unter Alexander dem Großen im 4. Jahrhundert v. Chr. Die jüdische Gemeinschaft spaltete sich in verschiedene Gruppen, und es gab Aufstände gegen die hellenistische Herrschaft, die schließlich in der hasmonäischen Unabhängigkeit mündeten.</p>\n\n<p><strong>Römische Herrschaft</strong><br>\nDie römische Eroberung im 1. Jahrhundert v. Chr. brachte eine andere Form der Verwaltung und Herrschaft mit sich. Während dieser Zeit wurde Herodes der Große König und baute den zweiten Tempel in Jerusalem. Die römische Herrschaft führte auch zu vielen jüdischen Aufständen, darunter der große jüdische Aufstand (66-73 n. Chr.) und der Bar-Kochba-Aufstand (132-135 n. Chr.).</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "53bc5361-5ce5-43a9-a00f-57bbceee9cd0"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Informationstext (Teil 2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "55aaf4d3-f7e3-4a3e-9196-01a6f7474f94"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Byzantinische und Frühislamische Periode</strong><br>\nNach dem Fall des weströmischen Reiches im 5. Jahrhundert kam die Region unter byzantinische Kontrolle. Im 7. Jahrhundert eroberten muslimische Armeen das Gebiet und integrierten es in das expandierende islamische Reich, was zu einer langen Periode islamischer Herrschaft führte.</p>\n\n<p><strong>Kreuzzüge und Mamluken</strong><br>\nDie Kreuzzüge im 11. und 12. Jahrhundert brachten eine kurze christliche Herrschaft, aber die Region wurde schließlich von den Mamluken erobert, die die Kontrolle bis zum Einfall der Osmanen im Jahr 1517 behielten.</p>\n\n<p><strong>Osmanische Herrschaft</strong><br>\nUnter osmanischer Kontrolle erlebte das Gebiet eine relative Stabilität und Entwicklung. Die Osmanen regierten das Gebiet bis zum Ende des Ersten Weltkriegs. Während dieser Zeit gab es verschiedene Verwaltungsänderungen und eine allmähliche Modernisierung des Gebiets.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "3b13867b-feab-4e2e-bfa2-fcc82e4dbff1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Informationstext (Teil 3)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "4381b60d-c67f-4722-b83d-b17f2fc9d01c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Europäische Einflüsse und Zionismus</strong><br>\nIm 19. Jahrhundert begannen europäische Mächte, insbesondere Großbritannien und Frankreich, Interesse an der Region zu zeigen. Gleichzeitig entstand die zionistische Bewegung, die eine jüdische Heimstätte in Palästina anstrebte. Der erste Zionistische Kongress fand 1897 statt und legte den Grundstein für die weitere Entwicklung des Zionismus.</p>\n\n<p><strong>Balfour-Deklaration</strong><br>\nDie Balfour-Deklaration von 1917 war ein bedeutender Meilenstein, da sie die Unterstützung Großbritanniens für die Einrichtung einer „nationalen Heimstätte für das jüdische Volk“ in Palästina erklärte. Dies war ein bedeutender Schritt zur Realisierung der zionistischen Ziele.</p>\n\n<p><strong>Ende der Osmanischen Herrschaft</strong><br>\nMit dem Ende des Ersten Weltkriegs im Jahr 1918 und dem Zusammenbruch des Osmanischen Reiches kam Palästina unter britische Kontrolle. 1919 wurde die erste Palästina-Konferenz abgehalten, die die Weichen für die zukünftige politische Gestaltung der Region stellte und den Weg für das britische Mandat über Palästina ebnete.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "3d655444-fd55-42f7-aba2-16a16db7dc58"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Ziehe die Wörter in die richtigen Felder!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Überprüfen",
+                "submitAnswer": "Submit",
+                "tryAgain": "Wiederholen",
+                "showSolution": "Lösung anzeigen",
+                "dropZoneIndex": "Ablagefeld @index.",
+                "empty": "Ablagefeld @index ist leer.",
+                "contains": "Ablagefeld @index enthält ziehbaren Text @draggable.",
+                "ariaDraggableIndex": "@index von @count ziehbaren Texten.",
+                "tipLabel": "Tipp anzeigen",
+                "correctText": "Richtig!",
+                "incorrectText": "Falsch!",
+                "resetDropTitle": "Ablagefelder zurücksetzen",
+                "resetDropDescription": "Bist du sicher, dass du dieses Ablagefeld zurücksetzen möchtest?",
+                "grabbed": "Ziehbarer Text wurde aufgenommen.",
+                "cancelledDragging": "Ziehen abgebrochen.",
+                "correctAnswer": "Korrekte Antwort:",
+                "feedbackHeader": "Rückmeldung",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "a11yCheck": "Die Antworten überprüfen. Die Eingaben werden als richtig, falsch oder unbeantwortet markiert.",
+                "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                "a11yRetry": "Die Aufgabe wiederholen. Alle Eingaben werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                "textField": "*Byzantinisches Reich* - Ostrom, übernahm Kontrolle über Region nach weströmischem Fall\n*Mamluken* - Militärkaste, eroberte Region vor den Osmanen\n*Zionismus* - Bewegung, Ziel einer jüdischen Heimstätte in Palästina\n*Balfour-Deklaration* - britische Erklärung, unterstützte jüdische Heimstätte in Palästina",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Begriffe 1"
+              },
+              "subContentId": "4a94ce62-c440-4215-bc76-32408bcec41d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Wichtige Begriffe (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "e773caca-acd3-4ee8-9ed2-b80b588d3a60"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "Ziehe die Wörter in die richtigen Felder!",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Überprüfen",
+                "submitAnswer": "Submit",
+                "tryAgain": "Wiederholen",
+                "showSolution": "Lösung anzeigen",
+                "dropZoneIndex": "Ablagefeld @index.",
+                "empty": "Ablagefeld @index ist leer.",
+                "contains": "Ablagefeld @index enthält ziehbaren Text @draggable.",
+                "ariaDraggableIndex": "@index von @count ziehbaren Texten.",
+                "tipLabel": "Tipp anzeigen",
+                "correctText": "Richtig!",
+                "incorrectText": "Falsch!",
+                "resetDropTitle": "Ablagefelder zurücksetzen",
+                "resetDropDescription": "Bist du sicher, dass du dieses Ablagefeld zurücksetzen möchtest?",
+                "grabbed": "Ziehbarer Text wurde aufgenommen.",
+                "cancelledDragging": "Ziehen abgebrochen.",
+                "correctAnswer": "Korrekte Antwort:",
+                "feedbackHeader": "Rückmeldung",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "a11yCheck": "Die Antworten überprüfen. Die Eingaben werden als richtig, falsch oder unbeantwortet markiert.",
+                "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                "a11yRetry": "Die Aufgabe wiederholen. Alle Eingaben werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                "textField": "*Moses* - biblische Figur, führte Israeliten aus ägyptischer Sklaverei\n*Kanaan* - Land, erobert von Josua, später als Israel bekannt\n*Hellenisierung* - Prozess der Verbreitung griechischer Kultur, unter Alexander dem Großen\n*Hasmonäer* - jüdische Dynastie, erlangte Unabhängigkeit von hellenistischer Herrschaft\n*Herodes* - König, baute den zweiten Tempel in Jerusalem",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Begriffe 2"
+              },
+              "subContentId": "b74a36f9-2aa3-417a-814c-50e58208f7b3"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Wichtige Begriffe (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "be59e194-86c9-4928-9194-f6e496790bc1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Vervollständige die Sätze!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Überprüfen",
+                "submitAnswer": "Submit",
+                "tryAgain": "Wiederholen",
+                "showSolution": "Lösung anzeigen",
+                "dropZoneIndex": "Ablagefeld @index.",
+                "empty": "Ablagefeld @index ist leer.",
+                "contains": "Ablagefeld @index enthält ziehbaren Text @draggable.",
+                "ariaDraggableIndex": "@index von @count ziehbaren Texten.",
+                "tipLabel": "Tipp anzeigen",
+                "correctText": "Richtig!",
+                "incorrectText": "Falsch!",
+                "resetDropTitle": "Ablagefelder zurücksetzen",
+                "resetDropDescription": "Bist du sicher, dass du dieses Ablagefeld zurücksetzen möchtest?",
+                "grabbed": "Ziehbarer Text wurde aufgenommen.",
+                "cancelledDragging": "Ziehen abgebrochen.",
+                "correctAnswer": "Korrekte Antwort:",
+                "feedbackHeader": "Rückmeldung",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "a11yCheck": "Die Antworten überprüfen. Die Eingaben werden als richtig, falsch oder unbeantwortet markiert.",
+                "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                "a11yRetry": "Die Aufgabe wiederholen. Alle Eingaben werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                "textField": "*Moses führte das israelitische ...* - ... Volk aus Ägypten.\n*Alexander dem Großen verbreitete ...* - ... die hellenistische Kultur.\n*Herodes der Große war ...* - ... König unter römischer Herrschaft.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Sätze 1"
+              },
+              "subContentId": "fc5741fc-cbfd-45c8-9433-cf39572a4b81"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Sätze vervollständigen (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "ecb45d14-3fe2-4a02-ab8f-6c03ba60ef4c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Vervollständige die Sätze!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Überprüfen",
+                "submitAnswer": "Submit",
+                "tryAgain": "Wiederholen",
+                "showSolution": "Lösung anzeigen",
+                "dropZoneIndex": "Ablagefeld @index.",
+                "empty": "Ablagefeld @index ist leer.",
+                "contains": "Ablagefeld @index enthält ziehbaren Text @draggable.",
+                "ariaDraggableIndex": "@index von @count ziehbaren Texten.",
+                "tipLabel": "Tipp anzeigen",
+                "correctText": "Richtig!",
+                "incorrectText": "Falsch!",
+                "resetDropTitle": "Ablagefelder zurücksetzen",
+                "resetDropDescription": "Bist du sicher, dass du dieses Ablagefeld zurücksetzen möchtest?",
+                "grabbed": "Ziehbarer Text wurde aufgenommen.",
+                "cancelledDragging": "Ziehen abgebrochen.",
+                "correctAnswer": "Korrekte Antwort:",
+                "feedbackHeader": "Rückmeldung",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "a11yCheck": "Die Antworten überprüfen. Die Eingaben werden als richtig, falsch oder unbeantwortet markiert.",
+                "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                "a11yRetry": "Die Aufgabe wiederholen. Alle Eingaben werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                "textField": "*Die Kreuzzüge brachten christliche ...* - ... Kontrolle in die Region.\n*Osmanische Herrschaft führte zu ...* - ... relativer Stabilität.\n*Europäische Mächte zeigten im 19. ...* - ... Jahrhundert Interesse.\n*Der erste Zionistische Kongress ...* - ... fand 1897 statt.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Sätze 2"
+              },
+              "subContentId": "a8bdf3b3-dac7-40e5-bdfd-f199401a2c3e"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Sätze vervollständigen (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "1351cab9-7952-442e-bc32-7d4a3895ab3d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Wahr oder falsch?</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "3f4bfb9e-6eb5-4097-abf6-f0c1308dfc3f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.2346368715083798,
+            "y": 11.69916114790287,
+            "width": 95.41899441340783,
+            "height": 88.30022075055187,
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>Wähle die korrekte Aussage!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Fortschritt:",
+                "scoreLabel": "Falsche Antworten:",
+                "resultLabel": "Dein Ergebnis",
+                "labelCorrect": "Richtig.",
+                "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                "alternativeIncorrectLabel": "Falsch",
+                "labelCorrectAnswers": "Richtige Antwort(en).",
+                "tipButtonLabel": "Tipp anzeigen",
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "progressText": "Fortschritt :num von :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "Das Land Kanaan wurde von Josua erobert.",
+                      "Die Hellenisierung wurde von den Römern eingeführt."
+                    ],
+                    "subContentId": "9777cd8b-4134-44e0-8812-506f863feb0b",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Die Hellenisierung fand unter Alexander dem Großen statt.",
+                      "Mamluken herrschten nach den Osmanen."
+                    ],
+                    "subContentId": "8daf6588-ba97-4a43-9d61-05da470f1d3d",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Herodes der Große baute den zweiten Tempel in Jerusalem.",
+                      "Herodes zerstörte den zweiten Tempel in Jerusalem."
+                    ],
+                    "subContentId": "343964e5-9de2-4ca9-86dc-cf0622c2ba87",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Die Balfour-Deklaration unterstützte die Einrichtung einer jüdischen Heimstätte in Palästina.",
+                      "Das vereinigte Königreich existierte nach der Trennung von Israel und Judah."
+                    ],
+                    "subContentId": "40370cf9-9d38-4d16-935f-c2c39783ea70",
+                    "tip": ""
+                  }
+                ]
+              },
+              "subContentId": "6207504c-ae8f-4a09-b236-0a5b6cd442ec",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "Wahr oder falsch?"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Fragen</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text"
+              },
+              "subContentId": "303d8e49-9df8-4ebb-bb74-21e0f7344e25"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.346368715083799,
+            "y": 15.673289183222957,
+            "width": 92.40223463687151,
+            "height": 58.27814569536424,
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": false,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Weiter",
+                  "showSolutionButtonLabel": "Lösung anzeigen",
+                  "retryButtonLabel": "Wiederholen",
+                  "solutionViewTitle": "Lösung",
+                  "correctText": "Richtig!",
+                  "incorrectText": "Falsch!",
+                  "muteButtonLabel": "Stumm schalten",
+                  "closeButtonLabel": "Schließen",
+                  "slideOfTotal": "Seite :num von :total",
+                  "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                  "solutionListQuestionNumber": "Frage :num",
+                  "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                  "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet.",
+                  "shouldSelect": "Should have been selected",
+                  "shouldNotSelect": "Should not have been selected"
+                },
+                "choices": [
+                  {
+                    "question": "Wer führte die Israeliten aus der ägyptischen Sklaverei?",
+                    "answers": [
+                      "Moses",
+                      "Josua",
+                      "David",
+                      "Herodes"
+                    ],
+                    "subContentId": "0772aefe-75ee-422f-b8b7-b393c5243093"
+                  },
+                  {
+                    "question": "Unter wessen Herrschaft wurde der zweite Tempel in Jerusalem gebaut?",
+                    "answers": [
+                      "Herodes",
+                      "Alexander dem Großen",
+                      "Salomo",
+                      "Saul"
+                    ],
+                    "subContentId": "23f56f6f-826b-4c14-a06b-3b575101bcb4"
+                  },
+                  {
+                    "question": "Welche Dynastie erlangte Unabhängigkeit von der hellenistischen Herrschaft?",
+                    "answers": [
+                      "Hasmonäer",
+                      "Mamluken",
+                      "Osmanen",
+                      "Byzantiner"
+                    ],
+                    "subContentId": "6ff9abf9-e154-4b98-b1c9-866f4db382a4"
+                  },
+                  {
+                    "question": "Wer eroberte das Gebiet nach dem Fall des weströmischen Reiches?",
+                    "answers": [
+                      "Byzantiner",
+                      "Römer",
+                      "Kreuzritter",
+                      "Osmanen"
+                    ],
+                    "subContentId": "b0d5c343-8bf8-44ec-83c7-e8803f656f05"
+                  },
+                  {
+                    "question": "Welche Bewegung strebte eine jüdische Heimstätte in Palästina an?",
+                    "answers": [
+                      "Zionismus",
+                      "Hellenismus",
+                      "Kreuzzüge",
+                      "Mamluken"
+                    ],
+                    "subContentId": "b59be96e-cfa2-40cd-ab26-21220a51a228"
+                  },
+                  {
+                    "question": "Wer hielt die Kontrolle über die Region vor dem Einfall der Osmanen?",
+                    "answers": [
+                      "Mamluken",
+                      "Kreuzritter",
+                      "Byzantiner",
+                      "Römer"
+                    ],
+                    "subContentId": "f7cd4302-a3d5-4197-b0f5-1482ed969971"
+                  }
+                ]
+              },
+              "subContentId": "dc6b82f1-4264-4137-8683-db0b27e41a00",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Fragen"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      }
+    ],
+    "keywordListEnabled": true,
+    "globalBackgroundSelector": {},
+    "keywordListAlwaysShow": false,
+    "keywordListAutoHide": false,
+    "keywordListOpacity": 90
+  },
+  "override": {
+    "activeSurface": false,
+    "hideSummarySlide": false,
+    "summarySlideSolutionButton": true,
+    "summarySlideRetryButton": true,
+    "enablePrintButton": false,
+    "social": {
+      "showFacebookShare": false,
+      "facebookShare": {
+        "url": "@currentpageurl",
+        "quote": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht."
+      },
+      "showTwitterShare": false,
+      "twitterShare": {
+        "statement": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht.",
+        "url": "@currentpageurl",
+        "hashtags": "h5p, Kurs"
+      },
+      "showGoogleShare": false,
+      "googleShareUrl": "@currentpageurl"
+    }
+  },
+  "l10n": {
+    "slide": "Folie",
+    "score": "Punktzahl",
+    "yourScore": "Deine Punktzahl",
+    "maxScore": "Maximale Punktzahl",
+    "total": "Summe",
+    "totalScore": "Gesamtpunktzahl",
+    "showSolutions": "Lösungen anzeigen",
+    "retry": "Wiederholen",
+    "exportAnswers": "Text exportieren",
+    "hideKeywords": "Stichwortliste verbergen",
+    "showKeywords": "Stichwortliste anzeigen",
+    "fullscreen": "Vollbild",
+    "exitFullscreen": "Vollbild beenden",
+    "prevSlide": "Vorherige Folie",
+    "nextSlide": "Nächste Folie",
+    "currentSlide": "Aktuelle Folie",
+    "lastSlide": "Letzte Folie",
+    "solutionModeTitle": "Lösungsmodus beenden",
+    "solutionModeText": "Lösungsmodus",
+    "summaryMultipleTaskText": "Mehrere Aufgaben",
+    "scoreMessage": "Du hast erreicht:",
+    "shareFacebook": "Auf Facebook teilen",
+    "shareTwitter": "Auf Twitter teilen",
+    "shareGoogle": "Auf Google+ teilen",
+    "summary": "Zusammenfassung",
+    "solutionsButtonTitle": "Kommentare anzeigen",
+    "printTitle": "Drucken",
+    "printIngress": "Wie möchtest du diese Präsentation drucken?",
+    "printAllSlides": "Alle Folien drucken",
+    "printCurrentSlide": "Aktuelle Folie drucken",
+    "noTitle": "Kein Titel",
+    "accessibilitySlideNavigationExplanation": "Verwende die linke oder rechte Cursortaste, um zur Folie in der jeweiligen Richtung zu blättern, wenn der Präsentationsbereich ausgewählt ist.",
+    "accessibilityCanvasLabel": "Präsentationsbereich. Verwende die linke oder rechte Cursortaste, um zwischen den Folien zu navigieren.",
+    "containsNotCompleted": "@slideName enthält eine nicht abgeschlossene Interaktion",
+    "containsCompleted": "@slideName wurde abgeschlossen",
+    "slideCount": "Folie @index von @total",
+    "containsOnlyCorrect": "@slideName enthält nur richtige Antworten",
+    "containsIncorrectAnswers": "@slideName enthält falsche Antworten",
+    "shareResult": "Ergebnis teilen",
+    "accessibilityTotalScore": "Du hast insgesamt @score von @maxScore Punkten erreicht.",
+    "accessibilityEnteredFullscreen": "Vollbild aktiviert",
+    "accessibilityExitedFullscreen": "Vollbild deaktiviert",
+    "confirmDialogHeader": "Submit your answers",
+    "confirmDialogText": "This will submit your results, do you want to continue?",
+    "confirmDialogConfirmText": "Submit and see results",
+    "accessibilityProgressBarLabel": "Wähle das zu zeigende Schaubild",
+    "slideshowNavigationLabel": "Schaubild-Navigation"
+  }
+}

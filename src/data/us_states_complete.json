@@ -1,0 +1,466 @@
+[
+  {
+    "id": "nordosten",
+    "title": {
+      "de": "1. Neuengland & Nordosten",
+      "en": "1. New England & Mid-Atlantic",
+      "fr": "1. Nouvelle-Angleterre & Nord-Est",
+      "es": "1. Nueva Inglaterra y Noreste",
+      "it": "1. Nuova Inghilterra e Nord-Est"
+    },
+    "desc": {
+      "de": "Die historischen Gründerstaaten der USA: New York, Pennsylvania, Massachusetts und Neuengland.",
+      "en": "Historic founding states of the US: New York, Pennsylvania, Massachusetts, and New England.",
+      "fr": "États fondateurs historiques des États-Unis : New York, Pennsylvanie, Massachusetts, etc.",
+      "es": "Estados fundadores históricos de EE. UU.: Nueva York, Pensilvania, Massachusetts, etc.",
+      "it": "Stati fondatori storici degli USA: New York, Pennsylvania, Massachusetts, ecc."
+    },
+    "states": [
+      {
+        "slug": "new-york",
+        "name": "New York",
+        "cap": "Albany",
+        "nick": "Empire State",
+        "h5p": "der-us-bundesstaat-new-york-6004"
+      },
+      {
+        "slug": "pennsylvania",
+        "name": "Pennsylvania",
+        "cap": "Harrisburg",
+        "nick": "Keystone State",
+        "h5p": "der-us-bundesstaat-pennsylvania-6010"
+      },
+      {
+        "slug": "massachusetts",
+        "name": "Massachusetts",
+        "cap": "Boston",
+        "nick": "Bay State",
+        "h5p": "der-us-bundesstaat-massachusetts-5993"
+      },
+      {
+        "slug": "new-jersey",
+        "name": "New Jersey",
+        "cap": "Trenton",
+        "nick": "Garden State",
+        "h5p": "der-us-bundesstaat-new-jersey-6002"
+      },
+      {
+        "slug": "connecticut",
+        "name": "Connecticut",
+        "cap": "Hartford",
+        "nick": "Constitution State",
+        "h5p": "der-us-bundesstaat-connecticut-5978"
+      },
+      {
+        "slug": "maine",
+        "name": "Maine",
+        "cap": "Augusta",
+        "nick": "Pine Tree State",
+        "h5p": "der-us-bundesstaat-maine-5991"
+      },
+      {
+        "slug": "new-hampshire",
+        "name": "New Hampshire",
+        "cap": "Concord",
+        "nick": "Granite State",
+        "h5p": "der-us-bundesstaat-new-hampshire-6001"
+      },
+      {
+        "slug": "rhode-island",
+        "name": "Rhode Island",
+        "cap": "Providence",
+        "nick": "Ocean State",
+        "h5p": "der-us-bundesstaat-rhode-island-6011"
+      },
+      {
+        "slug": "vermont",
+        "name": "Vermont",
+        "cap": "Montpelier",
+        "nick": "Green Mountain State",
+        "h5p": "der-us-bundesstaat-vermont-6017"
+      }
+    ]
+  },
+  {
+    "id": "suedosten",
+    "title": {
+      "de": "2. Der Südosten",
+      "en": "2. The Southeast",
+      "fr": "2. Le Sud-Est",
+      "es": "2. El Sureste",
+      "it": "2. Il Sud-Est"
+    },
+    "desc": {
+      "de": "Sonnenschein, Atlantikküste und Geschichte: Von Florida und Georgia bis Virginia und den Carolinas.",
+      "en": "Sunshine, Atlantic coast, and history: From Florida and Georgia to Virginia and the Carolinas.",
+      "fr": "Floride, Géorgie, Caroline du Nord, Caroline du Sud, Virginie, etc.",
+      "es": "Florida, Georgia, Carolina del Norte, Carolina del Sur, Virginia, etc.",
+      "it": "Florida, Georgia, Carolina del Nord, Carolina del Sud, Virginia, ecc."
+    },
+    "states": [
+      {
+        "slug": "florida",
+        "name": "Florida",
+        "cap": "Tallahassee",
+        "nick": "Sunshine State",
+        "h5p": "der-us-bundesstaat-florida-5980"
+      },
+      {
+        "slug": "georgia",
+        "name": "Georgia",
+        "cap": "Atlanta",
+        "nick": "Peach State",
+        "h5p": "der-us-bundesstaat-georgia-5981"
+      },
+      {
+        "slug": "north-carolina",
+        "name": "North Carolina",
+        "cap": "Raleigh",
+        "nick": "Tar Heel State",
+        "h5p": "der-us-bundesstaat-north-carolina-6005"
+      },
+      {
+        "slug": "south-carolina",
+        "name": "South Carolina",
+        "cap": "Columbia",
+        "nick": "Palmetto State",
+        "h5p": "der-us-bundesstaat-south-carolina-6012"
+      },
+      {
+        "slug": "virginia",
+        "name": "Virginia",
+        "cap": "Richmond",
+        "nick": "Old Dominion",
+        "h5p": "der-us-bundesstaat-virginia-6018"
+      },
+      {
+        "slug": "west-virginia",
+        "name": "West Virginia",
+        "cap": "Charleston",
+        "nick": "Mountain State",
+        "h5p": "der-us-bundesstaat-west-virginia-6020"
+      },
+      {
+        "slug": "maryland",
+        "name": "Maryland",
+        "cap": "Annapolis",
+        "nick": "Old Line State",
+        "h5p": "der-us-bundesstaat-maryland-5992"
+      },
+      {
+        "slug": "delaware",
+        "name": "Delaware",
+        "cap": "Dover",
+        "nick": "First State",
+        "h5p": "der-us-bundesstaat-delaware-5979"
+      }
+    ]
+  },
+  {
+    "id": "midwest",
+    "title": {
+      "de": "3. Der Mittlere Westen",
+      "en": "3. The Midwest",
+      "fr": "3. Le Midwest",
+      "es": "3. El Medio Oeste",
+      "it": "3. Il Midwest"
+    },
+    "desc": {
+      "de": "Das industrielle Herzland und die Großen Seen: Illinois, Ohio, Michigan, Wisconsin und Minnesota.",
+      "en": "Industrial heartland and Great Lakes: Illinois, Ohio, Michigan, Wisconsin, and Minnesota.",
+      "fr": "Cœur industriel et Grands Lacs : Illinois, Ohio, Michigan, Wisconsin, Minnesota, etc.",
+      "es": "Corazón industrial y Grandes Lagos: Illinois, Ohio, Michigan, Wisconsin, etc.",
+      "it": "Cuore industriale e Grandi Laghi: Illinois, Ohio, Michigan, Wisconsin, ecc."
+    },
+    "states": [
+      {
+        "slug": "illinois",
+        "name": "Illinois",
+        "cap": "Springfield",
+        "nick": "Prairie State",
+        "h5p": "der-us-bundesstaat-illinois-5984"
+      },
+      {
+        "slug": "ohio",
+        "name": "Ohio",
+        "cap": "Columbus",
+        "nick": "Buckeye State",
+        "h5p": "der-us-bundesstaat-ohio-6007"
+      },
+      {
+        "slug": "michigan",
+        "name": "Michigan",
+        "cap": "Lansing",
+        "nick": "Great Lakes State",
+        "h5p": "der-us-bundesstaat-michigan-5994"
+      },
+      {
+        "slug": "indiana",
+        "name": "Indiana",
+        "cap": "Indianapolis",
+        "nick": "Hoosier State",
+        "h5p": "der-us-bundesstaat-indiana-5985"
+      },
+      {
+        "slug": "wisconsin",
+        "name": "Wisconsin",
+        "cap": "Madison",
+        "nick": "Badger State",
+        "h5p": "der-us-bundesstaat-wisconsin-6021"
+      },
+      {
+        "slug": "minnesota",
+        "name": "Minnesota",
+        "cap": "Saint Paul",
+        "nick": "North Star State",
+        "h5p": "der-us-bundesstaat-minnesota-5995"
+      },
+      {
+        "slug": "missouri",
+        "name": "Missouri",
+        "cap": "Jefferson City",
+        "nick": "Show-Me State",
+        "h5p": "der-us-bundesstaat-missouri-5997"
+      },
+      {
+        "slug": "iowa",
+        "name": "Iowa",
+        "cap": "Des Moines",
+        "nick": "Hawkeye State",
+        "h5p": "der-us-bundesstaat-iowa-5986"
+      }
+    ]
+  },
+  {
+    "id": "sueden",
+    "title": {
+      "de": "4. Der Süden & Golfküste",
+      "en": "4. The South & Gulf Coast",
+      "fr": "4. Le Sud & Côte du Golfe",
+      "es": "4. El Sur y Costa del Golfo",
+      "it": "4. Il Sud e Costa del Golfo"
+    },
+    "desc": {
+      "de": "Tradition, Musik und Energie: Texas, Louisiana, Tennessee, Alabama und der tiefe Süden.",
+      "en": "Tradition, music, and energy: Texas, Louisiana, Tennessee, Alabama, and the Deep South.",
+      "fr": "Texas, Louisiane, Tennessee, Alabama, Mississippi, etc.",
+      "es": "Texas, Luisiana, Tennessee, Alabama, Misisipi, etc.",
+      "it": "Texas, Louisiana, Tennessee, Alabama, Mississippi, ecc."
+    },
+    "states": [
+      {
+        "slug": "texas",
+        "name": "Texas",
+        "cap": "Austin",
+        "nick": "Lone Star State",
+        "h5p": "der-us-bundesstaat-texas-6015"
+      },
+      {
+        "slug": "louisiana",
+        "name": "Louisiana",
+        "cap": "Baton Rouge",
+        "nick": "Pelican State",
+        "h5p": "der-us-bundesstaat-louisiana-5990"
+      },
+      {
+        "slug": "tennessee",
+        "name": "Tennessee",
+        "cap": "Nashville",
+        "nick": "Volunteer State",
+        "h5p": "der-us-bundesstaat-tennessee-6014"
+      },
+      {
+        "slug": "alabama",
+        "name": "Alabama",
+        "cap": "Montgomery",
+        "nick": "Yellowhammer State",
+        "h5p": "der-us-bundesstaat-alabama-5973"
+      },
+      {
+        "slug": "kentucky",
+        "name": "Kentucky",
+        "cap": "Frankfort",
+        "nick": "Bluegrass State",
+        "h5p": "der-us-bundesstaat-kentucky-5989"
+      },
+      {
+        "slug": "mississippi",
+        "name": "Mississippi",
+        "cap": "Jackson",
+        "nick": "Magnolia State",
+        "h5p": "der-us-bundesstaat-mississippi-5996"
+      },
+      {
+        "slug": "arkansas",
+        "name": "Arkansas",
+        "cap": "Little Rock",
+        "nick": "Natural State",
+        "h5p": "der-us-bundesstaat-arkansas-5976"
+      },
+      {
+        "slug": "oklahoma",
+        "name": "Oklahoma",
+        "cap": "Oklahoma City",
+        "nick": "Sooner State",
+        "h5p": "der-us-bundesstaat-oklahoma-6008"
+      }
+    ]
+  },
+  {
+    "id": "plains_mountains",
+    "title": {
+      "de": "5. Great Plains & Rocky Mountains",
+      "en": "5. Great Plains & Rocky Mountains",
+      "fr": "5. Grandes Plaines & Rocheuses",
+      "es": "5. Grandes Llanuras y Montañas Rocosas",
+      "it": "5. Grandi Pianure e Montagne Rocciose"
+    },
+    "desc": {
+      "de": "Canyons, Nationalparks und weite Prärien: Colorado, Arizona, Utah, Nevada und Montana.",
+      "en": "Canyons, national parks, and wide prairies: Colorado, Arizona, Utah, Nevada, and Montana.",
+      "fr": "Colorado, Arizona, Utah, Nevada, Nouveau-Mexique, Montana, etc.",
+      "es": "Colorado, Arizona, Utah, Nevada, Nuevo México, Montana, etc.",
+      "it": "Colorado, Arizona, Utah, Nevada, Nuovo Messico, Montana, ecc."
+    },
+    "states": [
+      {
+        "slug": "colorado",
+        "name": "Colorado",
+        "cap": "Denver",
+        "nick": "Centennial State",
+        "h5p": "der-us-bundesstaat-colorado-5977"
+      },
+      {
+        "slug": "arizona",
+        "name": "Arizona",
+        "cap": "Phoenix",
+        "nick": "Grand Canyon State",
+        "h5p": "der-us-bundesstaat-arizona-5975"
+      },
+      {
+        "slug": "utah",
+        "name": "Utah",
+        "cap": "Salt Lake City",
+        "nick": "Beehive State",
+        "h5p": "der-us-bundesstaat-utah-6016"
+      },
+      {
+        "slug": "nevada",
+        "name": "Nevada",
+        "cap": "Carson City",
+        "nick": "Silver State",
+        "h5p": "der-us-bundesstaat-nevada-6000"
+      },
+      {
+        "slug": "new-mexico",
+        "name": "New Mexico",
+        "cap": "Santa Fe",
+        "nick": "Land of Enchantment",
+        "h5p": "der-us-bundesstaat-new-mexico-6003"
+      },
+      {
+        "slug": "kansas",
+        "name": "Kansas",
+        "cap": "Topeka",
+        "nick": "Sunflower State",
+        "h5p": "der-us-bundesstaat-kansas-5988"
+      },
+      {
+        "slug": "nebraska",
+        "name": "Nebraska",
+        "cap": "Lincoln",
+        "nick": "Cornhusker State",
+        "h5p": "der-us-bundesstaat-nebraska-5999"
+      },
+      {
+        "slug": "idaho",
+        "name": "Idaho",
+        "cap": "Boise",
+        "nick": "Gem State",
+        "h5p": "der-us-bundesstaat-idaho-5983"
+      },
+      {
+        "slug": "montana",
+        "name": "Montana",
+        "cap": "Helena",
+        "nick": "Treasure State",
+        "h5p": "der-us-bundesstaat-montana-5998"
+      },
+      {
+        "slug": "north-dakota",
+        "name": "North Dakota",
+        "cap": "Bismarck",
+        "nick": "Peace Garden State",
+        "h5p": "der-us-bundesstaat-north-dakota-6006"
+      },
+      {
+        "slug": "south-dakota",
+        "name": "South Dakota",
+        "cap": "Pierre",
+        "nick": "Mount Rushmore State",
+        "h5p": "der-us-bundesstaat-south-dakota-6013"
+      },
+      {
+        "slug": "wyoming",
+        "name": "Wyoming",
+        "cap": "Cheyenne",
+        "nick": "Equality State",
+        "h5p": "der-us-bundesstaat-wyoming-6022"
+      }
+    ]
+  },
+  {
+    "id": "pazifik_uebersee",
+    "title": {
+      "de": "6. Pazifik-Küste, Alaska & Hawaii",
+      "en": "6. Pacific Coast, Alaska & Hawaii",
+      "fr": "6. Côte Pacifique, Alaska & Hawaï",
+      "es": "6. Costa del Pacífico, Alaska y Hawái",
+      "it": "6. Costa del Pacifico, Alaska e Hawaii"
+    },
+    "desc": {
+      "de": "Vom Silicon Valley und den Mammutbäumen bis zu den Vulkanen Hawaiis und den Gletschern Alaskas.",
+      "en": "From Silicon Valley and redwoods to Hawaiian volcanoes and Alaskan glaciers.",
+      "fr": "Californie, Washington, Oregon, Alaska et Hawaï.",
+      "es": "California, Washington, Oregón, Alaska y Hawái.",
+      "it": "California, Washington, Oregon, Alaska e Hawaii."
+    },
+    "states": [
+      {
+        "slug": "kalifornien",
+        "name": "Kalifornien",
+        "cap": "Sacramento",
+        "nick": "Golden State",
+        "h5p": "der-us-bundesstaat-kalifornien-5987"
+      },
+      {
+        "slug": "washington",
+        "name": "Washington",
+        "cap": "Olympia",
+        "nick": "Evergreen State",
+        "h5p": "der-us-bundesstaat-washington-6019"
+      },
+      {
+        "slug": "oregon",
+        "name": "Oregon",
+        "cap": "Salem",
+        "nick": "Beaver State",
+        "h5p": "der-us-bundesstaat-oregon-6009"
+      },
+      {
+        "slug": "alaska",
+        "name": "Alaska",
+        "cap": "Juneau",
+        "nick": "The Last Frontier",
+        "h5p": "der-us-bundesstaat-alaska-5974"
+      },
+      {
+        "slug": "hawaii",
+        "name": "Hawaii",
+        "cap": "Honolulu",
+        "nick": "Aloha State",
+        "h5p": "der-us-bundesstaat-hawaii-5982"
+      }
+    ]
+  }
+]

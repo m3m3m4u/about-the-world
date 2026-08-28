@@ -1,0 +1,869 @@
+{
+  "presentation": {
+    "slides": [
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 6.455305615685532,
+            "width": 92.73743016759778,
+            "height": 50.77262693156732,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:3em;\"><strong>Pregiudizi e Discriminazione</strong></span></p>\n\n<p><strong><span style=\"font-size:1.5em;\">Informazioni ed esercizi</span></strong></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "dff56334-2e6b-4f64-ab5f-fd72e6484f52"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 65.359477124183,
+            "y": 79.61543592678824,
+            "width": 28.32244008714597,
+            "height": 10.617643641308792,
+            "action": {
+              "library": "H5P.Shape 1.0",
+              "params": {
+                "shape": {
+                  "fillColor": "rgb(255, 255, 255)",
+                  "borderWidth": "2",
+                  "borderStyle": "solid",
+                  "borderColor": "rgb(0, 0, 0)",
+                  "borderRadius": "0"
+                },
+                "type": "rectangle",
+                "line": {
+                  "borderColor": "#000000",
+                  "borderWidth": "1",
+                  "borderStyle": "solid"
+                }
+              },
+              "subContentId": "3edf7327-b96a-474e-8779-cee27eb3f112",
+              "metadata": {
+                "contentType": "Shapes",
+                "defaultLanguage": "it",
+                "license": "U"
+              }
+            },
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false
+          },
+          {
+            "x": 67.53812636165577,
+            "y": 81.76720446535008,
+            "width": 22.875816993464053,
+            "height": 8.607074154247377,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p style=\"text-align:center;\"><span style=\"font-size:1.625em;\"><strong>VIDEO</strong></span></p>\n"
+              },
+              "subContentId": "fce1d368-0835-455c-9e36-adf6320b2149",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 65.359477124183,
+            "y": 79.61543592678824,
+            "width": 28.32244008714597,
+            "height": 10.758842692809221,
+            "goToSlide": 2,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 0,
+            "y": 0,
+            "width": 100,
+            "height": 100,
+            "action": {
+              "library": "H5P.Video 1.6",
+              "params": {
+                "visuals": {
+                  "fit": true,
+                  "controls": true
+                },
+                "playback": {
+                  "autoplay": false,
+                  "loop": false
+                },
+                "l10n": {
+                  "name": "Vídeo",
+                  "loading": "Reproductor de vídeo cargando...",
+                  "noPlayers": "No se encontraron reproductores de vídeo que soporten el formato de vídeo dado.",
+                  "noSources": "Faltan las fuentes del vídeo.",
+                  "aborted": "El reproductor de medios ha sido abortado.",
+                  "networkFailure": "Falla de la red.",
+                  "cannotDecode": "No se pueden decodificar los medios.",
+                  "formatNotSupported": "Formato de vídeo no soportado.",
+                  "mediaEncrypted": "Medio encriptado.",
+                  "unknownError": "Error desconocido.",
+                  "invalidYtId": "ID de YouTube inválida.",
+                  "unknownYtId": "No se puede encontrar vídeo con la ID de YouTube dada.",
+                  "restrictedYt": "El propietario de este vídeo no permite que sea incrustado."
+                },
+                "sources": [
+                  {
+                    "path": "https://youtu.be/2Ycq8mw9Dmg",
+                    "mime": "video/unknown",
+                    "copyright": {
+                      "license": "U"
+                    }
+                  }
+                ]
+              },
+              "subContentId": "7578032f-80c7-44d1-b633-38578171e43c",
+              "metadata": {
+                "contentType": "Video",
+                "license": "U",
+                "title": "Unbenannt: Video",
+                "defaultLanguage": "it"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Trascina le parole nelle caselle corrette!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Invia",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra la soluzione",
+                "dropZoneIndex": "Zona de colocación @index.",
+                "empty": "La zona de Colocación @index está vacía.",
+                "contains": "la zona de Colocación @index contiene elemento @draggable.",
+                "ariaDraggableIndex": "@index de @count elementos que se pueden colocar.",
+                "tipLabel": "Mostra l&#039;indizio",
+                "correctText": "Corretto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Restablecer colocación",
+                "resetDropDescription": "¿Seguro que quieres restablecer esta zona de colocación?",
+                "grabbed": "Has cogido el elemento a arrastrar.",
+                "cancelledDragging": "Arrastre cancelado.",
+                "correctAnswer": "Risposta corretta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Has obtenido :num de un total de :total puntos",
+                "a11yCheck": "Comprueba las respuestas. Las respuestas se marcarán como correctas, incorrectas o sin respuesta.",
+                "a11yShowSolution": "Mostra la soluzione. Le travail sera évalué avec la bonne réponse.",
+                "a11yRetry": "Riprova l&#039;esercizio. Cancella tutte le risposte e ricomincia.",
+                "textField": "*Pregiudizi* - opinioni infondate su gruppi di persone\n*Stereotipi* - convinzioni generalizzate su persone\n*Discriminazione* - trattamento ingiusto basato su caratteristiche\n*Percezione distorta* - visione errata della realtà",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Términos 1",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "4a94ce62-c440-4215-bc76-32408bcec41d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termini importanti (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "e773caca-acd3-4ee8-9ed2-b80b588d3a60"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Trascina le parole nelle caselle corrette!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Invia",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra la soluzione",
+                "dropZoneIndex": "Zona de colocación @index.",
+                "empty": "La zona de Colocación @index está vacía.",
+                "contains": "la zona de Colocación @index contiene elemento @draggable.",
+                "ariaDraggableIndex": "@index de @count elementos que se pueden colocar.",
+                "tipLabel": "Mostra l&#039;indizio",
+                "correctText": "Corretto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Restablecer colocación",
+                "resetDropDescription": "¿Seguro que quieres restablecer esta zona de colocación?",
+                "grabbed": "Has cogido el elemento a arrastrar.",
+                "cancelledDragging": "Arrastre cancelado.",
+                "correctAnswer": "Risposta corretta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Has obtenido :num de un total de :total puntos",
+                "a11yCheck": "Comprueba las respuestas. Las respuestas se marcarán como correctas, incorrectas o sin respuesta.",
+                "a11yShowSolution": "Mostra la soluzione. Le travail sera évalué avec la bonne réponse.",
+                "a11yRetry": "Riprova l&#039;esercizio. Cancella tutte le risposte e ricomincia.",
+                "textField": "*Emarginazione* - esclusione sociale di un individuo\n*Conflitti* - scontri tra individui o gruppi\n*Ingiustizia* - trattamento non equo o imparziale\n*Tolleranza* - rispetto delle diversità tra le persone",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Términos 2",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "b74a36f9-2aa3-417a-814c-50e58208f7b3"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termini importanti (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "be59e194-86c9-4928-9194-f6e496790bc1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Completa le frasi!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Invia",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra la soluzione",
+                "dropZoneIndex": "Zona de colocación @index.",
+                "empty": "La zona de Colocación @index está vacía.",
+                "contains": "la zona de Colocación @index contiene elemento @draggable.",
+                "ariaDraggableIndex": "@index de @count elementos que se pueden colocar.",
+                "tipLabel": "Mostra l&#039;indizio",
+                "correctText": "Corretto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Restablecer colocación",
+                "resetDropDescription": "¿Seguro que quieres restablecer esta zona de colocación?",
+                "grabbed": "Has cogido el elemento a arrastrar.",
+                "cancelledDragging": "Arrastre cancelado.",
+                "correctAnswer": "Risposta corretta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Has obtenido :num de un total de :total puntos",
+                "a11yCheck": "Comprueba las respuestas. Las respuestas se marcarán como correctas, incorrectas o sin respuesta.",
+                "a11yShowSolution": "Mostra la soluzione. Le travail sera évalué avec la bonne réponse.",
+                "a11yRetry": "Riprova l&#039;esercizio. Cancella tutte le risposte e ricomincia.",
+                "textField": "*I pregiudizi sono opinioni infondate sulle persone. ...* - ... Le esperienze personali possono alimentare i pregiudizi.\n*La discriminazione crea ingiustizie nelle società. ...* - ... Ogni individuo può contribuire a fermare la discriminazione.\n*Il dialogo tra culture favorisce la comprensione reciproca. ...* - ... La società può prevenire la discriminazione attraverso leggi.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Registros",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "fc5741fc-cbfd-45c8-9433-cf39572a4b81"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Frasi complete (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "ecb45d14-3fe2-4a02-ab8f-6c03ba60ef4c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Completa le frasi!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Verifica",
+                "submitAnswer": "Invia",
+                "tryAgain": "Riprova",
+                "showSolution": "Mostra la soluzione",
+                "dropZoneIndex": "Zona de colocación @index.",
+                "empty": "La zona de Colocación @index está vacía.",
+                "contains": "la zona de Colocación @index contiene elemento @draggable.",
+                "ariaDraggableIndex": "@index de @count elementos que se pueden colocar.",
+                "tipLabel": "Mostra l&#039;indizio",
+                "correctText": "Corretto!",
+                "incorrectText": "Sbagliato!",
+                "resetDropTitle": "Restablecer colocación",
+                "resetDropDescription": "¿Seguro que quieres restablecer esta zona de colocación?",
+                "grabbed": "Has cogido el elemento a arrastrar.",
+                "cancelledDragging": "Arrastre cancelado.",
+                "correctAnswer": "Risposta corretta:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Has obtenido :num de un total de :total puntos",
+                "a11yCheck": "Comprueba las respuestas. Las respuestas se marcarán como correctas, incorrectas o sin respuesta.",
+                "a11yShowSolution": "Mostra la soluzione. Le travail sera évalué avec la bonne réponse.",
+                "a11yRetry": "Riprova l&#039;esercizio. Cancella tutte le risposte e ricomincia.",
+                "textField": "*I pregiudizi nascono da esperienze o informazioni esterne. ...* - ... L&#039;informazione aiuta a cambiare le opinioni pregiudizievoli.\n*Le leggi contro la discriminazione sono fondamentali. ...* - ... La discriminazione può essere invisibile ma dannosa.\n*Essere consapevoli dei pregiudizi aiuta a combatterli. ...* - ... I media svolgono un ruolo cruciale nel trattare pregiudizi.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Registros",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "a8bdf3b3-dac7-40e5-bdfd-f199401a2c3e"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Frasi complete (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "1351cab9-7952-442e-bc32-7d4a3895ab3d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Vero o falso?</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "3f4bfb9e-6eb5-4097-abf6-f0c1308dfc3f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.2346368715083798,
+            "y": 11.69916114790287,
+            "width": 95.41899441340783,
+            "height": 88.30022075055187,
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>Scegli l'affermazione corretta</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Progreso:",
+                "scoreLabel": "Respuestas incorrectas:",
+                "resultLabel": "Tu resultado",
+                "labelCorrect": "Correcte.",
+                "labelIncorrect": "Sbagliato! Por favor inténtalo otra vez.",
+                "alternativeIncorrectLabel": "Incorrecto",
+                "labelCorrectAnswers": "Risposte corrette.",
+                "tipButtonLabel": "Mostra l&#039;indizio",
+                "scoreBarLabel": "Has conseguido :num de un total de :total puntos",
+                "progressText": "Progreso :num de :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "I pregiudizi si formano senza conoscenza precisa.",
+                      "I pregiudizi sono sempre veri e giusti."
+                    ],
+                    "subContentId": "cf133448-9948-4c04-9c59-c8619cf52607",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "La discriminazione può manifestarsi nel lavoro.",
+                      "La discriminazione non ha effetti nella società."
+                    ],
+                    "subContentId": "8df68063-f14a-4a77-9e32-c7134ddae32e",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Il dialogo può aiutarci a cambiare pregiudizi.",
+                      "I pregiudizi non influenzano le relazioni sociali."
+                    ],
+                    "subContentId": "f5627a33-74ab-433b-b64c-caa634150e6b",
+                    "tip": ""
+                  }
+                ]
+              },
+              "subContentId": "6207504c-ae8f-4a09-b236-0a5b6cd442ec",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "Vero o falso?",
+                "defaultLanguage": "it"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Domande</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "it"
+              },
+              "subContentId": "303d8e49-9df8-4ebb-bb74-21e0f7344e25"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.346368715083799,
+            "y": 15.673289183222957,
+            "width": 92.40223463687151,
+            "height": 58.27814569536424,
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": false,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Domanda successiva",
+                  "showSolutionButtonLabel": "Mostra la soluzione",
+                  "retryButtonLabel": "Riprova",
+                  "solutionViewTitle": "Lista Solución",
+                  "correctText": "Corretto!",
+                  "incorrectText": "Sbagliato!",
+                  "muteButtonLabel": "Silenciar sonido de retroalimentación",
+                  "closeButtonLabel": "Cerrar",
+                  "slideOfTotal": "Diapositiva :num de :total",
+                  "scoreBarLabel": "Has conseguido :num de un total de :total puntos",
+                  "solutionListQuestionNumber": "Pregunta :num",
+                  "a11yShowSolution": "Mostra la soluzione. Il compito sarà valutato con la risposta corretta.",
+                  "a11yRetry": "Riprova l&#039;esercizio. Cancella tutte le risposte e ricomincia.",
+                  "shouldSelect": "Debería haber sido seleccionada",
+                  "shouldNotSelect": "NO debería haber sido seleccionada"
+                },
+                "choices": [
+                  {
+                    "question": "Cosa sono i pregiudizi?",
+                    "answers": [
+                      "Opinioni infondate su gruppi di persone (r)",
+                      "Comportamenti violenti contro gli altri",
+                      "Trattamenti giusti verso determinate persone"
+                    ],
+                    "subContentId": "796a3bf1-81b2-441e-9a60-a4a8fab96747"
+                  },
+                  {
+                    "question": "Cosa può causare la discriminazione?",
+                    "answers": [
+                      "Esperienze personali e media (r)",
+                      "Un comportamento giusto delle persone",
+                      "L'educazione di ogni singolo individuo"
+                    ],
+                    "subContentId": "a7ea2b2e-026b-4c43-83b8-685947278a3c"
+                  },
+                  {
+                    "question": "In che modo la discriminazione può manifestarsi?",
+                    "answers": [
+                      "Insulti e emarginazione sociale (r)",
+                      "Sostenere diritti umani universali",
+                      "Partecipazione ai diritti civili"
+                    ],
+                    "subContentId": "c5b5ffc0-4783-4bc5-9a59-564670bcf947"
+                  },
+                  {
+                    "question": "Cosa possiamo fare contro i pregiudizi?",
+                    "answers": [
+                      "Dialogare e confrontarci con gli altri (r)",
+                      "Isolarci dalle altre culture",
+                      "Supportare solo i nostri punti di vista"
+                    ],
+                    "subContentId": "e37a96bd-6882-421e-a0e6-5a1dbc6f8f6d"
+                  },
+                  {
+                    "question": "Perché è importante riconoscere i pregiudizi?",
+                    "answers": [
+                      "Per agire in modo giusto e consapevole (r)",
+                      "Per difendere i propri diritti",
+                      "Per evitare conflitti nelle società"
+                    ],
+                    "subContentId": "85dfcf4d-bf74-4e6a-b6f2-e137196b5d2f"
+                  },
+                  {
+                    "question": "Come può la società prevenire la discriminazione?",
+                    "answers": [
+                      "Attraverso leggi e regole (r)",
+                      "Escludendo le minoranze dalla società",
+                      "Imponendo una cultura unica"
+                    ],
+                    "subContentId": "aade5e73-6ec0-48ad-8157-971bd55c725c"
+                  }
+                ]
+              },
+              "subContentId": "dc6b82f1-4264-4137-8683-db0b27e41a00",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Domande",
+                "defaultLanguage": "it"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      }
+    ],
+    "keywordListEnabled": true,
+    "globalBackgroundSelector": {},
+    "keywordListAlwaysShow": false,
+    "keywordListAutoHide": false,
+    "keywordListOpacity": 90
+  },
+  "override": {
+    "activeSurface": false,
+    "hideSummarySlide": false,
+    "summarySlideSolutionButton": true,
+    "summarySlideRetryButton": true,
+    "enablePrintButton": false,
+    "social": {
+      "showFacebookShare": false,
+      "facebookShare": {
+        "url": "@currentpageurl",
+        "quote": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht."
+      },
+      "showTwitterShare": false,
+      "twitterShare": {
+        "statement": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht.",
+        "url": "@currentpageurl",
+        "hashtags": "h5p, Kurs"
+      },
+      "showGoogleShare": false,
+      "googleShareUrl": "@currentpageurl"
+    }
+  },
+  "l10n": {
+    "slide": "Folie",
+    "score": "Punktzahl",
+    "yourScore": "Deine Punktzahl",
+    "maxScore": "Maximale Punktzahl",
+    "total": "Summe",
+    "totalScore": "Gesamtpunktzahl",
+    "showSolutions": "Lösungen anzeigen",
+    "retry": "Wiederholen",
+    "exportAnswers": "Text exportieren",
+    "hideKeywords": "Stichwortliste verbergen",
+    "showKeywords": "Stichwortliste anzeigen",
+    "fullscreen": "Vollbild",
+    "exitFullscreen": "Vollbild beenden",
+    "prevSlide": "Vorherige Folie",
+    "nextSlide": "Nächste Folie",
+    "currentSlide": "Aktuelle Folie",
+    "lastSlide": "Letzte Folie",
+    "solutionModeTitle": "Lösungsmodus beenden",
+    "solutionModeText": "Lösungsmodus",
+    "summaryMultipleTaskText": "Mehrere Aufgaben",
+    "scoreMessage": "Du hast erreicht:",
+    "shareFacebook": "Auf Facebook teilen",
+    "shareTwitter": "Auf Twitter teilen",
+    "shareGoogle": "Auf Google+ teilen",
+    "summary": "Zusammenfassung",
+    "solutionsButtonTitle": "Kommentare anzeigen",
+    "printTitle": "Drucken",
+    "printIngress": "Wie möchtest du diese Präsentation drucken?",
+    "printAllSlides": "Alle Folien drucken",
+    "printCurrentSlide": "Aktuelle Folie drucken",
+    "noTitle": "Kein Titel",
+    "accessibilitySlideNavigationExplanation": "Verwende die linke oder rechte Cursortaste, um zur Folie in der jeweiligen Richtung zu blättern, wenn der Präsentationsbereich ausgewählt ist.",
+    "accessibilityCanvasLabel": "Präsentationsbereich. Verwende die linke oder rechte Cursortaste, um zwischen den Folien zu navigieren.",
+    "accessibilityProgressBarLabel": "Wähle das zu zeigende Schaubild",
+    "containsNotCompleted": "@slideName enthält eine nicht abgeschlossene Interaktion",
+    "containsCompleted": "@slideName wurde abgeschlossen",
+    "slideCount": "Folie @index von @total",
+    "containsOnlyCorrect": "@slideName enthält nur richtige Antworten",
+    "containsIncorrectAnswers": "@slideName enthält falsche Antworten",
+    "shareResult": "Ergebnis teilen",
+    "accessibilityTotalScore": "Du hast insgesamt @score von @maxScore Punkten erreicht.",
+    "accessibilityEnteredFullscreen": "Vollbild aktiviert",
+    "accessibilityExitedFullscreen": "Vollbild deaktiviert",
+    "confirmDialogHeader": "Antworten übermitteln",
+    "confirmDialogText": "Damit werden deine Ergebnisse übermittelt. Möchtest du fortfahren?",
+    "confirmDialogConfirmText": "Senden und Ergebnisse ansehen",
+    "slideshowNavigationLabel": "Schaubild-Navigation",
+    "confirmDialogConfirmLabel": "Confirm",
+    "confirmDialogCancelLabel": "Cancel"
+  }
+}

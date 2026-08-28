@@ -1,0 +1,917 @@
+{
+  "presentation": {
+    "slides": [
+      {
+        "elements": [
+          {
+            "x": 3.2679738562091503,
+            "y": 6.455305615685532,
+            "width": 92.73743016759778,
+            "height": 50.77262693156732,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:3em;\"><strong>Neil Armstrong (1930-2012) - Astronauta</strong></span></p>\n\n<p><strong><span style=\"font-size:1.5em;\">Información y ejercicios</span></strong></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "dff56334-2e6b-4f64-ab5f-fd72e6484f52"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2331154684095864,
+            "y": 4.414482262971937,
+            "width": 53.37690631808279,
+            "height": 8.825607767023717,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texto informativo (Parte 1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "5627dc6e-c943-439e-ab4a-4531b7f24264"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582783,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Neil Armstrong (1930-2012)</strong><br>\nNeil Armstrong fue un astronauta estadounidense y la primera persona en caminar en la Luna. Nacido en Ohio en 1930, se convirtió en piloto naval y más tarde en piloto de pruebas. Se unió a la NASA en 1962 y voló en su primera misión espacial como comandante del Gemini 8 en 1966, logrando la primera acoplamiento manual de dos naves espaciales.</p>\n\n<p><strong>El primer hombre en la Luna</strong><br>\nEn 1969, Armstrong hizo historia al ser el primer hombre en pisar la Luna como parte de la misión Apollo 11. Su famosa frase, \"Es un pequeño paso para un hombre, un gran salto para la humanidad\", se convirtió en un símbolo de la conquista del espacio. Este evento fue visto por millones de personas en la Tierra y marcó un antes y un después en la exploración espacial.</p>\n\n<p><strong>Entrenamiento y preparación</strong><br>\nPara prepararse para la misión del Apollo 11, Armstrong y su equipo pasaron años entrenándose intensamente. Esto incluyó aprender a maniobrar el módulo lunar, estudiar la geología lunar y practicar situaciones de emergencia. El entrenamiento era tanto físico como mental, para asegurar que pudieran manejar los desafíos del espacio.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "53bc5361-5ce5-43a9-a00f-57bbceee9cd0"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texto informativo (Parte 2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "55aaf4d3-f7e3-4a3e-9196-01a6f7474f94"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Tecnología y la nave Apollo</strong><br>\nLa nave Apollo estaba equipada con la tecnología más avanzada de la época. Armstrong tuvo que aprender a operar sistemas complejos y a trabajar con computadoras menos potentes que los teléfonos actuales. La nave estaba diseñada para transportar a los astronautas al espacio y garantizar su regreso seguro a la Tierra.</p>\n\n<p><strong>El despegue del Apollo 11</strong><br>\nEl despegue del Apollo 11 fue un evento que capturó la atención mundial. El 16 de julio de 1969, Armstrong, junto con los astronautas Buzz Aldrin y Michael Collins, despegaron desde la Tierra en un viaje que cambiaría la historia. La misión fue posible gracias al trabajo de miles de ingenieros y científicos.</p>\n\n<p><strong>Aterrizaje lunar y desafíos</strong><br>\nEl aterrizaje en la Luna presentó desafíos únicos. Armstrong tuvo que tomar el control manual del módulo lunar para evitar un área llena de rocas. La precisión y la calma de Armstrong durante estos momentos críticos fueron decisivas para el éxito de la misión y su propia seguridad.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "3b13867b-feab-4e2e-bfa2-fcc82e4dbff1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texto informativo (Parte 3)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "4381b60d-c67f-4722-b83d-b17f2fc9d01c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 12.910611231371064,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Actividades en la superficie lunar</strong><br>\nDurante su estancia en la Luna, Armstrong y Aldrin realizaron experimentos científicos, recolectaron muestras de roca lunar y tomaron fotografías. Sus actividades ayudaron a los científicos a entender mejor la composición y la historia de la Luna. También dejaron una placa conmemorativa y una bandera estadounidense.</p>\n\n<p><strong>Vuelta a la Tierra y cuarentena</strong><br>\nDespués de su histórico paseo lunar, Armstrong y su equipo regresaron al módulo de comando, donde se reunieron con Collins y comenzaron su viaje de vuelta a la Tierra. A su regreso, los astronautas fueron puestos en cuarentena para asegurarse de que no trajeran consigo agentes patógenos lunares.</p>\n\n<p><strong>Legado y recuerdo</strong><br>\nEl legado de Neil Armstrong sigue vivo en los libros de historia y en la inspiración que proporciona a futuras generaciones de exploradores espaciales. Sus contribuciones a la ciencia y la ingeniería son recordadas cada vez que miramos a la Luna. Murió en 2012, pero su huella en la Luna y su impacto en la humanidad perduran.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "3d655444-fd55-42f7-aba2-16a16db7dc58"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>¡Arrastra las palabras a las casillas correctas!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Comprobar",
+                "submitAnswer": "Enviar",
+                "tryAgain": "Intentar de nuevo",
+                "showSolution": "Mostrar solución",
+                "dropZoneIndex": "Zona de colocación @index.",
+                "empty": "La zona de colocación @index está vacía.",
+                "contains": "la zona de colocación @index contiene elemento @draggable.",
+                "ariaDraggableIndex": "@index de @count elementos que se pueden colocar.",
+                "tipLabel": "Mostrar pista",
+                "correctText": "¡Correcto!",
+                "incorrectText": "¡Incorrecto!",
+                "resetDropTitle": "Restablecer colocación",
+                "resetDropDescription": "¿Seguro que quieres restablecer esta zona de colocación?",
+                "grabbed": "Has cogido el elemento a arrastrar.",
+                "cancelledDragging": "Arrastre cancelado.",
+                "correctAnswer": "Respuesta correcta:",
+                "feedbackHeader": "Retroalimentación",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Has obtenido :num de un total de :total puntos",
+                "a11yCheck": "Comprueba las respuestas. Las respuestas se marcarán como correctas, incorrectas o sin respuesta.",
+                "a11yShowSolution": "Mostrar la solución. El trabajo será calificado con su solución correcta.",
+                "a11yRetry": "Vuelve a intentar la tarea. Borra todas tus respuestas y empieza de nuevo.",
+                "textField": "*Astronauta* - profesional entrenado para viajar al espacio\n*Acoplamiento manual* - unir dos naves espaciales en órbita\n*Geología lunar* - estudio de la composición de la Luna\n*Módulo lunar* - vehículo para aterrizar y despegar de la Luna\n*Computadoras de la época* - sistemas menos potentes que teléfonos actuales",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Términos importantes (1)",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "4a94ce62-c440-4215-bc76-32408bcec41d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Términos importantes (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "e773caca-acd3-4ee8-9ed2-b80b588d3a60"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>¡Arrastra las palabras a las casillas correctas!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Comprobar",
+                "submitAnswer": "Enviar",
+                "tryAgain": "Intentar de nuevo",
+                "showSolution": "Mostrar solución",
+                "dropZoneIndex": "Zona de colocación @index.",
+                "empty": "La zona de colocación @index está vacía.",
+                "contains": "la zona de colocación @index contiene elemento @draggable.",
+                "ariaDraggableIndex": "@index de @count elementos que se pueden colocar.",
+                "tipLabel": "Mostrar pista",
+                "correctText": "¡Correcto!",
+                "incorrectText": "¡Incorrecto!",
+                "resetDropTitle": "Restablecer colocación",
+                "resetDropDescription": "¿Seguro que quieres restablecer esta zona de colocación?",
+                "grabbed": "Has cogido el elemento a arrastrar.",
+                "cancelledDragging": "Arrastre cancelado.",
+                "correctAnswer": "Respuesta correcta:",
+                "feedbackHeader": "Retroalimentación",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Has obtenido :num de un total de :total puntos",
+                "a11yCheck": "Comprueba las respuestas. Las respuestas se marcarán como correctas, incorrectas o sin respuesta.",
+                "a11yShowSolution": "Mostrar la solución. El trabajo será calificado con su solución correcta.",
+                "a11yRetry": "Vuelve a intentar la tarea. Borra todas tus respuestas y empieza de nuevo.",
+                "textField": "*Despegue del Apollo 11* - inicio de una misión histórica al espacio\n*Control manual* - manejo directo de una nave espacial\n*Experimentos científicos* - pruebas realizadas en la Luna\n*Cuarentena espacial* - aislamiento post-misión para seguridad",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Términos importantes (2)",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "b74a36f9-2aa3-417a-814c-50e58208f7b3"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Términos importantes (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "be59e194-86c9-4928-9194-f6e496790bc1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>¡Completa las frases!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Comprobar",
+                "submitAnswer": "Enviar",
+                "tryAgain": "Intentar de nuevo",
+                "showSolution": "Mostrar solución",
+                "dropZoneIndex": "Zona de colocación @index.",
+                "empty": "La zona de colocación @index está vacía.",
+                "contains": "la zona de colocación @index contiene elemento @draggable.",
+                "ariaDraggableIndex": "@index de @count elementos que se pueden colocar.",
+                "tipLabel": "Mostrar pista",
+                "correctText": "¡Correcto!",
+                "incorrectText": "¡Incorrecto!",
+                "resetDropTitle": "Restablecer colocación",
+                "resetDropDescription": "¿Seguro que quieres restablecer esta zona de colocación?",
+                "grabbed": "Has cogido el elemento a arrastrar.",
+                "cancelledDragging": "Arrastre cancelado.",
+                "correctAnswer": "Respuesta correcta:",
+                "feedbackHeader": "Retroalimentación",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Has obtenido :num de un total de :total puntos",
+                "a11yCheck": "Comprueba las respuestas. Las respuestas se marcarán como correctas, incorrectas o sin respuesta.",
+                "a11yShowSolution": "Mostrar la solución. El trabajo será calificado con su solución correcta.",
+                "a11yRetry": "Vuelve a intentar la tarea. Borra todas tus respuestas y empieza de nuevo.",
+                "textField": "*Neil Armstrong nació en Ohio ...* - ... en 1930.\n*Fue comandante del Gemini 8 ...* - ... en 1966.\n*Dijo &quot;Es un pequeño paso ...* - ... para un hombre&quot;.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Frases completas (1)",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "fc5741fc-cbfd-45c8-9433-cf39572a4b81"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Frases completas (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "ecb45d14-3fe2-4a02-ab8f-6c03ba60ef4c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>¡Completa las frases!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Comprobar",
+                "submitAnswer": "Enviar",
+                "tryAgain": "Intentar de nuevo",
+                "showSolution": "Mostrar solución",
+                "dropZoneIndex": "Zona de colocación @index.",
+                "empty": "La zona de colocación @index está vacía.",
+                "contains": "la zona de colocación @index contiene elemento @draggable.",
+                "ariaDraggableIndex": "@index de @count elementos que se pueden colocar.",
+                "tipLabel": "Mostrar pista",
+                "correctText": "¡Correcto!",
+                "incorrectText": "¡Incorrecto!",
+                "resetDropTitle": "Restablecer colocación",
+                "resetDropDescription": "¿Seguro que quieres restablecer esta zona de colocación?",
+                "grabbed": "Has cogido el elemento a arrastrar.",
+                "cancelledDragging": "Arrastre cancelado.",
+                "correctAnswer": "Respuesta correcta:",
+                "feedbackHeader": "Retroalimentación",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Has obtenido :num de un total de :total puntos",
+                "a11yCheck": "Comprueba las respuestas. Las respuestas se marcarán como correctas, incorrectas o sin respuesta.",
+                "a11yShowSolution": "Mostrar la solución. El trabajo será calificado con su solución correcta.",
+                "a11yRetry": "Vuelve a intentar la tarea. Borra todas tus respuestas y empieza de nuevo.",
+                "textField": "*Participó en intensos entrenamientos ...* - ... para la misión.\n*El Apollo 11 despegó el 16 ...* - ... de julio de 1969.\n*Evitó un área rocosa ...* - ... en el aterrizaje lunar.\n*La misión Apollo terminó con ...* - ... una cuarentena de seguridad.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Frases completas (2)",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "a8bdf3b3-dac7-40e5-bdfd-f199401a2c3e"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Frases completas (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "1351cab9-7952-442e-bc32-7d4a3895ab3d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>¿Verdadero o falso?</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "3f4bfb9e-6eb5-4097-abf6-f0c1308dfc3f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.2346368715083798,
+            "y": 11.69916114790287,
+            "width": 95.41899441340783,
+            "height": 88.30022075055187,
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>Elija la afirmación correcta</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Progreso:",
+                "scoreLabel": "Respuestas incorrectas:",
+                "resultLabel": "Tu resultado",
+                "labelCorrect": "Correcta.",
+                "labelIncorrect": "¡Incorrecto! Por favor inténtalo otra vez.",
+                "alternativeIncorrectLabel": "Incorrecto",
+                "labelCorrectAnswers": "Respuestas correctas.",
+                "tipButtonLabel": "Mostrar pista",
+                "scoreBarLabel": "Has conseguido :num de un total de :total puntos",
+                "progressText": "Progreso :num de :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "Neil Armstrong fue el primer hombre en la Luna.",
+                      "Armstrong fue el único en caminar en la Luna."
+                    ],
+                    "subContentId": "57c4c682-9842-4289-9f99-fb0941f19ad4",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Comandó el Gemini 8 antes del Apollo 11.",
+                      "El Apollo 11 despegó en 1970."
+                    ],
+                    "subContentId": "b0c3aba1-44f0-438a-959d-af203fcf1b4f",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Su frase en la Luna fue emblemática.",
+                      "Usó computadoras más potentes que smartphones."
+                    ],
+                    "subContentId": "d31d9cf2-808c-42f2-8959-24b669c24cd6",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Recolectó muestras de roca lunar.",
+                      "La cuarentena fue para estudiar las rocas lunares."
+                    ],
+                    "subContentId": "756cadd1-ff2d-4147-af71-878bd9f67717",
+                    "tip": ""
+                  }
+                ]
+              },
+              "subContentId": "6207504c-ae8f-4a09-b236-0a5b6cd442ec",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "¿Verdadero o falso?",
+                "defaultLanguage": "es"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Preguntas</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "303d8e49-9df8-4ebb-bb74-21e0f7344e25"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 92.40223463687151,
+            "height": 58.27814569536424,
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": false,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Siguiente pregunta",
+                  "showSolutionButtonLabel": "Mostrar solución",
+                  "retryButtonLabel": "Intentar de nuevo",
+                  "solutionViewTitle": "Lista Solución",
+                  "correctText": "¡Correcto!",
+                  "incorrectText": "¡Incorrecto!",
+                  "muteButtonLabel": "Silenciar sonido de retroalimentación",
+                  "closeButtonLabel": "Cerrar",
+                  "slideOfTotal": "Diapositiva :num de :total",
+                  "scoreBarLabel": "Has conseguido :num de un total de :total puntos",
+                  "solutionListQuestionNumber": "Pregunta :num",
+                  "a11yShowSolution": "Mostrar la solución. La tarea se calificará con su solución correcta.",
+                  "a11yRetry": "Vuelve a intentar la tarea. Borra todas tus respuestas y empieza de nuevo.",
+                  "shouldSelect": "Debería haber sido seleccionada",
+                  "shouldNotSelect": "NO debería haber sido seleccionada"
+                },
+                "choices": [
+                  {
+                    "question": "¿Cuál era la profesión de Neil Armstrong?",
+                    "answers": [
+                      "astronauta",
+                      "geólogo",
+                      "piloto comercial",
+                      "profesor universitario"
+                    ],
+                    "subContentId": "75dbb9fa-5a7f-4b16-8413-3b863b0afc34"
+                  },
+                  {
+                    "question": "¿Qué misión comandó antes del Apollo 11?",
+                    "answers": [
+                      "Gemini 8",
+                      "Gemini 7",
+                      "Mercury 9",
+                      "Apollo 10"
+                    ],
+                    "subContentId": "0ed6bb14-4b4c-4177-8e29-f3b2ad5011c3"
+                  },
+                  {
+                    "question": "¿Qué dijo al pisar la Luna?",
+                    "answers": [
+                      "Es un pequeño paso para un hombre",
+                      "Es un gran día para la humanidad",
+                      "Hemos llegado",
+                      "Es un paso gigante"
+                    ],
+                    "subContentId": "5486fa49-da75-49bc-863f-1277a509184a"
+                  },
+                  {
+                    "question": "¿Cómo se preparó para Apollo 11?",
+                    "answers": [
+                      "entrenamiento intensivo",
+                      "lecturas científicas",
+                      "ejercicios mentales",
+                      "viajes de prueba"
+                    ],
+                    "subContentId": "52b99f31-32f9-4a7e-879c-5fed19e6f1f0"
+                  },
+                  {
+                    "question": "¿Cuándo despegó el Apollo 11?",
+                    "answers": [
+                      "16 de julio de 1969",
+                      "20 de julio de 1968",
+                      "12 de agosto de 1969",
+                      "10 de julio de 1970"
+                    ],
+                    "subContentId": "a7598466-44c9-49f7-b24f-be624c6d0299"
+                  },
+                  {
+                    "question": "¿Qué evitó Armstrong durante el aterrizaje lunar?",
+                    "answers": [
+                      "área llena de rocas",
+                      "tormenta de polvo",
+                      "cráteres profundos",
+                      "falla técnica"
+                    ],
+                    "subContentId": "b0d93af0-2b09-4683-89e0-5487a8d68213"
+                  }
+                ]
+              },
+              "subContentId": "dc6b82f1-4264-4137-8683-db0b27e41a00",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Preguntas",
+                "defaultLanguage": "es"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      }
+    ],
+    "keywordListEnabled": true,
+    "globalBackgroundSelector": {},
+    "keywordListAlwaysShow": false,
+    "keywordListAutoHide": false,
+    "keywordListOpacity": 90
+  },
+  "override": {
+    "activeSurface": false,
+    "hideSummarySlide": false,
+    "summarySlideSolutionButton": true,
+    "summarySlideRetryButton": true,
+    "enablePrintButton": false,
+    "social": {
+      "showFacebookShare": false,
+      "facebookShare": {
+        "url": "@currentpageurl",
+        "quote": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht."
+      },
+      "showTwitterShare": false,
+      "twitterShare": {
+        "statement": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht.",
+        "url": "@currentpageurl",
+        "hashtags": "h5p, Kurs"
+      },
+      "showGoogleShare": false,
+      "googleShareUrl": "@currentpageurl"
+    }
+  },
+  "l10n": {
+    "slide": "Diapositiva",
+    "score": "Puntuación",
+    "yourScore": "Tu puntuación",
+    "maxScore": "Puntuación Máxima",
+    "total": "Total",
+    "totalScore": "Puntuación Total",
+    "showSolutions": "Mostrar soluciones",
+    "retry": "Intentar de nuevo",
+    "exportAnswers": "Exportar texto",
+    "hideKeywords": "Ocultar lista de palabras clave",
+    "showKeywords": "Mostrar lista de palabras clave",
+    "fullscreen": "Pantalla Completa",
+    "exitFullscreen": "Salir de Pantalla completa",
+    "prevSlide": "Diapositiva anterior",
+    "nextSlide": "Diapositiva siguiente",
+    "currentSlide": "Diapositiva actual",
+    "lastSlide": "Última Diapositiva",
+    "solutionModeTitle": "Salir del modo de solución",
+    "solutionModeText": "Modo de solución",
+    "summaryMultipleTaskText": "Tareas múltiples",
+    "scoreMessage": "Has obtenido:",
+    "shareFacebook": "Compartir en Facebook",
+    "shareTwitter": "Compartir en Twitter",
+    "shareGoogle": "Compartir en Google+",
+    "summary": "Resumen",
+    "solutionsButtonTitle": "Mostrar comentarios",
+    "printTitle": "Imprimir",
+    "printIngress": "¿Cómo te gustaría imprimir esta presentación?",
+    "printAllSlides": "Imprimir todas las diapositivas",
+    "printCurrentSlide": "Imprimir diapositiva actual",
+    "noTitle": "Sin título",
+    "accessibilitySlideNavigationExplanation": "Usa las flecha izquierda y derecha para cambiar la diapositiva en esa dirección siempre que se haya seleccionado el lienzo",
+    "accessibilityCanvasLabel": "Lienzo de presentación. Usa las flechas izquierda y derecha para moverte entre diapositivas.",
+    "containsNotCompleted": "@slideName contiene una interacción no completada",
+    "containsCompleted": "@slideName contiene una interacción completada",
+    "slideCount": "Diapositiva @index de @total",
+    "containsOnlyCorrect": "@slideName solamente contiene respuestas correctas",
+    "containsIncorrectAnswers": "@slideName contiene respuestas incorrectas",
+    "shareResult": "Compartir resultado",
+    "accessibilityTotalScore": "Has obtenido @score de un total de @maxScore puntos",
+    "accessibilityEnteredFullscreen": "Has pasado a pantalla completa",
+    "accessibilityExitedFullscreen": "Has salido de pantalla completa",
+    "confirmDialogHeader": "Envía tus respuestas",
+    "confirmDialogText": "Esto enviará tus resultados, ¿quieres continuar?",
+    "confirmDialogConfirmText": "Enviar y ver resultados",
+    "accessibilityProgressBarLabel": "Elegir diapositiva para mostrar",
+    "slideshowNavigationLabel": "Navegación por la presentación de diapositivas"
+  }
+}

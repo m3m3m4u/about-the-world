@@ -1,0 +1,978 @@
+{
+  "presentation": {
+    "slides": [
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 6.622516556291391,
+            "width": 92.73743016759778,
+            "height": 50.77262693156732,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:3em;\"><strong>¿Cómo perciben el conflicto los jóvenes israelíes y palestinos?</strong></span></p>\n\n<p><strong><span style=\"font-size:1.5em;\">Información y ejercicios</span></strong></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "dff56334-2e6b-4f64-ab5f-fd72e6484f52"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 0,
+            "y": 0,
+            "width": 100,
+            "height": 99.99999999999999,
+            "action": {
+              "library": "H5P.Video 1.6",
+              "params": {
+                "visuals": {
+                  "fit": true,
+                  "controls": true
+                },
+                "playback": {
+                  "autoplay": false,
+                  "loop": false
+                },
+                "l10n": {
+                  "name": "Vídeo",
+                  "loading": "Reproductor de vídeo cargando...",
+                  "noPlayers": "No se encontraron reproductores de vídeo que soporten el formato de vídeo dado.",
+                  "noSources": "Faltan las fuentes del vídeo.",
+                  "aborted": "El reproductor de medios ha sido abortado.",
+                  "networkFailure": "Fallo de red.",
+                  "cannotDecode": "No se pueden decodificar los medios.",
+                  "formatNotSupported": "Formato de vídeo no soportado.",
+                  "mediaEncrypted": "Medio cifrado.",
+                  "unknownError": "Error desconocido.",
+                  "invalidYtId": "ID de YouTube inválida.",
+                  "unknownYtId": "No se puede encontrar vídeo con la ID de YouTube dada.",
+                  "restrictedYt": "El propietario de este vídeo no permite que sea incrustado."
+                },
+                "sources": [
+                  {
+                    "path": "https://youtu.be/sHXPqgCJjb4",
+                    "mime": "video/YouTube",
+                    "copyright": {
+                      "license": "U"
+                    }
+                  }
+                ]
+              },
+              "subContentId": "1c0c2e2c-791f-488d-a560-ec9f65c82faf",
+              "metadata": {
+                "contentType": "Video",
+                "license": "U",
+                "title": "Unbenannt: Video"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2331154684095864,
+            "y": 4.414482262971937,
+            "width": 53.37690631808279,
+            "height": 8.825607767023717,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texto informativo (Parte 1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "5627dc6e-c943-439e-ab4a-4531b7f24264"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 12.910611231371064,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Introducción al conflicto</strong><br>\nEl conflicto entre israelíes y palestinos tiene una larga historia que se remonta a muchas décadas. Ambos grupos reclaman la misma tierra, lo que ha llevado a muchos enfrentamientos. La situación es compleja y está influenciada por muchos factores políticos y religiosos.</p>\n\n<p><strong>Perspectiva de los jóvenes israelíes</strong><br>\nLos jóvenes israelíes suelen crecer en un entorno marcado por la presencia militar y la amenaza a la seguridad nacional. Algunos ven el conflicto como una amenaza para su futuro y desean la paz, mientras que otros pueden adoptar una postura más dura hacia los palestinos. Sus puntos de vista suelen estar moldeados por experiencias personales y la educación que reciben de la familia y la escuela.</p>\n\n<p><strong>Educación y concienciación</strong><br>\nEn Israel hay programas educativos que acercan a los jóvenes al conflicto y su complejidad. Estos programas buscan crear un mejor entendimiento y posiblemente una base para futuras soluciones. La educación puede ayudar a desmontar prejuicios y a desarrollar una imagen más matizada de la situación.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "53bc5361-5ce5-43a9-a00f-57bbceee9cd0"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texto informativo (Parte 2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "55aaf4d3-f7e3-4a3e-9196-01a6f7474f94"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Perspectiva de los jóvenes palestinos</strong><br>\nPor otro lado, los jóvenes palestinos a menudo experimentan una realidad diferente. Pueden sufrir condiciones de vida precarias y tener menos acceso a la educación. Muchos ven el conflicto como una amenaza directa para sus familias y comunidades y desean un cambio en la situación actual.</p>\n\n<p><strong>Influencia de la familia y la comunidad</strong><br>\nLa familia y la comunidad juegan un papel esencial en la percepción del conflicto por parte de los jóvenes palestinos. Sus puntos de vista a menudo están moldeados por las experiencias y narrativas de sus mayores. Estas historias personales pueden llevar a un entendimiento más profundo del conflicto o también reforzar prejuicios.</p>\n\n<p><strong>Sistema educativo en Palestina</strong><br>\nEn Palestina también hay esfuerzos educativos para informar a los jóvenes sobre el conflicto. Sin embargo, a menudo enfrentan desafíos, como la falta de recursos o la interferencia política. Aun así, los programas educativos pueden ayudar a desarrollar un mejor entendimiento de la complejidad del conflicto.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "3b13867b-feab-4e2e-bfa2-fcc82e4dbff1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texto informativo (Parte 3)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "4381b60d-c67f-4722-b83d-b17f2fc9d01c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Iniciativas conjuntas para la paz</strong><br>\nTambién existen iniciativas conjuntas de israelíes y palestinos que buscan promover la paz y crear un mejor entendimiento entre las comunidades. Los jóvenes pueden tener la oportunidad de entrar en contacto entre ellos y aprender unos de otros a través de estos programas.</p>\n\n<p><strong>El papel de la comunidad internacional</strong><br>\nLa comunidad internacional también puede desempeñar un papel al promover programas e iniciativas de apoyo. Fomentando el diálogo y proporcionando recursos, la comunidad internacional puede ayudar a construir un futuro más positivo para los jóvenes en la región.</p>\n\n<p><strong>Esperanza en un futuro mejor</strong><br>\nA pesar del conflicto en curso, hay esperanza de un futuro mejor entre muchos jóvenes israelíes y palestinos. A través de la educación, el diálogo y las iniciativas conjuntas, se pueden tomar medidas para fomentar el entendimiento y la cooperación entre las comunidades y, posiblemente, encontrar una vía hacia una solución más sostenible del conflicto.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "3d655444-fd55-42f7-aba2-16a16db7dc58"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>¡Arrastra las palabras a las casillas correctas!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Comprobar",
+                "submitAnswer": "Enviar",
+                "tryAgain": "Intentar de nuevo",
+                "showSolution": "Mostrar solución",
+                "dropZoneIndex": "Zona de colocación @index.",
+                "empty": "La zona de colocación @index está vacía.",
+                "contains": "la zona de colocación @index contiene elemento @draggable.",
+                "ariaDraggableIndex": "@index de @count elementos que se pueden colocar.",
+                "tipLabel": "Mostrar pista",
+                "correctText": "¡Correcto!",
+                "incorrectText": "¡Incorrecto!",
+                "resetDropTitle": "Restablecer colocación",
+                "resetDropDescription": "¿Seguro que quieres restablecer esta zona de colocación?",
+                "grabbed": "Has cogido el elemento a arrastrar.",
+                "cancelledDragging": "Arrastre cancelado.",
+                "correctAnswer": "Respuesta correcta:",
+                "feedbackHeader": "Retroalimentación",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Has obtenido :num de un total de :total puntos",
+                "a11yCheck": "Comprueba las respuestas. Las respuestas se marcarán como correctas, incorrectas o sin respuesta.",
+                "a11yShowSolution": "Mostrar la solución. El trabajo será calificado con su solución correcta.",
+                "a11yRetry": "Vuelve a intentar la tarea. Borra todas tus respuestas y empieza de nuevo.",
+                "textField": "*Interferencia política* - manipulación o influencia por parte del gobierno\n*Narrativas* - historias o cuentos que explican experiencias\n*Comunidad internacional* - países y organizaciones globales\n*Solución sostenible* - respuesta duradera y equitativa al problema",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Términos importantes (1)",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "4a94ce62-c440-4215-bc76-32408bcec41d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Términos importantes (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "e773caca-acd3-4ee8-9ed2-b80b588d3a60"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>¡Arrastra las palabras a las casillas correctas!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Comprobar",
+                "submitAnswer": "Enviar",
+                "tryAgain": "Intentar de nuevo",
+                "showSolution": "Mostrar solución",
+                "dropZoneIndex": "Zona de colocación @index.",
+                "empty": "La zona de colocación @index está vacía.",
+                "contains": "la zona de colocación @index contiene elemento @draggable.",
+                "ariaDraggableIndex": "@index de @count elementos que se pueden colocar.",
+                "tipLabel": "Mostrar pista",
+                "correctText": "¡Correcto!",
+                "incorrectText": "¡Incorrecto!",
+                "resetDropTitle": "Restablecer colocación",
+                "resetDropDescription": "¿Seguro que quieres restablecer esta zona de colocación?",
+                "grabbed": "Has cogido el elemento a arrastrar.",
+                "cancelledDragging": "Arrastre cancelado.",
+                "correctAnswer": "Respuesta correcta:",
+                "feedbackHeader": "Retroalimentación",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Has obtenido :num de un total de :total puntos",
+                "a11yCheck": "Comprueba las respuestas. Las respuestas se marcarán como correctas, incorrectas o sin respuesta.",
+                "a11yShowSolution": "Mostrar la solución. El trabajo será calificado con su solución correcta.",
+                "a11yRetry": "Vuelve a intentar la tarea. Borra todas tus respuestas y empieza de nuevo.",
+                "textField": "*Conflicto* - disputa o lucha entre dos o más partes\n*Perspectiva* - punto de vista o actitud hacia una situación\n*Concienciación* - proceso de ser más consciente o informado\n*Prejuicio* - juicio o idea formada sin conocimiento completo\n*Iniciativa* - plan o estrategia para lograr un objetivo",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Términos importantes (2)",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "b74a36f9-2aa3-417a-814c-50e58208f7b3"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Términos importantes (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "be59e194-86c9-4928-9194-f6e496790bc1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>¡Completa las frases!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Comprobar",
+                "submitAnswer": "Enviar",
+                "tryAgain": "Intentar de nuevo",
+                "showSolution": "Mostrar solución",
+                "dropZoneIndex": "Zona de colocación @index.",
+                "empty": "La zona de colocación @index está vacía.",
+                "contains": "la zona de colocación @index contiene elemento @draggable.",
+                "ariaDraggableIndex": "@index de @count elementos que se pueden colocar.",
+                "tipLabel": "Mostrar pista",
+                "correctText": "¡Correcto!",
+                "incorrectText": "¡Incorrecto!",
+                "resetDropTitle": "Restablecer colocación",
+                "resetDropDescription": "¿Seguro que quieres restablecer esta zona de colocación?",
+                "grabbed": "Has cogido el elemento a arrastrar.",
+                "cancelledDragging": "Arrastre cancelado.",
+                "correctAnswer": "Respuesta correcta:",
+                "feedbackHeader": "Retroalimentación",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Has obtenido :num de un total de :total puntos",
+                "a11yCheck": "Comprueba las respuestas. Las respuestas se marcarán como correctas, incorrectas o sin respuesta.",
+                "a11yShowSolution": "Mostrar la solución. El trabajo será calificado con su solución correcta.",
+                "a11yRetry": "Vuelve a intentar la tarea. Borra todas tus respuestas y empieza de nuevo.",
+                "textField": "*Los jóvenes israelíes crecen ...* - ... en un entorno militarizado.  \n*La educación en Israel busca ...* - ... fomentar un mejor entendimiento.  \n*Los jóvenes palestinos a menudo enfrentan ...* - ... condiciones de vida precarias.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Frases completas (1)",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "fc5741fc-cbfd-45c8-9433-cf39572a4b81"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Frases completas (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "ecb45d14-3fe2-4a02-ab8f-6c03ba60ef4c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>¡Completa las frases!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Comprobar",
+                "submitAnswer": "Enviar",
+                "tryAgain": "Intentar de nuevo",
+                "showSolution": "Mostrar solución",
+                "dropZoneIndex": "Zona de colocación @index.",
+                "empty": "La zona de colocación @index está vacía.",
+                "contains": "la zona de colocación @index contiene elemento @draggable.",
+                "ariaDraggableIndex": "@index de @count elementos que se pueden colocar.",
+                "tipLabel": "Mostrar pista",
+                "correctText": "¡Correcto!",
+                "incorrectText": "¡Incorrecto!",
+                "resetDropTitle": "Restablecer colocación",
+                "resetDropDescription": "¿Seguro que quieres restablecer esta zona de colocación?",
+                "grabbed": "Has cogido el elemento a arrastrar.",
+                "cancelledDragging": "Arrastre cancelado.",
+                "correctAnswer": "Respuesta correcta:",
+                "feedbackHeader": "Retroalimentación",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Has obtenido :num de un total de :total puntos",
+                "a11yCheck": "Comprueba las respuestas. Las respuestas se marcarán como correctas, incorrectas o sin respuesta.",
+                "a11yShowSolution": "Mostrar la solución. El trabajo será calificado con su solución correcta.",
+                "a11yRetry": "Vuelve a intentar la tarea. Borra todas tus respuestas y empieza de nuevo.",
+                "textField": "*La familia influye fuertemente ...* - ... en la percepción del conflicto.  \n*Los programas en Palestina enfrentan ...* - ... falta de recursos y política.  \n*Iniciativas conjuntas promueven la paz ...* - ... entre comunidades opuestas.  \n*La comunidad internacional puede ...* - ... proporcionar recursos y apoyo.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Frases completas (2)",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "a8bdf3b3-dac7-40e5-bdfd-f199401a2c3e"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Frases completas (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "1351cab9-7952-442e-bc32-7d4a3895ab3d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>¿Verdadero o falso?</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "3f4bfb9e-6eb5-4097-abf6-f0c1308dfc3f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.2346368715083798,
+            "y": 11.69916114790287,
+            "width": 95.41899441340783,
+            "height": 88.30022075055187,
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>Elija la afirmación correcta</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Progreso:",
+                "scoreLabel": "Respuestas incorrectas:",
+                "resultLabel": "Tu resultado",
+                "labelCorrect": "Correcta.",
+                "labelIncorrect": "¡Incorrecto! Por favor inténtalo otra vez.",
+                "alternativeIncorrectLabel": "Incorrecto",
+                "labelCorrectAnswers": "Respuestas correctas.",
+                "tipButtonLabel": "Mostrar pista",
+                "scoreBarLabel": "Has conseguido :num de un total de :total puntos",
+                "progressText": "Progreso :num de :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "Ambos grupos reclaman la misma tierra.",
+                      "La situación entre israelíes y palestinos es simple y fácil de entender."
+                    ],
+                    "subContentId": "82f64ae8-666c-4d5f-8393-3e5cee90aa73",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Los jóvenes israelíes a menudo crecen en un entorno militarizado.",
+                      "Todos los jóvenes israelíes adoptan una postura dura hacia los palestinos."
+                    ],
+                    "subContentId": "d50456d0-d799-47cb-8585-9926c2d02ce2",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Los jóvenes palestinos pueden tener menos acceso a la educación.",
+                      "En Palestina no hay ningún esfuerzo educativo sobre el conflicto."
+                    ],
+                    "subContentId": "3921dde1-845b-4a1d-b3dc-78a348d3a1e3",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Hay esfuerzos educativos en Palestina para informar sobre el conflicto.",
+                      "La comunidad internacional no tiene ningún papel en este conflicto."
+                    ],
+                    "subContentId": "aa605771-977f-4134-9875-4a4331233145",
+                    "tip": ""
+                  }
+                ]
+              },
+              "subContentId": "6207504c-ae8f-4a09-b236-0a5b6cd442ec",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "¿Verdadero o falso?",
+                "defaultLanguage": "es"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Preguntas</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "303d8e49-9df8-4ebb-bb74-21e0f7344e25"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.346368715083799,
+            "y": 15.673289183222957,
+            "width": 92.40223463687151,
+            "height": 58.27814569536424,
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": false,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Siguiente pregunta",
+                  "showSolutionButtonLabel": "Mostrar solución",
+                  "retryButtonLabel": "Intentar de nuevo",
+                  "solutionViewTitle": "Lista Solución",
+                  "correctText": "¡Correcto!",
+                  "incorrectText": "¡Incorrecto!",
+                  "muteButtonLabel": "Silenciar sonido de retroalimentación",
+                  "closeButtonLabel": "Cerrar",
+                  "slideOfTotal": "Diapositiva :num de :total",
+                  "scoreBarLabel": "Has conseguido :num de un total de :total puntos",
+                  "solutionListQuestionNumber": "Pregunta :num",
+                  "a11yShowSolution": "Mostrar la solución. La tarea se calificará con su solución correcta.",
+                  "a11yRetry": "Vuelve a intentar la tarea. Borra todas tus respuestas y empieza de nuevo.",
+                  "shouldSelect": "Debería haber sido seleccionada",
+                  "shouldNotSelect": "NO debería haber sido seleccionada"
+                },
+                "choices": [
+                  {
+                    "question": "¿Qué reclaman tanto israelíes como palestinos?",
+                    "answers": [
+                      "La misma tierra",
+                      "Diferentes territorios",
+                      "Solo recursos naturales",
+                      "Independencia política"
+                    ],
+                    "subContentId": "bd4efff8-ab23-47c4-bc9e-d152c4d71b56"
+                  },
+                  {
+                    "question": "¿Cuál es un desafío para la educación en Palestina?",
+                    "answers": [
+                      "Falta de recursos",
+                      "Exceso de recursos",
+                      "Ausencia de conflicto",
+                      "Demasiada interferencia internacional"
+                    ],
+                    "subContentId": "a94d3534-4803-491a-803d-bc74c24f51bf"
+                  },
+                  {
+                    "question": "¿Qué buscan las iniciativas conjuntas?",
+                    "answers": [
+                      "Promover la paz",
+                      "Aumentar las tensiones",
+                      "Fomentar la guerra",
+                      "Mantener el statu quo"
+                    ],
+                    "subContentId": "a5ba185c-b290-46fe-8f42-16e7f2398841"
+                  },
+                  {
+                    "question": "¿Cómo ven algunos jóvenes israelíes el conflicto?",
+                    "answers": [
+                      "Como una amenaza para su futuro",
+                      "Como una oportunidad para prosperar",
+                      "Irrelevante para sus vidas",
+                      "Solo como un problema religioso"
+                    ],
+                    "subContentId": "f20541f7-83c9-4cc4-8e22-dd6a3a634781"
+                  },
+                  {
+                    "question": "¿Qué influye en la percepción del conflicto por parte de jóvenes palestinos?",
+                    "answers": [
+                      "La familia y la comunidad",
+                      "Solo la televisión",
+                      "Exclusivamente la escuela",
+                      "Únicamente los amigos"
+                    ],
+                    "subContentId": "f06c5c21-9795-4a99-8566-e082b797488b"
+                  },
+                  {
+                    "question": "¿Cuál es el papel de la comunidad internacional?",
+                    "answers": [
+                      "Promover programas e iniciativas de apoyo",
+                      "Interferir directamente en el conflicto",
+                      "Ignorar la situación",
+                      "Tomar partido en el conflicto"
+                    ],
+                    "subContentId": "899f40dc-dc06-4a59-92ce-2056993097e2"
+                  }
+                ]
+              },
+              "subContentId": "dc6b82f1-4264-4137-8683-db0b27e41a00",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Preguntas",
+                "defaultLanguage": "es"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      }
+    ],
+    "keywordListEnabled": true,
+    "globalBackgroundSelector": {},
+    "keywordListAlwaysShow": false,
+    "keywordListAutoHide": false,
+    "keywordListOpacity": 90
+  },
+  "override": {
+    "activeSurface": false,
+    "hideSummarySlide": false,
+    "summarySlideSolutionButton": true,
+    "summarySlideRetryButton": true,
+    "enablePrintButton": false,
+    "social": {
+      "showFacebookShare": false,
+      "facebookShare": {
+        "url": "@currentpageurl",
+        "quote": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht."
+      },
+      "showTwitterShare": false,
+      "twitterShare": {
+        "statement": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht.",
+        "url": "@currentpageurl",
+        "hashtags": "h5p, Kurs"
+      },
+      "showGoogleShare": false,
+      "googleShareUrl": "@currentpageurl"
+    }
+  },
+  "l10n": {
+    "slide": "Diapositiva",
+    "score": "Puntuación",
+    "yourScore": "Tu puntuación",
+    "maxScore": "Puntuación Máxima",
+    "total": "Total",
+    "totalScore": "Puntuación Total",
+    "showSolutions": "Mostrar soluciones",
+    "retry": "Intentar de nuevo",
+    "exportAnswers": "Exportar texto",
+    "hideKeywords": "Ocultar lista de palabras clave",
+    "showKeywords": "Mostrar lista de palabras clave",
+    "fullscreen": "Pantalla Completa",
+    "exitFullscreen": "Salir de Pantalla completa",
+    "prevSlide": "Diapositiva anterior",
+    "nextSlide": "Diapositiva siguiente",
+    "currentSlide": "Diapositiva actual",
+    "lastSlide": "Última Diapositiva",
+    "solutionModeTitle": "Salir del modo de solución",
+    "solutionModeText": "Modo de solución",
+    "summaryMultipleTaskText": "Tareas múltiples",
+    "scoreMessage": "Has obtenido:",
+    "shareFacebook": "Compartir en Facebook",
+    "shareTwitter": "Compartir en Twitter",
+    "shareGoogle": "Compartir en Google+",
+    "summary": "Resumen",
+    "solutionsButtonTitle": "Mostrar comentarios",
+    "printTitle": "Imprimir",
+    "printIngress": "¿Cómo te gustaría imprimir esta presentación?",
+    "printAllSlides": "Imprimir todas las diapositivas",
+    "printCurrentSlide": "Imprimir diapositiva actual",
+    "noTitle": "Sin título",
+    "accessibilitySlideNavigationExplanation": "Usa las flecha izquierda y derecha para cambiar la diapositiva en esa dirección siempre que se haya seleccionado el lienzo",
+    "accessibilityCanvasLabel": "Lienzo de presentación. Usa las flechas izquierda y derecha para moverte entre diapositivas.",
+    "containsNotCompleted": "@slideName contiene una interacción no completada",
+    "containsCompleted": "@slideName contiene una interacción completada",
+    "slideCount": "Diapositiva @index de @total",
+    "containsOnlyCorrect": "@slideName solamente contiene respuestas correctas",
+    "containsIncorrectAnswers": "@slideName contiene respuestas incorrectas",
+    "shareResult": "Compartir resultado",
+    "accessibilityTotalScore": "Has obtenido @score de un total de @maxScore puntos",
+    "accessibilityEnteredFullscreen": "Has pasado a pantalla completa",
+    "accessibilityExitedFullscreen": "Has salido de pantalla completa",
+    "confirmDialogHeader": "Envía tus respuestas",
+    "confirmDialogText": "Esto enviará tus resultados, ¿quieres continuar?",
+    "confirmDialogConfirmText": "Enviar y ver resultados",
+    "accessibilityProgressBarLabel": "Elegir diapositiva para mostrar",
+    "slideshowNavigationLabel": "Navegación por la presentación de diapositivas"
+  }
+}

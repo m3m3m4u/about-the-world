@@ -1,0 +1,978 @@
+{
+  "presentation": {
+    "slides": [
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 6.622516556291391,
+            "width": 92.73743016759778,
+            "height": 50.77262693156732,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:3em;\"><strong>Hamás: ¿terroristas o luchadores por la libertad?</strong></span></p>\n\n<p><strong><span style=\"font-size:1.5em;\">Información y ejercicios</span></strong></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "dff56334-2e6b-4f64-ab5f-fd72e6484f52"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 0,
+            "y": 0,
+            "width": 100,
+            "height": 99.99999999999999,
+            "action": {
+              "library": "H5P.Video 1.6",
+              "params": {
+                "visuals": {
+                  "fit": true,
+                  "controls": true
+                },
+                "playback": {
+                  "autoplay": false,
+                  "loop": false
+                },
+                "l10n": {
+                  "name": "Vídeo",
+                  "loading": "Reproductor de vídeo cargando...",
+                  "noPlayers": "No se encontraron reproductores de vídeo que soporten el formato de vídeo dado.",
+                  "noSources": "Faltan las fuentes del vídeo.",
+                  "aborted": "El reproductor de medios ha sido abortado.",
+                  "networkFailure": "Fallo de red.",
+                  "cannotDecode": "No se pueden decodificar los medios.",
+                  "formatNotSupported": "Formato de vídeo no soportado.",
+                  "mediaEncrypted": "Medio cifrado.",
+                  "unknownError": "Error desconocido.",
+                  "invalidYtId": "ID de YouTube inválida.",
+                  "unknownYtId": "No se puede encontrar vídeo con la ID de YouTube dada.",
+                  "restrictedYt": "El propietario de este vídeo no permite que sea incrustado."
+                },
+                "sources": [
+                  {
+                    "path": "https://youtu.be/a-ex1VaP8ps",
+                    "mime": "video/YouTube",
+                    "copyright": {
+                      "license": "U"
+                    }
+                  }
+                ]
+              },
+              "subContentId": "c5aabc27-5a0b-43fd-a97d-4cfff02b7eab",
+              "metadata": {
+                "contentType": "Video",
+                "license": "U",
+                "title": "Unbenannt: Video"
+              }
+            },
+            "alwaysDisplayComments": true,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2331154684095864,
+            "y": 4.414482262971937,
+            "width": 53.37690631808279,
+            "height": 8.825607767023717,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texto informativo (Parte 1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "5627dc6e-c943-439e-ab4a-4531b7f24264"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.178649237472767,
+            "y": 12.910611231371064,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Historia de Hamas</strong><br>\nHamas, cuyo nombre completo es \"Harakat al-Muqawama al-Islamiyya\", que en alemán significa \"Movimiento de Resistencia Islámica\", fue fundado en el año 1987. Surgió durante la Primera Intifada, una ola de levantamientos contra la ocupación israelí de la Franja de Gaza y Cisjordania. La fundación de Hamas fue una respuesta a la ocupación prolongada y a las tensiones sociales y políticas asociadas.</p>\n\n<p><strong>Alas Política y Militar</strong><br>\nHamas tiene tanto un ala política como una militar. El ala política participa en elecciones y ha controlado la Franja de Gaza desde 2007, después de ganar las elecciones en 2006. El ala militar, conocida como las \"Brigadas Qassam\", es responsable de ataques contra Israel y otras operaciones militares. Sin embargo, ambas alas operan de forma independiente entre sí.</p>\n\n<p><strong>Acusaciones de Terrorismo</strong><br>\nVarios países y organizaciones, incluyendo Israel, Estados Unidos y la Unión Europea, clasifican a Hamas como una organización terrorista. Esto se debe a su historial de atentados suicidas y ataques con cohetes contra civiles y militares israelíes. Los métodos de Hamas han llevado a menudo a víctimas civiles y son ampliamente condenados internacionalmente.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "53bc5361-5ce5-43a9-a00f-57bbceee9cd0"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texto informativo (Parte 2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "55aaf4d3-f7e3-4a3e-9196-01a6f7474f94"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Vistos como Libertadores</strong><br>\nAlgunos consideran a Hamas como libertadores que luchan contra la ocupación y defienden los derechos de los palestinos. Ven las acciones de Hamas como una respuesta a la ocupación militar continua y la opresión por parte de Israel. Esta perspectiva es especialmente común en algunos países árabes y musulmanes.</p>\n\n<p><strong>Servicios Humanitarios y Sociales</strong><br>\nHamas también ofrece una serie de servicios sociales y humanitarios en las áreas donde operan. Esto incluye escuelas, hospitales y otras instituciones sociales. Estos servicios han fortalecido el apoyo de la población local hacia Hamas y les han otorgado un cierto grado de legitimidad.</p>\n\n<p><strong>Relaciones Internacionales</strong><br>\nLas relaciones internacionales de Hamas son complicadas. Mientras que algunos países y organizaciones interactúan con Hamas, otros evitan el contacto debido a su clasificación como organización terrorista. La posición de Hamas en el contexto internacional sigue siendo controvertida y sus relaciones con otros países a menudo están tensas.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "3b13867b-feab-4e2e-bfa2-fcc82e4dbff1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 37.98882681564246,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Texto informativo (Parte 3)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "4381b60d-c67f-4722-b83d-b17f2fc9d01c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 13.245033112582782,
+            "width": 92.73743016759778,
+            "height": 86.09271523178808,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><strong>Intentos de Reconciliación</strong><br>\nHa habido varios intentos de reconciliación entre Hamas y el rival partido Fatah, que controla Cisjordania. Estos intentos han tenido como objetivo formar un gobierno de unidad y superar la división entre las dos áreas. Hasta ahora, estos esfuerzos han sido en su mayoría infructuosos, aunque el diálogo continúa.</p>\n\n<p><strong>Perspectivas de Futuro</strong><br>\nEl futuro de Hamas y su papel en el conflicto israelí-palestino sigue siendo incierto. El bloqueo continuo de la Franja de Gaza y los conflictos militares en curso con Israel representan obstáculos significativos para una posible solución política. Es incierto cómo se desarrollarán las relaciones entre Hamas, Israel y otros actores regionales.</p>\n\n<p><strong>Resumen</strong><br>\nHamás es una organización compleja con muchas facetas diferentes. Su papel como terroristas o luchadores por la libertad depende en gran medida de la perspectiva. Sus acciones y las reacciones ante ellas tienen efectos de gran alcance en la región y en las personas que viven en ella.</p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "3d655444-fd55-42f7-aba2-16a16db7dc58"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>¡Arrastra las palabras a las casillas correctas!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Comprobar",
+                "submitAnswer": "Enviar",
+                "tryAgain": "Intentar de nuevo",
+                "showSolution": "Mostrar solución",
+                "dropZoneIndex": "Zona de colocación @index.",
+                "empty": "La zona de colocación @index está vacía.",
+                "contains": "la zona de colocación @index contiene elemento @draggable.",
+                "ariaDraggableIndex": "@index de @count elementos que se pueden colocar.",
+                "tipLabel": "Mostrar pista",
+                "correctText": "¡Correcto!",
+                "incorrectText": "¡Incorrecto!",
+                "resetDropTitle": "Restablecer colocación",
+                "resetDropDescription": "¿Seguro que quieres restablecer esta zona de colocación?",
+                "grabbed": "Has cogido el elemento a arrastrar.",
+                "cancelledDragging": "Arrastre cancelado.",
+                "correctAnswer": "Respuesta correcta:",
+                "feedbackHeader": "Retroalimentación",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Has obtenido :num de un total de :total puntos",
+                "a11yCheck": "Comprueba las respuestas. Las respuestas se marcarán como correctas, incorrectas o sin respuesta.",
+                "a11yShowSolution": "Mostrar la solución. El trabajo será calificado con su solución correcta.",
+                "a11yRetry": "Vuelve a intentar la tarea. Borra todas tus respuestas y empieza de nuevo.",
+                "textField": "*Fatah* - partido rival que controla Cisjordania\n*Reconciliación* - intentos de unir Fatah y Hamas\n*Bloqueo* - restricción de bienes y personas\n*Perspectiva* - punto de vista sobre un tema o situación",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Términos importantes (1)",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "4a94ce62-c440-4215-bc76-32408bcec41d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Términos importantes (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "e773caca-acd3-4ee8-9ed2-b80b588d3a60"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>¡Arrastra las palabras a las casillas correctas!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Comprobar",
+                "submitAnswer": "Enviar",
+                "tryAgain": "Intentar de nuevo",
+                "showSolution": "Mostrar solución",
+                "dropZoneIndex": "Zona de colocación @index.",
+                "empty": "La zona de colocación @index está vacía.",
+                "contains": "la zona de colocación @index contiene elemento @draggable.",
+                "ariaDraggableIndex": "@index de @count elementos que se pueden colocar.",
+                "tipLabel": "Mostrar pista",
+                "correctText": "¡Correcto!",
+                "incorrectText": "¡Incorrecto!",
+                "resetDropTitle": "Restablecer colocación",
+                "resetDropDescription": "¿Seguro que quieres restablecer esta zona de colocación?",
+                "grabbed": "Has cogido el elemento a arrastrar.",
+                "cancelledDragging": "Arrastre cancelado.",
+                "correctAnswer": "Respuesta correcta:",
+                "feedbackHeader": "Retroalimentación",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Has obtenido :num de un total de :total puntos",
+                "a11yCheck": "Comprueba las respuestas. Las respuestas se marcarán como correctas, incorrectas o sin respuesta.",
+                "a11yShowSolution": "Mostrar la solución. El trabajo será calificado con su solución correcta.",
+                "a11yRetry": "Vuelve a intentar la tarea. Borra todas tus respuestas y empieza de nuevo.",
+                "textField": "*Intifada* - serie de levantamientos contra ocupación\n*Ala Política* - rama de Hamas en elecciones y gobierno\n*Brigadas Qassam* - ala militar responsable de ataques\n*Unión Europea* - organización supranacional, clasifica Hamas como terrorista\n*Legitimidad* - aceptación o apoyo en la sociedad",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Términos importantes (2)",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "b74a36f9-2aa3-417a-814c-50e58208f7b3"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Términos importantes (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "be59e194-86c9-4928-9194-f6e496790bc1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>¡Completa las frases!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Comprobar",
+                "submitAnswer": "Enviar",
+                "tryAgain": "Intentar de nuevo",
+                "showSolution": "Mostrar solución",
+                "dropZoneIndex": "Zona de colocación @index.",
+                "empty": "La zona de colocación @index está vacía.",
+                "contains": "la zona de colocación @index contiene elemento @draggable.",
+                "ariaDraggableIndex": "@index de @count elementos que se pueden colocar.",
+                "tipLabel": "Mostrar pista",
+                "correctText": "¡Correcto!",
+                "incorrectText": "¡Incorrecto!",
+                "resetDropTitle": "Restablecer colocación",
+                "resetDropDescription": "¿Seguro que quieres restablecer esta zona de colocación?",
+                "grabbed": "Has cogido el elemento a arrastrar.",
+                "cancelledDragging": "Arrastre cancelado.",
+                "correctAnswer": "Respuesta correcta:",
+                "feedbackHeader": "Retroalimentación",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Has obtenido :num de un total de :total puntos",
+                "a11yCheck": "Comprueba las respuestas. Las respuestas se marcarán como correctas, incorrectas o sin respuesta.",
+                "a11yShowSolution": "Mostrar la solución. El trabajo será calificado con su solución correcta.",
+                "a11yRetry": "Vuelve a intentar la tarea. Borra todas tus respuestas y empieza de nuevo.",
+                "textField": "*Hamas fue fundado ...* - ... en el año 1987.\n*La Primera Intifada ...* - ... fue un levantamiento contra Israel.\n*El ala política ...* - ... ha controlado Gaza desde 2007.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Frases completas (1)",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "fc5741fc-cbfd-45c8-9433-cf39572a4b81"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Frases completas (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "ecb45d14-3fe2-4a02-ab8f-6c03ba60ef4c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>¡Completa las frases!</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Comprobar",
+                "submitAnswer": "Enviar",
+                "tryAgain": "Intentar de nuevo",
+                "showSolution": "Mostrar solución",
+                "dropZoneIndex": "Zona de colocación @index.",
+                "empty": "La zona de colocación @index está vacía.",
+                "contains": "la zona de colocación @index contiene elemento @draggable.",
+                "ariaDraggableIndex": "@index de @count elementos que se pueden colocar.",
+                "tipLabel": "Mostrar pista",
+                "correctText": "¡Correcto!",
+                "incorrectText": "¡Incorrecto!",
+                "resetDropTitle": "Restablecer colocación",
+                "resetDropDescription": "¿Seguro que quieres restablecer esta zona de colocación?",
+                "grabbed": "Has cogido el elemento a arrastrar.",
+                "cancelledDragging": "Arrastre cancelado.",
+                "correctAnswer": "Respuesta correcta:",
+                "feedbackHeader": "Retroalimentación",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Has obtenido :num de un total de :total puntos",
+                "a11yCheck": "Comprueba las respuestas. Las respuestas se marcarán como correctas, incorrectas o sin respuesta.",
+                "a11yShowSolution": "Mostrar la solución. El trabajo será calificado con su solución correcta.",
+                "a11yRetry": "Vuelve a intentar la tarea. Borra todas tus respuestas y empieza de nuevo.",
+                "textField": "*Hamas es clasificado ...* - ... como una organización terrorista.\n*Varios países árabes ...* - ... ven a Hamas como libertadores.\n*Hamas también ofrece ...* - ... servicios sociales y humanitarios.\n*La posición internacional ...* - ... de Hamas es controvertida.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Frases completas (2)",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "a8bdf3b3-dac7-40e5-bdfd-f199401a2c3e"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Frases completas (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "1351cab9-7952-442e-bc32-7d4a3895ab3d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>¿Verdadero o falso?</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "3f4bfb9e-6eb5-4097-abf6-f0c1308dfc3f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.2346368715083798,
+            "y": 11.69916114790287,
+            "width": 95.41899441340783,
+            "height": 88.30022075055187,
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>Elija la afirmación correcta</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Progreso:",
+                "scoreLabel": "Respuestas incorrectas:",
+                "resultLabel": "Tu resultado",
+                "labelCorrect": "Correcta.",
+                "labelIncorrect": "¡Incorrecto! Por favor inténtalo otra vez.",
+                "alternativeIncorrectLabel": "Incorrecto",
+                "labelCorrectAnswers": "Respuestas correctas.",
+                "tipButtonLabel": "Mostrar pista",
+                "scoreBarLabel": "Has conseguido :num de un total de :total puntos",
+                "progressText": "Progreso :num de :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "Hamas fue fundado en el año 1987.",
+                      "Hamas fue fundado en 1997."
+                    ],
+                    "subContentId": "91956348-4495-41a5-8390-7f995574d6f9",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Las \"Brigadas Qassam\" son el ala militar de Hamas.",
+                      "El ala política de Hamas no participa en elecciones."
+                    ],
+                    "subContentId": "dc66b79b-05eb-4670-ab08-302444232293",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Hamas ha controlado la Franja de Gaza desde 2007.",
+                      "Fatah ha controlado la Franja de Gaza desde 2007."
+                    ],
+                    "subContentId": "05fcd966-ca54-4156-94ce-b54ee162fe77",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Varios países clasifican a Hamas como una organización terrorista.",
+                      "Hamas no ofrece ningún servicio social o humanitario."
+                    ],
+                    "subContentId": "20c2de27-e000-4552-9e82-9978717662cf",
+                    "tip": ""
+                  }
+                ]
+              },
+              "subContentId": "6207504c-ae8f-4a09-b236-0a5b6cd442ec",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "¿Verdadero o falso?",
+                "defaultLanguage": "es"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Preguntas</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Unbenannt: Text",
+                "defaultLanguage": "es"
+              },
+              "subContentId": "303d8e49-9df8-4ebb-bb74-21e0f7344e25"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.346368715083799,
+            "y": 15.673289183222957,
+            "width": 92.40223463687151,
+            "height": 58.27814569536424,
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": false,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Siguiente pregunta",
+                  "showSolutionButtonLabel": "Mostrar solución",
+                  "retryButtonLabel": "Intentar de nuevo",
+                  "solutionViewTitle": "Lista Solución",
+                  "correctText": "¡Correcto!",
+                  "incorrectText": "¡Incorrecto!",
+                  "muteButtonLabel": "Silenciar sonido de retroalimentación",
+                  "closeButtonLabel": "Cerrar",
+                  "slideOfTotal": "Diapositiva :num de :total",
+                  "scoreBarLabel": "Has conseguido :num de un total de :total puntos",
+                  "solutionListQuestionNumber": "Pregunta :num",
+                  "a11yShowSolution": "Mostrar la solución. La tarea se calificará con su solución correcta.",
+                  "a11yRetry": "Vuelve a intentar la tarea. Borra todas tus respuestas y empieza de nuevo.",
+                  "shouldSelect": "Debería haber sido seleccionada",
+                  "shouldNotSelect": "NO debería haber sido seleccionada"
+                },
+                "choices": [
+                  {
+                    "question": "¿En qué año se fundó Hamas?",
+                    "answers": [
+                      "1987",
+                      "1997",
+                      "2001",
+                      "1975"
+                    ],
+                    "subContentId": "35f3a741-150a-47f4-887f-5020f5d77ac2"
+                  },
+                  {
+                    "question": "¿Qué es \"Brigadas Qassam\"?",
+                    "answers": [
+                      "Ala militar de Hamas",
+                      "Grupo rebelde en Siria",
+                      "Partido político en Palestina",
+                      "Una ONG"
+                    ],
+                    "subContentId": "ca916c74-3cf2-4e33-92f4-aefe3f9e1ac8"
+                  },
+                  {
+                    "question": "¿Desde cuándo ha controlado Hamas la Franja de Gaza?",
+                    "answers": [
+                      "Desde 2007",
+                      "Desde 2000",
+                      "Desde 1993",
+                      "Desde 1987"
+                    ],
+                    "subContentId": "c8874dd6-8504-440e-95cb-145a1b2b7b0b"
+                  },
+                  {
+                    "question": "¿Quién controla Cisjordania?",
+                    "answers": [
+                      "Fatah",
+                      "Hamas",
+                      "Israel",
+                      "ONU"
+                    ],
+                    "subContentId": "66d19501-9c0c-4b51-a4d2-03d32c0671d2"
+                  },
+                  {
+                    "question": "¿Qué tipo de servicios ofrece Hamas en las áreas donde opera?",
+                    "answers": [
+                      "Sociales y humanitarios",
+                      "Solo militares",
+                      "Tecnológicos",
+                      "Ninguno"
+                    ],
+                    "subContentId": "1f396602-f529-4598-9161-14c5ec94a36c"
+                  },
+                  {
+                    "question": "¿Cómo es la relación internacional de Hamas?",
+                    "answers": [
+                      "Complicada",
+                      "Estable",
+                      "Neutra",
+                      "Beneficiosa"
+                    ],
+                    "subContentId": "b3c052f5-71d8-499a-914e-735b15677816"
+                  }
+                ]
+              },
+              "subContentId": "dc6b82f1-4264-4137-8683-db0b27e41a00",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Preguntas",
+                "defaultLanguage": "es"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      }
+    ],
+    "keywordListEnabled": true,
+    "globalBackgroundSelector": {},
+    "keywordListAlwaysShow": false,
+    "keywordListAutoHide": false,
+    "keywordListOpacity": 90
+  },
+  "override": {
+    "activeSurface": false,
+    "hideSummarySlide": false,
+    "summarySlideSolutionButton": true,
+    "summarySlideRetryButton": true,
+    "enablePrintButton": false,
+    "social": {
+      "showFacebookShare": false,
+      "facebookShare": {
+        "url": "@currentpageurl",
+        "quote": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht."
+      },
+      "showTwitterShare": false,
+      "twitterShare": {
+        "statement": "Ich habe @score von @maxScore Punkten bei der Aufgabe @currentpageurl erreicht.",
+        "url": "@currentpageurl",
+        "hashtags": "h5p, Kurs"
+      },
+      "showGoogleShare": false,
+      "googleShareUrl": "@currentpageurl"
+    }
+  },
+  "l10n": {
+    "slide": "Diapositiva",
+    "score": "Puntuación",
+    "yourScore": "Tu puntuación",
+    "maxScore": "Puntuación Máxima",
+    "total": "Total",
+    "totalScore": "Puntuación Total",
+    "showSolutions": "Mostrar soluciones",
+    "retry": "Intentar de nuevo",
+    "exportAnswers": "Exportar texto",
+    "hideKeywords": "Ocultar lista de palabras clave",
+    "showKeywords": "Mostrar lista de palabras clave",
+    "fullscreen": "Pantalla Completa",
+    "exitFullscreen": "Salir de Pantalla completa",
+    "prevSlide": "Diapositiva anterior",
+    "nextSlide": "Diapositiva siguiente",
+    "currentSlide": "Diapositiva actual",
+    "lastSlide": "Última Diapositiva",
+    "solutionModeTitle": "Salir del modo de solución",
+    "solutionModeText": "Modo de solución",
+    "summaryMultipleTaskText": "Tareas múltiples",
+    "scoreMessage": "Has obtenido:",
+    "shareFacebook": "Compartir en Facebook",
+    "shareTwitter": "Compartir en Twitter",
+    "shareGoogle": "Compartir en Google+",
+    "summary": "Resumen",
+    "solutionsButtonTitle": "Mostrar comentarios",
+    "printTitle": "Imprimir",
+    "printIngress": "¿Cómo te gustaría imprimir esta presentación?",
+    "printAllSlides": "Imprimir todas las diapositivas",
+    "printCurrentSlide": "Imprimir diapositiva actual",
+    "noTitle": "Sin título",
+    "accessibilitySlideNavigationExplanation": "Usa las flecha izquierda y derecha para cambiar la diapositiva en esa dirección siempre que se haya seleccionado el lienzo",
+    "accessibilityCanvasLabel": "Lienzo de presentación. Usa las flechas izquierda y derecha para moverte entre diapositivas.",
+    "containsNotCompleted": "@slideName contiene una interacción no completada",
+    "containsCompleted": "@slideName contiene una interacción completada",
+    "slideCount": "Diapositiva @index de @total",
+    "containsOnlyCorrect": "@slideName solamente contiene respuestas correctas",
+    "containsIncorrectAnswers": "@slideName contiene respuestas incorrectas",
+    "shareResult": "Compartir resultado",
+    "accessibilityTotalScore": "Has obtenido @score de un total de @maxScore puntos",
+    "accessibilityEnteredFullscreen": "Has pasado a pantalla completa",
+    "accessibilityExitedFullscreen": "Has salido de pantalla completa",
+    "confirmDialogHeader": "Envía tus respuestas",
+    "confirmDialogText": "Esto enviará tus resultados, ¿quieres continuar?",
+    "confirmDialogConfirmText": "Enviar y ver resultados",
+    "accessibilityProgressBarLabel": "Elegir diapositiva para mostrar",
+    "slideshowNavigationLabel": "Navegación por la presentación de diapositivas"
+  }
+}

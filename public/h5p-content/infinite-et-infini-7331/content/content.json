@@ -1,0 +1,869 @@
+{
+  "presentation": {
+    "slides": [
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 6.455305615685532,
+            "width": 92.73743016759778,
+            "height": 50.77262693156732,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:3em;\"><strong>Infinité et Infini</strong></span></p>\n\n<p><strong><span style=\"font-size:1.5em;\">Informations et exercices</span></strong></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Sans titre : Texte",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "dff56334-2e6b-4f64-ab5f-fd72e6484f52"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 65.359477124183,
+            "y": 79.61543592678824,
+            "width": 28.32244008714597,
+            "height": 10.617643641308792,
+            "action": {
+              "library": "H5P.Shape 1.0",
+              "params": {
+                "shape": {
+                  "fillColor": "rgb(255, 255, 255)",
+                  "borderWidth": "2",
+                  "borderStyle": "solid",
+                  "borderColor": "rgb(0, 0, 0)",
+                  "borderRadius": "0"
+                },
+                "type": "rectangle",
+                "line": {
+                  "borderColor": "#000000",
+                  "borderWidth": "1",
+                  "borderStyle": "solid"
+                }
+              },
+              "subContentId": "3edf7327-b96a-474e-8779-cee27eb3f112",
+              "metadata": {
+                "contentType": "Shapes",
+                "defaultLanguage": "fr",
+                "license": "U"
+              }
+            },
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false
+          },
+          {
+            "x": 67.53812636165577,
+            "y": 81.76720446535008,
+            "width": 22.875816993464053,
+            "height": 8.607074154247377,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p style=\"text-align:center;\"><span style=\"font-size:1.625em;\"><strong>VIDÉO</strong></span></p>\n"
+              },
+              "subContentId": "fce1d368-0835-455c-9e36-adf6320b2149",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Sans titre : Texte",
+                "defaultLanguage": "fr"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 65.359477124183,
+            "y": 79.61543592678824,
+            "width": 28.32244008714597,
+            "height": 10.758842692809221,
+            "goToSlide": 2,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 0,
+            "y": 0,
+            "width": 100,
+            "height": 100,
+            "action": {
+              "library": "H5P.Video 1.6",
+              "params": {
+                "visuals": {
+                  "fit": true,
+                  "controls": true
+                },
+                "playback": {
+                  "autoplay": false,
+                  "loop": false
+                },
+                "l10n": {
+                  "name": "Vidéo",
+                  "loading": "Lecteur vidéo en cours de chargement...",
+                  "noPlayers": "Aucun lecteur vidéo compatible avec le format de vidéo fourni n&#039;a été trouvé.",
+                  "noSources": "Les sources vidéo sont manquantes.",
+                  "aborted": "Le lecteur média a été arrêté.",
+                  "networkFailure": "Échec du réseau.",
+                  "cannotDecode": "Les médias ne peuvent pas être décodés.",
+                  "formatNotSupported": "Format vidéo non pris en charge.",
+                  "mediaEncrypted": "Média crypté.",
+                  "unknownError": "Erreur inconnue.",
+                  "invalidYtId": "ID YouTube invalide.",
+                  "unknownYtId": "Impossible de trouver une vidéo avec l&#039;ID YouTube donnée.",
+                  "restrictedYt": "Le propriétaire de cette vidéo n&#039;autorise pas son intégration."
+                },
+                "sources": [
+                  {
+                    "path": "https://youtu.be/1ISDjDTNBPs",
+                    "mime": "video/unknown",
+                    "copyright": {
+                      "license": "U"
+                    }
+                  }
+                ]
+              },
+              "subContentId": "757803f2-80c7-44d1-b633-38578171e43c",
+              "metadata": {
+                "contentType": "Video",
+                "license": "U",
+                "title": "Sans titre : Vidéo",
+                "defaultLanguage": "fr"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Faites glisser les mots dans les bonnes cases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Envoyer",
+                "tryAgain": "Réessayer",
+                "showSolution": "Afficher la solution",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient l&#039;élément @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments pouvant être déposés.",
+                "tipLabel": "Afficher l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Réinitialiser le dépôt",
+                "resetDropDescription": "Êtes-vous sûr de vouloir réinitialiser cette zone de dépôt ?",
+                "grabbed": "Vous avez saisi l&#039;élément à faire glisser.",
+                "cancelledDragging": "Glisser-déposer annulé.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaires",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :total points",
+                "a11yCheck": "Vérifiez les réponses. Les réponses seront marquées comme correctes, incorrectes ou non répondues.",
+                "a11yShowSolution": "Affichez la solution. Le travail sera noté avec sa solution correcte.",
+                "a11yRetry": "Réessayez la tâche. Effacez toutes vos réponses et recommencez.",
+                "textField": "*infinité* - quelque chose sans limite ou fin\n*mathématiques* - science des nombres et des structures\n*ensemble* - collection d&#039;éléments définis\n*philosophie* - étude de l&#039;être et de l&#039;univers",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Termes 1",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "4a94ce62-c440-4215-bc76-32408bcec41d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termes importants (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Sans titre : Texte",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "e773caca-acd3-4ee8-9ed2-b80b588d3a60"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Faites glisser les mots dans les bonnes cases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Envoyer",
+                "tryAgain": "Réessayer",
+                "showSolution": "Afficher la solution",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient l&#039;élément @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments pouvant être déposés.",
+                "tipLabel": "Afficher l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Réinitialiser le dépôt",
+                "resetDropDescription": "Êtes-vous sûr de vouloir réinitialiser cette zone de dépôt ?",
+                "grabbed": "Vous avez saisi l&#039;élément à faire glisser.",
+                "cancelledDragging": "Glisser-déposer annulé.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaires",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :total points",
+                "a11yCheck": "Vérifiez les réponses. Les réponses seront marquées comme correctes, incorrectes ou non répondues.",
+                "a11yShowSolution": "Affichez la solution. Le travail sera noté avec sa solution correcte.",
+                "a11yRetry": "Réessayez la tâche. Effacez toutes vos réponses et recommencez.",
+                "textField": "*abstrait* - concept qui n&#039;est pas matériel\n*série infinie* - suite de nombres sans fin\n*paradoxe* - situation contradictoire ou absurde\n*limite* - borne ou restriction",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Termes 2",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "b74a36f9-2aa3-417a-814c-50e58208f7b3"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Termes importants (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Sans titre : Texte",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "be59e194-86c9-4928-9194-f6e496790bc1"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.2346368715083798,
+            "y": 15.45253863134658,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Complétez les phrases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Envoyer",
+                "tryAgain": "Réessayer",
+                "showSolution": "Afficher la solution",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient l&#039;élément @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments pouvant être déposés.",
+                "tipLabel": "Afficher l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Réinitialiser le dépôt",
+                "resetDropDescription": "Êtes-vous sûr de vouloir réinitialiser cette zone de dépôt ?",
+                "grabbed": "Vous avez saisi l&#039;élément à faire glisser.",
+                "cancelledDragging": "Glisser-déposer annulé.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaires",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :total points",
+                "a11yCheck": "Vérifiez les réponses. Les réponses seront marquées comme correctes, incorrectes ou non répondues.",
+                "a11yShowSolution": "Affichez la solution. Le travail sera noté avec sa solution correcte.",
+                "a11yRetry": "Réessayez la tâche. Effacez toutes vos réponses et recommencez.",
+                "textField": "*L&#039;infinité est un concept fascinant ...* - ... souvent difficile à imaginer.\n*L&#039;univers est souvent considéré comme infini ...* - ... selon les théories astrophysiques.\n*Les séries infinies sont des suites continues ...* - ... qui ne finissent jamais.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Registres",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "fc5741fc-cbfd-45c8-9433-cf39572a4b81"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Phrases complètes (1)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Sans titre : Texte",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "ecb45d14-3fe2-4a02-ab8f-6c03ba60ef4c"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.178649237472767,
+            "y": 15.062379769932909,
+            "width": 79.3296089385475,
+            "height": 83.88520971302428,
+            "action": {
+              "library": "H5P.DragText 1.10",
+              "params": {
+                "taskDescription": "<p>Complétez les phrases !</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "checkAnswer": "Vérifier",
+                "submitAnswer": "Envoyer",
+                "tryAgain": "Réessayer",
+                "showSolution": "Afficher la solution",
+                "dropZoneIndex": "Zone de dépôt @index.",
+                "empty": "La zone de dépôt @index est vide.",
+                "contains": "La zone de dépôt @index contient l&#039;élément @draggable.",
+                "ariaDraggableIndex": "@index sur @count éléments pouvant être déposés.",
+                "tipLabel": "Afficher l&#039;indice",
+                "correctText": "Correct !",
+                "incorrectText": "Incorrect !",
+                "resetDropTitle": "Réinitialiser le dépôt",
+                "resetDropDescription": "Êtes-vous sûr de vouloir réinitialiser cette zone de dépôt ?",
+                "grabbed": "Vous avez saisi l&#039;élément à faire glisser.",
+                "cancelledDragging": "Glisser-déposer annulé.",
+                "correctAnswer": "Réponse correcte :",
+                "feedbackHeader": "Commentaires",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "instantFeedback": false
+                },
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :total points",
+                "a11yCheck": "Vérifiez les réponses. Les réponses seront marquées comme correctes, incorrectes ou non répondues.",
+                "a11yShowSolution": "Affichez la solution. Le travail sera noté avec sa solution correcte.",
+                "a11yRetry": "Réessayez la tâche. Effacez toutes vos réponses et recommencez.",
+                "textField": "*Les philosophes s&#039;interrogent sur l&#039;infinité ...* - ... en relation avec la nature de l&#039;être.\n*Le temps infini est une idée complexe ...* - ... explorée par différentes philosophies.\n*Les nombres infinis ne font pas partie ...* - ... du système numérique habituel.",
+                "media": {
+                  "disableImageZooming": false
+                }
+              },
+              "metadata": {
+                "contentType": "Drag the Words",
+                "license": "U",
+                "title": "Registres",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "a8bdf3b3-dac7-40e5-bdfd-f199401a2c3e"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Phrases complètes (2)</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Sans titre : Texte",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "1351cab9-7952-442e-bc32-7d4a3895ab3d"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Vrai ou faux ?</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Sans titre : Texte",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "3f4bfb9e-6eb5-4097-abf6-f0c1308dfc3f"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.2346368715083798,
+            "y": 11.69916114790287,
+            "width": 95.41899441340783,
+            "height": 88.30022075055187,
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>Choisissez la bonne affirmation</p>\n",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Progression :",
+                "scoreLabel": "Réponses incorrectes :",
+                "resultLabel": "Votre résultat",
+                "labelCorrect": "Correct.",
+                "labelIncorrect": "Incorrect ! Veuillez réessayer.",
+                "alternativeIncorrectLabel": "Incorrect",
+                "labelCorrectAnswers": "Réponses correctes.",
+                "tipButtonLabel": "Afficher l&#039;indice",
+                "scoreBarLabel": "Vous avez obtenu :num sur un total de :total points",
+                "progressText": "Progression :num sur :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "L'infinité désigne quelque chose sans fin.",
+                      "L'infinité peut être un nombre ordinaire."
+                    ],
+                    "subContentId": "cf133448-9948-4c04-9c59-c8619cf52607",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "Il existe un nombre infini de nombres.",
+                      "L'infinité a une taille finie."
+                    ],
+                    "subContentId": "8df68063-f14a-4a77-9e32-c7134ddae32e",
+                    "tip": ""
+                  },
+                  {
+                    "summary": [
+                      "L'infinité est utilisée pour décrire des ensembles.",
+                      "Il est impossible d'étudier l'infinité en mathématiques."
+                    ],
+                    "subContentId": "f5627a33-74ab-433b-b64c-caa634150e6b",
+                    "tip": ""
+                  }
+                ]
+              },
+              "subContentId": "6207504c-ae8f-4a09-b236-0a5b6cd442ec",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "Vrai ou faux ?",
+                "defaultLanguage": "fr"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      },
+      {
+        "elements": [
+          {
+            "x": 2.23463687150838,
+            "y": 4.415011037527593,
+            "width": 46.92737430167598,
+            "height": 8.830022075055187,
+            "action": {
+              "library": "H5P.AdvancedText 1.1",
+              "params": {
+                "text": "<p><span style=\"font-size:1.5em;\"><strong>Questions</strong></span></p>\n"
+              },
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Sans titre : Texte",
+                "defaultLanguage": "fr"
+              },
+              "subContentId": "303d8e49-9df8-4ebb-bb74-21e0f7344e25"
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          },
+          {
+            "x": 2.346368715083799,
+            "y": 15.673289183222957,
+            "width": 92.40223463687151,
+            "height": 58.27814569536424,
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": false,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Question suivante",
+                  "showSolutionButtonLabel": "Afficher la solution",
+                  "retryButtonLabel": "Réessayer",
+                  "solutionViewTitle": "Liste des solutions",
+                  "correctText": "Correct !",
+                  "incorrectText": "Incorrect !",
+                  "muteButtonLabel": "Couper le son des commentaires",
+                  "closeButtonLabel": "Fermer",
+                  "slideOfTotal": "Diapositive :num sur :total",
+                  "scoreBarLabel": "Vous avez obtenu :num sur un total de :total points",
+                  "solutionListQuestionNumber": "Question :num",
+                  "a11yShowSolution": "Affichez la solution. La tâche sera notée avec sa solution correcte.",
+                  "a11yRetry": "Réessayez la tâche. Effacez toutes vos réponses et recommencez.",
+                  "shouldSelect": "Aurait dû être sélectionnée",
+                  "shouldNotSelect": "NE devrait PAS avoir été sélectionnée"
+                },
+                "choices": [
+                  {
+                    "question": "Qu'est-ce que l'infinité désigne ?",
+                    "answers": [
+                      "quelque chose sans fin",
+                      "un nombre ordinaire",
+                      "une valeur finie"
+                    ],
+                    "subContentId": "796a3bf1-81b2-441e-9a60-a4a8fab96747"
+                  },
+                  {
+                    "question": "Que sont les nombres infinis ?",
+                    "answers": [
+                      "des nombres sans fin",
+                      "des nombres limités",
+                      "des nombres utilisés dans la vie quotidienne"
+                    ],
+                    "subContentId": "a7ea2b2e-026b-4c43-83b8-685947278a3c"
+                  },
+                  {
+                    "question": "Que signifie l'infinité en philosophie ?",
+                    "answers": [
+                      "la nature de l'être et de l'univers",
+                      "la taille des ensembles mathématiques",
+                      "la fin de l'univers"
+                    ],
+                    "subContentId": "c5b5ffc0-4783-4bc5-9a59-564670bcf947"
+                  },
+                  {
+                    "question": "Qu'est-ce qu'une série infinie ?",
+                    "answers": [
+                      "une suite de nombres sans fin",
+                      "une suite de nombres finis",
+                      "une addition de fractions limitées"
+                    ],
+                    "subContentId": "e37a96bd-6882-421e-a0e6-5a1dbc6f8f6d"
+                  },
+                  {
+                    "question": "Quel est un exemple de paradoxe de l'infinité ?",
+                    "answers": [
+                      "impossibilité d'imaginer l'infinité",
+                      "l'extension infinie de l'univers",
+                      "l'infinité des nombres naturels"
+                    ],
+                    "subContentId": "85dfcf4d-bf74-4e6a-b6f2-e137196b5d2f"
+                  },
+                  {
+                    "question": "Comment est considérée l'infinité en astronomie ?",
+                    "answers": [
+                      "l'univers comme infiniment grand",
+                      "les étoiles comme infinies",
+                      "l'univers limité par la fin du temps"
+                    ],
+                    "subContentId": "aade5e73-6ec0-48ad-8157-971bd55c725c"
+                  }
+                ]
+              },
+              "subContentId": "dc6b82f1-4264-4137-8683-db0b27e41a00",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Questions",
+                "defaultLanguage": "fr"
+              }
+            },
+            "alwaysDisplayComments": false,
+            "backgroundOpacity": 0,
+            "displayAsButton": false,
+            "buttonSize": "big",
+            "goToSlideType": "specified",
+            "invisible": false,
+            "solution": ""
+          }
+        ],
+        "slideBackgroundSelector": {}
+      }
+    ],
+    "keywordListEnabled": true,
+    "globalBackgroundSelector": {},
+    "keywordListAlwaysShow": false,
+    "keywordListAutoHide": false,
+    "keywordListOpacity": 90
+  },
+  "override": {
+    "activeSurface": false,
+    "hideSummarySlide": false,
+    "summarySlideSolutionButton": false,
+    "summarySlideRetryButton": false,
+    "enablePrintButton": false,
+    "social": {
+      "showFacebookShare": false,
+      "facebookShare": {
+        "url": "@currentpageurl",
+        "quote": "J&#039;ai obtenu @score sur @maxScore points pour la tâche @currentpageurl."
+      },
+      "showTwitterShare": false,
+      "twitterShare": {
+        "statement": "J&#039;ai obtenu @score sur @maxScore points pour la tâche @currentpageurl.",
+        "url": "@currentpageurl",
+        "hashtags": "h5p, Cours"
+      },
+      "showGoogleShare": false,
+      "googleShareUrl": "@currentpageurl"
+    }
+  },
+  "l10n": {
+    "slide": "Diapositive",
+    "score": "Score",
+    "yourScore": "Votre score",
+    "maxScore": "Score maximum",
+    "total": "Total",
+    "totalScore": "Score total",
+    "showSolutions": "Afficher les solutions",
+    "retry": "Réessayer",
+    "exportAnswers": "Exporter le texte",
+    "hideKeywords": "Masquer la liste des mots-clés",
+    "showKeywords": "Afficher la liste des mots-clés",
+    "fullscreen": "Plein écran",
+    "exitFullscreen": "Quitter le mode plein écran",
+    "prevSlide": "Diapositive précédente",
+    "nextSlide": "Diapositive suivante",
+    "currentSlide": "Diapositive actuelle",
+    "lastSlide": "Dernière diapositive",
+    "solutionModeTitle": "Quitter le mode solution",
+    "solutionModeText": "Mode solution",
+    "summaryMultipleTaskText": "Tâches multiples",
+    "scoreMessage": "Vous avez obtenu :",
+    "shareFacebook": "Partager sur Facebook",
+    "shareTwitter": "Partager sur Twitter",
+    "shareGoogle": "Partager sur Google+",
+    "summary": "Résumé",
+    "solutionsButtonTitle": "Afficher les commentaires",
+    "printTitle": "Imprimer",
+    "printIngress": "Comment voulez-vous imprimer cette présentation ?",
+    "printAllSlides": "Imprimer toutes les diapositives",
+    "printCurrentSlide": "Imprimer la diapositive actuelle",
+    "noTitle": "Sans titre",
+    "accessibilitySlideNavigationExplanation": "Utilisez les flèches gauche et droite pour changer de diapositive dans cette direction chaque fois que la zone de travail est sélectionnée.",
+    "accessibilityCanvasLabel": "Zone de travail de la présentation. Utilisez les flèches gauche et droite pour vous déplacer entre les diapositives.",
+    "containsNotCompleted": "@slideName contient une interaction non terminée",
+    "containsCompleted": "@slideName contient une interaction terminée",
+    "slideCount": "Diapositive @index sur @total",
+    "containsOnlyCorrect": "@slideName ne contient que des réponses correctes",
+    "containsIncorrectAnswers": "@slideName contient des réponses incorrectes",
+    "shareResult": "Partager le résultat",
+    "accessibilityTotalScore": "Vous avez obtenu @score sur un total de @maxScore points",
+    "accessibilityEnteredFullscreen": "Vous êtes passé en mode plein écran",
+    "accessibilityExitedFullscreen": "Vous avez quitté le mode plein écran",
+    "confirmDialogHeader": "Envoyer vos réponses",
+    "confirmDialogText": "Cela enverra vos résultats, souhaitez-vous continuer ?",
+    "confirmDialogConfirmText": "Envoyer et voir les résultats",
+    "accessibilityProgressBarLabel": "Sélectionner la diapositive à afficher",
+    "slideshowNavigationLabel": "Navigation de la présentation",
+    "confirmDialogConfirmLabel": "Confirm",
+    "confirmDialogCancelLabel": "Cancel"
+  }
+}
