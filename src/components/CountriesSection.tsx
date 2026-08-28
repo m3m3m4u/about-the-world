@@ -33,9 +33,20 @@ export function CountriesSection({ initialContinentId }: CountriesSectionProps =
     return country.title[lang] || country.title.de || '';
   };
 
+  const getCountryH5PSlug = (country: any, lang: string): string => {
+    if (!country) return '';
+    if (country.h5p_folders && country.h5p_folders[lang]) {
+      return country.h5p_folders[lang];
+    }
+    if (country.h5p_folders && country.h5p_folders.de) {
+      return country.h5p_folders.de;
+    }
+    return country.h5p || '';
+  };
+
   const currentModule: ModuleItem | null = activeCountry ? {
-    id: `country-${activeCountry.slug}`,
-    slug: activeCountry.h5p,
+    id: `country-${activeCountry.slug}-${language}`,
+    slug: getCountryH5PSlug(activeCountry, language),
     title: {
       de: getCountryName(activeCountry, 'de'),
       en: getCountryName(activeCountry, 'en'),
@@ -112,54 +123,31 @@ export function CountriesSection({ initialContinentId }: CountriesSectionProps =
                       }}>
                         <Globe style={{ width: 22, height: 22 }} />
                       </div>
-
-                      <h3 className="tile-title" style={{ textAlign: 'left', marginBottom: 6, fontSize: '16px' }}>
+                      
+                      <h4 className="tile-title" style={{ fontSize: '16px', marginBottom: 6 }}>
                         {title}
-                      </h3>
-
-                      <p style={{ fontSize: '13px', color: 'var(--text-muted)', lineHeight: 1.55, marginBottom: 16 }}>
+                      </h4>
+                      <p style={{ fontSize: '13px', color: 'var(--text-muted)', lineHeight: 1.5, marginBottom: 12 }}>
                         {desc}
                       </p>
-
-                      <div style={{ display: 'flex', flexWrap: 'wrap', gap: 6, marginBottom: 16 }}>
-                        {cont.countries.slice(0, 6).map((c) => {
-                          const cTitle = getCountryName(c, language);
-                          return (
-                            <span
-                              key={c.slug}
-                              style={{
-                                fontSize: '11px',
-                                padding: '2px 8px',
-                                background: 'var(--bg-body)',
-                                border: '1px solid var(--border-light)',
-                                borderRadius: 4,
-                                color: 'var(--text-color)'
-                              }}
-                            >
-                              {cTitle}
-                            </span>
-                          );
-                        })}
-                        {cont.countries.length > 6 && (
-                          <span style={{ fontSize: '11px', color: 'var(--text-muted)', alignSelf: 'center' }}>
-                            +{cont.countries.length - 6} weitere
-                          </span>
-                        )}
-                      </div>
                     </div>
 
                     <div style={{
                       fontSize: '13px',
-                      fontWeight: 700,
+                      fontWeight: 600,
                       color: 'var(--green-dark)',
                       display: 'inline-flex',
                       alignItems: 'center',
-                      gap: 6,
-                      borderTop: '1px solid var(--border-light)',
-                      paddingTop: 12,
-                      width: '100%'
+                      gap: 4
                     }}>
-                      <span>Kontinent öffnen ({cont.countries.length} Länder)</span>
+                      <span>
+                        {language === 'de' && 'Länder anzeigen'}
+                        {language === 'en' && 'View countries'}
+                        {language === 'fr' && 'Voir les pays'}
+                        {language === 'es' && 'Ver países'}
+                        {language === 'it' && 'Visualizza paesi'}
+                        {' '}({cont.countries.length})
+                      </span>
                       <ArrowRight style={{ width: 14, height: 14 }} />
                     </div>
                   </Link>
@@ -170,102 +158,137 @@ export function CountriesSection({ initialContinentId }: CountriesSectionProps =
 
         </div>
       ) : (
-        /* 2. KONTINENT-DETAILANSICHT (OHNE DOPPELTE LEISTE, DIREKT MIT LÄNDERN) */
-        <div>
+        
+        /* 2. KONTINENT-DETAILANSICHT (MIT LÄNDERLISTE & H5P-PLAYER) */
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 20 }}>
           
-          {/* Zurück zur Kontinentübersicht */}
-          <div style={{ marginBottom: 16 }}>
+          {/* Header mit Zurück-Button */}
+          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: 12 }}>
+            <div>
+              <h1 style={{ fontSize: '24px', color: 'var(--green-dark)', margin: 0 }}>
+                {activeContinent.title[language as keyof typeof activeContinent.title] || activeContinent.title.de}
+              </h1>
+              <p style={{ fontSize: '13.5px', color: 'var(--text-muted)', marginTop: 4 }}>
+                {activeContinent.desc[language as keyof typeof activeContinent.desc] || activeContinent.desc.de}
+              </p>
+            </div>
+
             <Link
               href="/laender-der-erde"
               className="nav-btn"
               style={{
-                border: '1px solid var(--green-border)',
-                background: 'var(--bg-white)',
-                color: 'var(--green-dark)',
-                cursor: 'pointer',
-                fontWeight: 600,
+                textDecoration: 'none',
                 display: 'inline-flex',
                 alignItems: 'center',
                 gap: 6,
-                padding: '8px 14px',
+                padding: '6px 12px',
+                fontSize: '13px',
+                background: 'var(--bg-white)',
+                border: '1px solid var(--border-light)',
                 borderRadius: 4,
-                textDecoration: 'none'
+                color: 'var(--text-color)'
               }}
             >
-              <span>← Zurück zur Kontinentübersicht</span>
+              ← {language === 'de' && 'Alle Kontinente'}
+              {language === 'en' && 'All continents'}
+              {language === 'fr' && 'Tous les continents'}
+              {language === 'es' && 'Todos los continentes'}
+              {language === 'it' && 'Tutti i continenti'}
             </Link>
           </div>
 
-          {/* Titel-Box des gewählten Kontinents */}
-          <div className="info-box-section" style={{ padding: '16px 20px', marginBottom: 20 }}>
-            <h2 style={{ fontSize: '18px', color: 'var(--green-dark)', margin: '0 0 6px 0', fontWeight: 700 }}>
-              {activeContinent.title[language as keyof typeof activeContinent.title] || activeContinent.title.de}
-            </h2>
-            <p style={{ fontSize: '13.5px', color: 'var(--text-color)', margin: 0, lineHeight: 1.5 }}>
-              {activeContinent.desc[language as keyof typeof activeContinent.desc] || activeContinent.desc.de}
-            </p>
+          {/* Horizontale Länder-Auswahlleiste (Tabs / Pills) */}
+          <div style={{
+            display: 'flex',
+            gap: 8,
+            overflowX: 'auto',
+            paddingBottom: 8,
+            paddingTop: 4,
+            borderBottom: '1px solid var(--border-light)'
+          }}>
+            {activeContinent.countries.map((c) => {
+              const isSelected = activeCountry?.slug === c.slug;
+              const countryName = getCountryName(c, language);
+
+              return (
+                <button
+                  key={c.slug}
+                  type="button"
+                  onClick={() => setActiveCountrySlug(c.slug)}
+                  style={{
+                    background: isSelected ? 'var(--green-primary)' : 'var(--bg-white)',
+                    color: isSelected ? '#ffffff' : 'var(--text-color)',
+                    border: isSelected ? '1px solid var(--green-primary)' : '1px solid var(--green-border)',
+                    borderRadius: 4,
+                    padding: '7px 14px',
+                    fontSize: '13px',
+                    fontWeight: isSelected ? 600 : 500,
+                    cursor: 'pointer',
+                    whiteSpace: 'nowrap',
+                    display: 'inline-flex',
+                    alignItems: 'center',
+                    gap: 6,
+                    transition: 'all 0.15s ease'
+                  }}
+                >
+                  <MapPin style={{ width: 14, height: 14, opacity: isSelected ? 1 : 0.6 }} />
+                  <span>{countryName}</span>
+                </button>
+              );
+            })}
           </div>
 
-          {/* Länder-Navigation des geöffneten Kontinents */}
-          <div className="section-block" style={{ margin: 0 }}>
-            <div style={{ display: 'flex', flexWrap: 'wrap', gap: 8, marginBottom: 18 }}>
-              {activeContinent.countries.map((country, idx) => {
-                const isCountryActive = country.slug === activeCountry?.slug;
-                const cTitle = getCountryName(country, language);
-                return (
-                  <button
-                    key={country.slug}
-                    type="button"
-                    onClick={() => setActiveCountrySlug(country.slug)}
-                    className={`nav-btn ${isCountryActive ? 'active' : ''}`}
-                    style={{
-                      border: isCountryActive ? '1px solid var(--green-dark)' : '1px solid var(--border-light)',
-                      background: isCountryActive ? 'var(--green-light)' : 'var(--bg-white)',
-                      color: isCountryActive ? 'var(--green-dark)' : 'var(--text-color)',
-                      fontWeight: isCountryActive ? 700 : 500,
-                      fontSize: '13px',
-                      cursor: 'pointer',
-                      display: 'inline-flex',
-                      alignItems: 'center',
-                      gap: 6,
-                      padding: '8px 14px',
-                      borderRadius: 4
-                    }}
-                  >
-                    <PlayCircle style={{ width: 14, height: 14, color: isCountryActive ? 'var(--green-primary)' : 'var(--text-muted)' }} />
-                    <span>{idx + 1}. {cTitle}</span>
-                  </button>
-                );
-              })}
-            </div>
-
-            {/* Steckbrief-Box des aktiven Landes */}
-            {activeCountry && activeCountry.cap && (
-              <div className="h5p-player-card" style={{ margin: '0 0 16px 0', textAlign: 'left', padding: '12px 18px' }}>
-                <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: 10 }}>
-                  <h4 style={{ fontSize: '16px', color: 'var(--green-dark)', margin: 0, fontWeight: 700 }}>
-                    {getCountryName(activeCountry, language)}
-                  </h4>
-                  <div style={{ display: 'flex', alignItems: 'center', gap: 4, fontSize: '13px', color: 'var(--text-color)', fontWeight: 600 }}>
-                    <MapPin style={{ width: 14, height: 14, color: 'var(--green-primary)' }} />
-                    <span>Hauptstadt: {activeCountry.cap}</span>
+          {/* Aktiver Länder-Steckbrief & H5P Player */}
+          {activeCountry && (
+            <div style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
+              <div style={{
+                background: 'var(--bg-white)',
+                border: '1px solid var(--green-border)',
+                borderRadius: 6,
+                padding: '16px 20px',
+                display: 'flex',
+                justifyContent: 'space-between',
+                alignItems: 'center',
+                flexWrap: 'wrap',
+                gap: 12
+              }}>
+                <div>
+                  <div style={{ fontSize: '11px', fontWeight: 700, color: 'var(--green-primary)', textTransform: 'uppercase', letterSpacing: '0.5px' }}>
+                    {activeContinent.title[language as keyof typeof activeContinent.title] || activeContinent.title.de}
                   </div>
+                  <h2 style={{ fontSize: '20px', color: 'var(--green-dark)', margin: '4px 0 2px 0' }}>
+                    {getCountryName(activeCountry, language)}
+                  </h2>
+                  {activeCountry.cap && (
+                    <div style={{ fontSize: '13px', color: 'var(--text-muted)' }}>
+                      <strong>{language === 'de' ? 'Hauptstadt' : 'Capital'}:</strong> {activeCountry.cap}
+                    </div>
+                  )}
+                </div>
+
+                <div style={{
+                  display: 'inline-flex',
+                  alignItems: 'center',
+                  gap: 6,
+                  background: 'var(--green-light)',
+                  padding: '6px 12px',
+                  borderRadius: 4,
+                  border: '1px solid var(--green-border)',
+                  fontSize: '12.5px',
+                  color: 'var(--green-dark)',
+                  fontWeight: 600
+                }}>
+                  <PlayCircle style={{ width: 16, height: 16 }} />
+                  <span>Interaktive Übung & Video</span>
                 </div>
               </div>
-            )}
 
-            {/* Interaktiver H5P-Player */}
-            {currentModule && (
-              <div>
-                <H5PPlayer
-                  key={currentModule.id}
-                  module={currentModule}
-                  onComplete={() => {}}
-                />
-              </div>
-            )}
-
-          </div>
+              {/* H5P Player für das gewählte Land in der aktuellen Sprache */}
+              {currentModule && (
+                <H5PPlayer module={currentModule} />
+              )}
+            </div>
+          )}
 
         </div>
       )}

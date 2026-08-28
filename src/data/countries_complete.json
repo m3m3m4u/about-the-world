@@ -27,7 +27,14 @@
           "it": "Germania"
         },
         "h5p": "deutschland-2942",
-        "cap": "Berlin"
+        "cap": "Berlin",
+        "h5p_folders": {
+          "de": "deutschland-2942",
+          "en": "germany-3124",
+          "fr": "allemagne-3464",
+          "es": "alemania-3279",
+          "it": "germania-3696"
+        }
       },
       {
         "slug": "frankreich",
@@ -39,7 +46,14 @@
           "it": "Francia"
         },
         "h5p": "frankreich-2954",
-        "cap": "Paris"
+        "cap": "Paris",
+        "h5p_folders": {
+          "de": "frankreich-2954",
+          "en": "france-3103",
+          "fr": "france-3520",
+          "es": "francia-3339",
+          "it": "francia-3694"
+        }
       },
       {
         "slug": "italien",
@@ -51,7 +65,14 @@
           "it": "Italia"
         },
         "h5p": "italien-2973",
-        "cap": "Rom"
+        "cap": "Rom",
+        "h5p_folders": {
+          "de": "italien-2973",
+          "en": "italy-3108",
+          "fr": "italie-3541",
+          "es": "italia-3362",
+          "it": "italia-3718"
+        }
       },
       {
         "slug": "spanien",
@@ -63,7 +84,14 @@
           "it": "Spagna"
         },
         "h5p": "spanien-3061",
-        "cap": "Madrid"
+        "cap": "Madrid",
+        "h5p_folders": {
+          "de": "spanien-3061",
+          "en": "spain-3125",
+          "fr": "espagne-3515",
+          "es": "espana-3330",
+          "it": "spagna-3759"
+        }
       },
       {
         "slug": "oesterreich",
@@ -75,7 +103,14 @@
           "it": "Austria"
         },
         "h5p": "osterreich-3026",
-        "cap": "Wien"
+        "cap": "Wien",
+        "h5p_folders": {
+          "de": "osterreich-3026",
+          "en": "austria-3145",
+          "fr": "autriche-3472",
+          "es": "austria-2-3288",
+          "it": "austria-4-3649"
+        }
       },
       {
         "slug": "schweiz",
@@ -87,7 +122,14 @@
           "it": "Svizzera"
         },
         "h5p": "schweiz-3051",
-        "cap": "Bern"
+        "cap": "Bern",
+        "h5p_folders": {
+          "de": "schweiz-3051",
+          "en": "switzerland-3127",
+          "fr": "suisse-3620",
+          "es": "suiza-3440",
+          "it": "svizzera-3764"
+        }
       },
       {
         "slug": "polen",
@@ -98,8 +140,15 @@
           "es": "Polonia",
           "it": "Polonia"
         },
-        "h5p": "polen-2-3038",
-        "cap": "Warschau"
+        "h5p": "polen-3037",
+        "cap": "Warschau",
+        "h5p_folders": {
+          "de": "polen-3037",
+          "en": "poland-3121",
+          "fr": "pologne-3595",
+          "es": "polonia-3414",
+          "it": "polonia-2-3798"
+        }
       },
       {
         "slug": "niederlande",
@@ -111,7 +160,14 @@
           "it": "Paesi Bassi"
         },
         "h5p": "niederlande-3022",
-        "cap": "Amsterdam"
+        "cap": "Amsterdam",
+        "h5p_folders": {
+          "de": "niederlande-3022",
+          "en": "netherlands-3117",
+          "fr": "pays-bas-3592",
+          "es": "paises-bajos-3407",
+          "it": "paesi-bassi-3794"
+        }
       },
       {
         "slug": "belgien",
@@ -123,7 +179,14 @@
           "it": "Belgio"
         },
         "h5p": "belgien-2926",
-        "cap": "Brüssel"
+        "cap": "Brüssel",
+        "h5p_folders": {
+          "de": "belgien-2926",
+          "en": "belgium-3148",
+          "fr": "belgique-3478",
+          "es": "belgica-3294",
+          "it": "belgio-3824"
+        }
       },
       {
         "slug": "portugal",
@@ -134,8 +197,15 @@
           "es": "Portugal",
           "it": "Portogallo"
         },
-        "h5p": "portugal-2-3415",
-        "cap": "Lissabon"
+        "h5p": "portugal-3038",
+        "cap": "Lissabon",
+        "h5p_folders": {
+          "de": "portugal-3038",
+          "en": "portugal-3122",
+          "fr": "portugal-3-3596",
+          "es": "portugal-2-3415",
+          "it": "portogallo-3749"
+        }
       },
       {
         "slug": "griechenland",
@@ -147,7 +217,14 @@
           "it": "Grecia"
         },
         "h5p": "griechenland-2959",
-        "cap": "Athen"
+        "cap": "Athen",
+        "h5p_folders": {
+          "de": "griechenland-2959",
+          "en": "greece-3105",
+          "fr": "grece-3524",
+          "es": "grecia-3343",
+          "it": "grecia-2-3700"
+        }
       },
       {
         "slug": "schweden",
@@ -159,7 +236,14 @@
           "it": "Svezia"
         },
         "h5p": "schweden-3050",
-        "cap": "Stockholm"
+        "cap": "Stockholm",
+        "h5p_folders": {
+          "de": "schweden-3050",
+          "en": "sweden-3126",
+          "fr": "suede-3619",
+          "es": "suecia-3439",
+          "it": "svezia-3763"
+        }
       },
       {
         "slug": "norwegen",
@@ -171,7 +255,14 @@
           "it": "Norvegia"
         },
         "h5p": "norwegen-3027",
-        "cap": "Oslo"
+        "cap": "Oslo",
+        "h5p_folders": {
+          "de": "norwegen-3027",
+          "en": "norway-3119",
+          "fr": "norvege-3583",
+          "es": "noruega-3404",
+          "it": "norvegia-3743"
+        }
       },
       {
         "slug": "finnland",
@@ -183,7 +274,14 @@
           "it": "Finlandia"
         },
         "h5p": "finnland-2953",
-        "cap": "Helsinki"
+        "cap": "Helsinki",
+        "h5p_folders": {
+          "de": "finnland-2953",
+          "en": "finland-3102",
+          "fr": "finlande-3519",
+          "es": "finlandia-3337",
+          "it": "finlandia-2-3693"
+        }
       },
       {
         "slug": "daenemark",
@@ -194,8 +292,15 @@
           "es": "Dinamarca",
           "it": "Danimarca"
         },
-        "h5p": "danemark-2940",
-        "cap": "Kopenhagen"
+        "h5p": "danemark-2946",
+        "cap": "Kopenhagen",
+        "h5p_folders": {
+          "de": "danemark-2946",
+          "en": "denmark-3274",
+          "fr": "danemark-2-3507",
+          "es": "dinamarca-3323",
+          "it": "danimarca-3681"
+        }
       },
       {
         "slug": "irland",
@@ -207,7 +312,14 @@
           "it": "Irlanda"
         },
         "h5p": "irland-2970",
-        "cap": "Dublin"
+        "cap": "Dublin",
+        "h5p_folders": {
+          "de": "irland-2970",
+          "en": "ireland-3106",
+          "fr": "irlande-3538",
+          "es": "irlanda-3357",
+          "it": "irlanda-2-3717"
+        }
       },
       {
         "slug": "island",
@@ -219,7 +331,14 @@
           "it": "Islanda"
         },
         "h5p": "island-2971",
-        "cap": "Reykjavík"
+        "cap": "Reykjavík",
+        "h5p_folders": {
+          "de": "island-2971",
+          "en": "island-2-3107",
+          "fr": "islande-3539",
+          "es": "islandia-3358",
+          "it": "islanda-3719"
+        }
       },
       {
         "slug": "kroatien",
@@ -231,7 +350,14 @@
           "it": "Croazia"
         },
         "h5p": "kroatien-2989",
-        "cap": "Zagreb"
+        "cap": "Zagreb",
+        "h5p_folders": {
+          "de": "kroatien-2989",
+          "en": "croatia-3828",
+          "fr": "croatie-3505",
+          "es": "croacia-3825",
+          "it": "croazia-3826"
+        }
       }
     ]
   },
@@ -262,8 +388,15 @@
           "es": "Japón",
           "it": "Giappone"
         },
-        "h5p": "japan-2-3241",
-        "cap": "Tokio"
+        "h5p": "japan-2974",
+        "cap": "Tokio",
+        "h5p_folders": {
+          "de": "japan-2974",
+          "en": "japan-2-3241",
+          "fr": "japon-2-3543",
+          "es": "japon-3364",
+          "it": "giappone-3698"
+        }
       },
       {
         "slug": "china",
@@ -274,8 +407,15 @@
           "es": "China",
           "it": "Cina"
         },
-        "h5p": "china-2-3235",
-        "cap": "Peking"
+        "h5p": "china-2939",
+        "cap": "Peking",
+        "h5p_folders": {
+          "de": "china-2939",
+          "en": "china-2-3235",
+          "fr": "chine-3496",
+          "es": "china-3-3312",
+          "it": "cina-3673"
+        }
       },
       {
         "slug": "indien",
@@ -287,7 +427,14 @@
           "it": "India"
         },
         "h5p": "indien-2966",
-        "cap": "Neu-Delhi"
+        "cap": "Neu-Delhi",
+        "h5p_folders": {
+          "de": "indien-2966",
+          "en": "india-3236",
+          "fr": "inde-3534",
+          "es": "india-2-3353",
+          "it": "india-3-3714"
+        }
       },
       {
         "slug": "suedkorea",
@@ -299,7 +446,14 @@
           "it": "Corea del Sud"
         },
         "h5p": "sudkorea-3067",
-        "cap": "Seoul"
+        "cap": "Seoul",
+        "h5p_folders": {
+          "de": "sudkorea-3067",
+          "en": "south-korea-3263",
+          "fr": "coree-du-sud-3502",
+          "es": "corea-del-sur-3319",
+          "it": "corea-del-sud-3677"
+        }
       },
       {
         "slug": "indonesien",
@@ -311,7 +465,14 @@
           "it": "Indonesia"
         },
         "h5p": "indonesien-2967",
-        "cap": "Jakarta"
+        "cap": "Jakarta",
+        "h5p_folders": {
+          "de": "indonesien-2967",
+          "en": "indonesia-3237",
+          "fr": "indonesie-3535",
+          "es": "indonesia-2-3354",
+          "it": "indonesia-3-3715"
+        }
       },
       {
         "slug": "vietnam",
@@ -322,8 +483,15 @@
           "es": "Vietnam",
           "it": "Vietnam"
         },
-        "h5p": "vietnam-2-3270",
-        "cap": "Hanoi"
+        "h5p": "vietnam-3086",
+        "cap": "Hanoi",
+        "h5p_folders": {
+          "de": "vietnam-3086",
+          "en": "vietnam-2-3270",
+          "es": "vietnam-3-3455",
+          "fr": "vietnam-4-3636",
+          "it": "vietnam-5-3820"
+        }
       },
       {
         "slug": "thailand",
@@ -334,8 +502,15 @@
           "es": "Tailandia",
           "it": "Thailandia"
         },
-        "h5p": "thailand-2-3266",
-        "cap": "Bangkok"
+        "h5p": "thailand-3069",
+        "cap": "Bangkok",
+        "h5p_folders": {
+          "de": "thailand-3069",
+          "en": "thailand-2-3266",
+          "es": "tailandia-3442",
+          "fr": "thailande-3624",
+          "it": "thailande-2-3765"
+        }
       },
       {
         "slug": "philippinen",
@@ -347,7 +522,14 @@
           "it": "Filippine"
         },
         "h5p": "philippinen-3036",
-        "cap": "Manila"
+        "cap": "Manila",
+        "h5p_folders": {
+          "de": "philippinen-3036",
+          "en": "philippines-3260",
+          "es": "filipinas-3336",
+          "fr": "philippines-2-3594",
+          "it": "philippines-3-3748"
+        }
       },
       {
         "slug": "malaysia",
@@ -358,8 +540,15 @@
           "es": "Malasia",
           "it": "Malesia"
         },
-        "h5p": "malaysia-2-3251",
-        "cap": "Kuala Lumpur"
+        "h5p": "malaysia-3002",
+        "cap": "Kuala Lumpur",
+        "h5p_folders": {
+          "de": "malaysia-3002",
+          "en": "malaysia-2-3251",
+          "es": "malasia-3382",
+          "fr": "malaisie-3561",
+          "it": "malaysia-3002"
+        }
       },
       {
         "slug": "singapur",
@@ -370,8 +559,15 @@
           "es": "Singapur",
           "it": "Singapore"
         },
-        "h5p": "singapur-2-3433",
-        "cap": "Singapur"
+        "h5p": "singapur-3057",
+        "cap": "Singapur",
+        "h5p_folders": {
+          "de": "singapur-3057",
+          "en": "singapore-3261",
+          "fr": "singapour-3759",
+          "es": "singapur-2-3433",
+          "it": "singapore-3261"
+        }
       },
       {
         "slug": "pakistan",
@@ -382,8 +578,15 @@
           "es": "Pakistán",
           "it": "Pakistan"
         },
-        "h5p": "pakistan-2-3259",
-        "cap": "Islamabad"
+        "h5p": "pakistan-3030",
+        "cap": "Islamabad",
+        "h5p_folders": {
+          "de": "pakistan-3030",
+          "en": "pakistan-2-3259",
+          "es": "pakistan-3-3408",
+          "fr": "pakistan-4-3587",
+          "it": "pakistan-5-3745"
+        }
       },
       {
         "slug": "bangladesch",
@@ -395,7 +598,14 @@
           "it": "Bangladesh"
         },
         "h5p": "bangladesch-2924",
-        "cap": "Dhaka"
+        "cap": "Dhaka",
+        "h5p_folders": {
+          "de": "bangladesch-2924",
+          "en": "bangladesh-3233",
+          "es": "bangladesh-2-3292",
+          "fr": "bangladesh-3-3476",
+          "it": "bangladesh-4-3653"
+        }
       }
     ]
   },
@@ -427,7 +637,14 @@
           "it": "Sudafrica"
         },
         "h5p": "sudafrika-3066",
-        "cap": "Pretoria"
+        "cap": "Pretoria",
+        "h5p_folders": {
+          "de": "sudafrika-3066",
+          "en": "south-africa-3183",
+          "fr": "afrique-du-sud-3461",
+          "es": "sudafrica-3438",
+          "it": "sudafrica-2-3762"
+        }
       },
       {
         "slug": "nigeria",
@@ -438,8 +655,15 @@
           "es": "Nigeria",
           "it": "Nigeria"
         },
-        "h5p": "nigeria-2-3174",
-        "cap": "Abuja"
+        "h5p": "nigeria-3024",
+        "cap": "Abuja",
+        "h5p_folders": {
+          "de": "nigeria-3024",
+          "en": "nigeria-2-3174",
+          "es": "nigeria-3-3403",
+          "fr": "nigeria-4-3582",
+          "it": "nigeria-5-3792"
+        }
       },
       {
         "slug": "kenia",
@@ -450,8 +674,15 @@
           "es": "Kenia",
           "it": "Kenya"
         },
-        "h5p": "kenia-2-3367",
-        "cap": "Nairobi"
+        "h5p": "kenia-2982",
+        "cap": "Nairobi",
+        "h5p_folders": {
+          "de": "kenia-2982",
+          "en": "kenya-3158",
+          "es": "kenia-2-3367",
+          "fr": "kenya-2-3546",
+          "it": "kenya-3-3774"
+        }
       },
       {
         "slug": "marokko",
@@ -463,7 +694,14 @@
           "it": "Marocco"
         },
         "h5p": "marokko-3006",
-        "cap": "Rabat"
+        "cap": "Rabat",
+        "h5p_folders": {
+          "de": "marokko-3006",
+          "en": "morocco-3168",
+          "fr": "maroc-3566",
+          "es": "marruecos-3387",
+          "it": "marocco-3784"
+        }
       },
       {
         "slug": "algerien",
@@ -475,7 +713,14 @@
           "it": "Algeria"
         },
         "h5p": "algerien-2914",
-        "cap": "Algier"
+        "cap": "Algier",
+        "h5p_folders": {
+          "de": "algerien-2914",
+          "en": "algeria-3142",
+          "fr": "algerie-3463",
+          "es": "argelia-3284",
+          "it": "algeria-2-3642"
+        }
       },
       {
         "slug": "tunesien",
@@ -487,7 +732,14 @@
           "it": "Tunisia"
         },
         "h5p": "tunesien-3886",
-        "cap": "Tunis"
+        "cap": "Tunis",
+        "h5p_folders": {
+          "de": "tunesien-3886",
+          "en": "tunisia-3900",
+          "fr": "tunisie-3911",
+          "es": "tunez-3921",
+          "it": "tunisia-2-3932"
+        }
       },
       {
         "slug": "ghana",
@@ -499,7 +751,14 @@
           "it": "Ghana"
         },
         "h5p": "ghana-2957",
-        "cap": "Accra"
+        "cap": "Accra",
+        "h5p_folders": {
+          "de": "ghana-2957",
+          "en": "ghana-2957",
+          "es": "ghana-2957",
+          "fr": "ghana-2957",
+          "it": "ghana-2957"
+        }
       },
       {
         "slug": "senegal",
@@ -510,8 +769,15 @@
           "es": "Senegal",
           "it": "Senegal"
         },
-        "h5p": "senegal-2-3178",
-        "cap": "Dakar"
+        "h5p": "senegal-3052",
+        "cap": "Dakar",
+        "h5p_folders": {
+          "de": "senegal-3052",
+          "en": "senegal-2-3178",
+          "es": "senegal-3-3429",
+          "fr": "senegal-4-3612",
+          "it": "senegal-5-3757"
+        }
       },
       {
         "slug": "tansania",
@@ -523,7 +789,14 @@
           "it": "Tanzania"
         },
         "h5p": "tansania-3883",
-        "cap": "Dodoma"
+        "cap": "Dodoma",
+        "h5p_folders": {
+          "de": "tansania-3883",
+          "en": "tanzania-3898",
+          "fr": "tanzanie-3908",
+          "es": "tanzania-3-3919",
+          "it": "tanzania-4-3930"
+        }
       },
       {
         "slug": "angola",
@@ -535,7 +808,14 @@
           "it": "Angola"
         },
         "h5p": "angola-2916",
-        "cap": "Luanda"
+        "cap": "Luanda",
+        "h5p_folders": {
+          "de": "angola-2916",
+          "en": "angola-2-3144",
+          "es": "angola-3-3281",
+          "fr": "angola-4-3466",
+          "it": "angola-5-3643"
+        }
       },
       {
         "slug": "namibia",
@@ -547,7 +827,14 @@
           "it": "Namibia"
         },
         "h5p": "namibia-3017",
-        "cap": "Windhoek"
+        "cap": "Windhoek",
+        "h5p_folders": {
+          "de": "namibia-3017",
+          "en": "namibia-2-3172",
+          "es": "namibia-3-3398",
+          "fr": "namibie-3577",
+          "it": "namibia-4-3740"
+        }
       },
       {
         "slug": "madagaskar",
@@ -559,7 +846,14 @@
           "it": "Madagascar"
         },
         "h5p": "madagaskar-3000",
-        "cap": "Antananarivo"
+        "cap": "Antananarivo",
+        "h5p_folders": {
+          "de": "madagaskar-3000",
+          "en": "madagascar-3165",
+          "es": "madagascar-2-3381",
+          "fr": "madagascar-3-3560",
+          "it": "madagascar-4-3781"
+        }
       }
     ]
   },
@@ -591,7 +885,14 @@
           "it": "Stati Uniti"
         },
         "h5p": "vereinigte-staaten-von-amerika-3084",
-        "cap": "Washington, D.C."
+        "cap": "Washington, D.C.",
+        "h5p_folders": {
+          "de": "vereinigte-staaten-von-amerika-3084",
+          "en": "united-states-of-america-3227",
+          "fr": "etats-unis-d-039-amerique-3517",
+          "es": "estados-unidos-de-america-3331",
+          "it": "stati-uniti-d-039-america-3760"
+        }
       },
       {
         "slug": "kanada",
@@ -603,7 +904,14 @@
           "it": "Canada"
         },
         "h5p": "kanada-2978",
-        "cap": "Ottawa"
+        "cap": "Ottawa",
+        "h5p_folders": {
+          "de": "kanada-2978",
+          "en": "canada-3217",
+          "es": "canada-2-3310",
+          "fr": "canada-3-3493",
+          "it": "canada-4-3669"
+        }
       },
       {
         "slug": "mexiko",
@@ -615,7 +923,14 @@
           "it": "Messico"
         },
         "h5p": "mexiko-3009",
-        "cap": "Mexiko-Stadt"
+        "cap": "Mexiko-Stadt",
+        "h5p_folders": {
+          "de": "mexiko-3009",
+          "en": "mexico-3220",
+          "fr": "mexique-3569",
+          "es": "mexico-2-3390",
+          "it": "messico-3786"
+        }
       },
       {
         "slug": "kuba",
@@ -627,7 +942,14 @@
           "it": "Cuba"
         },
         "h5p": "kuba-2990",
-        "cap": "Havanna"
+        "cap": "Havanna",
+        "h5p_folders": {
+          "de": "kuba-2990",
+          "en": "cuba-3219",
+          "es": "cuba-2-3322",
+          "fr": "cuba-3-3506",
+          "it": "cuba-4-3680"
+        }
       },
       {
         "slug": "jamaika",
@@ -639,7 +961,14 @@
           "it": "Giamaica"
         },
         "h5p": "jamaika-3092",
-        "cap": "Kingston"
+        "cap": "Kingston",
+        "h5p_folders": {
+          "de": "jamaika-3092",
+          "en": "jamaica-3216",
+          "fr": "jamaique-3542",
+          "es": "jamaica-2-3363",
+          "it": "jamaique-2-3721"
+        }
       },
       {
         "slug": "panama",
@@ -650,8 +979,15 @@
           "es": "Panamá",
           "it": "Panama"
         },
-        "h5p": "panama-2-3213",
-        "cap": "Panama-Stadt"
+        "h5p": "panama-3032",
+        "cap": "Panama-Stadt",
+        "h5p_folders": {
+          "de": "panama-3032",
+          "en": "panama-2-3213",
+          "es": "panama-3-3410",
+          "fr": "panama-4-3589",
+          "it": "panama-5-3746"
+        }
       },
       {
         "slug": "costa-rica",
@@ -662,8 +998,15 @@
           "es": "Costa Rica",
           "it": "Costa Rica"
         },
-        "h5p": "costa-rica-2-3205",
-        "cap": "San José"
+        "h5p": "costa-rica-2940",
+        "cap": "San José",
+        "h5p_folders": {
+          "de": "costa-rica-2940",
+          "en": "costa-rica-2-3205",
+          "es": "costa-rica-3-3321",
+          "fr": "costa-rica-4-3503",
+          "it": "costa-rica-5-3679"
+        }
       },
       {
         "slug": "guatemala",
@@ -674,8 +1017,15 @@
           "es": "Guatemala",
           "it": "Guatemala"
         },
-        "h5p": "guatemala-2-3211",
-        "cap": "Guatemala-Stadt"
+        "h5p": "guatemala-2960",
+        "cap": "Guatemala-Stadt",
+        "h5p_folders": {
+          "de": "guatemala-2960",
+          "en": "guatemala-2-3211",
+          "es": "guatemala-3-3345",
+          "fr": "guatemala-4-3526",
+          "it": "guatemala-5-3702"
+        }
       }
     ]
   },
@@ -707,7 +1057,14 @@
           "it": "Brasile"
         },
         "h5p": "brasilien-2933",
-        "cap": "Brasília"
+        "cap": "Brasília",
+        "h5p_folders": {
+          "de": "brasilien-2933",
+          "en": "brazil-3203",
+          "fr": "bresil-3486",
+          "es": "brasil-3301",
+          "it": "brasile-3662"
+        }
       },
       {
         "slug": "argentinien",
@@ -719,7 +1076,14 @@
           "it": "Argentina"
         },
         "h5p": "argentinien-2918",
-        "cap": "Buenos Aires"
+        "cap": "Buenos Aires",
+        "h5p_folders": {
+          "de": "argentinien-2918",
+          "en": "argentina-3198",
+          "fr": "argentine-3469",
+          "es": "argentina-2-3285",
+          "it": "argentina-3-3646"
+        }
       },
       {
         "slug": "kolumbien",
@@ -731,7 +1095,14 @@
           "it": "Colombia"
         },
         "h5p": "kolumbien-2985",
-        "cap": "Bogotá"
+        "cap": "Bogotá",
+        "h5p_folders": {
+          "de": "kolumbien-2985",
+          "en": "colombia-3218",
+          "fr": "colombie-3497",
+          "es": "colombia-2-3314",
+          "it": "colombia-3-3674"
+        }
       },
       {
         "slug": "chile",
@@ -742,8 +1113,15 @@
           "es": "Chile",
           "it": "Cile"
         },
-        "h5p": "chile-2-3204",
-        "cap": "Santiago de Chile"
+        "h5p": "chile-2938",
+        "cap": "Santiago de Chile",
+        "h5p_folders": {
+          "de": "chile-2938",
+          "en": "chile-2-3204",
+          "fr": "chili-3495",
+          "es": "chile-3-3311",
+          "it": "cile-3672"
+        }
       },
       {
         "slug": "peru",
@@ -754,8 +1132,15 @@
           "es": "Perú",
           "it": "Perù"
         },
-        "h5p": "peru-2-3222",
-        "cap": "Lima"
+        "h5p": "peru-3035",
+        "cap": "Lima",
+        "h5p_folders": {
+          "de": "peru-3035",
+          "en": "peru-2-3222",
+          "fr": "perou-3593",
+          "es": "peru-3-3413",
+          "it": "peru-4-3747"
+        }
       },
       {
         "slug": "venezuela",
@@ -766,8 +1151,15 @@
           "es": "Venezuela",
           "it": "Venezuela"
         },
-        "h5p": "venezuela-2-3229",
-        "cap": "Caracas"
+        "h5p": "venezuela-3082",
+        "cap": "Caracas",
+        "h5p_folders": {
+          "de": "venezuela-3082",
+          "en": "venezuela-2-3229",
+          "es": "venezuela-3-3454",
+          "fr": "venezuela-4-3635",
+          "it": "venezuela-5-3770"
+        }
       },
       {
         "slug": "ecuador",
@@ -778,8 +1170,15 @@
           "es": "Ecuador",
           "it": "Ecuador"
         },
-        "h5p": "ecuador-2-3208",
-        "cap": "Quito"
+        "h5p": "ecuador-2947",
+        "cap": "Quito",
+        "h5p_folders": {
+          "de": "ecuador-2947",
+          "en": "ecuador-2-3208",
+          "es": "ecuador-3-3325",
+          "fr": "quateur-3511",
+          "it": "ecuador-4-3683"
+        }
       },
       {
         "slug": "bolivien",
@@ -791,7 +1190,14 @@
           "it": "Bolivia"
         },
         "h5p": "bolivien-2930",
-        "cap": "Sucre / La Paz"
+        "cap": "Sucre / La Paz",
+        "h5p_folders": {
+          "de": "bolivien-2930",
+          "en": "bolivia-3202",
+          "es": "bolivia-2-3298",
+          "fr": "bolivie-3483",
+          "it": "bolivia-3-3659"
+        }
       },
       {
         "slug": "uruguay",
@@ -802,8 +1208,15 @@
           "es": "Uruguay",
           "it": "Uruguay"
         },
-        "h5p": "uruguay-2-3228",
-        "cap": "Montevideo"
+        "h5p": "uruguay-3078",
+        "cap": "Montevideo",
+        "h5p_folders": {
+          "de": "uruguay-3078",
+          "en": "uruguay-2-3228",
+          "es": "uruguay-3-3451",
+          "fr": "uruguay-4-3632",
+          "it": "uruguay-5-3769"
+        }
       },
       {
         "slug": "paraguay",
@@ -814,8 +1227,15 @@
           "es": "Paraguay",
           "it": "Paraguay"
         },
-        "h5p": "paraguay-2-3221",
-        "cap": "Asunción"
+        "h5p": "paraguay-3034",
+        "cap": "Asunción",
+        "h5p_folders": {
+          "de": "paraguay-3034",
+          "en": "paraguay-2-3221",
+          "es": "paraguay-3-3412",
+          "fr": "paraguay-4-3591",
+          "it": "paraguay-5-3747"
+        }
       }
     ]
   },
@@ -847,7 +1267,14 @@
           "it": "Australia"
         },
         "h5p": "australien-2921",
-        "cap": "Canberra"
+        "cap": "Canberra",
+        "h5p_folders": {
+          "de": "australien-2921",
+          "en": "australia-3184",
+          "fr": "australie-3471",
+          "es": "australia-2-3287",
+          "it": "australia-3-3648"
+        }
       },
       {
         "slug": "neuseeland",
@@ -859,7 +1286,14 @@
           "it": "Nuova Zelanda"
         },
         "h5p": "neuseeland-3020",
-        "cap": "Wellington"
+        "cap": "Wellington",
+        "h5p_folders": {
+          "de": "neuseeland-3020",
+          "en": "new-zealand-3189",
+          "fr": "nouvelle-zelande-3584",
+          "es": "nueva-zelanda-3405",
+          "it": "nuova-zelanda-3793"
+        }
       },
       {
         "slug": "fidschi",
@@ -871,7 +1305,14 @@
           "it": "Figi"
         },
         "h5p": "fidschi-2952",
-        "cap": "Suva"
+        "cap": "Suva",
+        "h5p_folders": {
+          "de": "fidschi-2952",
+          "en": "fiji-3185",
+          "es": "fiyi-3338",
+          "fr": "fidji-3518",
+          "it": "figi-3692"
+        }
       },
       {
         "slug": "samoa",
@@ -882,8 +1323,15 @@
           "es": "Samoa",
           "it": "Samoa"
         },
-        "h5p": "samoa-2-3193",
-        "cap": "Apia"
+        "h5p": "samoa-3047",
+        "cap": "Apia",
+        "h5p_folders": {
+          "de": "samoa-3047",
+          "en": "samoa-2-3193",
+          "es": "samoa-3-3423",
+          "fr": "samoa-4-3610",
+          "it": "samoa-5-3805"
+        }
       },
       {
         "slug": "tonga",
@@ -894,8 +1342,15 @@
           "es": "Tonga",
           "it": "Tonga"
         },
-        "h5p": "tonga-2-3194",
-        "cap": "Nukuʻalofa"
+        "h5p": "tonga-3070",
+        "cap": "Nukuʻalofa",
+        "h5p_folders": {
+          "de": "tonga-3070",
+          "en": "tonga-2-3194",
+          "es": "tonga-3-3445",
+          "fr": "tonga-4-3626",
+          "it": "tonga-5-3766"
+        }
       }
     ]
   }
