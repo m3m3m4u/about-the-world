@@ -14,7 +14,9 @@ import {
   Globe2, 
   Building2,
   ArrowRight,
-  PlayCircle
+  PlayCircle,
+  BookOpen,
+  Trophy
 } from 'lucide-react';
 
 const iconMap: Record<string, any> = {
@@ -97,6 +99,58 @@ export function GeographySection({ initialChapterId }: GeographySectionProps = {
               {language === 'es' && 'Portal educativo con módulos H5P verificados sobre vulcanismo, tectónica, montañas, océanos, ríos y zonas climáticas.'}
               {language === 'it' && 'Portale didattico con moduli H5P verificati su vulcanismo, tettonica, montagne, oceani, fiumi e zone climatiche.'}
             </p>
+          </div>
+
+          {/* Geographie-Quiz Promo Banner matching global.css .banner-card */}
+          <div className="banner-card" style={{ marginBottom: 24 }}>
+            <div className="banner-inner">
+              <div 
+                style={{ 
+                  width: 60, 
+                  height: 60, 
+                  borderRadius: 8, 
+                  background: 'var(--green-light)', 
+                  border: '1px solid var(--green-border)',
+                  color: 'var(--green-dark)', 
+                  display: 'flex', 
+                  alignItems: 'center', 
+                  justifyContent: 'center',
+                  flexShrink: 0 
+                }}
+              >
+                <BookOpen style={{ width: 30, height: 30 }} />
+              </div>
+              <div className="banner-text">
+                <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 4 }}>
+                  <h3 style={{ margin: 0 }}>
+                    {language === 'de' ? 'Geographie- & Weltwissen-Quiz' : 'Geography & World Knowledge Quiz'}
+                  </h3>
+                  <span style={{ 
+                    fontSize: '11px', 
+                    fontWeight: 700, 
+                    background: 'var(--green-primary)', 
+                    color: '#fff', 
+                    padding: '2px 8px', 
+                    borderRadius: 10 
+                  }}>
+                    500+ FRAGEN
+                  </span>
+                </div>
+                <p style={{ margin: 0, fontSize: '13.5px' }}>
+                  {language === 'de' 
+                    ? 'Wie gut kennst du unsere Erde? Wähle Themengebiete, spiele um den Highscore und erhalte spannende Facherklärungen zu jeder Frage!' 
+                    : 'Test your world knowledge! Select categories, play for highscores, and get in-depth explanations for every question!'}
+                </p>
+              </div>
+              <Link 
+                href="/geographie-quiz" 
+                className="flagquiz-primary-btn" 
+                style={{ textDecoration: 'none', whiteSpace: 'nowrap', padding: '10px 20px', fontSize: '14px' }}
+              >
+                <Trophy style={{ width: 16, height: 16 }} />
+                <span>{language === 'de' ? 'Quiz starten' : 'Start Quiz'}</span>
+              </Link>
+            </div>
           </div>
 
           {/* Die 6 Fachkapitel-Kacheln (3 pro Reihe auf Desktop) */}

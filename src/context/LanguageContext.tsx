@@ -14,6 +14,9 @@ export interface Translations {
   navMiddleEast: string;
   navPresidents: string;
   navUsStates: string;
+  navFlagQuiz: string;
+  navGeographyQuiz: string;
+  navMapQuiz: string;
   navContentsToggle: string;
   welcomeHeading: string;
   welcomeText: string;
@@ -195,6 +198,40 @@ export interface Translations {
   adminTeacherDeletedSuccess: string;
   adminNoTeachersYet: string;
 
+// ── BiologieArena ──────────────────────────────────────────────
+  navBiology: string;
+  navBiologyQuiz: string;
+  navAnimalClassificationQuiz: string;
+  biologyTitle: string;
+  biologySubtitle: string;
+  biologyAnimalsHeading: string;
+  biologyPlantsHeading: string;
+  biologyAllAnimals: string;
+  biologyAllPlants: string;
+  biologyMasterQuizTitle: string;
+  biologyMasterQuizDesc: string;
+  biologyClassificationQuizDesc: string;
+  biologySpeciesCount: string;
+  biologyQuestionAnimal: string;
+  biologyQuestionPlant: string;
+  biologyQuestionSpecies: string;
+  biologyQuestionClassification: string;
+  biologyCorrect: string;
+  biologyWrong: string;
+  biologyNextQuestion: string;
+  biologyRepeatQuestion: string;
+  biologyQuizFinished: string;
+  biologyPlayAgain: string;
+  biologyAccuracy: string;
+  biologyCorrectCount: string;
+  biologyWrongCount: string;
+  biologyHighscoresTitle: string;
+  biologySaveScore: string;
+  biologySelectCategories: string;
+  biologyStartQuiz: string;
+  biologyQuestionCount: string;
+  biologyBackToHub: string;
+
   // ── Was ist neu / What's New ──────────────────────────────────
   whatsNewTitle: string;
   featureLayout: string;
@@ -216,6 +253,9 @@ export const translations: Record<Language, Translations> = {
     navMiddleEast: 'Der Nahostkonflikt',
     navPresidents: 'US-Präsidenten',
     navUsStates: 'US-Bundesstaaten',
+    navFlagQuiz: 'Flaggenquiz',
+    navGeographyQuiz: 'Geographie-Quiz',
+    navMapQuiz: 'Kartenquiz',
     navContentsToggle: 'Inhalte',
     welcomeHeading: 'Herzlich Willkommen auf about-the-world.org',
     welcomeText: 'Hier findest du zahlreiche Inhalte und interaktive Übungen rund um das Thema Geographie, Weltgeschichte und Politik. Lerne alles über die Länder und Kulturen dieser Erde!',
@@ -397,6 +437,38 @@ export const translations: Record<Language, Translations> = {
     featureStudents: 'Schüler anlegen',
     featureTasks: 'Aufgaben zuordnen & Ergebnisse nachverfolgen',
     featurePrivacy: 'Datenschutzkonform ohne Klarnamen',
+navBiology: 'Tiere- und Pflanzenquiz',
+    navBiologyQuiz: 'Biologie-Quiz',
+    navAnimalClassificationQuiz: 'Tierart-Quiz',
+    biologyTitle: 'Tiere- und Pflanzenquiz',
+    biologySubtitle: 'Bestimme Tiere und Pflanzen anhand detailreicher Bildkarten und interaktiver Quiz-Duelle.',
+    biologyAnimalsHeading: 'Tierwelt',
+    biologyPlantsHeading: 'Pflanzenwelt',
+    biologyAllAnimals: 'Alle Tiere',
+    biologyAllPlants: 'Alle Pflanzen',
+    biologyMasterQuizTitle: 'Master-Quiz',
+    biologyMasterQuizDesc: 'Die ultimative Bestimmungs-Herausforderung über alle Tier- und Pflanzenarten.',
+    biologyClassificationQuizDesc: 'Ordne die Tiere der richtigen Tierklasse zu: Säugetier, Vogel, Fisch, Reptil, Amphibie oder Wirbelloses Tier.',
+    biologySpeciesCount: 'Arten',
+    biologyQuestionAnimal: 'Wie heißt dieses Tier?',
+    biologyQuestionPlant: 'Wie heißt diese Pflanze?',
+    biologyQuestionSpecies: 'Wie heißt diese Art?',
+    biologyQuestionClassification: 'Zu welcher Tiergruppe gehört dieses Tier?',
+    biologyCorrect: 'Richtig!',
+    biologyWrong: 'Falsch! Richtige Antwort: ',
+    biologyNextQuestion: 'Nächste Frage',
+    biologyRepeatQuestion: 'Wiederholungs-Frage',
+    biologyQuizFinished: 'Quiz beendet',
+    biologyPlayAgain: 'Nochmal spielen',
+    biologyAccuracy: 'Quote',
+    biologyCorrectCount: 'Richtig',
+    biologyWrongCount: 'Falsch',
+    biologyHighscoresTitle: 'Bestenliste: Tiere- und Pflanzenquiz',
+    biologySaveScore: 'Ergebnis speichern',
+    biologySelectCategories: 'Kategorien wählen',
+    biologyStartQuiz: 'Quiz starten',
+    biologyQuestionCount: 'Anzahl der Fragen',
+    biologyBackToHub: 'Zurück zur Übersicht (Tiere- und Pflanzenquiz)',
   },
   en: {
     platformTitle: 'About the World',
@@ -409,6 +481,9 @@ export const translations: Record<Language, Translations> = {
     navMiddleEast: 'The Middle East Conflict',
     navPresidents: 'US Presidents',
     navUsStates: 'US States',
+    navFlagQuiz: 'Flag Quiz',
+    navGeographyQuiz: 'Geography Quiz',
+    navMapQuiz: 'Map Quiz',
     navContentsToggle: 'Contents',
     welcomeHeading: 'Welcome to about-the-world.org',
     welcomeText: 'Here you will find extensive educational content and interactive exercises around geography, world history, and politics. Learn everything about the countries and cultures of the world!',
@@ -590,6 +665,38 @@ export const translations: Record<Language, Translations> = {
     featureStudents: 'Create Students',
     featureTasks: 'Assign Tasks & Track Results',
     featurePrivacy: 'GDPR-Compliant Without Real Names',
+navBiology: 'Tiere- und Pflanzenquiz',
+    navBiologyQuiz: 'Biology Quiz',
+    navAnimalClassificationQuiz: 'Animal Class Quiz',
+    biologyTitle: 'Animals & Plants Quiz',
+    biologySubtitle: 'Identify animals and plants through high-resolution photo flashcards and interactive quiz challenges.',
+    biologyAnimalsHeading: 'Animal Kingdom',
+    biologyPlantsHeading: 'Plant World',
+    biologyAllAnimals: 'All Animals',
+    biologyAllPlants: 'All Plants',
+    biologyMasterQuizTitle: 'Master Quiz',
+    biologyMasterQuizDesc: 'The ultimate identification challenge across all animal and plant species.',
+    biologyClassificationQuizDesc: 'Classify animals into the correct class: Mammal, Bird, Fish, Reptile, Amphibian, or Invertebrate.',
+    biologySpeciesCount: 'species',
+    biologyQuestionAnimal: 'What is the name of this animal?',
+    biologyQuestionPlant: 'What is the name of this plant?',
+    biologyQuestionSpecies: 'What is the name of this species?',
+    biologyQuestionClassification: 'Which animal group does this animal belong to?',
+    biologyCorrect: 'Correct!',
+    biologyWrong: 'Wrong! Correct answer: ',
+    biologyNextQuestion: 'Next Question',
+    biologyRepeatQuestion: 'Review Question',
+    biologyQuizFinished: 'Quiz Finished',
+    biologyPlayAgain: 'Play Again',
+    biologyAccuracy: 'Accuracy',
+    biologyCorrectCount: 'Correct',
+    biologyWrongCount: 'Wrong',
+    biologyHighscoresTitle: 'Leaderboard: Animals & Plants Quiz',
+    biologySaveScore: 'Save Score',
+    biologySelectCategories: 'Select Categories',
+    biologyStartQuiz: 'Start Quiz',
+    biologyQuestionCount: 'Number of Questions',
+    biologyBackToHub: 'Back to Animals & Plants Overview',
   },
   fr: {
     platformTitle: 'About the World',
@@ -602,6 +709,9 @@ export const translations: Record<Language, Translations> = {
     navMiddleEast: 'Le Conflit au Proche-Orient',
     navPresidents: 'Présidents des États-Unis',
     navUsStates: 'États des États-Unis',
+    navFlagQuiz: 'Quiz des Drapeaux',
+    navGeographyQuiz: 'Quiz de Géographie',
+    navMapQuiz: 'Quiz des Cartes',
     navContentsToggle: 'Contenus',
     welcomeHeading: 'Bienvenue sur about-the-world.org',
     welcomeText: 'Vous trouverez ici des contenus éducatifs et des exercices interactifs sur la géographie, l\'histoire et la politique mondiale.',
@@ -783,6 +893,38 @@ export const translations: Record<Language, Translations> = {
     featureStudents: 'Créer des élèves',
     featureTasks: 'Assigner des tâches & suivre les résultats',
     featurePrivacy: 'Conforme RGPD sans vrais noms',
+navBiology: 'Tiere- und Pflanzenquiz',
+    navBiologyQuiz: 'Quiz de biologie',
+    navAnimalClassificationQuiz: 'Quiz des classes animales',
+    biologyTitle: 'Quiz des animaux et des plantes',
+    biologySubtitle: 'Identifiez les animaux et les plantes grâce à des cartes illustrées et des quiz interactifs.',
+    biologyAnimalsHeading: 'Règne animal',
+    biologyPlantsHeading: 'Monde végétal',
+    biologyAllAnimals: 'Tous les animaux',
+    biologyAllPlants: 'Toutes les plantes',
+    biologyMasterQuizTitle: 'Master Quiz',
+    biologyMasterQuizDesc: 'Le défi d’identification ultime sur toutes les espèces animales et végétales.',
+    biologyClassificationQuizDesc: 'Attribuez chaque animal à sa classe : Mammifère, Oiseau, Poisson, Reptile, Amphibien ou Invertébré.',
+    biologySpeciesCount: 'espèces',
+    biologyQuestionAnimal: 'Comment s’appelle cet animal ?',
+    biologyQuestionPlant: 'Comment s’appelle cette plante ?',
+    biologyQuestionSpecies: 'Comment s’appelle cette espèce ?',
+    biologyQuestionClassification: 'À quel groupe animal appartient cet animal ?',
+    biologyCorrect: 'Correct !',
+    biologyWrong: 'Faux ! Réponse correcte : ',
+    biologyNextQuestion: 'Question suivante',
+    biologyRepeatQuestion: 'Question de révision',
+    biologyQuizFinished: 'Quiz terminé',
+    biologyPlayAgain: 'Rejouer',
+    biologyAccuracy: 'Précision',
+    biologyCorrectCount: 'Correct',
+    biologyWrongCount: 'Faux',
+    biologyHighscoresTitle: 'Classement : Quiz animaux & plantes',
+    biologySaveScore: 'Enregistrer le score',
+    biologySelectCategories: 'Sélectionner des catégories',
+    biologyStartQuiz: 'Démarrer le quiz',
+    biologyQuestionCount: 'Nombre de questions',
+    biologyBackToHub: 'Retour à l’aperçu Animaux & Plantes',
   },
   es: {
     platformTitle: 'About the World',
@@ -795,6 +937,9 @@ export const translations: Record<Language, Translations> = {
     navMiddleEast: 'El Conflicto de Oriente Próximo',
     navPresidents: 'Presidentes de EE.UU.',
     navUsStates: 'Estados de EE.UU.',
+    navFlagQuiz: 'Quiz de Banderas',
+    navGeographyQuiz: 'Quiz de Geografía',
+    navMapQuiz: 'Quiz de Mapas',
     navContentsToggle: 'Contenidos',
     welcomeHeading: 'Bienvenido a about-the-world.org',
     welcomeText: 'Aquí encontrarás contenidos educativos y ejercicios interactivos sobre geografía, historia mundial y política.',
@@ -976,6 +1121,38 @@ export const translations: Record<Language, Translations> = {
     featureStudents: 'Crear alumnos',
     featureTasks: 'Asignar tareas y seguir resultados',
     featurePrivacy: 'Conforme a RGPD sin nombres reales',
+navBiology: 'Tiere- und Pflanzenquiz',
+    navBiologyQuiz: 'Quiz de biología',
+    navAnimalClassificationQuiz: 'Quiz de clases de animales',
+    biologyTitle: 'Quiz de animales y plantas',
+    biologySubtitle: 'Identifica animales y plantas mediante tarjetas ilustradas y juegos de preguntas interactivos.',
+    biologyAnimalsHeading: 'Reino animal',
+    biologyPlantsHeading: 'Mundo vegetal',
+    biologyAllAnimals: 'Todos los animales',
+    biologyAllPlants: 'Todas las plantas',
+    biologyMasterQuizTitle: 'Master Quiz',
+    biologyMasterQuizDesc: 'El desafío definitivo de identificación de todas las especies animales y vegetales.',
+    biologyClassificationQuizDesc: 'Clasifica los animales en su grupo correcto: Mamífero, Ave, Pez, Reptil, Anfibio o Invertebrado.',
+    biologySpeciesCount: 'especies',
+    biologyQuestionAnimal: '¿Cómo se llama este animal?',
+    biologyQuestionPlant: '¿Cómo se llama esta planta?',
+    biologyQuestionSpecies: '¿Cómo se llama esta especie?',
+    biologyQuestionClassification: '¿A qué grupo animal pertenece este animal?',
+    biologyCorrect: '¡Correcto!',
+    biologyWrong: '¡Incorrecto! Respuesta correcta: ',
+    biologyNextQuestion: 'Siguiente pregunta',
+    biologyRepeatQuestion: 'Pregunta de repaso',
+    biologyQuizFinished: 'Quiz terminado',
+    biologyPlayAgain: 'Jugar de nuevo',
+    biologyAccuracy: 'Precisión',
+    biologyCorrectCount: 'Correcto',
+    biologyWrongCount: 'Incorrecto',
+    biologyHighscoresTitle: 'Clasificación: Quiz de animales y plantas',
+    biologySaveScore: 'Guardar puntuación',
+    biologySelectCategories: 'Seleccionar categorías',
+    biologyStartQuiz: 'Iniciar quiz',
+    biologyQuestionCount: 'Número de preguntas',
+    biologyBackToHub: 'Volver al resumen de Animales y Plantas',
   },
   it: {
     platformTitle: 'About the World',
@@ -988,6 +1165,9 @@ export const translations: Record<Language, Translations> = {
     navMiddleEast: 'Il Conflitto in Medio Oriente',
     navPresidents: 'Presidenti degli Stati Uniti',
     navUsStates: 'Stati degli Stati Uniti',
+    navFlagQuiz: 'Quiz sulle Bandiere',
+    navGeographyQuiz: 'Quiz di Geografia',
+    navMapQuiz: 'Quiz sulle Mappe',
     navContentsToggle: 'Contenuti',
     welcomeHeading: 'Benvenuti su about-the-world.org',
     welcomeText: 'Qui troverai contenuti didattici ed esercizi interattivi su geografia, storia del mondo e politica.',
@@ -1169,6 +1349,38 @@ export const translations: Record<Language, Translations> = {
     featureStudents: 'Creazione studenti',
     featureTasks: 'Assegna compiti e monitora i risultati',
     featurePrivacy: 'Conforme al GDPR senza nomi reali',
+navBiology: 'Tiere- und Pflanzenquiz',
+    navBiologyQuiz: 'Quiz di biologia',
+    navAnimalClassificationQuiz: 'Quiz delle classi animali',
+    biologyTitle: 'Quiz su animali e piante',
+    biologySubtitle: 'Riconosci animali e piante attraverso schede fotografiche e quiz interattivi.',
+    biologyAnimalsHeading: 'Regno animale',
+    biologyPlantsHeading: 'Mondo vegetale',
+    biologyAllAnimals: 'Tutti gli animali',
+    biologyAllPlants: 'Tutte le piante',
+    biologyMasterQuizTitle: 'Master Quiz',
+    biologyMasterQuizDesc: 'La sfida definitiva di riconoscimento tra tutte le specie animali e vegetali.',
+    biologyClassificationQuizDesc: 'Classifica gli animali nel loro gruppo corretto: Mammifero, Uccello, Pesce, Rettile, Anfibio o Invertebrato.',
+    biologySpeciesCount: 'specie',
+    biologyQuestionAnimal: 'Come si chiama questo animale?',
+    biologyQuestionPlant: 'Come si chiama questa pianta?',
+    biologyQuestionSpecies: 'Come si chiama questa specie?',
+    biologyQuestionClassification: 'A quale gruppo animale appartiene questo animale?',
+    biologyCorrect: 'Corretto!',
+    biologyWrong: 'Sbagliato! Risposta corretta: ',
+    biologyNextQuestion: 'Prossima domanda',
+    biologyRepeatQuestion: 'Domanda di ripasso',
+    biologyQuizFinished: 'Quiz completato',
+    biologyPlayAgain: 'Gioca di nuovo',
+    biologyAccuracy: 'Precisione',
+    biologyCorrectCount: 'Corretto',
+    biologyWrongCount: 'Sbagliato',
+    biologyHighscoresTitle: 'Classifica: Quiz su animali e piante',
+    biologySaveScore: 'Salva punteggio',
+    biologySelectCategories: 'Seleziona categorie',
+    biologyStartQuiz: 'Inizia quiz',
+    biologyQuestionCount: 'Numero di domande',
+    biologyBackToHub: 'Torna alla panoramica Animali e Piante',
   },
 };
 

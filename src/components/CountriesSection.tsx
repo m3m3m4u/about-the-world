@@ -10,7 +10,9 @@ import {
   Globe, 
   MapPin, 
   ArrowRight,
-  PlayCircle
+  PlayCircle,
+  Flag,
+  Trophy
 } from 'lucide-react';
 
 interface CountriesSectionProps {
@@ -18,7 +20,7 @@ interface CountriesSectionProps {
 }
 
 export function CountriesSection({ initialContinentId }: CountriesSectionProps = {}) {
-  const { language } = useLanguage();
+  const { language, t } = useLanguage();
 
   // Selected continent: null = Overview page with 6 continent tiles; string = Continent detail page
   const [activeContinentId, setActiveContinentId] = useState<string | null>(initialContinentId || null);
@@ -82,6 +84,58 @@ export function CountriesSection({ initialContinentId }: CountriesSectionProps =
             </p>
           </div>
 
+          {/* Flaggenquiz Promo Banner matching global.css .banner-card */}
+          <div className="banner-card" style={{ marginBottom: 24 }}>
+            <div className="banner-inner">
+              <div 
+                style={{ 
+                  width: 60, 
+                  height: 60, 
+                  borderRadius: 8, 
+                  background: 'var(--green-light)', 
+                  border: '1px solid var(--green-border)',
+                  color: 'var(--green-dark)', 
+                  display: 'flex', 
+                  alignItems: 'center', 
+                  justifyContent: 'center',
+                  flexShrink: 0 
+                }}
+              >
+                <Flag style={{ width: 30, height: 30 }} />
+              </div>
+              <div className="banner-text">
+                <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 4 }}>
+                  <h3 style={{ margin: 0 }}>
+                    {language === 'de' ? 'Interaktives Flaggenquiz' : 'Interactive Flag Quiz'}
+                  </h3>
+                  <span style={{ 
+                    fontSize: '11px', 
+                    fontWeight: 700, 
+                    background: 'var(--green-primary)', 
+                    color: '#fff', 
+                    padding: '2px 8px', 
+                    borderRadius: 10 
+                  }}>
+                    NEU
+                  </span>
+                </div>
+                <p style={{ margin: 0, fontSize: '13.5px' }}>
+                  {language === 'de' 
+                    ? 'Wie gut kennst du die Flaggen der Welt? Wähle Kontinente, spiele um den Highscore und trage deinen Namen in die Bestenliste ein!' 
+                    : 'Test your world flag knowledge! Select continents, play for highscores, and enter your name into the leaderboard!'}
+                </p>
+              </div>
+              <Link 
+                href="/flaggenquiz" 
+                className="flagquiz-primary-btn" 
+                style={{ textDecoration: 'none', whiteSpace: 'nowrap', padding: '10px 20px', fontSize: '14px' }}
+              >
+                <Trophy style={{ width: 16, height: 16 }} />
+                <span>{language === 'de' ? 'Quiz spielen' : 'Play Quiz'}</span>
+              </Link>
+            </div>
+          </div>
+
           {/* Die 6 Kontinente-Kacheln (3 pro Reihe auf Desktop) */}
           <div className="section-block">
             <h3 className="section-main-heading">Die 6 Kontinente</h3>
@@ -124,7 +178,7 @@ export function CountriesSection({ initialContinentId }: CountriesSectionProps =
                         <Globe style={{ width: 22, height: 22 }} />
                       </div>
                       
-                      <h4 className="tile-title" style={{ fontSize: '16px', marginBottom: 6 }}>
+                      <h4 className="tile-title" style={{ fontSize: '16px', marginBottom: 6, textAlign: 'left' }}>
                         {title}
                       </h4>
                       <p style={{ fontSize: '13px', color: 'var(--text-muted)', lineHeight: 1.5, marginBottom: 12 }}>

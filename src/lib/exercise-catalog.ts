@@ -45,6 +45,9 @@ export async function getAllExercises(): Promise<CatalogExercise[]> {
       } else if (slug.includes('laender') || slug.includes('land')) {
         subject = 'Länder der Erde';
         subjectSlug = 'laender-der-erde';
+      } else if (slug.includes('bio') || slug.includes('tier') || slug.includes('pflanze')) {
+        subject = 'Biologie';
+        subjectSlug = 'biologie';
       }
 
       return {
@@ -57,6 +60,28 @@ export async function getAllExercises(): Promise<CatalogExercise[]> {
         url: `/${slug}`,
       };
     });
+
+    // Add standalone Tiere- und Pflanzenquiz
+    list.push(
+      {
+        id: 'biologie-quiz',
+        title: 'Tiere- und Pflanzenquiz (Artenbestimmung)',
+        subject: 'Tiere- und Pflanzenquiz',
+        subjectSlug: 'biologie',
+        topicTitle: 'Tiere- und Pflanzenquiz',
+        topicSlug: 'biologie',
+        url: '/biologie/quiz',
+      },
+      {
+        id: 'biologie-tierart-quiz',
+        title: 'Tierart-Klassifikation (Säugetier, Vogel, Fisch, Reptil, Amphibie, Wirbellose)',
+        subject: 'Tiere- und Pflanzenquiz',
+        subjectSlug: 'biologie',
+        topicTitle: 'Tiere- und Pflanzenquiz',
+        topicSlug: 'biologie',
+        url: '/biologie/tierart-quiz',
+      }
+    );
 
     list.sort((a, b) => a.subject.localeCompare(b.subject, 'de') || a.title.localeCompare(b.title, 'de'));
     cachedExercises = list;

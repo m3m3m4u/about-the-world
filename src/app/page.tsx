@@ -10,7 +10,9 @@ import {
   Compass, 
   Map, 
   ArrowRight,
-  ShieldCheck
+  ShieldCheck,
+  Flag,
+  Leaf
 } from 'lucide-react';
 
 export default function HomePage() {
@@ -22,35 +24,108 @@ export default function HomePage() {
       href: '/geographie',
       icon: Compass,
       title: t.navGeography,
-      desc: language === 'de' ? 'Allgemeine geographische Themen, Kontinente, Ozeane und Zonen.' : 'General geographical topics, continents, oceans, and zones.',
+      desc:
+        language === 'de' ? 'Allgemeine geographische Themen, Kontinente, Ozeane und Zonen.' :
+        language === 'fr' ? 'Sujets géographiques généraux, continents, océans et zones climatiques.' :
+        language === 'es' ? 'Temas geográficos generales, continentes, océanos y zonas climáticas.' :
+        language === 'it' ? 'Argomenti geografici generali, continenti, oceani e zone climatiche.' :
+        'General geographical topics, continents, oceans, and zones.',
+    },
+    {
+      id: 'geography-quiz',
+      href: '/geographie-quiz',
+      icon: BookOpen,
+      title: t.navGeographyQuiz,
+      desc:
+        language === 'de' ? 'Umfangreiches Quiz mit über 500 Fragen zu Hauptstädten, Flüssen, Gebirgen und Weltrekorden.' :
+        language === 'fr' ? 'Grand quiz avec plus de 500 questions sur les capitales, fleuves, montagnes et records.' :
+        language === 'es' ? 'Gran quiz con más de 500 preguntas sobre capitales, ríos, montañas y récords mundiales.' :
+        language === 'it' ? 'Grande quiz con oltre 500 domande su capitali, fiumi, montagne e record mondiali.' :
+        'Comprehensive quiz with over 500 questions covering capitals, rivers, mountains, and world records.',
     },
     {
       id: 'countries',
       href: '/laender-der-erde',
       icon: Globe,
       title: t.navCountries,
-      desc: language === 'de' ? 'Erklärvideos und Online-Übungen zu allen Ländern der Erde.' : 'Explainer videos and online exercises for all world countries.',
+      desc:
+        language === 'de' ? 'Erklärvideos und Online-Übungen zu allen Ländern der Erde.' :
+        language === 'fr' ? 'Vidéos explicatives et exercices interactifs sur tous les pays du monde.' :
+        language === 'es' ? 'Vídeos explicativos y ejercicios interactivos sobre todos los países del mundo.' :
+        language === 'it' ? 'Video esplicativi ed esercizi interattivi su tutti i paesi del mondo.' :
+        'Explainer videos and online exercises for all world countries.',
+    },
+    {
+      id: 'flagquiz',
+      href: '/flaggenquiz',
+      icon: Flag,
+      title: t.navFlagQuiz,
+      desc:
+        language === 'de' ? 'Interaktives Flaggenquiz mit Kontinent-Auswahl, Streak-Counter und Highscore-Bestenliste.' :
+        language === 'fr' ? 'Quiz interactif des drapeaux avec choix des continents, séries de victoires et classement.' :
+        language === 'es' ? 'Quiz interactivo de banderas con selección de continentes, contador de rachas y récords.' :
+        language === 'it' ? 'Quiz interattivo delle bandiere con selezione dei continenti, serie e classifica.' :
+        'Interactive flag quiz with continent selection, streak counters, and highscore leaderboard.',
+    },
+    {
+      id: 'mapquiz',
+      href: '/kartenquiz',
+      icon: Map,
+      title: t.navMapQuiz,
+      desc:
+        language === 'de' ? 'Interaktives Landkarten- & Satellitenquiz zu Ländern, Bundesländern, Kantonen und Städten weltweit.' :
+        language === 'fr' ? 'Quiz interactif de cartes et images satellite sur les pays, états, cantons et métropoles.' :
+        language === 'es' ? 'Quiz interactivo de mapas e imágenes satelitales sobre países, estados, cantones y ciudades.' :
+        language === 'it' ? 'Quiz interattivo di mappe e immagini satellitari su paesi, stati, cantoni e metropoli.' :
+        'Interactive map and satellite quiz for countries, federal states, cantons, and global cities.',
+    },
+    {
+      id: 'biology',
+      href: '/biologie',
+      icon: Leaf,
+      title: t.biologyTitle,
+      desc:
+        language === 'de' ? 'Bestimme Tiere und Pflanzen anhand detailreicher Bildkarten und interaktiver Quiz-Duelle.' :
+        language === 'fr' ? 'Identifiez les animaux et les plantes grâce à des cartes illustrées et des quiz interactifs.' :
+        language === 'es' ? 'Identifica animales y plantas mediante tarjetas ilustradas y juegos de preguntas interactivos.' :
+        language === 'it' ? 'Riconosci animali e piante attraverso schede fotografiche e quiz interattivi.' :
+        'Identify animals and plants through high-resolution photo flashcards and interactive quiz challenges.',
     },
     {
       id: 'middle-east',
       href: '/der-nahostkonflikt',
       icon: BookOpen,
       title: t.navMiddleEast,
-      desc: language === 'de' ? 'Dossier zum Nahostkonflikt: Geschichte, Kriege, Bevölkerung und Friedenschancen.' : 'Middle East conflict dossier: history, crises, population and peace efforts.',
+      desc:
+        language === 'de' ? 'Dossier zum Nahostkonflikt: Geschichte, Kriege, Bevölkerung und Friedenschancen.' :
+        language === 'fr' ? 'Dossier sur le conflit au Proche-Orient : histoire, guerres, populations et paix.' :
+        language === 'es' ? 'Dossier sobre el conflicto de Oriente Medio: historia, guerras, población y paz.' :
+        language === 'it' ? 'Dossier sul conflitto in Medio Oriente: storia, guerre, popolazione e pace.' :
+        'Middle East conflict dossier: history, crises, population and peace efforts.',
     },
     {
       id: 'presidents',
       href: '/praesidenten-der-usa',
       icon: ShieldCheck,
       title: t.navPresidents,
-      desc: language === 'de' ? 'Chronologie und Biographien aller Präsidenten der USA.' : 'Chronology and biographies of all US presidents.',
+      desc:
+        language === 'de' ? 'Chronologie und Biographien aller Präsidenten der USA.' :
+        language === 'fr' ? 'Chronologie et biographies de tous les présidents des États-Unis.' :
+        language === 'es' ? 'Cronología y biografías de todos los presidentes de los Estados Unidos.' :
+        language === 'it' ? 'Cronologia e biografie di tutti i presidenti degli Stati Uniti.' :
+        'Chronology and biographies of all US presidents.',
     },
     {
       id: 'us-states',
       href: '/us-bundesstaaten',
       icon: Map,
       title: t.navUsStates,
-      desc: language === 'de' ? 'Alle 50 Bundesstaaten der USA mit Hauptstädten und Kartenübungen.' : 'All 50 US states with capitals and interactive map exercises.',
+      desc:
+        language === 'de' ? 'Alle 50 Bundesstaaten der USA mit Hauptstädten und Kartenübungen.' :
+        language === 'fr' ? 'Les 50 États américains avec leurs capitales et exercices cartographiques.' :
+        language === 'es' ? 'Los 50 estados de EE. UU. con capitales y ejercicios de mapas interactivos.' :
+        language === 'it' ? 'Tutti i 50 stati degli USA con capitali ed esercizi interattivi sulle mappe.' :
+        'All 50 US states with capitals and interactive map exercises.',
     },
   ];
 
