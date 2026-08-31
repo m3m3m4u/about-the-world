@@ -104,20 +104,6 @@ export default function DashboardPage() {
     onConfirm: async () => {},
   });
 
-  // Check auth
-  useEffect(() => {
-    fetch('/api/auth/me')
-      .then((r) => r.json())
-      .then((data) => {
-        if (!data.user || data.user.role !== 'teacher') {
-          router.replace('/');
-        } else {
-          setTeacherEmail(data.user.email || '');
-        }
-      })
-      .catch(() => router.replace('/'));
-  }, [router]);
-
   const loadData = useCallback(async () => {
     setLoading(true);
     try {
@@ -153,9 +139,20 @@ export default function DashboardPage() {
     }
   }, [t.loginNetworkError]);
 
+  // Check auth and load data
   useEffect(() => {
-    loadData();
-  }, [loadData]);
+    fetch('/api/auth/me')
+      .then((r) => r.json())
+      .then((data) => {
+        if (!data.user || data.user.role !== 'teacher') {
+          router.replace('/');
+        } else {
+          setTeacherEmail(data.user.email || '');
+          loadData();
+        }
+      })
+      .catch(() => router.replace('/'));
+  }, [router, loadData]);
 
   // Load catalog eagerly or when needed
   const ensureCatalog = async () => {
