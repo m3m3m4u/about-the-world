@@ -11,6 +11,7 @@ import { H5PPlayer } from '@/components/H5PPlayer';
 import { useLanguage } from '@/context/LanguageContext';
 import { ModuleItem } from '@/types';
 import mappingData from '@/data/slug_and_id_map.json';
+import { notFound } from 'next/navigation';
 import { AlertCircle } from 'lucide-react';
 
 interface PageProps {
@@ -22,6 +23,10 @@ export default function DynamicSlugPage({ params }: PageProps) {
   const rawSlug = resolvedParams.slug || '';
   const slug = rawSlug.toLowerCase();
   const { language, setLanguage, t } = useLanguage();
+
+  if (slug.includes('.')) {
+    notFound();
+  }
 
   // 1. Check topic & chapter aliases (e.g. /the-middle-east-conflict, /pays-du-monde-h5p, /geschichte-israels-und-palaestinas)
   const alias = (mappingData.topic_aliases as Record<string, any>)[slug];
