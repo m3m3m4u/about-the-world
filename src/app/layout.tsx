@@ -1,7 +1,9 @@
 import type { Metadata } from 'next';
 import { Open_Sans } from 'next/font/google';
+import { Suspense } from 'react';
 import './globals.css';
 import { LanguageProvider } from '@/context/LanguageContext';
+import AnalyticsTracker from '@/components/AnalyticsTracker';
 
 const openSans = Open_Sans({
   subsets: ['latin', 'latin-ext'],
@@ -40,6 +42,9 @@ export default function RootLayout({
         <link rel="apple-touch-icon" href="/apple-touch-icon.png?v=2" />
       </head>
       <body className={openSans.className}>
+        <Suspense fallback={null}>
+          <AnalyticsTracker />
+        </Suspense>
         <LanguageProvider>
           {children}
         </LanguageProvider>
