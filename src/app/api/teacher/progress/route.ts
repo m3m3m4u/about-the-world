@@ -1,8 +1,9 @@
 import { getSession } from '@/lib/auth';
 import { getDatabase } from '@/lib/mongodb';
 import { ObjectId } from 'mongodb';
+import { buildAccessibleStudentsQuery } from '@/lib/class-sharing';
 
-// GET /api/teacher/progress — Fortschritt aller Schüler der Lehrperson
+// GET /api/teacher/progress – Fortschritt aller Schüler der Lehrperson (inkl. geteilter Klassen)
 export async function GET() {
   const session = await getSession();
   if (!session || session.role !== 'teacher') {
@@ -10,11 +11,12 @@ export async function GET() {
   }
 
   const db = await getDatabase();
+  const query = await buildAccessibleStudentsQuery(db, new ObjectId(session.id));
 
-  // Get all students of this teacher
+  // Get all students of this teacher (and shared classes)
   const students = await db
     .collection('students')
-    .find({ teacherId: new ObjectId(session.id) })
+    .find(query)
     .sort({ createdAt: 1 })
     .toArray();
 

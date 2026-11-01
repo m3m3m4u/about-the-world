@@ -1,8 +1,9 @@
 import { getSession } from '@/lib/auth';
 import { getDatabase } from '@/lib/mongodb';
 import { ObjectId } from 'mongodb';
+import { resolveClassOwnerId } from '@/lib/class-sharing';
 
-// PATCH /api/teacher/classes — Benennt eine Klasse für alle zugehörigen Schüler und Zuweisungen um
+// PATCH /api/teacher/classes – Benennt eine Klasse für alle zugehörigen Schüler und Zuweisungen um
 export async function PATCH(request: Request) {
   const session = await getSession();
   if (!session || session.role !== 'teacher') {
@@ -21,8 +22,9 @@ export async function PATCH(request: Request) {
     return Response.json({ error: 'Der neue Klassenname muss sich vom bisherigen unterscheiden.' }, { status: 400 });
   }
 
-  const teacherId = new ObjectId(session.id);
+  const sessionTeacherId = new ObjectId(session.id);
   const db = await getDatabase();
+  const { ownerId: teacherId } = await resolveClassOwnerId(db, sessionTeacherId, oldClassName);
 
   const classQuery = oldClassName === 'Ohne Klasse'
     ? { teacherId, className: { $in: ['', null, 'Ohne Klasse'] } }
@@ -40,6 +42,12 @@ export async function PATCH(request: Request) {
     { $set: { className: newClassName, updatedAt: new Date() } }
   );
 
+  // Update class_shares if exist
+  await db.collection('class_shares').updateMany(
+    { ownerId: teacherId, className: oldClassName },
+    { $set: { className: newClassName, updatedAt: new Date() } }
+  );
+
   return Response.json({
     ok: true,
     oldClassName,
@@ -48,7 +56,7 @@ export async function PATCH(request: Request) {
   });
 }
 
-// DELETE /api/teacher/classes — Löscht eine gesamte Klasse mit allen Schüleraccounts und deren Fortschrittsdaten
+// DELETE /api/teacher/classes – Löscht eine gesamte Klasse mit allen Schüleraccounts und deren Fortschrittsdaten
 export async function DELETE(request: Request) {
   const session = await getSession();
   if (!session || session.role !== 'teacher') {
@@ -62,10 +70,11 @@ export async function DELETE(request: Request) {
     return Response.json({ error: 'Klassenname ist erforderlich.' }, { status: 400 });
   }
 
-  const teacherId = new ObjectId(session.id);
+  const sessionTeacherId = new ObjectId(session.id);
   const db = await getDatabase();
+  const { ownerId: teacherId } = await resolveClassOwnerId(db, sessionTeacherId, className);
 
-  // Find all students belonging to this teacher with the given className
+  // Find all students belonging to this class
   const students = await db
     .collection('students')
     .find({
@@ -85,9 +94,13 @@ export async function DELETE(request: Request) {
     studentId: { $in: studentIds },
   });
 
-  // Delete all class assignments for this class
+  // Delete all class assignments and shares for this class
   await db.collection('class_assignments').deleteMany({
     teacherId,
+    className,
+  });
+  await db.collection('class_shares').deleteMany({
+    ownerId: teacherId,
     className,
   });
 
@@ -98,7 +111,7 @@ export async function DELETE(request: Request) {
 
   return Response.json({
     ok: true,
-    deletedCount: result.deletedCount,
     className,
+    deletedCount: result.deletedCount,
   });
 }

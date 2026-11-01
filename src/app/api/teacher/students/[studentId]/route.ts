@@ -1,6 +1,7 @@
 import { getSession } from '@/lib/auth';
 import { getDatabase } from '@/lib/mongodb';
 import { ObjectId } from 'mongodb';
+import { findAccessibleStudent } from '@/lib/class-sharing';
 
 // DELETE /api/teacher/students/[studentId]
 export async function DELETE(
@@ -23,11 +24,8 @@ export async function DELETE(
 
   const db = await getDatabase();
 
-  // Make sure the student belongs to this teacher
-  const student = await db.collection('students').findOne({
-    _id: studentObjectId,
-    teacherId: new ObjectId(session.id),
-  });
+  // Make sure the student belongs to this teacher or a shared class
+  const student = await findAccessibleStudent(db, new ObjectId(session.id), studentObjectId);
 
   if (!student) {
     return Response.json({ error: 'Schüler nicht gefunden.' }, { status: 404 });

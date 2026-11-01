@@ -2,8 +2,9 @@ import { getSession } from '@/lib/auth';
 import { getDatabase } from '@/lib/mongodb';
 import { generateStudentCode } from '@/lib/auth';
 import { ObjectId } from 'mongodb';
+import { buildAccessibleStudentsQuery, resolveClassOwnerId } from '@/lib/class-sharing';
 
-// GET /api/teacher/students — Liste aller Schüler der eingeloggten Lehrperson
+// GET /api/teacher/students – Liste aller Schüler der eingeloggten Lehrperson (inkl. geteilter Team-Teaching-Klassen)
 export async function GET() {
   const session = await getSession();
   if (!session || session.role !== 'teacher') {
@@ -11,9 +12,11 @@ export async function GET() {
   }
 
   const db = await getDatabase();
+  const teacherId = new ObjectId(session.id);
+  const query = await buildAccessibleStudentsQuery(db, teacherId);
   const students = await db
     .collection('students')
-    .find({ teacherId: new ObjectId(session.id) })
+    .find(query)
     .sort({ className: 1, createdAt: 1 })
     .toArray();
 
@@ -27,7 +30,7 @@ export async function GET() {
   });
 }
 
-// POST /api/teacher/students — Schüleraccounts anlegen (nach Anzahl bis zu 30 & Klasse)
+// POST /api/teacher/students – Schüleraccounts anlegen (nach Anzahl bis zu 30 & Klasse)
 export async function POST(request: Request) {
   const session = await getSession();
   if (!session || session.role !== 'teacher') {
@@ -40,7 +43,8 @@ export async function POST(request: Request) {
   const rawClass = typeof body.className === 'string' ? body.className.trim() : '';
   const className = rawClass || 'Standardklasse';
 
-  const teacherId = new ObjectId(session.id);
+  const sessionTeacherId = new ObjectId(session.id);
+  const { ownerId: teacherId } = await resolveClassOwnerId(db, sessionTeacherId, className);
   const now = new Date();
   const newStudents: { code: string; className: string; teacherId: ObjectId; createdAt: Date }[] = [];
 

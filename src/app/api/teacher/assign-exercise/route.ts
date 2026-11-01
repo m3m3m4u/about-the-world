@@ -1,8 +1,10 @@
 import { getSession } from '@/lib/auth';
 import { getDatabase } from '@/lib/mongodb';
 import { ObjectId } from 'mongodb';
+import { normalizeSections } from '@/lib/assignment-sections';
+import { buildAccessibleStudentsQuery, resolveClassOwnerId } from '@/lib/class-sharing';
 
-// GET /api/teacher/assign-exercise?exerciseId=... — Klassen und Zuweisungsstatus für eine Übung abrufen
+// GET /api/teacher/assign-exercise?exerciseId=... – Klassen und Zuweisungsstatus für eine Übung abrufen
 export async function GET(request: Request) {
   const session = await getSession();
   if (!session || session.role !== 'teacher') {
@@ -19,11 +21,9 @@ export async function GET(request: Request) {
   const db = await getDatabase();
   const teacherId = new ObjectId(session.id);
 
-  // 1. Alle Klassen der Lehrperson mit Schüleranzahl ermitteln
-  const students = await db
-    .collection('students')
-    .find({ teacherId })
-    .toArray();
+  // 1. Alle Klassen der Lehrperson (inkl. Team-Teaching) mit Schüleranzahl ermitteln
+  const query = await buildAccessibleStudentsQuery(db, teacherId);
+  const students = await db.collection('students').find(query).toArray();
 
   const classCounts: Record<string, number> = {};
   for (const s of students) {
@@ -33,16 +33,12 @@ export async function GET(request: Request) {
 
   const classNames = Object.keys(classCounts).sort();
 
-  // 2. Alle Zuweisungen für diesen Teacher abrufen
-  const assignments = await db
-    .collection('class_assignments')
-    .find({ teacherId })
-    .toArray();
-
+  // 2. Zuweisungen je Klasse abrufen (unter Berücksichtigung des jeweiligen Klassen-Eigentümers)
   const assignedMap = new Map<string, Set<string>>();
-  for (const a of assignments) {
-    const cls = (a.className as string) || '';
-    const h5pIds = Array.isArray(a.h5pIds) ? a.h5pIds : [];
+  for (const cls of classNames) {
+    const { ownerId } = await resolveClassOwnerId(db, teacherId, cls);
+    const a = await db.collection('class_assignments').findOne({ teacherId: ownerId, className: cls });
+    const h5pIds = Array.isArray(a?.h5pIds) ? a.h5pIds : [];
     assignedMap.set(cls, new Set(h5pIds));
   }
 
@@ -76,7 +72,7 @@ export async function GET(request: Request) {
   });
 }
 
-// POST /api/teacher/assign-exercise — Übung Klassen zuweisen oder Zuweisung aufheben
+// POST /api/teacher/assign-exercise – Übung Klassen zuweisen oder Zuweisung aufheben
 export async function POST(request: Request) {
   const session = await getSession();
   if (!session || session.role !== 'teacher') {
@@ -97,11 +93,9 @@ export async function POST(request: Request) {
   const teacherId = new ObjectId(session.id);
   const now = new Date();
 
-  // Alle bekannten Klassen der Lehrperson
-  const students = await db
-    .collection('students')
-    .find({ teacherId })
-    .toArray();
+  // Alle bekannten Klassen der Lehrperson (inkl. Team-Teaching)
+  const query = await buildAccessibleStudentsQuery(db, teacherId);
+  const students = await db.collection('students').find(query).toArray();
 
   const allTeacherClasses = Array.from(
     new Set(students.map((s) => (s.className as string) || 'Ohne Klasse'))
@@ -109,8 +103,9 @@ export async function POST(request: Request) {
 
   // Für jede Klasse die Zuweisung aktualisieren
   for (const cls of allTeacherClasses) {
+    const { ownerId } = await resolveClassOwnerId(db, teacherId, cls);
     const shouldAssign = selectedClasses.includes(cls);
-    const existing = await db.collection('class_assignments').findOne({ teacherId, className: cls });
+    const existing = await db.collection('class_assignments').findOne({ teacherId: ownerId, className: cls });
     let currentH5pIds: string[] = Array.isArray(existing?.h5pIds) ? existing.h5pIds : [];
 
     // Filter normalisiert
@@ -125,13 +120,29 @@ export async function POST(request: Request) {
       currentH5pIds = currentH5pIds.filter((id) => id !== pureId && id !== exerciseId);
     }
 
+    const sections = normalizeSections(existing).map((s) => ({
+      ...s,
+      h5pIds: s.h5pIds.filter((id) => id !== pureId && id !== exerciseId),
+    }));
+    if (shouldAssign) {
+      // Zuweisung: ursprüngliche Position beibehalten, sonst ans Ende des ersten Bereichs
+      const wasThere = normalizeSections(existing).some((s) => s.h5pIds.includes(pureId) || s.h5pIds.includes(exerciseId));
+      if (wasThere) {
+        sections.length = 0;
+        sections.push(...normalizeSections(existing));
+      } else {
+        sections[0].h5pIds.push(pureId);
+      }
+    }
+
     await db.collection('class_assignments').updateOne(
-      { teacherId, className: cls },
+      { teacherId: ownerId, className: cls },
       {
         $set: {
-          teacherId,
+          teacherId: ownerId,
           className: cls,
           h5pIds: currentH5pIds,
+          sections,
           updatedAt: now,
         },
         $setOnInsert: {

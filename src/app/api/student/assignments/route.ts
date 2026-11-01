@@ -2,6 +2,7 @@ import { getSession } from '@/lib/auth';
 import { getDatabase } from '@/lib/mongodb';
 import { getAllExercises } from '@/lib/exercise-catalog';
 import { ObjectId } from 'mongodb';
+import { normalizeSections } from '@/lib/assignment-sections';
 
 // GET /api/student/assignments — Zugewiesene Übungen für den eingeloggten Schüler
 export async function GET() {
@@ -25,8 +26,28 @@ export async function GET() {
     teacherId,
     className,
   });
+  const personalDoc = await db.collection('student_assignments').findOne({
+    teacherId,
+    studentId: new ObjectId(session.id),
+  });
 
-  const assignedH5pIds: string[] = Array.isArray(assignmentDoc?.h5pIds) ? assignmentDoc.h5pIds : [];
+  // Klassenbereiche in Lehrer-Reihenfolge, danach persönliche Aufgaben (Duplikate entfallen)
+  const orderedEntries: { id: string; sectionTitle: string; personal: boolean }[] = [];
+  const seenIds = new Set<string>();
+  for (const sec of normalizeSections(assignmentDoc)) {
+    for (const id of sec.h5pIds) {
+      if (seenIds.has(id)) continue;
+      seenIds.add(id);
+      orderedEntries.push({ id, sectionTitle: sec.title, personal: false });
+    }
+  }
+  for (const sec of normalizeSections(personalDoc)) {
+    for (const id of sec.h5pIds) {
+      if (seenIds.has(id)) continue;
+      seenIds.add(id);
+      orderedEntries.push({ id, sectionTitle: sec.title || 'Nur für dich', personal: true });
+    }
+  }
 
   // Fetch student's progress for completed exercises
   const progressList = await db
@@ -52,12 +73,14 @@ export async function GET() {
   const allExercises = await getAllExercises();
   const catalogMap = new Map(allExercises.map((e) => [e.id, e]));
 
-  const assignments = assignedH5pIds.map((id) => {
+  const assignments = orderedEntries.map(({ id, sectionTitle, personal }) => {
     const meta = catalogMap.get(id);
     const prog = progressMap.get(id);
 
     return {
       id,
+      sectionTitle,
+      personal,
       title: meta?.title || `Übung ${id}`,
       subject: meta?.subject || 'Allgemein',
       subjectSlug: meta?.subjectSlug || '',
