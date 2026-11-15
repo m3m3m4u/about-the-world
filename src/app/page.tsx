@@ -4,6 +4,7 @@ import React from 'react';
 import Link from 'next/link';
 import { SiteLayout } from '@/components/SiteLayout';
 import { useLanguage } from '@/context/LanguageContext';
+import { BUCHTIPPS_UI } from '@/lib/buchtipps/data';
 import { 
   Globe, 
   BookOpen, 
@@ -127,6 +128,18 @@ export default function HomePage() {
         language === 'it' ? 'Tutti i 50 stati degli USA con capitali ed esercizi interattivi sulle mappe.' :
         'All 50 US states with capitals and interactive map exercises.',
     },
+    {
+      id: 'buchtipps',
+      href: '/buchtipps',
+      icon: BookOpen,
+      title: t.navBuchtipps,
+      desc:
+        language === 'de' ? 'Kuratierte Buchempfehlungen zu Geographie, Geschichte, Biologie und KI im Unterricht.' :
+        language === 'fr' ? 'Sélection de livres recommandés en géographie, histoire, biologie et IA à l\'école.' :
+        language === 'es' ? 'Libros recomendados sobre geografía, historia, biología e IA en el aula.' :
+        language === 'it' ? 'Libri consigliati su geografia, storia, biologia e IA nella didattica.' :
+        'Curated book recommendations on geography, world history, biology, and AI in education.',
+    },
   ];
 
   return (
@@ -199,6 +212,60 @@ export default function HomePage() {
             : 'Many exercises are available in multiple languages. Enjoy learning!'}
         </p>
       </div>
+
+      {/* Buchtipps Banner in eigener Zeile mit "Neu"-Badge */}
+      <section
+        className="banner-card"
+        style={{
+          marginTop: 20,
+          marginBottom: 8,
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'space-between',
+          gap: 16,
+          flexWrap: 'wrap',
+        }}
+      >
+        <div style={{ display: 'flex', alignItems: 'center', gap: 14, flex: '1 1 340px' }}>
+          <span
+            style={{
+              background: 'var(--green-primary)',
+              color: '#ffffff',
+              fontSize: 12,
+              fontWeight: 700,
+              textTransform: 'uppercase',
+              letterSpacing: '0.8px',
+              padding: '6px 12px',
+              borderRadius: 4,
+              display: 'inline-flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              flexShrink: 0,
+            }}
+          >
+            {(BUCHTIPPS_UI[language] || BUCHTIPPS_UI.de).modalNewBadge}
+          </span>
+          <div className="banner-text">
+            <h3 style={{ margin: '0 0 4px 0', fontSize: 16 }}>
+              <Link href="/buchtipps" style={{ textDecoration: 'none', color: 'inherit' }}>
+                {(BUCHTIPPS_UI[language] || BUCHTIPPS_UI.de).homeBannerTitle}
+              </Link>
+            </h3>
+            <p style={{ margin: 0, fontSize: 13, color: 'var(--text-color)', lineHeight: 1.45 }}>
+              {(BUCHTIPPS_UI[language] || BUCHTIPPS_UI.de).homeBannerDesc}
+            </p>
+          </div>
+        </div>
+        <div style={{ flexShrink: 0 }}>
+          <Link
+            href="/buchtipps"
+            className="button-link"
+            style={{ whiteSpace: 'nowrap' }}
+          >
+            {(BUCHTIPPS_UI[language] || BUCHTIPPS_UI.de).homeBannerBtn}
+          </Link>
+        </div>
+      </section>
 
       {/* Topics Section matching global.css .section-block & .cards-grid (3 per row) */}
       <div className="section-block" style={{ marginTop: 24 }}>

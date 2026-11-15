@@ -58,8 +58,9 @@ export async function POST(request: Request) {
     const body = await request.json();
     const { name, score, totalQuestions, percentage, continents, timeSpentSeconds } = body;
 
+    // Strip HTML/script tags and limit length to prevent stored XSS
     const cleanName = (typeof name === 'string' && name.trim().length > 0)
-      ? name.trim().substring(0, 30)
+      ? name.trim().replace(/[<>]/g, '').substring(0, 30)
       : 'Anonym';
 
     const safeScore = Math.max(0, parseInt(score, 10) || 0);

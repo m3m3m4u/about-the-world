@@ -17,6 +17,7 @@ export interface Translations {
   navFlagQuiz: string;
   navGeographyQuiz: string;
   navMapQuiz: string;
+  navBuchtipps: string;
   navContentsToggle: string;
   welcomeHeading: string;
   welcomeText: string;
@@ -256,6 +257,7 @@ export const translations: Record<Language, Translations> = {
     navFlagQuiz: 'Flaggenquiz',
     navGeographyQuiz: 'Geographie-Quiz',
     navMapQuiz: 'Kartenquiz',
+    navBuchtipps: 'Buchtipps',
     navContentsToggle: 'Inhalte',
     welcomeHeading: 'Herzlich Willkommen auf about-the-world.org',
     welcomeText: 'Hier findest du zahlreiche Inhalte und interaktive Übungen rund um das Thema Geographie, Weltgeschichte und Politik. Lerne alles über die Länder und Kulturen dieser Erde!',
@@ -484,6 +486,7 @@ navBiology: 'Tiere- und Pflanzenquiz',
     navFlagQuiz: 'Flag Quiz',
     navGeographyQuiz: 'Geography Quiz',
     navMapQuiz: 'Map Quiz',
+    navBuchtipps: 'Book Tips',
     navContentsToggle: 'Contents',
     welcomeHeading: 'Welcome to about-the-world.org',
     welcomeText: 'Here you will find extensive educational content and interactive exercises around geography, world history, and politics. Learn everything about the countries and cultures of the world!',
@@ -712,6 +715,7 @@ navBiology: 'Tiere- und Pflanzenquiz',
     navFlagQuiz: 'Quiz des Drapeaux',
     navGeographyQuiz: 'Quiz de Géographie',
     navMapQuiz: 'Quiz des Cartes',
+    navBuchtipps: 'Livres recommandés',
     navContentsToggle: 'Contenus',
     welcomeHeading: 'Bienvenue sur about-the-world.org',
     welcomeText: 'Vous trouverez ici des contenus éducatifs et des exercices interactifs sur la géographie, l\'histoire et la politique mondiale.',
@@ -940,6 +944,7 @@ navBiology: 'Tiere- und Pflanzenquiz',
     navFlagQuiz: 'Quiz de Banderas',
     navGeographyQuiz: 'Quiz de Geografía',
     navMapQuiz: 'Quiz de Mapas',
+    navBuchtipps: 'Libros recomendados',
     navContentsToggle: 'Contenidos',
     welcomeHeading: 'Bienvenido a about-the-world.org',
     welcomeText: 'Aquí encontrarás contenidos educativos y ejercicios interactivos sobre geografía, historia mundial y política.',
@@ -1168,6 +1173,7 @@ navBiology: 'Tiere- und Pflanzenquiz',
     navFlagQuiz: 'Quiz sulle Bandiere',
     navGeographyQuiz: 'Quiz di Geografia',
     navMapQuiz: 'Quiz sulle Mappe',
+    navBuchtipps: 'Libri consigliati',
     navContentsToggle: 'Contenuti',
     welcomeHeading: 'Benvenuti su about-the-world.org',
     welcomeText: 'Qui troverai contenuti didattici ed esercizi interattivi su geografia, storia del mondo e politica.',

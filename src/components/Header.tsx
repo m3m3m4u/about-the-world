@@ -31,6 +31,7 @@ export function Header({ activeSection }: HeaderProps) {
     { id: 'middle-east', href: '/der-nahostkonflikt', label: t.navMiddleEast },
     { id: 'presidents', href: '/praesidenten-der-usa', label: t.navPresidents },
     { id: 'us-states', href: '/us-bundesstaaten', label: t.navUsStates },
+    { id: 'buchtipps', href: '/buchtipps', label: t.navBuchtipps },
   ];
 
   return (

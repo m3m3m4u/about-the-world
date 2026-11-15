@@ -61,7 +61,7 @@ export async function POST(request: Request) {
     const { name, score, totalQuestions, percentage, mode, filter, timeSpentSeconds } = body;
 
     const cleanName = typeof name === 'string' && name.trim().length > 0
-      ? name.trim().substring(0, 30)
+      ? name.trim().replace(/[<>]/g, '').substring(0, 30)
       : 'Anonym';
 
     const safeScore = Math.max(0, parseInt(score, 10) || 0);

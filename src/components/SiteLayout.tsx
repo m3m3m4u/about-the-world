@@ -1,9 +1,11 @@
 'use client';
 
 import React, { useState } from 'react';
+import Link from 'next/link';
 import { Header } from '@/components/Header';
 import { CookieBanner } from '@/components/CookieBanner';
 import { LegalModal } from '@/components/LegalModal';
+import TeacherBuchtippsModal from '@/components/TeacherBuchtippsModal';
 import { useLanguage } from '@/context/LanguageContext';
 
 interface SiteLayoutProps {
@@ -37,6 +39,10 @@ export function SiteLayout({ children, activeSection }: SiteLayoutProps) {
       <footer className="main-footer">
         <div className="footer-inner" style={{ justifyContent: 'center' }}>
           <div className="footer-links">
+            <Link href="/buchtipps" className="footer-cookie-btn" style={{ textDecoration: 'none' }}>
+              {t.navBuchtipps}
+            </Link>
+            <span>•</span>
             <button
               type="button"
               onClick={() => setLegalType('impressum')}
@@ -66,6 +72,9 @@ export function SiteLayout({ children, activeSection }: SiteLayoutProps) {
 
       {/* DSGVO Cookie Banner */}
       <CookieBanner onOpenLegal={(type) => setLegalType(type)} />
+
+      {/* Buchtipps Info-Modal für Lehrkräfte */}
+      <TeacherBuchtippsModal />
 
       {/* Impressum & Datenschutz Modal */}
       <LegalModal type={legalType} onClose={() => setLegalType(null)} />

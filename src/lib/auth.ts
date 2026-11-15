@@ -1,6 +1,6 @@
 /**
  * Auth helpers: password hashing (HMAC-SHA256 + salt), session token generation/verification.
- * Uses only Node.js built-in crypto.
+ * Uses only Node.js built-in crypto with timing-safe comparisons.
  */
 
 import crypto from 'crypto';
@@ -9,7 +9,7 @@ import { getDatabase } from './mongodb';
 import { ObjectId } from 'mongodb';
 
 const SESSION_COOKIE = 'atw_session';
-const SESSION_MAX_AGE = 60 * 60 * 24 * 30; // 30 Tage
+const SESSION_MAX_AGE = 60 * 60 * 24 * 30; // 30 Tage in Sekunden
 
 // ---------------------------------------------------------------------------
 // Password helpers
@@ -27,7 +27,12 @@ export function hashPassword(password: string, salt: string): string {
 }
 
 export function verifyPassword(password: string, salt: string, hash: string): boolean {
-  return hashPassword(password, salt) === hash;
+  if (!password || !salt || !hash) return false;
+  const calculated = hashPassword(password, salt);
+  const a = Buffer.from(calculated, 'hex');
+  const b = Buffer.from(hash, 'hex');
+  if (a.length !== b.length) return false;
+  return crypto.timingSafeEqual(a, b);
 }
 
 // ---------------------------------------------------------------------------
@@ -45,7 +50,7 @@ export function generateStudentCode(): string {
 }
 
 export function normalizeCode(code: string): string {
-  return code.toUpperCase().trim();
+  return typeof code === 'string' ? code.toUpperCase().trim() : '';
 }
 
 // ---------------------------------------------------------------------------
@@ -53,6 +58,10 @@ export function normalizeCode(code: string): string {
 // ---------------------------------------------------------------------------
 
 const AUTH_SECRET = process.env.AUTH_SECRET || 'atw-fallback-secret-change-me';
+
+if (process.env.NODE_ENV === 'production' && (!process.env.AUTH_SECRET || process.env.AUTH_SECRET === 'atw-fallback-secret-change-me')) {
+  console.warn('[SECURITY WARNING] In production, AUTH_SECRET must be set to a strong random secret in environment variables!');
+}
 
 export interface SessionPayload {
   id: string;
@@ -76,12 +85,23 @@ function verifyToken(token: string): SessionPayload | null {
   try {
     const [b64, sig] = token.split('.');
     if (!b64 || !sig) return null;
+
     const expectedSig = crypto
       .createHmac('sha256', AUTH_SECRET)
       .update(b64)
       .digest('base64url');
-    if (sig !== expectedSig) return null;
+
+    const a = Buffer.from(sig);
+    const b = Buffer.from(expectedSig);
+    if (a.length !== b.length || !crypto.timingSafeEqual(a, b)) return null;
+
     const payload: SessionPayload = JSON.parse(Buffer.from(b64, 'base64url').toString('utf-8'));
+
+    // Check expiration (SESSION_MAX_AGE in seconds -> ms)
+    if (payload.iat && Date.now() - payload.iat > SESSION_MAX_AGE * 1000) {
+      return null;
+    }
+
     return payload;
   } catch {
     return null;
@@ -96,9 +116,11 @@ export async function createSession(payload: Omit<SessionPayload, 'iat'>): Promi
   const fullPayload: SessionPayload = { ...payload, iat: Date.now() };
   const token = createToken(fullPayload);
   const cookieStore = await cookies();
+  const isProduction = process.env.NODE_ENV === 'production';
+
   cookieStore.set(SESSION_COOKIE, token, {
     httpOnly: true,
-    secure: process.env.COOKIE_SECURE === 'true',
+    secure: isProduction || process.env.COOKIE_SECURE === 'true',
     sameSite: 'lax',
     maxAge: SESSION_MAX_AGE,
     path: '/',
@@ -126,11 +148,21 @@ export async function deleteSession(): Promise<void> {
 // ---------------------------------------------------------------------------
 
 export async function getTeacherById(id: string) {
-  const db = await getDatabase();
-  return db.collection('teachers').findOne({ _id: new ObjectId(id) });
+  if (!id || typeof id !== 'string') return null;
+  try {
+    const db = await getDatabase();
+    return db.collection('teachers').findOne({ _id: new ObjectId(id) });
+  } catch {
+    return null;
+  }
 }
 
 export async function getStudentById(id: string) {
-  const db = await getDatabase();
-  return db.collection('students').findOne({ _id: new ObjectId(id) });
+  if (!id || typeof id !== 'string') return null;
+  try {
+    const db = await getDatabase();
+    return db.collection('students').findOne({ _id: new ObjectId(id) });
+  } catch {
+    return null;
+  }
 }

@@ -118,6 +118,24 @@ function guessContentType(fname: string) {
 
 export async function GET(req: Request, ctx: { params: Promise<{ path: string[] }> }) {
   const { path: pathParts = [] } = (await ctx.params.catch?.(() => ({ path: [] as string[] }))) ?? (ctx as any).params;
+
+  // Security: Prevent Directory/Path Traversal
+  if (
+    !Array.isArray(pathParts) ||
+    pathParts.some(
+      (part) =>
+        part === '..' ||
+        part.includes('..') ||
+        part.includes('/') ||
+        part.includes('\\') ||
+        part.includes('\0') ||
+        part.includes('%2e') ||
+        part.includes('%2f')
+    )
+  ) {
+    return new NextResponse('Ungültiger Pfad', { status: 400 });
+  }
+
   const key = pathParts.join('/');
   const c = conf();
   if (!c) {
@@ -155,6 +173,24 @@ export async function GET(req: Request, ctx: { params: Promise<{ path: string[] 
 
 export async function HEAD(req: Request, ctx: { params: Promise<{ path: string[] }> }) {
   const { path: pathParts = [] } = (await ctx.params.catch?.(() => ({ path: [] as string[] }))) ?? (ctx as any).params;
+
+  // Security: Prevent Directory/Path Traversal
+  if (
+    !Array.isArray(pathParts) ||
+    pathParts.some(
+      (part) =>
+        part === '..' ||
+        part.includes('..') ||
+        part.includes('/') ||
+        part.includes('\\') ||
+        part.includes('\0') ||
+        part.includes('%2e') ||
+        part.includes('%2f')
+    )
+  ) {
+    return new NextResponse(null, { status: 400 });
+  }
+
   const key = pathParts.join('/');
   const c = conf();
   if (!c) {

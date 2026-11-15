@@ -1,25 +1,37 @@
 import { getDatabase } from '@/lib/mongodb';
 import { verifyPassword, normalizeCode, createSession } from '@/lib/auth';
+import { checkRateLimit, getClientIp } from '@/lib/rate-limit';
 
 export async function POST(request: Request) {
   try {
-    const body = await request.json();
+    const ip = getClientIp(request);
+    const rateCheck = checkRateLimit(`login:${ip}`, 10, 60 * 1000); // Max 10 attempts per minute
+    if (!rateCheck.allowed) {
+      return Response.json(
+        { error: `Zu viele Anmeldeversuche. Bitte warte ${rateCheck.resetInSec} Sekunden.` },
+        { status: 429 }
+      );
+    }
+
+    const body = await request.json().catch(() => ({}));
     const { role, email, password, code } = body;
 
     const db = await getDatabase();
 
     if (role === 'teacher') {
-      if (!email || !password) {
+      if (!email || !password || typeof email !== 'string' || typeof password !== 'string') {
         return Response.json({ error: 'E-Mail und Passwort erforderlich.' }, { status: 400 });
       }
 
       const emailLower = email.toLowerCase().trim();
 
-      // Admin-Check (Zugangsdaten aus .env.local oder Standard 'Kopernikus' / '12345')
-      const envAdminEmail = (process.env.ADMIN_EMAIL || '').toLowerCase();
+      // Admin-Check (Zugangsdaten aus .env.local)
+      const envAdminEmail = (process.env.ADMIN_EMAIL || '').toLowerCase().trim();
       const envAdminPassword = process.env.ADMIN_PASSWORD || '';
       const isEnvAdmin = !!(envAdminEmail && envAdminPassword && emailLower === envAdminEmail && password === envAdminPassword);
-      const isDefaultAdmin = emailLower === 'kopernikus' && password === '12345';
+
+      // In non-production only, allow fallback Kopernikus / 12345 if env is unset
+      const isDefaultAdmin = process.env.NODE_ENV !== 'production' && !envAdminEmail && emailLower === 'kopernikus' && password === '12345';
 
       if (isEnvAdmin || isDefaultAdmin) {
         const effectiveEmail = isEnvAdmin ? process.env.ADMIN_EMAIL! : 'Kopernikus';
@@ -45,11 +57,15 @@ export async function POST(request: Request) {
       return Response.json({ ok: true, role: 'teacher', email: teacher.email });
 
     } else if (role === 'student') {
-      if (!code) {
+      if (!code || typeof code !== 'string') {
         return Response.json({ error: 'Schüler-Code erforderlich.' }, { status: 400 });
       }
 
       const normalizedCode = normalizeCode(code);
+      if (!normalizedCode || normalizedCode.length !== 5) {
+        return Response.json({ error: 'Ungültiges Code-Format.' }, { status: 400 });
+      }
+
       const student = await db.collection('students').findOne({ code: normalizedCode });
       if (!student) {
         return Response.json({ error: 'Unbekannter Code. Bitte überprüfen.' }, { status: 401 });

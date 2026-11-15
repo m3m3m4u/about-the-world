@@ -3569,3 +3569,473 @@ a:hover {
 }
 
 
+
+/* ==========================================================================
+   Buchtipps System (About the World)
+   ========================================================================== */
+
+.buchtipps-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+@media (max-width: 860px) {
+  .buchtipps-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.buchtipp-card {
+  background: var(--bg-white);
+  border: 1px solid var(--border-light);
+  border-radius: 6px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: all 0.2s ease;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.02);
+}
+
+.buchtipp-card:hover {
+  border-color: var(--green-primary);
+  box-shadow: 0 4px 14px rgba(148, 187, 62, 0.16);
+  transform: translateY(-2px);
+}
+
+.buchtipp-header {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  margin-bottom: 14px;
+}
+
+.buchtipp-cover-wrapper {
+  position: relative;
+  width: 108px;
+  aspect-ratio: 2 / 3;
+  flex-shrink: 0;
+  border-radius: 6px;
+  overflow: hidden;
+  background: #f6f8f4;
+  border: 1px solid var(--border-light);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+  display: block;
+  cursor: pointer;
+}
+
+.buchtipp-cover-wrapper:hover {
+  border-color: var(--green-primary);
+}
+
+.buchtipp-cover-fallback {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  text-align: center;
+  font-size: 11px;
+  color: var(--text-muted);
+  background: var(--green-light);
+}
+
+.buchtipp-meta {
+  flex: 1;
+  min-width: 0;
+}
+
+.buchtipp-badges {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 6px;
+}
+
+.buchtipp-badge {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--green-dark);
+  background: var(--green-light);
+  border: 1px solid var(--green-border);
+  padding: 2px 8px;
+  border-radius: 12px;
+}
+
+.buchtipp-year {
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.buchtipp-title {
+  font-size: 17px;
+  font-weight: 700;
+  color: var(--green-dark);
+  line-height: 1.35;
+  margin: 0 0 4px 0;
+  text-decoration: none;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.buchtipp-title:hover {
+  color: var(--green-primary);
+  text-decoration: underline;
+}
+
+.buchtipp-subtitle {
+  font-size: 12.5px;
+  color: var(--text-muted);
+  line-height: 1.4;
+  margin-bottom: 6px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.buchtipp-author {
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--green-dark);
+  margin: 0;
+}
+
+.buchtipp-praxis-box {
+  background: var(--green-light);
+  border: 1px solid var(--green-border);
+  border-radius: 6px;
+  padding: 12px;
+  margin-bottom: 14px;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  transition: border-color 0.15s ease;
+}
+
+.buchtipp-praxis-box:hover {
+  border-color: var(--green-primary);
+}
+
+.buchtipp-praxis-title {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--green-dark);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 4px;
+}
+
+.buchtipp-praxis-text {
+  font-size: 12.5px;
+  line-height: 1.5;
+  color: var(--text-color);
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.buchtipp-topics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 16px;
+}
+
+.buchtipp-topic-tag {
+  font-size: 11px;
+  background: #f4f6f1;
+  border: 1px solid var(--border-light);
+  color: var(--text-muted);
+  padding: 2px 7px;
+  border-radius: 4px;
+}
+
+.buchtipp-card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border-light);
+}
+
+.buchtipp-detail-link {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--green-dark);
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.buchtipp-detail-link:hover {
+  color: var(--green-primary);
+  text-decoration: underline;
+}
+
+.buchtipp-amazon-btn {
+  background: var(--green-primary);
+  color: #ffffff !important;
+  border: none;
+  border-radius: 4px;
+  padding: 7px 14px;
+  font-size: 13px;
+  font-weight: 600;
+  text-decoration: none !important;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transition: background-color 0.15s ease;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.buchtipp-amazon-btn:hover {
+  background: var(--green-dark);
+}
+
+/* Buchtipps Filter & Search */
+.buchtipps-filter-card {
+  background: var(--bg-white);
+  border: 1px solid var(--border-light);
+  border-radius: 6px;
+  padding: 18px 20px;
+  margin-bottom: 24px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03);
+}
+
+.buchtipps-search-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  margin-bottom: 16px;
+}
+
+.buchtipps-search-wrapper {
+  position: relative;
+  flex: 1 1 300px;
+  max-width: 480px;
+  display: flex;
+  align-items: center;
+  background: #ffffff;
+  border: 2px solid var(--green-primary);
+  border-radius: 24px;
+  padding: 6px 14px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+}
+
+.buchtipps-search-input {
+  border: none;
+  outline: none;
+  width: 100%;
+  font-size: 14px;
+  background: transparent;
+  color: var(--text-color);
+  font-family: inherit;
+}
+
+.buchtipps-count-pill {
+  font-size: 13px;
+  color: var(--text-muted);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-weight: 500;
+}
+
+.buchtipps-categories-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding-top: 14px;
+  border-top: 1px solid var(--border-light);
+}
+
+.buchtipps-category-btn {
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 6px 14px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  border: 1px solid var(--border-light);
+  background: #ffffff;
+  color: var(--text-color);
+  font-family: inherit;
+}
+
+.buchtipps-category-btn:hover {
+  background: var(--green-light);
+  border-color: var(--green-border);
+}
+
+.buchtipps-category-btn.active {
+  background: var(--green-primary);
+  border-color: var(--green-primary);
+  color: #ffffff;
+}
+
+/* Buchtipp Detailseite */
+.buchtipp-detail-card {
+  background: var(--bg-white);
+  border: 1px solid var(--border-light);
+  border-radius: 6px;
+  padding: 28px;
+  margin-bottom: 24px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+}
+
+.buchtipp-detail-hero {
+  display: flex;
+  gap: 28px;
+  align-items: flex-start;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+}
+
+.buchtipp-detail-cover {
+  position: relative;
+  width: 170px;
+  aspect-ratio: 2 / 3;
+  flex-shrink: 0;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #f6f8f4;
+  border: 1px solid var(--border-light);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+@media (max-width: 600px) {
+  .buchtipp-detail-cover {
+    margin: 0 auto;
+  }
+  .buchtipp-detail-hero {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+.buchtipp-detail-info {
+  flex: 1 1 320px;
+  min-width: 0;
+}
+
+.buchtipp-detail-title {
+  font-size: 26px;
+  font-weight: 700;
+  color: var(--green-dark);
+  line-height: 1.3;
+  margin: 6px 0 8px 0;
+}
+
+.buchtipp-detail-subtitle {
+  font-size: 15px;
+  color: var(--text-muted);
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+.buchtipp-detail-author {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--green-dark);
+  margin-bottom: 14px;
+}
+
+.buchtipp-detail-facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  padding-top: 12px;
+  margin-top: 12px;
+  border-top: 1px solid var(--border-light);
+  font-size: 12.5px;
+  color: var(--text-muted);
+}
+
+.buchtipp-audience-box {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  background: #f9fbf7;
+  border: 1px solid var(--green-border);
+  border-radius: 6px;
+  padding: 14px 16px;
+  margin-bottom: 24px;
+  font-size: 13.5px;
+  line-height: 1.5;
+}
+
+.buchtipp-content-section {
+  margin-bottom: 24px;
+}
+
+.buchtipp-content-section h2 {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--green-dark);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.buchtipp-summary-text {
+  font-size: 15px;
+  line-height: 1.7;
+  color: var(--text-color);
+  white-space: pre-line;
+}
+
+.buchtipp-bottom-cta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  background: var(--green-light);
+  border: 1px solid var(--green-border);
+  border-radius: 6px;
+  padding: 18px 20px;
+  margin-top: 24px;
+  flex-wrap: wrap;
+}
+
+.buchtipp-legal-notice {
+  background: var(--bg-white);
+  border: 1px solid var(--border-light);
+  border-radius: 6px;
+  padding: 14px 18px;
+  font-size: 12px;
+  color: var(--text-muted);
+  line-height: 1.6;
+  margin-top: 24px;
+}
+
+.buchtipp-related-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
+@media (max-width: 640px) {
+  .buchtipp-related-grid {
+    grid-template-columns: 1fr;
+  }
+}
