@@ -10,14 +10,7 @@ interface LegalModalProps {
   onClose: () => void;
 }
 
-export function LegalModal({ type, onClose }: LegalModalProps) {
-  const { language } = useLanguage();
-
-  if (!type) return null;
-
-  const currentLang = (['de', 'en', 'fr', 'es', 'it'].includes(language) ? language : 'de') as Language;
-
-  const content = {
+const LEGAL_CONTENT = {
     de: {
       imprintTitle: 'Impressum',
       imprintLead: 'Angaben gemäß § 5 ECG, § 14 UGB und § 25 Mediengesetz:',
@@ -260,7 +253,13 @@ export function LegalModal({ type, onClose }: LegalModalProps) {
     },
   };
 
-  const tLegal = content[currentLang] || content.de;
+export function LegalModal({ type, onClose }: LegalModalProps) {
+  const { language } = useLanguage();
+
+  if (!type) return null;
+
+  const currentLang = (['de', 'en', 'fr', 'es', 'it'].includes(language) ? language : 'de') as Language;
+  const tLegal = LEGAL_CONTENT[currentLang] || LEGAL_CONTENT.de;
 
   return (
     <div 
@@ -315,7 +314,37 @@ export function LegalModal({ type, onClose }: LegalModalProps) {
           <X style={{ width: 18, height: 18 }} />
         </button>
 
-        {type === 'impressum' ? (
+        <LegalDocument type={type} />
+
+        <div style={{ marginTop: 24, textAlign: 'right' }}>
+          <button
+            type="button"
+            onClick={onClose}
+            className="nav-btn active"
+            style={{
+              cursor: 'pointer',
+              background: 'var(--green-primary)',
+              color: '#ffffff',
+              border: 'none',
+              padding: '9px 20px',
+              borderRadius: 4,
+              fontWeight: 700
+            }}
+          >
+            {tLegal.closeBtn}
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export function LegalDocument({ type }: { type: 'impressum' | 'datenschutz' }) {
+  const { language } = useLanguage();
+  const currentLang = (['de', 'en', 'fr', 'es', 'it'].includes(language) ? language : 'de') as Language;
+  const tLegal = LEGAL_CONTENT[currentLang] || LEGAL_CONTENT.de;
+
+  return type === 'impressum' ? (
           <div>
             <h1 className="legal-title">{tLegal.imprintTitle}</h1>
             <p className="legal-lead">
@@ -432,27 +461,5 @@ export function LegalModal({ type, onClose }: LegalModalProps) {
               <p>{tLegal.sec6Desc}</p>
             </div>
           </div>
-        )}
-
-        <div style={{ marginTop: 24, textAlign: 'right' }}>
-          <button
-            type="button"
-            onClick={onClose}
-            className="nav-btn active"
-            style={{
-              cursor: 'pointer',
-              background: 'var(--green-primary)',
-              color: '#ffffff',
-              border: 'none',
-              padding: '9px 20px',
-              borderRadius: 4,
-              fontWeight: 700
-            }}
-          >
-            {tLegal.closeBtn}
-          </button>
-        </div>
-      </div>
-    </div>
   );
 }

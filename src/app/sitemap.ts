@@ -25,6 +25,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { path: '/us-bundesstaaten', priority: 0.8, changeFrequency: 'weekly' },
     { path: '/buchtipps', priority: 0.9, changeFrequency: 'weekly' },
     { path: '/quiz', priority: 0.8, changeFrequency: 'weekly' },
+    { path: '/impressum', priority: 0.4, changeFrequency: 'yearly' },
+    { path: '/datenschutz', priority: 0.4, changeFrequency: 'yearly' },
   ];
 
   const sitemapEntries: MetadataRoute.Sitemap = staticHubs.map((item) => ({
