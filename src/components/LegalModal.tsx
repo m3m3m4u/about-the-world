@@ -20,11 +20,19 @@ export function LegalModal({ type, onClose }: LegalModalProps) {
   const content = {
     de: {
       imprintTitle: 'Impressum',
-      imprintLead: 'Angaben gemäß § 5 TMG / Offenlegung gemäß Mediengesetz',
-      operatorHeading: 'Betreiber der Website',
+      imprintLead: 'Angaben gemäß § 5 ECG, § 14 UGB und § 25 Mediengesetz:',
+      operatorHeading: 'Medieninhaber und Betreiber der Website',
       operatorDesc: 'Web-Bildungsportal für Geographie, Politik & Weltgeschichte',
+      countryName: 'Österreich',
+      phoneLabel: 'Telefon',
+      tradeHeading: 'Gewerberechtliche Angaben',
+      authorityLabel: 'Zuständige Behörde',
+      authorityValue: 'Bezirkshauptmannschaft Bregenz',
+      gisaLabel: 'GISA-Zahl (Stammgewerbe)',
+      businessPurposeLabel: 'Unternehmensgegenstand',
+      businessPurposeValue: 'Erstellung, Bereitstellung und Vertrieb von digitalen Lehr- und Lernmaterialien, Erklärvideos und interaktiven Übungen.',
       responsibleHeading: 'Verantwortlich für den Inhalt',
-      responsibleDesc: 'Redaktion About the World – Bildungs- und Lernmaterialien für Schulen und Selbstlerner',
+      responsibleDesc: 'Matthias Gmeiner (Herrengutgasse 16b, 6923 Lauterach, Österreich) – Redaktion About the World',
       liabilityContentHeading: 'Haftung für Inhalte',
       liabilityContentDesc: 'Als Diensteanbieter sind wir gemäß § 7 Abs. 1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.',
       liabilityLinksHeading: 'Haftung für Links',
@@ -38,7 +46,7 @@ export function LegalModal({ type, onClose }: LegalModalProps) {
       sec1Desc: 'Der Schutz Ihrer persönlichen Daten ist uns ein wichtiges Anliegen. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.',
       sec2Heading: '2. Datenerfassung auf unserer Website',
       sec2Sub1: 'Wer ist verantwortlich für die Datenerfassung?',
-      sec2Sub1Desc: 'Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber.',
+      sec2Sub1Desc: 'Verantwortlicher im Sinne der DSGVO ist: Matthias Gmeiner e.U., Herrengutgasse 16b, 6923 Lauterach, Österreich (E-Mail: m3m3m4u@gmail.com, Telefon: +43 664 4714108).',
       sec2Sub2: 'Wie erfassen wir Ihre Daten?',
       sec2Item1: 'Daten, die Sie uns mitteilen (z. B. Einstellungen im Browser oder Sprachauswahl).',
       sec2Item2: 'Automatisch beim Besuch der Website erfasste technische Server-Log-Daten (z. B. Internetbrowser, Betriebssystem, Uhrzeit des Seitenaufrufs).',
@@ -60,11 +68,19 @@ export function LegalModal({ type, onClose }: LegalModalProps) {
     },
     en: {
       imprintTitle: 'Legal Notice (Imprint)',
-      imprintLead: 'Information pursuant to German Telemedia Act (§ 5 TMG) and media regulations',
-      operatorHeading: 'Website Operator',
+      imprintLead: 'Information pursuant to § 5 ECG, § 14 UGB and § 25 Austrian Media Act:',
+      operatorHeading: 'Media Owner and Website Operator',
       operatorDesc: 'Educational Web Portal for Geography, Politics & World History',
+      countryName: 'Austria',
+      phoneLabel: 'Phone',
+      tradeHeading: 'Commercial & Trade Information',
+      authorityLabel: 'Competent Authority',
+      authorityValue: 'Bezirkshauptmannschaft Bregenz',
+      gisaLabel: 'GISA Trade Number',
+      businessPurposeLabel: 'Business Purpose',
+      businessPurposeValue: 'Creation, provision, and distribution of digital teaching and learning materials, educational videos, and interactive exercises.',
       responsibleHeading: 'Responsible for Content',
-      responsibleDesc: 'Editorial Team About the World – Educational materials for schools and self-directed learners',
+      responsibleDesc: 'Matthias Gmeiner (Herrengutgasse 16b, 6923 Lauterach, Austria) – Editorial Team About the World',
       liabilityContentHeading: 'Liability for Content',
       liabilityContentDesc: 'As a service provider, we are responsible for our own content on these pages under general law. The contents have been created with the utmost care, but we cannot guarantee accuracy, completeness, or timeliness.',
       liabilityLinksHeading: 'Liability for Links',
@@ -78,7 +94,7 @@ export function LegalModal({ type, onClose }: LegalModalProps) {
       sec1Desc: 'Protecting your personal data is an essential priority. We treat your data confidentially and in strict compliance with statutory data protection regulations and this policy.',
       sec2Heading: '2. Data Collection on Our Website',
       sec2Sub1: 'Who is responsible for data collection?',
-      sec2Sub1Desc: 'Data processing on this website is carried out by the website operator.',
+      sec2Sub1Desc: 'Data controller pursuant to GDPR: Matthias Gmeiner e.U., Herrengutgasse 16b, 6923 Lauterach, Austria (Email: m3m3m4u@gmail.com, Phone: +43 664 4714108).',
       sec2Sub2: 'How do we collect data?',
       sec2Item1: 'Data you provide (e.g. language preferences or browser settings).',
       sec2Item2: 'Technical data recorded automatically during your visit (e.g. browser type, operating system, time of page access).',
@@ -100,11 +116,19 @@ export function LegalModal({ type, onClose }: LegalModalProps) {
     },
     fr: {
       imprintTitle: 'Mentions Légales',
-      imprintLead: 'Informations réglementaires et éditoriales du portail',
-      operatorHeading: 'Éditeur du site',
+      imprintLead: 'Informations conformément au § 5 ECG, § 14 UGB et § 25 de la loi autrichienne sur les médias :',
+      operatorHeading: 'Éditeur et exploitant du site',
       operatorDesc: 'Portail éducatif web pour la géographie, l\'histoire mondiale et la politique',
+      countryName: 'Autriche',
+      phoneLabel: 'Téléphone',
+      tradeHeading: 'Informations commerciales et professionnelles',
+      authorityLabel: 'Autorité compétente',
+      authorityValue: 'Bezirkshauptmannschaft Bregenz',
+      gisaLabel: 'Numéro GISA (Registre du commerce autrichien)',
+      businessPurposeLabel: 'Objet social',
+      businessPurposeValue: 'Création, mise à disposition et diffusion de supports pédagogiques numériques, de vidéos explicatives et d\'exercices interactifs.',
       responsibleHeading: 'Responsable du contenu',
-      responsibleDesc: 'Équipe éditoriale About the World – Ressources pédagogiques pour écoles et étudiants',
+      responsibleDesc: 'Matthias Gmeiner (Herrengutgasse 16b, 6923 Lauterach, Autriche) – Équipe éditoriale About the World',
       liabilityContentHeading: 'Responsabilité relative aux contenus',
       liabilityContentDesc: 'En tant que fournisseur de services, nous sommes responsables de nos propres contenus conformément à la législation générale. Les contenus ont été élaborés avec le plus grand soin.',
       liabilityLinksHeading: 'Responsabilité relative aux liens',
@@ -118,7 +142,7 @@ export function LegalModal({ type, onClose }: LegalModalProps) {
       sec1Desc: 'La protection de vos données personnelles est pour nous une priorité majeure. Nous traitons vos données de manière confidentielle et conformément aux règles de protection des données.',
       sec2Heading: '2. Collecte des données sur notre site web',
       sec2Sub1: 'Qui est responsable de la collecte des données ?',
-      sec2Sub1Desc: 'Le traitement des données sur ce site est effectué par l\'exploitant du site.',
+      sec2Sub1Desc: 'Le responsable du traitement au sens du RGPD est : Matthias Gmeiner e.U., Herrengutgasse 16b, 6923 Lauterach, Autriche (E-mail : m3m3m4u@gmail.com, Téléphone : +43 664 4714108).',
       sec2Sub2: 'Comment collectons-nous les données ?',
       sec2Item1: 'Données fournies par vous-même (ex. choix de langue et préférences du navigateur).',
       sec2Item2: 'Données techniques enregistrées automatiquement lors de votre visite (ex. navigateur, système d\'exploitation, heure de la visite).',
@@ -140,11 +164,19 @@ export function LegalModal({ type, onClose }: LegalModalProps) {
     },
     es: {
       imprintTitle: 'Aviso Legal',
-      imprintLead: 'Información legal y editorial del portal web',
-      operatorHeading: 'Titular del sitio web',
+      imprintLead: 'Información conforme al § 5 ECG, § 14 UGB y § 25 de la Ley de Medios de Austria:',
+      operatorHeading: 'Titular y operador del sitio web',
       operatorDesc: 'Portal educativo web de geografía, política e historia mundial',
+      countryName: 'Austria',
+      phoneLabel: 'Teléfono',
+      tradeHeading: 'Información comercial y registro mercantil',
+      authorityLabel: 'Autoridad competente',
+      authorityValue: 'Bezirkshauptmannschaft Bregenz',
+      gisaLabel: 'Número GISA (Registro comercial de Austria)',
+      businessPurposeLabel: 'Objeto social',
+      businessPurposeValue: 'Creación, suministro y distribución de materiales didácticos digitales, vídeos explicativos y ejercicios interactivos.',
       responsibleHeading: 'Responsable de contenido',
-      responsibleDesc: 'Equipo editorial About the World – Material didáctico para centros educativos y estudiantes',
+      responsibleDesc: 'Matthias Gmeiner (Herrengutgasse 16b, 6923 Lauterach, Austria) – Equipo editorial About the World',
       liabilityContentHeading: 'Responsabilidad por contenidos',
       liabilityContentDesc: 'Como proveedores de servicios somos responsables de los contenidos propios en estas páginas. Los contenidos han sido creados con el máximo cuidado.',
       liabilityLinksHeading: 'Responsabilidad por enlaces',
@@ -158,7 +190,7 @@ export function LegalModal({ type, onClose }: LegalModalProps) {
       sec1Desc: 'La protección de sus datos personales es una prioridad esencial. Tratamos sus datos de forma confidencial y en estricto cumplimiento de la normativa de protección de datos.',
       sec2Heading: '2. Recopilación de datos en nuestro sitio web',
       sec2Sub1: '¿Quién es responsable del tratamiento de datos?',
-      sec2Sub1Desc: 'El tratamiento de datos en este sitio web lo realiza el titular del sitio.',
+      sec2Sub1Desc: 'El responsable del tratamiento conforme al RGPD es: Matthias Gmeiner e.U., Herrengutgasse 16b, 6923 Lauterach, Austria (Correo: m3m3m4u@gmail.com, Teléfono: +43 664 4714108).',
       sec2Sub2: '¿Cómo recopilamos sus datos?',
       sec2Item1: 'Datos facilitados por el usuario (p. ej. selección de idioma o configuración del navegador).',
       sec2Item2: 'Datos técnicos registrados automáticamente durante la visita (p. ej. navegador, sistema operativo, hora de acceso).',
@@ -180,11 +212,19 @@ export function LegalModal({ type, onClose }: LegalModalProps) {
     },
     it: {
       imprintTitle: 'Note Legali',
-      imprintLead: 'Informazioni legali ed editoriali del portale didattico',
-      operatorHeading: 'Gestore del sito web',
+      imprintLead: 'Informazioni ai sensi del § 5 ECG, § 14 UGB e § 25 della legge austriaca sui media:',
+      operatorHeading: 'Titolare e gestore del sito web',
       operatorDesc: 'Portale didattico web per geografia, politica e storia mondiale',
+      countryName: 'Austria',
+      phoneLabel: 'Telefono',
+      tradeHeading: 'Informazioni commerciali e registro imprese',
+      authorityLabel: 'Autorità competente',
+      authorityValue: 'Bezirkshauptmannschaft Bregenz',
+      gisaLabel: 'Numero GISA (Registro commerciale austriaco)',
+      businessPurposeLabel: 'Oggetto sociale',
+      businessPurposeValue: 'Creazione, fornitura e distribuzione di materiali didattici digitali, video esplicativi ed esercizi interattivi.',
       responsibleHeading: 'Responsabile dei contenuti',
-      responsibleDesc: 'Redazione About the World – Materiali didattici per scuole e studenti',
+      responsibleDesc: 'Matthias Gmeiner (Herrengutgasse 16b, 6923 Lauterach, Austria) – Redazione About the World',
       liabilityContentHeading: 'Responsabilità per i contenuti',
       liabilityContentDesc: 'Come fornitori di servizi siamo responsabili dei nostri contenuti su queste pagine ai sensi delle leggi vigenti. I contenuti sono stati redatti con la massima cura.',
       liabilityLinksHeading: 'Responsabilità per i link',
@@ -198,7 +238,7 @@ export function LegalModal({ type, onClose }: LegalModalProps) {
       sec1Desc: 'La tutela dei vostri dati personali è per noi fondamentale. Trattiamo i dati personali in modo confidenziale e nel rispetto della normativa sulla privacy.',
       sec2Heading: '2. Raccolta dati sul nostro sito web',
       sec2Sub1: 'Chi è responsabile della raccolta dati?',
-      sec2Sub1Desc: 'Il trattamento dei dati su questo sito web viene effettuato dal gestore del sito.',
+      sec2Sub1Desc: 'Il titolare del trattamento ai sensi del GDPR è: Matthias Gmeiner e.U., Herrengutgasse 16b, 6923 Lauterach, Austria (E-mail: m3m3m4u@gmail.com, Telefono: +43 664 4714108).',
       sec2Sub2: 'Come raccogliamo i vostri dati?',
       sec2Item1: 'Dati forniti dall\'utente (es. selezione della lingua o impostazioni del browser).',
       sec2Item2: 'Dati tecnici registrati automaticamente durante la visita (es. browser, sistema operativo, orario di accesso).',
@@ -284,15 +324,38 @@ export function LegalModal({ type, onClose }: LegalModalProps) {
 
             <div className="legal-block">
               <h2>{tLegal.operatorHeading}</h2>
-              <p><strong>About the World</strong></p>
-              <p>{tLegal.operatorDesc}</p>
-              <p>Website: <a href="https://www.about-the-world.org">about-the-world.org</a></p>
-              <p>E-Mail: <a href="mailto:m3m3m4u@gmail.com">m3m3m4u@gmail.com</a></p>
+              <p>
+                <strong>Matthias Gmeiner e.U.</strong> (About the World)<br />
+                {tLegal.operatorDesc}
+              </p>
+              <p>
+                Herrengutgasse 16b<br />
+                6923 Lauterach<br />
+                {tLegal.countryName}
+              </p>
+              <p>
+                <strong>Website:</strong> <a href="https://www.about-the-world.org">about-the-world.org</a><br />
+                <strong>E-Mail:</strong> <a href="mailto:m3m3m4u@gmail.com">m3m3m4u@gmail.com</a><br />
+                <strong>{tLegal.phoneLabel}:</strong> +43 664 4714108
+              </p>
+            </div>
+
+            <div className="legal-block">
+              <h2>{tLegal.tradeHeading}</h2>
+              <p>
+                <strong>{tLegal.authorityLabel}:</strong> {tLegal.authorityValue}<br />
+                <strong>{tLegal.gisaLabel}:</strong> 802-33702230<br />
+                <strong>{tLegal.businessPurposeLabel}:</strong> {tLegal.businessPurposeValue}
+              </p>
             </div>
 
             <div className="legal-block">
               <h2>{tLegal.responsibleHeading}</h2>
-              <p>{tLegal.responsibleDesc}</p>
+              <p>
+                <strong>Matthias Gmeiner</strong><br />
+                Herrengutgasse 16b<br />
+                6923 Lauterach, {tLegal.countryName}
+              </p>
             </div>
 
             <div className="legal-block">

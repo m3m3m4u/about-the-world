@@ -144,6 +144,17 @@ const structuredData = [
     '@context': 'https://schema.org',
     '@type': 'EducationalOrganization',
     name: 'About the World',
+    founder: {
+      '@type': 'Person',
+      name: 'Matthias Gmeiner',
+    },
+    address: {
+      '@type': 'PostalAddress',
+      streetAddress: 'Herrengutgasse 16b',
+      postalCode: '6923',
+      addressLocality: 'Lauterach',
+      addressCountry: 'AT',
+    },
     url: siteUrl,
     logo: `${siteUrl}/ATW_Logo.png`,
     description:
