@@ -287,7 +287,7 @@ export function LegalModal({ type, onClose }: LegalModalProps) {
               <p><strong>About the World</strong></p>
               <p>{tLegal.operatorDesc}</p>
               <p>Website: <a href="https://www.about-the-world.org">about-the-world.org</a></p>
-              <p>E-Mail: info@about-the-world.org</p>
+              <p>E-Mail: <a href="mailto:m3m3m4u@gmail.com">m3m3m4u@gmail.com</a></p>
             </div>
 
             <div className="legal-block">

@@ -148,7 +148,7 @@ const structuredData = [
     logo: `${siteUrl}/ATW_Logo.png`,
     description:
       'Digitale interaktive Lernmaterialien und H5P-Übungen für Schule, Unterricht und Allgemeinbildung.',
-    email: 'info@about-the-world.org',
+    email: 'm3m3m4u@gmail.com',
     sameAs: [siteUrl],
   },
 ];
